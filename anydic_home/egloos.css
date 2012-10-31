@@ -1,0 +1,149 @@
+<style type="text/css">
+/* 본 CSS 파일은 이글루스의 기본 CSS 파일입니다.
+각 구성인자에 대한 설명은 스킨 편집 도움말을 참고하시기 바랍니다.
+ */
+
+/*BODY		{ BACKGROUND-IMAGE : URL(http://pds.egloos.com/pds/1/200401/25/61/bg.gif); MARGIN : 0PX;PADDING : 0PX; }*/
+BODY 
+{scrollbar-face-color: #F7F7F7; scrollbar-shadow-color:#D5D5D5;
+scrollbar-highlight-color: #FFFFFF; scrollbar-3dlight-color: #FFFFFF;
+scrollbar-darkshadow-color: #F7F7F7; scrollbar-track-color: #ffffff;
+scrollbar-arrow-color:#FFBFD6}
+
+/*글자크기, 줄간격, 글꼴, 글자색 */
+BODY,TD,DIV,LI	{ FONT : 9PT/150% VERDANA,굴림,돋움,SANS-SERIF; COLOR : #5E645E;letter-spacing:-1;}
+
+A:LINK		{ COLOR: #B84A71; TEXT-DECORATION: NONE; }
+A:VISITED	                { COLOR: #B84A71; TEXT-DECORATION: NONE; }
+A:ACTIVE           	{ COLOR: #CCCCCC; TEXT-DECORATION: NONE; }
+A:HOVER		{ COLOR: #B84A71; }
+
+DIV.HEADER	{ FONT : bold 11PT/100% VERDANA,Courier New,TAHOMA,돋움,HY견고딕;BACKGROUND : #FFFfff;COLOR: #B84A71;}
+	
+DIV.HEADER A:LINK		{ COLOR: #000; TEXT-DECORATION: NONE; }
+DIV.HEADER A:VISITED	{ COLOR: #000; TEXT-DECORATION: NONE; }
+DIV.HEADER A:HOVER	{ COLOR: #5E645E; TEXT-DECORATION: NONE; }
+
+DIV.URL		{ FONT : 8PT/100% VERDANA,TAHOMA; }
+
+DIV.USERMENU	{ WIDTH : 150PX;
+	                FONT-FAMILY : VERDANA;
+	                FONT-SIZE : 8PT;
+                                BORDER-BOTTOM : 1PX DASHED #CCC;
+	                TEXT-ALIGN : CENTER;
+                   	PADDING-BOTTOM : 5PX;
+}
+
+DIV.PROFILE	{ WIDTH : 150PX; 
+                                  PADDING : 10PX 10PX 15PX 10PX; 
+                                  LINE-HEIGHT : 150%;
+                                  OVERFLOW : HIDDEN;
+                                  LINE-HEIGHT : 150%;                                  
+                                  MARGIN : 10PX 0PX; 
+                                  BORDER-BOTTOM : 1PX DASHED #CCC; }
+
+/* 본문 */
+DIV.POST {MARGIN-BOTTOM : 10PX;
+	}
+
+DIV.POST_TOP {
+	BORDER : 1PX SOLID #CCC;
+	PADDING-TOP : 2PX;
+	PADDING-BOTTOM : 1PX;
+	PADDING-LEFT : 15PX;
+	PADDING-RIGHT : 15PX;
+	MARGIN-BOTTOM : 5PX;
+	FONT-FAMILY : VERDANA;
+	LETTER-SPACING : 2PX;
+	COLOR : #727272;
+	}
+	
+DIV.POST_HEAD {
+	PADDING-BOTTOM : 0PX;
+	MARGIN-BOTTOM : 5PX;}
+	
+DIV.POST_BODY {
+	BORDER : 1PX SOLID #D0D0CC;
+	BACKGROUND : #F6F6F6;
+	PADDING : 15PX;
+WIDTH : 500PX;
+	}
+
+/*포스트 하단 작성자..etc..*/
+DIV.POST_TAIL {
+	MARGIN-TOP : 25PX;
+	MARGIN-BOTTOM : 25PX;	
+	FONT-FAMILY : VERDANA,돋움;
+	FONT-SIZE : 9PT;
+	TEXT-ALIGN : RIGHT;
+	COLOR : #666;
+	}
+
+
+DIV.COMMENT			{ BORDER : 1PX #D3D3D3 SOLID; BACKGROUND : #FFFFFF;	PADDING : 15PX;	MARGIN : 20PX 0PX; }
+DIV.COMMENT_BODY	{ MARGIN-BOTTOM : 20PX; }
+DIV.COMMENT_TAIL	{ MARGIN : 8PX 0PX 5PX; FONT : 8PT/150% VERDANA, TAHOMA, 돋움; COLOR : #777; }
+DIV.COMMENT_INPUT	{ MARGIN-TOP : 20PX; BORDER-TOP : 1PX #AAA DOTTED; PADDING-TOP : 20PX; }
+DIV.COMMENT_LINE	{ BORDER-TOP : 1PX #AAA DOTTED; MARGIN : 10PX 0PX 15PX; }
+
+
+
+
+/* 여기서 부터는 시스템에관한 클래스 이므로 변경하지 않으시는 것이 좋습니다. */
+
+
+DIV.TRACK_TOP { LINE-HEIGHT : 170%; }
+DIV.ARCHIVE_HEAD { FONT-WEIGHT : BOLD; MARGIN-BOTTOM : 10PX; }
+DIV.ARCHIVE_BODY { MARGIN : 20PX 0PX; LINE-HEIGHT : 160%; PADDING-BOTTOM : 100PX; }	
+
+IMG.IMAGE_TOP	{ MARGIN-BOTTOM : 15PX; }
+IMG.IMAGE_LEFT	{ MARGIN-RIGHT : 15PX; MARGIN-BOTTOM : 15PX; }
+IMG.IMAGE_MID	{ MARGIN-TOP : 15PX; MARGIN-BOTTOM : 15PX; }
+IMG.BOOKMK		{ MARGIN : 10PX; BORDER : 0PX; }
+IMG.USERMENU	{ MARGIN-LEFT : 8PX; }	
+IMG.LOGO		{ MARGIN-BOTTOM : 10PX; }
+
+DIV.BANNER	{ MARGIN-TOP : 30PX; }
+	
+.SMALL		{ FONT-SIZE : 11PX; }
+.DATE		{ FONT : BOLD 8PT/150% VERDANA, TAHOMA, 돋움; }
+.TIME		{ FONT : 8PT/150% VERDANA, TAHOMA, 돋움; TEXT-ALIGN : LEFT; }
+.AUTHOR		{ FONT : BOLD 9PT; }
+.TXTFLD		{ FONT-SIZE:9PT;COLOR:#000; BORDER:1PX SOLID #666678; BACKGROUND:#FFF; }
+
+
+
+/* 여기서 부터는 달력 및 XML에 관련된 클래스입니다. */
+
+
+DIV.CAL_TOP { }
+DIV.CAL { MARGIN : 20PX 0PX 20PX; WIDTH : 150PX; TEXT-ALIGN : CENTER;}
+DIV.CAL_HEAD { WIDTH : 150PX; FONT : 8PT/150% VERDANA; TEXT-ALIGN : CENTER; PADDING : 4PX 0PX; MARGIN-BOTTOM : 10PX;}
+DIV.CAL_BODY { WIDTH : 150PX; TEXT-ALIGN : CENTER;}
+DIV.CAL_BOTTOM { }
+
+.CAL		{ FONT : 7PT/170% VERDANA, 돋움; TEXT-ALIGN : CENTER; }
+.CAL_DAY	{ FONT : BOLD 7PT/170% VERDANA, 돋움; TEXT-ALIGN : CENTER; }
+.CAL_SUN	{ FONT : BOLD 7PT/170% VERDANA, 돋움; COLOR : #D36654; TEXT-ALIGN : CENTER;	}
+.CAL_SAT	{ FONT : BOLD 7PT/170% VERDANA, 돋움; COLOR : #3572A1; TEXT-ALIGN : CENTER;	}
+.CAL_TODAY	{ FONT : BOLD 7PT/170% VERDANA, 돋움; BACKGROUND : #E3E3E3; COLOR : #3D5586; TEXT-ALIGN : CENTER; }
+.CAL_TR { }
+
+DIV.XML { FONT : 8PT/150% VERDANA; TEXT-ALIGN : CENTER; }
+div.memobody {
+	width : 150px;
+	overflow : hidden;
+	}
+</style>
+
+<DIV CLASS=POST_BODY>
+	요즘 너 맘에 안들어.<br/>
+<br/>
+너 뱁새였던거야? ........겨우 뱁새 였던..거야.....?<br/>
+그 정도는 아니었지?<br/>
+<br/>
+<br/>
+한번만 널 더 믿어 볼께.<br/>
+<br/>
+정말 널 어떻게 해야 하는거니? 
+	</DIV>

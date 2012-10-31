@@ -1,0 +1,47 @@
+
+
+User-agent: Googlebot
+Disallow: /ad.dic
+Disallow: /anyd.py
+Disallow: /txt.dic
+Disallow: /ad.py
+
+#### 야후 로봇 금지.
+#### http://help.yahoo.com/help/us/ysearch/slurp/
+User-agent: Slurp
+Disallow: /ad.dic
+Disallow: /ad.py
+Disallow: /anyd.py
+Disallow: /txt.dic
+
+
+#### 마이크로소프트 금지
+User-agent: msnbot
+Disallow: /ad.dic
+Disallow: /anyd.py
+Disallow: /txt.dic
+Disallow: /ad.py
+
+User-agent: NutchCVS
+Disallow: /ad.dic
+Disallow: /anyd.py
+Disallow: /txt.dic
+Disallow: /ad.py
+
+User-agent: TurnitinBot
+Disallow: /ad.dic
+Disallow: /anyd.py
+Disallow: /txt.dic
+Disallow: /ad.py
+
+User-agent: robot
+Disallow: /ad.dic
+Disallow: /anyd.py
+Disallow: /txt.dic
+Disallow: /ad.py
+
+User-agent: crawl
+Disallow: /ad.dic
+Disallow: /anyd.py
+Disallow: /txt.dic
+Disallow: /ad.py

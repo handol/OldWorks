@@ -1,0 +1,32 @@
+body {
+   font-family:±¼¸²,µ¸¿ò,arial,sans-serif;
+   line-height=110%;
+   background-image: url('img/bg_body.gif');
+   background-repeat: repeat-x;
+}
+
+td,a,p,.h{
+   font-family:±¼¸²,µ¸¿ò,arial,sans-serif;
+   line-height=110%;
+   }
+    .ko{font-size: 9pt;}
+    .h{font-size: 20px;} 
+	.h{color:} 
+	.q{text-decoration:none; color:#0000cc;}
+	.qb{text-decoration:none; color:#3364C3;}
+	.qg{text-decoration:none; color:green;}
+    .g{text-decoration:none; color:#0000cc;}
+
+    .pm{font-style:oblique; text-decoration:b; color:green;}
+    .xp{text-decoration:none; color:#000000;}
+
+	DIV.dahee {
+		BORDER : 2PX SOLID #D0D0CC;   
+		BACKGROUND : #F6F6F6;         
+		PADDING : 10PX;               
+		FONT-SIZE : 10PT;
+		WIDTH : 728;
+		LETTER-SPACING : 2PX;   
+		TEXT-ALIGN : LEFT;
+		LINE-HEIGHT : 160%;
+	}

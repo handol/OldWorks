@@ -1,0 +1,140 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=euc-kr">
+<META HTTP-EQUIV="Description"
+	CONTENT="애니딕 영어 예문 사전(예문, 문장, 숙어, 영영,영영한) AnyDict, AnyDic">
+<META HTTP-EQUIV="Keywords"
+CONTENT="AnyDict, AnyDic, 애니딕, 영어 예문 사전, 영영 사전, 문장 사전, 영영한, 숙어,한영, 번역, 수능 기출">
+
+<title>애니딕 영어 예문 문장 사전: AnyDic, AnyDict</title>
+<style><!--
+body,td,a,p,.h{font-family:굴림,돋움,arial,sans-serif;line-height=110%;}
+.ko{font-size: 10pt;}
+.h{font-size: 20px;} .h{color:} .q{text-decoration:none; color:#0000cc;}
+.g{text-decoration:none; color:#0000cc;}
+//-->
+</style>
+
+<SCRIPT LANGUAGE="JavaScript"> 
+<!--
+function fo() { 
+	document.adform.W.select(); 
+	document.adform.W.focus(); 
+}
+
+function open_daum() {
+	daumwin = window.open('', "daumwin", "scrollbars=yes,toolbar=no,location=no, directories=no,width=650,height=550,resizable=yes,mebar=no");
+}
+-->
+</script> 
+</head>
+
+<body bgcolor=#ffffff text=#000000 link=#0000cc vlink=#0000cc alink=#ff0000 onLoad="fo()">
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR height=22>
+    <TD noWrap align=left width=20%>
+    <a href=http:///>
+    <IMG alt=애니딕 src="/img/logo50.JPG" border=0>
+    </a>
+      </TD>   
+
+    <TD height=100% align=left noWrap >
+  &nbsp;<FONT color=green><B>애니딕 영어예문사전</B></FONT>
+	</td>
+	<!--
+    <TD align=middle noWrap width=10%><IMG alt=게시판 src="img/arrow.gif" border=0>
+      <A href="/bbs/zboard.php?id=study">Study</A></TD>
+      
+    <TD align=middle width=10%><IMG height=8 src="img/arrow.gif" width=6 align=absMiddle> 
+      <A href="/bbs/zboard.php?id=free">자게판</A>&nbsp;&nbsp;</TD>
+	  -->
+	  <TD width=20%></TD>
+	  
+      </TR>
+</TBODY></TABLE>
+
+
+<!-- bgColor=#00b4da --->
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#00b4da border=0>
+  <TBODY>
+  <TR height=49>
+    <TD width="10%"></TD>
+    <TD>
+      <TABLE cellSpacing=0 cellPadding=0 border=0>
+        <form name="adform" action="/ad.dic">
+        <TBODY>
+        <TR height=3>
+          <TD colSpan=4></TD></TR>
+        <TR>
+          <TD class=base vAlign=middle noWrap rowSpan=3>
+           <FONT color=#ffffff><B>영영/영한/예문/숙어 사전</B></FONT>&nbsp;&nbsp;</TD>
+          <TD style="PADDING-TOP: 8px">
+           <input type=hidden name=F value=3>
+           <INPUT size=32 name=W  maxlength=30 
+			value="different for"
+           >
+          </TD> 
+
+          <TD style="PADDING-TOP: 8px">
+            <input name="" type=image height=21 alt=검색 hspace=5 
+            src="img/srch2.gif" width=35 align=absMiddle border=0></TD>
+          <TD class=base style="COLOR: #ffffff; PADDING-TOP: 8px" 
+            noWrap>&nbsp;&nbsp;&nbsp;<A href="/help.html">
+            <FONT color=#ffffff>도움말</FONT></A> </TD></TR>
+        <TR height=2>
+          <TD colSpan=3></TD></TR>
+          <!--
+        <TR>
+          <TD class=dic_bar colSpan=3>[ 단어ㆍ숙어ㆍ예문ㆍ용어 ]</TD></TR>
+          -->
+        <TR height=2>
+          <TD colSpan=4></TD></TR>
+          </FORM></TBODY></TABLE></TD>
+       
+    <TD width="50%"></TD></TR>
+
+  <TR bgColor=#0296b5 height=1>
+  <TD colSpan=3></TD></TR>
+  <TR height=3>
+  <TD colSpan=3></TD></TR>
+ </TBODY></TABLE>
+  
+
+<table align=center valign=middle width=100%>
+<tr height=140> <td></td></tr>
+<tr align=center> <td> 
+
+<!--
+  <FONT color=green>예문 앞뒤 부분도 같이 보실려면 
+<a href=/index2.html>
+/index2.html </a>을 이용하세요 ^^</FONT>
+-->
+</td> </tr>
+<tr height=25> <td></td></tr>
+<tr align=center><td>
+	  매일 새로운 예문이 추가되고 있습니다^^<br><br>
+
+좋은 영어 사이트에서 모은 생생한 예문과  100 여개의 
+<a href=/movie/movie.txt>
+영화대본 </a> <br>
+등에서 수집한 예문이 제공됩니다.</td></tr>
+<tr valign=middle align=center><td> <hr size=1> </td> </tr>
+<tr align=center> <td> <img src="http://imgnews.naver.com/image/005/2005/04/13/cartoon.jpg"> </td></tr>
+<tr align=center> <td> 국민일보 만평 -- 서민호 min3018@kmib.co.kr </td> </tr>
+<tr valign=middle align=center><td> <hr size=1> </td> </tr>
+<tr height=25> <td></td></tr>
+<tr valign=middle align=center>
+<td>
+<!--
+<a href="/"><img src="/img/icon_h.JPG" border=0 valign=middle></a> &nbsp; 
+-->
+ <font size=-1>&copy;2002,2005 All Rights Reserved. &nbsp; 
+ <a href=http://www.inisoft.co.kr target=new> <img src="/img/inisoft.jpg" border=0 valign=middle> </a>
+</font></td>
+</tr> 
+</table>
+
+</body>
+</html>

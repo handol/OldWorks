@@ -1,0 +1,38 @@
+ad2005\lib  -- my lib 
+		simpleHash.h -- hash table. static hashing. Only insert and search, no delete.
+		simepleAlloc.cpp -- simple memory allocator for lots of small strings. Only allocation, no free.
+		                    allocate a big memory block and use it as memory pool.
+							this is to avoid lots of OS alloc/free operations and memory fragmentation.
+
+ad2005\harvest\  -- web crawler
+                 use curl library for handling HTTP.
+		
+		== Web traverse ==
+		TravExpr.cpp -- web travel expression. specify where to visit (crawl).
+		URLTrav.cpp -- web crawler.
+		
+		== convert HTML to Text ==
+		htmlLex.cpp -- lexer for HTML docs.
+		htmlParser.cpp -- lexer for HTML docs.
+		htmlLinks.cpp -- handles <A> tag.
+		htmlTagEntity.cpp -- specify how to handle tags and entities in HTML doc.
+		
+		
+ad2005\extract\  -- anydict indexer, and sercher
+
+		== Indexer - extractor ==
+		EDict.cpp -- English Dictionary. English Stemmer. 
+		TextLex.cpp -- lexer for Engish sentences.
+		TextProc.cpp -- main routines for parsing Engish sentences indexing.
+						Ignores lines which are not English sentence.
+						Calculates the difficulty level of a sentence.
+						handles Acronyms.
+						handles Glossaries.
+						detects a new term (idiom, phrase) -- a kind of collocation.
+
+		== Searcher ===
+		Search.cpp -- provide search service using Exam.cpp
+		Exam.cpp -- main search functions.  
+		            searchs examples sentences which contain the given word or idiom or phrase.
+		
+ad2005\hangul\ -- Korean morphological analyzer ( not yet complete )

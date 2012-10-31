@@ -1,0 +1,103 @@
+<html>
+	<head>
+		<META http-equiv=Content-Type content="text/html; charset=euc-kr">
+		<META HTTP-EQUIV="Keywords"
+		CONTENT="애드센스 가입 방법, adsense, 애니딕 영어 예문 사전, 검색, 키워드, 키링크, keylink.kr">
+	<title>
+	애드센스 (adsense) 가입 방법, 절차 
+	</title>
+	</title>
+	</head>
+
+	<body>
+		<h1> 
+			애드센스 (adsense) 가입 방법, 절차 1 단계 
+		</H1>
+
+		애드센스는 구글이 운영하는 광고 네트웍 입니다. <br/>
+
+		여러분이 운영하는 웹사이트 또는 블로그가 있다면, 구글(google)이 제공하는  애드센스(adsense)를 달고 수익을 올려보세요.	
+		<br/>
+
+
+			<!--
+	    애드센스 계정을 발급받기 위해서는 구글 계정이 먼저 있어야 합니다. <br/>
+
+		구글 계정이란 gmail 등의 구글 서비스 계정을 의미합니다.  <br/>
+		 -->
+
+
+		가입 절차를 한번 쭈욱 따라 읽어 보고, 아래의 단추를 클릭한 후 등록하시면 됩니다.
+
+
+		<br/>
+		<br/>
+
+		<script type="text/javascript"><!--
+			google_ad_client = "pub-3002816070890467";
+			google_ad_width = 468;
+			google_ad_height = 60;
+			google_ad_format = "468x60_as_rimg";
+			google_cpa_choice = "CAAQnb2ZjAIaCKbR8GN5qlQjKMnJ93MwAA";
+			google_ad_channel = "";
+			//-->
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+
+
+		<br/>
+		<br/>
+		<font size=+1> 
+			<div align="center">
+			<a href="2.html" target="new"> &gt;&gt; 2 단계  </a> &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+			</div>
+		</font>
+		<hr/>
+		<img src="1.png">
+
+		<br/>
+
+		<!--
+		<a href="http://www.keylink.kr" target="new"> 
+			keylink.kr 사이트에서 애드센스 등록하시고,  수익을 올려 보세요 ^^
+		</a>
+		<br/>
+		<br/>
+		-->
+		<hr/>
+		<br/>
+	   	애니딕 사이트는 애드센스에 가입하고 광고를 게시하여 10만원/월 정도의 수익을 얻고 있습니다.
+
+		<br/>
+		<br/>
+
+		자신의 웹페이지 (html 파일) 에 아래와 같은 내용(스크립트)을 추가하면 , 방문자가 클릭할 때 수익이 발생합니다.
+		<br/>
+		<br/>
+		<img src="adcode.jpg">
+
+		<br/>
+		<br/>
+
+		<script type="text/javascript"><!--
+		google_ad_client = "pub-3002816070890467";
+		google_ad_width = 300;
+		google_ad_height = 250;
+		google_ad_format = "300x250_as";
+		google_ad_type = "text_image";
+		google_ad_channel = "";
+		google_color_border = "FFFFFF";
+		google_color_bg = "FFFFFF";
+		google_color_link = "0000FF";
+		google_color_text = "000000";
+		google_color_url = "008000";
+		//-->
+		</script>
+		<script type="text/javascript"
+		  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		  </script>
+	</body>
+
+</html>
+

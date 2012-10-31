@@ -1,0 +1,44 @@
+<HTML><HEAD><TITLE>view.py</TITLE></HEAD>
+		  <BODY BGCOLOR=#FFFFFF>
+		  <!--header-->
+		  <!--script--><PRE>
+
+<FONT COLOR=#000080>def</FONT><A NAME="showme"><FONT COLOR=#6666FF> showme</FONT></A>(req, file=<FONT COLOR=#990000>""</FONT>):
+
+    <FONT COLOR=#339933># show the code</FONT>
+
+    <FONT COLOR=#000080>import</FONT> os
+    <FONT COLOR=#000080>import</FONT> PyFontify, py2html
+
+    dir, x = os.path.split(req.filename)
+    ls = os.listdir(dir)
+
+    <FONT COLOR=#000080>if</FONT> file:
+	fname, ext = os.path.splitext(file)
+	<FONT COLOR=#000080>if</FONT> file <FONT COLOR=#000080>not</FONT> <FONT COLOR=#000080>in</FONT> ls <FONT COLOR=#000080>or</FONT> ext != <FONT COLOR=#990000>".py"</FONT>:
+	    <FONT COLOR=#000080>return</FONT> <FONT COLOR=#990000>"Very clever!"</FONT>
+
+	f = open(os.path.join(dir,file))
+	s = f.read()
+	f.close()
+
+	pp = py2html.PrettyPrint(PyFontify.fontify)
+	html = pp.filter(s)
+    <FONT COLOR=#000080>else</FONT>:
+	doc = DdbDoc()
+	doc.bgcolor = <FONT COLOR=#990000>"#ffffff"</FONT>
+	doc.title = <FONT COLOR=#990000>"Source Code"</FONT>
+	doc.append(H(1, <FONT COLOR=#990000>"Click on a file below:"</FONT>))
+	ul = UL()
+	<FONT COLOR=#000080>for</FONT> file <FONT COLOR=#000080>in</FONT> ls:
+	    fname, ext = os.path.splitext(file)
+	    <FONT COLOR=#000080>if</FONT> ext == <FONT COLOR=#990000>".py"</FONT>:
+		ul.append(A(url=<FONT COLOR=#990000>"showme?file=%s"</FONT> % file, text=file))
+	doc.append(ul)
+	    
+	html = str(doc)
+
+    <FONT COLOR=#000080>return</FONT> html
+</PRE>
+		  <!--footer-->
+		  </BODY>
