@@ -1,0 +1,121 @@
+MAKEFILE         = Makefile
+DEPENDENCY_FILE  = .depend
+BIN_UNCHECKED    = AclRouter.test
+
+FILES = \
+    StrSplit.cpp\
+	Config.cpp\
+	LogLevel.cpp\
+    AclRouter.cpp
+
+#----------------------------------------------------------------------------
+#       Include macros and targets
+#----------------------------------------------------------------------------
+LDLIBS = -lACE
+
+PRJ_TYPE = rtp
+
+#CPPFLAGS     += -I. -DNDEBUG -DACE_NDEBUG -O3
+#CPPFLAGS     += -I. -I../lib -DTEST_MAIN_ACL_ROUTER -g
+#CPPFLAGS     += -I. -I../lib -DTEST_MAIN_GETHOSTBYNAME -g
+CPPFLAGS     += -I. -DTEST_MAIN_GETHOSTBYNAME_LOCAL -g
+
+ifeq ($(INSBIN),.)
+  ifeq ($(PWD),)
+    PWD=$(shell pwd)
+  endif
+  INSBIN = $(PWD)
+endif
+OUTPUT_DIRECTORY = $(INSBIN)
+
+include $(ACE_ROOT)/include/makeinclude/wrapper_macros.GNU
+## We don't need the ACELIB setting from wrapper_macros.GNU
+ACELIB =
+
+# To build multiple targets in the same directory on AIX, it works
+# best to have a template directory per project.
+# The compiler/linker isn't too smart about instantiating templates...
+ifdef TEMPINCDIR
+TEMPINCDIR := $(TEMPINCDIR)/pasd
+all: $(TEMPINCDIR)
+endif
+
+ifneq ($(OUTPUT_DIRECTORY),)
+all: $(OUTPUT_DIRECTORY)
+$(OUTPUT_DIRECTORY):
+	-@$(MKDIR) "$(OUTPUT_DIRECTORY)"
+endif
+
+# turn off libcheck if doing a dry run
+ifeq ($(findstring n, $(MAKEFLAGS)),n)
+  LIBCHECK = 1
+else
+  # turn off libcheck if keep going was passed too
+  ifeq ($(findstring k, $(MAKEFLAGS)),k)
+    LIBCHECK = 1
+  else
+    LIBCHECK ?= $(filter-out $(foreach lib,ACE,$(findstring $(lib),$(foreach libpath,. ../../../lib /usr/lib $(INSLIB),$(wildcard $(libpath)/lib$(lib).* $(libpath)/$(lib).lib)))),ACE)
+    ifeq ($(LIBCHECK),)
+      LIBCHECK = 1
+    endif
+  endif
+endif
+ifeq ($(LIBCHECK), 1)
+BIN    = $(BIN_UNCHECKED)$(EXEEXT)
+else
+  all: lib_warning
+endif
+
+# If it contains ../ at all use notdir.
+OBJS   = $(foreach var, $(addsuffix .$(OBJEXT), $(basename $(FILES)) $(RESOURCES)), $(if $(findstring ../,$(var)),$(notdir $(var)),$(var)))
+SRC    = $(FILES)
+
+include $(ACE_ROOT)/include/makeinclude/macros.GNU
+include $(ACE_ROOT)/include/makeinclude/rules.common.GNU
+include $(ACE_ROOT)/include/makeinclude/rules.nonested.GNU
+
+ifneq ($(OUTPUT_DIRECTORY),)
+ifneq ($(OUTPUT_DIRECTORY),.)
+  INSTALL = $(VBIN:%=$(INSBIN)/%)
+  CLEANUP_INSTALL += $(CLEANUP_BIN:%=$(INSBIN)/%$(VAR)$(EXEEXT))
+endif
+endif
+
+include $(ACE_ROOT)/include/makeinclude/rules.local.GNU
+ifeq ($(VXWORKSLINK),true)
+include $(TGT_DIR)/h/make/rules.$(PRJ_TYPE)
+endif
+
+LDFLAGS      += -L. -L$(ACE_ROOT)/lib 
+
+CPPFLAGS     += -I$(ACE_ROOT)
+ifeq ($(static_libs),1)
+  CPPFLAGS += -DACE_AS_STATIC_LIBS
+endif
+
+#----------------------------------------------------------------------------
+#       Local targets
+#----------------------------------------------------------------------------
+lib_warning:
+	@echo This project will not be built due to the following missing library:
+	@echo $(LIBCHECK)
+
+
+ifneq ($(VXWORKSLINK),true)
+ifeq ($(static_libs_only), 1)
+  DEPLIBS = $(foreach lib, ACE , $(foreach libpath, . ../../../lib, $(wildcard $(libpath)/lib$(lib).a)))
+endif
+
+$(BIN): $(addprefix $(VDIR), $(OBJS)) $(DEPLIBS)
+ifndef kylix
+	$(LINK.cc) $(LDFLAGS) $(CC_OUTPUT_FLAG) $@ $^ $(VLDLIBS) $(POSTLINK)
+else
+	$(LINK.cc) $(LDFLAGS) $(CC_OUTPUT_FLAG) $(VLDLIBS) $(BORINITEXEOBJ) $(POSTLINK) $^, $@,,
+endif
+endif
+
+realclean: clean
+ifneq ($(GENERATED_DIRTY),)
+	-$(RM) -r $(GENERATED_DIRTY)
+endif
+

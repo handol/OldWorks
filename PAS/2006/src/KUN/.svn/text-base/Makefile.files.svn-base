@@ -1,0 +1,85 @@
+FILES = \
+ pasgw_main.cpp\
+ PasSignalHandler.cpp\
+ PasAcceptor.cpp\
+ PasEventHandler.cpp\
+ ClientHandler.cpp\
+ HttpBaseHeader.cpp\
+ HttpRequestHeader.cpp\
+ HttpRequest.cpp\
+ HttpResponseHeader.cpp\
+ HttpResponse.cpp\
+ HttpUrlParser.cpp\
+ CpEventHandler.cpp\
+ AuthHandler.cpp\
+ StrUtil.cpp\
+ Util.cpp\
+ Util2.cpp\
+ CpList.cpp\
+ AclRouter.cpp\
+ HotNumber.cpp\
+ SantaEventHandler.cpp\
+ SantaResponse.cpp\
+ LogLevel.cpp\
+ Config.cpp\
+ SystemStatistic.cpp\
+ Session.cpp\
+ StrSplit.cpp\
+ TransactionInfo.cpp\
+ UserInfo.cpp \
+ UserInfoMng.cpp \
+ PhoneTrace.cpp \
+ PhoneTraceMng.cpp \
+ MyLog.cpp \
+ PasDataLog.cpp \
+ ResponseBuilder.cpp \
+ StatFilter.cpp \
+ StatFilterMng.cpp \
+ ReactorPool.cpp \
+ WorkInfo.cpp \
+ HttpKTFSSLResult.cpp \
+ SysInfo.cpp \
+ Log_Msg.cpp \
+ MemoryPoolHeaderNode.cpp \
+ MemoryPoolManager.cpp \
+ HashKey.cpp \
+ KtfInfo.cpp \
+ CGI.cpp \
+ FileDump.cpp \
+ AuthAgent.cpp \
+ AuthInfo.cpp \
+ DebugLog.cpp \
+ MonitorReporter.cpp \
+ WatchReporter.cpp \
+ udpcli.cpp \
+ DNSManager.cpp \
+ DNSQuerier.cpp \
+ DNSCache.cpp \
+ CommPacket.cpp \
+ SessionWriteRequest.cpp \
+ SessionWriteResponse.cpp \
+ ServiceReadRequest.cpp \
+ ServiceReadResponse.cpp \
+ GuideReadRequest.cpp \
+ GuideReadResponse.cpp \
+ GuideWriteRequest.cpp \
+ GuideWriteResponse.cpp \
+ Archive.cpp \
+ AsciiSerializer.cpp \
+ MDN.cpp \
+ Exception.cpp \
+ SisorProtocol.cpp \
+ SisorProxy.cpp \
+ SisorQueue.cpp \
+ CorrelationKey.cpp \
+ MyFile.cpp \
+ RuntimeLogger.cpp \
+ KunHandler.cpp \
+ MeHandler.cpp \
+ CookieDB.cpp \
+ CookieItem.cpp \
+ CookieLine.cpp \
+ CookieDateTime.cpp \
+ SpeedUpTag.cpp
+ 
+

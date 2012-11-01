@@ -1,0 +1,77 @@
+PAS1 20060814135008
+## // header end
+
+KUN00 221.148.247.32 8080 2
+ME000 221.148.247.32 7090 1
+KUN01 221.148.247.32 7090 2
+## //pas 영역 end
+
+www.n016.com    80 210.123.89.86   80 ME000 0
+www.magicn.co.kr 80        210.123.89.86   80 ME000 0
+www.magicn.com  80 210.123.89.86   80 ME000 0
+www.m018.com    80 210.123.89.86   80 ME000 0
+www.hansolm.com 80 210.123.89.86   80 ME000 0
+www.click018.co.kr  80     210.123.89.86   80 ME000 0
+ 
+www.xbel.net  80  210.123.89.86   80 ME000 0
+  
+m.magicn.com  80  210.123.89.22   80 ME000 0 
+ktfkunproxy.magicn.com 80 210.123.89.22   80 ME000 0
+
+sms.n016.co.kr 80  128.134.98.134  10080 ME000 0
+  
+www.daum.net  80  m.daum.net      80 ME000 0
+   
+downloadtext.magicn.com 80  kt68char.magicn.com     80 ME000      0
+downloadcard.magicn.com 80 ktfpicmb.magicn.com     80 ME000      0
+downloadbell.magicn.com 80 ktfsoundmb.magicn.com   80 ME000      0
+downloadphoto.magicn.com  80      photomb.magicn.com      80 ME000      0
+downloadsong.magicn.com 80 ktfsoundmb.magicn.com   80 ME000      0
+ 
+#mail server
+kt68mbmail.magicn.com 80  ktfmobile.magicn.com    80 ME000 0
+	 
+# digit domain
+digits.magicn.com       80 210.123.89.164  80 ME000 0
+kt68namecard.magicn.com 80 kt68namecard.magicn.com 80 ME000      1
+	  
+# anyweb
+203.238.7.80  80   203.238.7.1     8080  ME000    1
+aimail.anyweb.co.kr  80   203.238.7.1     8080 ME000    1
+anyweb.co.kr   80  203.238.7.1     8080 ME000    1
+asiana.anyweb.co.kr  80   203.238.7.1     8080 ME000    1
+charics.anyweb.co.kr  80  203.238.7.1     8080 ME000    1
+daewoostock.anyweb.co.kr  80      203.238.7.1     8080 ME000    1
+exchange.anyweb.co.kr  80 203.238.7.1     8080 ME000    1
+flower.anyweb.co.kr   80  203.238.7.1     8080 ME000    1
+game.anyweb.co.kr     80  203.238.7.1     8080 ME000    1
+hanabank.anyweb.co.kr 80  203.238.7.1     8080 ME000    1
+hanjinstock.anyweb.co.kr  80      203.238.7.1     8080 ME000    1
+hanvit.anyweb.co.kr   80  203.238.7.1     8080 ME000    1
+info.anyweb.co.kr     80  203.238.7.1     8080 ME000    1
+korambank.anyweb.co.kr 80 203.238.7.1     8080 ME000    1
+mcharics.anyweb.co.kr   80 203.238.7.1     8080 ME000    1
+mchat.mtizn.com 203.238.7.1 80    8080 ME000    1
+meritzsec.anyweb.co.kr 80  203.238.7.1     8080 ME000    1
+mobile.anyweb.co.kr   80  203.238.7.1     8080 ME000    1
+mtizn.anyweb.co.kr    80  203.238.7.1     8080 ME000    1
+nong.anyweb.co.kr     80  203.238.7.1     8080 ME000    1
+pdm.anyweb.co.kr      80  203.238.7.1     8080 ME000    1
+pico.anyweb.co.kr     80  203.238.7.1     8080 ME000    1
+saju.anyweb.co.kr     80  203.238.7.1     8080 ME000    1
+samsungcard.anyweb.co.kr   80     203.238.7.1     8080 ME000    1
+samsungitc.anyweb.co.kr 80 203.238.7.1     8080 ME000    1
+samsungstock.anyweb.co.kr  80     203.238.7.1     8080 ME000    1
+shinhungstock.anyweb.co.kr  80    203.238.7.1     8080 ME000    1
+shopping1.anyweb.co.kr 80  203.238.7.1     8080 ME000    1
+sisestock.anyweb.co.kr 80 203.238.7.1     8080 ME000    1
+ssf.anyweb.co.kr     80   203.238.7.1     8080 ME000    1
+sslife.anyweb.co.kr  80   203.238.7.1     8080 ME000    1
+train.anyweb.co.kr   80   203.238.7.1     8080 ME000    1
+www.anyweb.co.kr     80   203.238.7.1     8080 ME000    1
+## // dns 영역 end
+
+OV14
+61.78.33.124         80   mq.magicn.com   80   ME000   1
+## // acl 영역 end
+ACLX

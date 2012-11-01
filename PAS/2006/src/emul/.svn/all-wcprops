@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/PAS2006/!svn/ver/1229/trunk/src/emul
+END
+acceptWithDelay.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/PAS2006/!svn/ver/1159/trunk/src/emul/acceptWithDelay.py
+END
+kunclient_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/PAS2006/!svn/ver/1229/trunk/src/emul/kunclient_test.py
+END
+kunclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/PAS2006/!svn/ver/1145/trunk/src/emul/kunclient.py
+END
+santaHttpServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/PAS2006/!svn/ver/1080/trunk/src/emul/santaHttpServer.py
+END
+santa.acl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/PAS2006/!svn/ver/1080/trunk/src/emul/santa.acl
+END
+dnsDelayStat.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/PAS2006/!svn/ver/1012/trunk/src/emul/dnsDelayStat.py
+END
+meclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/PAS2006/!svn/ver/1173/trunk/src/emul/meclient.py
+END
+sslclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/PAS2006/!svn/ver/1159/trunk/src/emul/sslclient.py
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/PAS2006/!svn/ver/1082/trunk/src/emul/Readme.txt
+END

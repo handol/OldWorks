@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/PAS2006/!svn/ver/1210/trunk/src/emul/benchmark
+END
+realUrlList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/PAS2006/!svn/ver/1080/trunk/src/emul/benchmark/realUrlList.txt
+END
+eh.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/PAS2006/!svn/ver/1210/trunk/src/emul/benchmark/eh.py
+END
+internetURLList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/PAS2006/!svn/ver/1107/trunk/src/emul/benchmark/internetURLList.txt
+END
+pasclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/PAS2006/!svn/ver/1210/trunk/src/emul/benchmark/pasclient.py
+END
+urlList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/PAS2006/!svn/ver/1145/trunk/src/emul/benchmark/urlList.txt
+END

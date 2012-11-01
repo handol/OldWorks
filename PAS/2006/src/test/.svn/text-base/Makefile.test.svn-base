@@ -1,0 +1,42 @@
+CC=CC 
+
+#WARN_FLAG= -erroff -errtags=yes
+#WARN_FLAG= -errtags=yes
+#WARN_FLAG= -erroff=wbadinitl   ## off "String Literal" warning mesg
+
+DEFS=-DTEST_MAIN
+
+EXE= HotNumber.test
+
+
+
+
+CCOPT_ACE=-mt -g   -I. -I../KUN -I../lib -DSUN_CC_HAS_PVFC_BUG -DACE_HAS_CUSTOM_EXPORT_MACROS=0   -I$(ACE_ROOT)  -DACE_HAS_EXCEPTIONS -D__ACE_INLINE__
+
+LINKOPT_ACE=-mt -g -mt -R /export/home/ssehoony/ACE_wrappers/lib -R./ -xildoff -L$(ACE_ROOT)/ace -L./  -L. -L$(ACE_ROOT)/lib -lACE  -lsocket -ldl -lnsl -lgen -lposix4 -ladm
+
+ACE_EXE1=HttpUrlParser.test
+ACE_OBJ1=HttpUrlParser.o
+ACE_SRC1=$(ACE_OBJ1:.o=.cpp)
+
+TARGET= copy_from_KUN $(EXE) $(ACE_EXE1)
+
+all: $(TARGET)
+
+copy_from_KUN:
+	cd ../KUN; cp $(ACE_SRC1) ../test
+
+
+.cpp.o: $(ACE_SRC1)
+	$(CC) $(WARN_FLAG) $(DEFS) $(CCOPT_ACE) -c $*.cpp -o $*.o
+
+$(ACE_EXE1): $(ACE_OBJ1)
+	$(CC) $(LINKOPT_ACE) -o $@ $(ACE_OBJ1)
+$(ACE_OBJ1): $(ACE_SRC1)
+	$(CC) $(WARN_FLAG) $(DEFS) $(CCOPT_ACE) -c $*.cpp -o $*.o
+
+clean:
+	/bin/rm $(TARGET) $(ACE_SRC1)
+
+HotNumber.test: ../KUN/HotNumber.cpp ../KUN/HotNumber.h
+	$(CC) -o $@ $(WARN_FLAG) $(DEFS) ../KUN/HotNumber.cpp

@@ -1,0 +1,117 @@
+[PROCESS]
+# 데몬 프로세스 만들기
+# yes or no
+Daemon = no
+
+ServerID = KUN00
+
+# Hot Number 적용 여부: yes or no
+HotNumber = yes
+
+# BillInfo 적용 여부: yes or no
+BillInfo = yes
+BillInfoTarget = 0103010
+
+[NETWORK]
+# 서버 포트 번호: 상용은 9090, 9091
+ListenPort = 7096
+
+
+[THREAD]
+# HTTP 송/수신 처리 쓰래드 개수
+# 권장값 : CPU개수 * 2
+# 1 ~ 255
+NumOfWorker = 4
+
+
+[LOG]
+# 로그 레벨 설정
+# level = 1 : 운용 일반 레벨. 에러, 경고, 중요 메시지 출력
+# level = 2 : 운용 상세 레벨. 
+# level = 3 : 디버그 보통 수준. 개발자용 로그 레벨.
+# level = 4 : 디버그 상세 수준. 개발자용 로그 레벨.
+Level = 3
+
+# 로그 기록 형태
+# FILE : 파일로 기록
+# STDOUT : 표준출력
+Output = STDOUT
+
+# Ouput 이 FILE 일 경우 로그를 기록할 파일명
+Filename = pasgw.log
+
+
+
+
+[CLIENT]
+TimeoutCheckInterval = 60
+ReceiveTimeout = 1200
+
+
+
+[CP]
+TimeoutCheckInterval = 10 
+ConnectionTimeout = 20
+ReceiveTimeout = 600
+
+
+
+
+[AUTH]
+# Auth 인증 여부
+# yes or no
+Enable = no
+
+#Host = 128.134.98.61
+Host = 172.23.35.87
+Port = 5001
+
+TimeoutCheckInterval = 5
+ConnectionTimeout = 5
+ReceiveTimeout = 10
+
+ErrorCount = 10
+RetryDelay = 600
+
+Authentication = 600
+
+
+[SANTA]
+# Santa 인증 여부
+# yes or no
+Enable = yes
+
+ID = pas
+Password = pas
+ServiceID = mapexam
+#ServiceID = mapint1
+
+Host = 172.23.35.87
+Port = 20001
+
+TimeoutCheckInterval = 5
+ConnectionTimeout = 5
+ReceiveTimeout = 10
+
+
+
+
+[ACL]
+# ACL 적용 여부
+# yes or no
+Enable = no
+
+# ACL Monitor Server Real
+#Monitor Server IP = "221.148.247.2"
+#Monitor Server PORT = "5015"
+
+# ACL Monitor Server Test
+Monitor Server IP = "192.168.208.98"
+Monitor Server PORT = "5015"
+
+# acl 파일 업데이트 여부 확인 간격(sec)
+UpdateCheckInterval = 3
+
+UseDnsCache = yes
+DnsCacheServerIP = "221.148.247.32"
+DnsCacheServerPort = "9999"

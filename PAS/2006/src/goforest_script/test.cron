@@ -1,0 +1,8 @@
+42 * * * * date >> /export/home/sms4/goforest/top.log; top -n -b| grep pasgw >> /export/home/sms4/goforest/top.log
+43 * * * * date >> /export/home/sms4/goforest/top.log; top -n -b| grep pasgw >> /export/home/sms4/goforest/top.log
+44 * * * * date >> /export/home/sms4/goforest/top.log; top -n -b| grep pasgw >> /export/home/sms4/goforest/top.log
+45 * * * * date >> /export/home/sms4/goforest/top.log; top -n -b| grep pasgw >> /export/home/sms4/goforest/top.log
+46 * * * * date >> /export/home/sms4/goforest/top.log; top -n -b| grep pasgw >> /export/home/sms4/goforest/top.log
+47 * * * * date >> /export/home/sms4/goforest/top.log; top -n -b| grep pasgw >> /export/home/sms4/goforest/top.log
+48 * * * * date >> /export/home/sms4/goforest/top.log; top -n -b| grep pasgw >> /export/home/sms4/goforest/top.log
+49 * * * * date >> /export/home/sms4/goforest/top.log; top -n -b| grep pasgw >> /export/home/sms4/goforest/top.log

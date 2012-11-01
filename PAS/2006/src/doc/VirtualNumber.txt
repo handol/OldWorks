@@ -1,0 +1,48 @@
+
+기존 PAS 소스 분석.
+
+가상번호 처리 관련.
+
+CPhoneTran::SetPhoneNum(PhoneNumber, MNC)
+{
+	PhoneNumber = PhoneNumber;
+	MINnumber = PhoneNumber 의 10자리 값 (010-9xxx-yyyy --> 10-9xxx-yyyy);
+	MNC = MNC; // default "00"
+}
+
+
+가상번호 판단
+CPhoneTran::GetNumberType()
+{
+	if (016-1xx)
+		VIRTUAL_NUMBER_016_2G
+	if (016-90xx, 016-91xx)
+		VIRTUAL_NUMBER_016_1X
+	
+	if (018-1xx, 018-9xx)
+		VIRTUAL_NUMBER_018_1ST
+		
+	otherwise
+		REAL_NUMBER_XXX
+}
+
+CPhoneTran::SetCheckNumber()
+{
+	MDN = PhoneNumber
+	IMSI = 450 + MNC + MINnumber
+}
+
+----------------
+
+MIN값이 없으면 "Anonymous" 로 설정.
+
+HttpRequest::setSANTA()
+{
+	if (MIN == "Anonymous") 
+		SANTA 수행 하지 않음.
+		
+	
+	기존 SANTA 정보를 활용하는 조건: IP addr 불변인 경우에는
+		사용자 정보의 IMSI, MDN 값을 그대로 활용.
+}
+

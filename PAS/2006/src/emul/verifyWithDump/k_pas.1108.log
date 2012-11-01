@@ -1,0 +1,6 @@
+11/08/06 17:32:48 Started...
+11/08/06 17:33:44 0110009090 --> 0 GET http://localhost/ HTTP/1.1, 658 bytes, 127.0.0.1/41653, ssock:8, KUN00, (CKEY:KEYN000800010292CNT00001)
+11/08/06 17:33:44 0110009090 <-- 0 HTTP/1.1 200 OK (compatible; KUN/2.0; KTF5000; CellPhone) (size:286 bytes, thr:1, sock:s8/c11)(RequestCount:1) (RequestMIN:0110009090) (RequestMNC:04) (ChannelInfo:A) (Counter:1) (KTF-INIT-PATH:N/A) (CKEY:KEYN000800010292CNT00001)
+11/08/06 17:36:58 0110009090 --> 1 GET http://localhost/ HTTP/1.1, 658 bytes, 127.0.0.1/47029, ssock:8, KUN00, (CKEY:KEYN000800010292CNT00001)
+11/08/06 17:36:58 0110009090 <-- 1 HTTP/1.1 200 OK (compatible; KUN/2.0; KTF5000; CellPhone) (size:286 bytes, thr:1, sock:s8/c11)(RequestCount:2) (RequestMIN:0110009090) (RequestMNC:04) (ChannelInfo:A) (Counter:1) (KTF-INIT-PATH:N/A) (CKEY:KEYN000800010292CNT00001)
+11/08/06 17:56:59 0110009090 <-> 0 User_Timeout, thrCount = 1

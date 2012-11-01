@@ -1,0 +1,139 @@
+PAS2006 테스트 결과
+환경 : TB 솔8
+포트 : 8080
+시작 : 2006/09/21
+형식 : 번호 앞에 -- 가 붙은경우 문제가 해결되고 확인했음을 의미한다.
+
+--1. CP 에 접속을 못했다면 핸들러 객체 삭제가 안됨(공통문제:Auth, Santa, CP 등 모든 이벤트 핸들러)
+  원인 : 접속 하려는 대상에게 접속하기 전에 보낼 데이터를 큐에 넣고, 접속이 실패하면 객체를 삭제 해야하지만
+  큐에 데이터가 있으므로 삭제 할 수가 없다.
+
+  16:21:22.807781:9:ERRO: ClientRemover:: left jobs (1)
+  16:21:22.807837:9:DBUG: ClientRemover:: job [1AE290]
+  16:21:22.807891:9:TRAC: ClientHandler::isRemovable() [1AE290]
+  16:21:22.808021:9:TRAC: ClientHandler::isRemovable() False - CP [1AE290]
+  16:21:22.808081:9:TRAC: ClientRemover:: insert again MB= [1C5E70]
+
+  2006/09/22 문제 해결
+  결과 : 어떠한 경우에도 단말기의 접속이 종료되면 모든 객체가 소멸됨
+
+--2. 에뮬레이터로 접속하면 magicn.com 폰 페이지가 아닌, 일반 웹 페이지가 열린다.
+  2006/09/22 문제 해결
+  원인 : ACL 라우팅 기능이 정상적으로 작동하지 않아서 생긴 문제
+  결과 : ACL 라우팅 기능이 정상적으로 작동함으로써 폰전용 magicn.com 페이지가 열림
+
+--3. 없는 CP로 접속 하였을 경우, 단말기에 알림 메시지 보내지 않음
+  http://123.123.123.123
+  2006/09/22 문제 해결
+  결과 : CP 에 접속이 지연되고 있다는 메시지 출력
+
+--4. HTTP 해더에 BILL INFO 비포함
+  테스트 단말기, 에뮬레이터 모두 BILL INFO 없음
+  2006/09/22 문제 해결
+  결과 : 헤더에 정상적으로 KTF_BILL_INFO 정보가 포함됨
+
+--5. config 파일에 BILLINFO 설정 여부 추가 해야함
+  2006/09/22 추가 완료
+  결과 : config 파일의 셋팅 여부에 따라서 BILL INFO 정보가 추가됨
+
+--6. HTTP 해더에 해쉬키(KTF_HTTP_KEY) 비포함
+  2006/09/22 문제 해결
+  결과 : 정상적으로 해쉬키가 포함됨
+
+--7. URL 에 포트를 포함시키면 적용되지 않는다.
+  http://localhost:7000/ 하면 localhost 80 으로 접속한다.
+  2006*09/22 문제 해결
+  결과 : 해당 포트로 접속한다.
+
+--8. ACL 라우팅에 문제있음
+  ACL 목록에 있음에도 불구하고 ACL_NOT_FOUND 출력
+  2006/09/22 문제 해결
+  결과 : 정상적으로 라우팅 됨
+
+--9. HotNumber 기능중에 통합검색을 제외한 모든 HotNumber 작동 불가
+  2006/09/22 문제 해결
+  결과 : *,**,***,*#,*##,! 모든 경우의 핫넘버 작동됨
+
+--10. Auth 기능을 활성화 시키면 페이지 출력 안됨
+  2006/09/22 문제 해결
+  결과 : 정상적으로 진행 됨
+
+--11. SANTA 에서 결과값을 받아오는 중 pasgw 에서 SEGV 발생
+  2006/09/22 문제 해결
+  원인 : HTTP 헤더를 체크하는 함수의 리턴값이 -1 인데 저장하는 변수는 unsigned int 이기 때문에 양수값이 되서 append 를 시도하다가 에러 발생
+  결과 : 0 을 리턴하도록 하여 문제 해결
+
+--12. Santa 에 접속이 안되면 인증실패 메시지를 출력해야 하지만, 아무런 메시지 없이 다음 단계로 넘어간다.
+  2006/09/22 문제 해결
+  원인 : SANTA 에 접속을 못 하였을 경우 단순히 다음 단계로 진행하지 않았을 뿐
+  결과 : 단말기의 정보를 DB 에서... 와 같은 메시지를 출력한다.
+
+--13. 221.148.247.32/cgi-bin/test2.cgi 에 접속하여 Chuck 테스트 중에 Abort 발생
+  비정상 -> 221.148.247.32/cgi-bin/test2.cgi
+  정상 -> http://www.httpwatch.com/httpgallery/chunked/
+
+  18:22:47.706023:10:DBUG: CpHandler::onReceivedResponseHeader >> Response Header
+  HTTP/1.1 200 OK
+  Date: Thu, 21 Sep 2006 09:22:47 GMT
+  Server: Apache/2.2.0 (Unix) DAV/2 mod_ssl/2.2.0 OpenSSL/0.9.8a
+  Transfer-encoding: chunked
+  Content-Length: 24
+  Content-Type: text/html
+
+  18:22:47.706102:10:TRAC: CpHandler::onReceivedResponseBody >> fd[13]
+  18:22:47.706170:10:DBUG: 수신 완료, fd[13]
+  18:22:47.706227:10:TRAC: CpHandler::onCompletedReceiveResponse >> fd[13]
+  18:22:47.706284:10:DBUG: Response Receive Completed, fd[13]
+  ACE_ASSERT: file CpEventHandler.cpp, line 545 assertion failed for 'resHeader.getElement("Content-Length").isEmpty()'.Aborting...
+
+  2006/09/22 문제 해결
+  결과 : Abort 를 제거하여 정상작동
+
+--14. ACL 에서 CP 의 도메인이 변경되고, CP 에서 응답을 받지 못하면 CpEventHandler 삭제 불가
+  재현
+  pas.acl 에 아래와 같이 셋팅 후 m.naver.com 으로 접속하면 CP 에서 응답을 받지 못하고 CP 가 삭제되지 않는 문제 발생
+  m.naver.com 80 localhost 80 KUN00 1
+  2006/09/22 문제 해결
+  결과 : 정상적으로 삭제 됨을 확인
+
+--15. 서버 실행시 접속된 유저가 없어도 CPU 로드 50% 이상 점유
+  2006/09/22 문제 해결
+  원인 : pasgw.cfg 파일 ACL 섹션에서 항목이 누락되어 Interval 값이 0 으로 셋팅, 그래서 무한루프 발생
+  결과 : pasgw.cfg 로드시에 항목이 누락되면 기본값으로 셋팅하도록 변경
+
+--16. SANTA 접속 ID/PASS 가 잘못 되어 에러 응답이 왔지만 pasgw 는 다음 단계를 진행한다.
+  2006/09/22 문제 해결
+  결과 : 단말기의 정보를 DB 에서... 와 같은 메시지를 출력한다.
+
+--17. ACL 스레드가 블럭될 경우가 있다.
+  재현
+  유저가 magicn 에 접속중에 단말기를 종료한다.
+  서버는 대기 상태가 되고, pas.acl 을 아래와 같이 수정한다.
+  PAS1 20060814135006                            <- 버전
+  www.magicn.com 80 210.123.89.88 80 KUN00 1     <- DNS 항목
+  저장을 하면 AclRouter 가 리로드를 할테고 AclRouter.cpp 의 load 함수에
+  rwMutex.acquire_write(); 부분에서 데드락 발생
+
+  2006/09/23 문제 해결
+  원인 : searchALL, searchDNS 함수에서 return 하기전에 unlock 을 안해서 발생함
+  결과 : 정상적으로 작동함
+
+18. SSL 안됨
+
+19. url 이 없을 경우(http://) Assert 발생
+
+20. K-Merce -> (8)쿠폰 메뉴를 클릭하면 Assert 발생
+  20:52:28.768290:4:TRAC: CpHandler::onReceived
+  20:52:28.768363:4:DBUG: CP recv 3427 bytes [CPObj[1F5108] Sock[26] totalRecv[3427] jobDone[0] State[0] Qsize[1] Client[1B8D58] MDN[820162010022] Seq[8] Host[coupon.k-merce.com] Port[80]]
+  20:52:28.768571:4:TRAC: ResponseHeader::parse
+  20:52:28.768677:4:TRAC: ResponseHeader::parseStartLine
+  20:52:28.768735:4:DBUG: HttpLine[HTTP/1.1 200]
+  20:52:28.768829:4:WARN: Not Found Status String
+  20:52:28.768884:4:NOTI: StartLine 파싱 실패
+  20:52:28.768937:4:DBUG: 헤더 파싱 실패
+  20:52:28.768990:4:ERRO: CpHandler::onReceivedResponseHeader >> 헤더 셋팅 실패, fd[26]
+  ACE_ASSERT: file CpEventHandler.cpp, line 358 assertion failed for 'false'.Aborting...
+
+21. K-Merce -> 핫코드존 클릭시 408 오류...
+
+22. KUN v3 에뮬레이터로 공지처리 적용 안됨, kunclient.py 는 공지처리 확인 가능

@@ -1,0 +1,132 @@
+2006/10/23
+目池记 荐 : 100
+Checking for memory leaks...
+
+Actual leaks report    (actual leaks:       445  total size:  218863 bytes)
+
+ Total  Num of  Leaked      Allocation call stack
+ Size   Blocks  Block
+                Address
+======  ====== ==========  =======================================
+180984      30      -      operator new < ACE_New_Allocator::malloc 
+ 21900     100      -      operator new < AclRouter::setDNS 
+ 11120     278      -      operator new < ACE_Message_Block::duplicate 
+  3066      14      -      operator new < AclRouter::setACL 
+   936       9      -      operator new < MemoryPoolManager::setBlockSizeAndMax 
+   375       3      -      operator new < AclRouter::setPAS 
+   256       1   0x258d50  operator new < std::allocator<ACE_Message_Block*>::allocate < std::allocator_interface<std::allocator<ACE_Message_Block*>,ACE_Message_Block*>::allocate < std::vector<ACE_Message_Block*,std::allocator<ACE_Message_Block*> >::__insert_aux < std::vector<ACE_Message_Block*,std::allocator<ACE_Message_Block*> >::push_back < MemoryPoolHeaderNode::free < MemoryPoolManager::FreeMessageBlock < HTTP::Response::~Response 
+    80       1   0x1e69e0  operator new < main 
+    64       1   0x1b2488  calloc < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+    40       1   0x2bfd00  operator new < main 
+     9       1   0x1aea18  strdup < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+     8       1   0x1ad540  _thr_setspecific < ACE_OS::thr_setspecific_native < ACE_OS::thr_setspecific < ACE_Thread::setspecific < ACE_Log_Msg::instance < ACE_Object_Manager::init < ACE_Object_Manager::ACE_Object_Manager < ACE_Object_Manager::instance 
+     8       1   0x1ad520  calloc < _thr_setspecific < __Cimpl::ex_thread::get_thr_data < __Cimpl::cplus_init < 0xf4508c00< call_init < elf_bndr < elf_rtbndr 
+     5       1   0x1ad980  strdup < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+     4       1   0x1ad9a0  strdup < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+     4       1   0x1ad9c0  netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli < __SLIP.INIT_A 
+     4       1   0x1ad960  strdup < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+ 
+
+Possible leaks report  (possible leaks:       0  total size:       0 bytes)
+
+ 
+Checking for memory use...
+
+Blocks in use report   (blocks in use:      421  total size:  431892 bytes)
+
+ Total  % of Num of  Avg     Allocation call stack
+ Size    All Blocks  Size
+======= ==== ====== ======  =======================================
+ 299984  69%     59   5084  operator new < ACE_New_Allocator::malloc 
+  69632  16%     17   4096  operator new < ACE_Select_Reactor_Handler_Repository::open 
+  28672   6%     16   1792  operator new < ReactorPool::createWorkers 
+   5712   1%      1   5712  operator new < PasAcceptor::handle_input < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::notify_handle < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::dispatch_io_set < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::dispatch_io_handlers < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::dispatch < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::handle_events_i < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::handle_events 
+   2720  <1%     17    160  operator new < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::open 
+   2368  <1%      1   2368  _nss_XbyY_buf_alloc < gethostbyname < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli < __SLIP.INIT_A < __STATIC_CONSTRUCTOR 
+   2364  <1%      2   1182  operator new < std::allocator<HTTP::HeaderElement>::allocate 
+   2176  <1%     17    128  operator new < ACE_Timer_Heap_T<ACE_Event_Handler*,ACE_Event_Handler_Handle_Timeout_Upcall<ACE_Recursive_Thread_Mutex>,ACE_Recursive_Thread_Mutex>::ACE_Timer_Heap_T 
+   2176  <1%     17    128  operator new < ACE_Timer_Heap_T<ACE_Event_Handler*,ACE_Event_Handler_Handle_Timeout_Upcall<ACE_Recursive_Thread_Mutex>,ACE_Recursive_Thread_Mutex>::ACE_Timer_Heap_T 
+   1792  <1%      1   1792  operator new < ReactorPool::createMaster < main 
+   1539  <1%      3    513  operator new < std::basic_filebuf<char,std::char_traits<char> >::basic_filebuf #Nvariant 1 
+   1432  <1%      1   1432  operator new < ClientHandler::pickCpHandler < ClientHandler::requestToCP < ClientHandler::midTransaction < ClientHandler::startTransaction < ClientHandler::onCompletedReceiveRequest < ClientHandler::onReceived < PasHandler::_onReceived 
+   1360  <1%     17     80  operator new < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::open 
+    816  <1%      1    816  operator new < StatFilterMng::instance < main 
+    640  <1%     16     40  operator new < ACE_Message_Block::duplicate 
+    544  <1%     17     32  operator new < ACE_Timer_Queue_T<ACE_Event_Handler*,ACE_Event_Handler_Handle_Timeout_Upcall<ACE_Recursive_Thread_Mutex>,ACE_Recursive_Thread_Mutex>::ACE_Timer_Queue_T 
+    513  <1%      1    513  operator new < std::basic_filebuf<char,std::char_traits<char> >::open < std::basic_ofstream<char,std::char_traits<char> >::open < std::basic_ofstream<char,std::char_traits<char> >::basic_ofstream < initLog < main 
+    512  <1%      8     64  calloc < fgetnetconfig 
+    504  <1%      1    504  operator new < PhoneTraceMng::instance < main 
+    480  <1%      4    120  operator new < ACE_Task<ACE_MT_SYNCH>::ACE_Task 
+ 
+
+execution completed, exit code is 0
+
+
+
+
+
+
+
+2006/10/23
+目池记 荐 : 10000
+Checking for memory leaks...
+
+Actual leaks report    (actual leaks:     29889  total size: 1249706 bytes)
+
+ Total  Num of  Leaked      Allocation call stack
+ Size   Blocks  Block
+                Address
+======  ====== ==========  =======================================
+1189680   29742      -      operator new < ACE_Message_Block::duplicate 
+ 33008       8      -      operator new < ACE_New_Allocator::malloc 
+ 21900     100      -      operator new < AclRouter::setDNS 
+  3285      15      -      operator new < AclRouter::setACL 
+   936       9      -      operator new < MemoryPoolManager::setBlockSizeAndMax 
+   375       3      -      operator new < AclRouter::setPAS 
+   256       1   0x361b08  operator new < std::allocator<ACE_Message_Block*>::allocate < std::allocator_interface<std::allocator<ACE_Message_Block*>,ACE_Message_Block*>::allocate < std::vector<ACE_Message_Block*,std::allocator<ACE_Message_Block*> >::__insert_aux < std::vector<ACE_Message_Block*,std::allocator<ACE_Message_Block*> >::push_back < MemoryPoolHeaderNode::free < MemoryPoolManager::FreeMessageBlock < HTTP::Response::~Response 
+    80       1   0x1e5570  operator new < main 
+    64       1   0x1b2490  calloc < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+    40       1   0x856390  operator new < main 
+    40       1   0x1fc630  operator new < main 
+     9       1   0x1aea20  strdup < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+     8       1   0x1ad528  calloc < _thr_setspecific < __Cimpl::ex_thread::get_thr_data < __Cimpl::cplus_init < 0xf4508c00< call_init < elf_bndr < elf_rtbndr 
+     8       1   0x1ad548  _thr_setspecific < ACE_OS::thr_setspecific_native < ACE_OS::thr_setspecific < ACE_Thread::setspecific < ACE_Log_Msg::instance < ACE_Object_Manager::init < ACE_Object_Manager::ACE_Object_Manager < ACE_Object_Manager::instance 
+     5       1   0x1ad988  strdup < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+     4       1   0x1ad9c8  netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli < __SLIP.INIT_A 
+     4       1   0x1ad9a8  strdup < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+     4       1   0x1ad968  strdup < netconfig_dup < __rpc_getconfip < gethostbyname_r < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli 
+ 
+
+Possible leaks report  (possible leaks:       0  total size:       0 bytes)
+
+ 
+Checking for memory use...
+
+Blocks in use report   (blocks in use:      886  total size: 1249348 bytes)
+
+ Total  % of Num of  Avg     Allocation call stack
+ Size    All Blocks  Size
+======= ==== ====== ======  =======================================
+ 941000  75%    160   5881  operator new < ACE_New_Allocator::malloc 
+ 118644   9%    174    681  operator new < std::allocator<HTTP::HeaderElement>::allocate 
+  69632   5%     17   4096  operator new < ACE_Select_Reactor_Handler_Repository::open 
+  28672   2%     16   1792  operator new < ReactorPool::createWorkers 
+  28560   2%      5   5712  operator new < PasAcceptor::handle_input 
+  11424  <1%      4   2856  operator new < ClientHandler::allocTransaction 
+   9392  <1%      4   2348  operator new < Transaction::Transaction 
+   7160  <1%      5   1432  operator new < ClientHandler::pickCpHandler 
+   5680  <1%    142     40  operator new < ACE_Message_Block::duplicate 
+   2720  <1%     17    160  operator new < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::open 
+   2368  <1%      1   2368  _nss_XbyY_buf_alloc < gethostbyname < CSocket::GetHostAddr < CSocket::Bind < mwatchcli::Initialize < mwatchcli::mwatchcli < __SLIP.INIT_A < __STATIC_CONSTRUCTOR 
+   2176  <1%     17    128  operator new < ACE_Timer_Heap_T<ACE_Event_Handler*,ACE_Event_Handler_Handle_Timeout_Upcall<ACE_Recursive_Thread_Mutex>,ACE_Recursive_Thread_Mutex>::ACE_Timer_Heap_T 
+   2176  <1%     17    128  operator new < ACE_Timer_Heap_T<ACE_Event_Handler*,ACE_Event_Handler_Handle_Timeout_Upcall<ACE_Recursive_Thread_Mutex>,ACE_Recursive_Thread_Mutex>::ACE_Timer_Heap_T 
+   1940  <1%      5    388  operator new < AuthHandler::init 
+   1792  <1%      1   1792  operator new < ReactorPool::createMaster < main 
+   1539  <1%      3    513  operator new < std::basic_filebuf<char,std::char_traits<char> >::basic_filebuf 
+   1520  <1%      2    760  _findiop < fopen 
+   1360  <1%     17     80  operator new < ACE_Select_Reactor_T<ACE_Reactor_Token_T<ACE_Token> >::open 
+   1024  <1%     16     64  operator new < std::allocator<Transaction*>::allocate 
+    816  <1%      1    816  operator new < StatFilterMng::instance < main 
+ 
+
+execution completed, exit code is 0

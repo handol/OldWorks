@@ -1,0 +1,8 @@
+http://www.magicn.com/page/default.asp 
+http://ktfmnews.magicn.com/KTF_KUN/index.asp?RURL=1 
+http://ktffriend.magicn.com/kun/img/main176.sis?cpname=ktf&svccode=ktffriend000&bintype=.sis 
+http://u-ktf.polycube.co.kr/kun/MEMregist.asp?how=1&retURL=UNToday.asp[EX1]how=1 
+http://kt68aagw.magicn.com/AAGW/Scripts/warning.asp
+http://ktfmnews.magicn.com/KTF_KUN/index.asp?RURL=1 
+http://ktffriend.magicn.com/kun/index.asp 
+http://u-ktf.polycube.co.kr:80/default.asp 

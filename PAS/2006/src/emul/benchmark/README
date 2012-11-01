@@ -1,0 +1,34 @@
+./pasclient.py 를 실행하면
+usage: ./pasclient.py HostIP PortNumber [ClientNumber=1] [RequestPerConnection=100] [LogLevel=0] [MaxRequests=-1]
+라고 사용법이 나온다.
+
+예를 들어 192.168.111.2 의 웹서버(포트 80)에 접속해서 테스트하고 싶다면
+./pasclient.py 192.168.111.2 80
+을 실행하면 나머지 옵션값은 디폴트 값으로 실행된다.
+
+프로그램이 종료되면, runTimeInfo.csv 라는 파일과 sizeBasedTime.csv 라는 로그파일이 남는다.
+
+옵션의 의미는 다음과 같다.
+ClientNumber : 동시(병렬)에 접속해서 질의할 소켓 개수
+RequestPerConnection : 한번의 소켓 접속후 파일을 요청할 횟수. 입력한 값만큼 요청을 했다면 소켓 접속을 종료한다.
+LogLevel : 클라이언트가 화면에 표시할 로그의 Level 값으로 0부터 5까지 입력 가능하며 0이 가장 적은 로그를 출력하고 5가 가장 많은 로그를 남긴다.
+MaxRequests : 모든 클라이언트가 서버에 요청한 질의 수의 총합이 MaxRequests 를 넘으면 프로그램을 종료한다. -1 일 경우 제한없이 계속 질의한다.
+
+pasclient.py 를 실행하면 서버에 요청할 파일 주소는 urlList.txt 에 담겨져있다.
+
+urlList.txt 의 예)
+http://192.168.111.2/dummyfile_128.html
+http://192.168.111.2/dummyfile_256.html
+http://192.168.111.2/dummyfile_512.html
+http://192.168.111.2/dummyfile_1K.html
+http://192.168.111.2/dummyfile_2K.html
+http://192.168.111.2/dummyfile_4K.html
+http://192.168.111.2/dummyfile_8K.html
+http://192.168.111.2/dummyfile_16K.html
+http://192.168.111.2/dummyfile_32K.html
+http://192.168.111.2/dummyfile_64K.html
+http://192.168.111.2/dummyfile_128K.html
+http://192.168.111.2/dummyfile_256K.html
+http://192.168.111.2/dummyfile_512K.html
+http://192.168.111.2/dummyfile_1M.html
+

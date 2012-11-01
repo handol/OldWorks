@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis
+END
+get_time.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/PAS2006/!svn/ver/1212/trunk/src/statAnalysis/get_time.py
+END
+duration_stats.awk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_stats.awk
+END
+duration_first_request.awk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_first_request.awk
+END
+duration_first_redirect_wipi.awk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_first_redirect_wipi.awk
+END
+passtat_first_redirect.awk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/passtat_first_redirect.awk
+END
+duration_reorder.awk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_reorder.awk
+END
+duration_guide_request.awk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_guide_request.awk
+END
+passtat_delay_time.awk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/passtat_delay_time.awk
+END
+duration_santa_request.awk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_santa_request.awk
+END
+redirect_time.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/PAS2006/!svn/ver/1212/trunk/src/statAnalysis/redirect_time.py
+END
+passtat_numbering.awk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/passtat_numbering.awk
+END
+duration_first_page.awk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_first_page.awk
+END
+passtat_remove_numbering_data.awk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/passtat_remove_numbering_data.awk
+END
+duration_first_redirect_magicn.awk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_first_redirect_magicn.awk
+END
+duration_muse_stats.awk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PAS2006/!svn/ver/1213/trunk/src/statAnalysis/duration_muse_stats.awk
+END

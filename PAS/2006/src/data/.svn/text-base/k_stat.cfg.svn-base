@@ -1,0 +1,138 @@
+# CP Error Filter Configuration
+^SWITCH ON
+
+#URL Code/Message Number/URL
+#ex)U       1       http://www.geoteli.co.kr/test.asp
+^START_URL
+#URL  필터는 아래에 편집하세요...
+#U       1       http://211.62.0.127/wab/me/album/Search.asp?VT=521
+#U       1       http://211.62.0.127/wab/me/album/index.asp?VT=521
+#U       1       http://211.62.0.127/wab/me/album/album.asp?v=PUBLIC&VT=521
+#U       1       http://211.62.0.123/wab/me/album/Search.asp?VT=521
+#U       1       http://211.62.0.123/wab/me/album/index.asp?VT=521
+#U       1       http://211.62.0.123/wab/me/album/album.asp?v=PUBLIC&VT=521
+U               3               http://www.minoltadslr.com/nolink.gif
+U               1               http://k.ntobe.com/lvg/lg.asp
+U               1               http://bell.ziller.co.kr/o/img/128x160.sis
+U               1               http://s-mek.polycube.co.kr/kth/km203/01/0100150/⑩
+U               1               http://211.176.63.156:8001/event/wap/e3_1/clubm_event_fail.aspx
+U               1               http://211.171.255.253/mad/kdh_fw.php
+U               3               http://툰:0
+U               1               http://[한도사]http:0
+U               1               http://ㅋㅋㅋ/
+U               1               http://표중://m.bscall.com?g=4
+U               1               http://59.7.252.139:9094/wap/main.jsp
+U               1               http://211.206.121.207/kun_19free/&ms=P&.sis
+U               1               http://cq.entaz.com/wallpaper/down/120_.sis
+U               1               http://192.168.22.62/kt_html/nacfindex.phtml
+U               1               http://211.206.121.207/kun_19free/&ms=C&.sis
+U               1               http://사발표☎060-700-4300g=1&c=e/
+U               1               http://www.사발표☎060-700-4300g=1&c=e.com/
+^END_URL
+
+
+
+#Domain Code/Message Number/Domain
+#ex)D       2       www.geoteli.co.kr
+^START_DOMAIN
+#Domain 정보는 아래에 편집하세요...
+# <----KTF내부서비스---->
+#D      1       m.dosirak.com
+#D      1       www.ktfmembers.com
+#D      1       mvod1.magicn.com
+#D      1       image.ktfmembers.com
+#D      2       ktfsoundmb.magicn.com
+#D      1       ktfring2youm.magicn.com
+D       1       www.mobilefuturist.com
+#D      1       ktffriend.magicn.com
+#D      1       hot.k-merce.com
+#D      1       shop.k-merce.com
+#D      1       r.k-merce.com
+#D      1       tr.k-merce.com
+#D      1       go.k-merce.com
+#D              1               m.gpang.com
+D               1               m.magicn.com
+
+# <----대리운전---->
+#D      2       15.1500.pe.kr
+#D      2       1911.pe.kr
+#D      2       19qq.pe.kr
+#D      2       1a.pe.kr:80
+#D      2       bk80.pe.kr
+#D      2       cj.pe.kr
+#D      2       gmgm.net:88
+#D      2       n.s-ssss.com
+#D      2       n.drive.ne.kr
+
+
+# <----싸이월드---->
+#D      1       211.174.49.154
+#D  1   211.174.49.157
+
+# <----온세포탈---->
+#D      2       m.so1.co.kr
+#D      2       202.30.210.34
+#D      2       202.30.210.34:80
+
+# <--------MBOX--------->
+#D              1               211.62.0.123
+#D              1               211.62.0.127
+
+# <---- 무선망개방   ---->
+#D      1       221.139.49.20:8080
+#연락처 매일SNL 정민석 010-2728-5857
+
+# < KTF 대리점포탈 >
+# mobile.cswow.co.kr
+# 연락처 신효석 010-3010-1914
+
+# <----기타---->
+D       3       xxxx.pe.kr
+D       3       brainclan.com
+D       3       www.kpug.net
+D       3       image.superboard.com
+D       3       www.makwangsoo.com
+D       3       www.makwangsoo.com%20
+D       1       a.wi.to
+D       3       www.ticklingforum.com
+D       3       www.imoviepost.
+D       1       211.115.204.151
+D       3       sexparan.com
+D               1               [한도사]http:0
+D               1               210.105.69.84
+D               1               mdata.himobi.co.kr
+D               1               7722.co.kr
+D               1               211.233.15.101
+D               1               221.148.242.98
+D               1               ktf.qadd.co.kr
+D               1               www.spark69.com
+D               1               spark69.com
+D               1               210.122.101.111:8080
+D               1               211.239.120.111:9016
+D               3               media01.slrclub.com
+D               1               www.phome.co.kr
+#D              1               nb.hands-on.co.kr
+#D              1               210.124.234.53
+D               1               image.sora.net
+^END_DOMAIN
+
+
+#MDN/Message Number/Domain
+#ex)M       2       0164300258
+^START_MDN
+#MDN(전화번호) 정보는 아래에 편집하세요...
+#M 3 01032163935
+#M              2               01026256446
+#M              1               0118757718
+^END_MDN
+
+#Message Number/Error Message
+#
+^START_MESSAGE
+1 서비스 점검중 입니다. 서비스 이용에 불편을 드려 대단히 죄송합니다.
+2 접속량이 많습니다. 서비스 이용에 불편을 드려 대단히 죄송합니다.
+3 접속하신 서비스는 제공되지 않는 서비스입니다.
+4 접속하신 서비스는 이벤트가 종료 되었습니다.
+^END_MESSAGE
+
+#END

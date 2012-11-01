@@ -1,0 +1,19 @@
+Makefile.real -- pasgw.real
+Makefile.tb -- pasgw.tb 개발 확인 시험용 -  HTTP_LOG, HTTP_DUMP 가 포함된 것.
+Makefile.bench -- pasgw.bench -- 성능 시험용 -- BENCH_TEST 포함.
+
+=== 아래 MACRO 변경시 재 컴파일이 필요한 소스 : ClientEventHandler.cpp, CpEventHandler.cpp
+
+#ifdef HTTP_LOG
+ httpsize.1017.log  -- HTTP 메시지 헤더 출력
+ 
+#ifdef HTTP_DUMP
+ dump/ 디렉토리 아래 메시지 모든 내용 덤프
+
+ 
+ === 아래 MACRO 변경시 재 컴파일이 필요한 소스 : PasDataLog.cpp
+  #ifdef BENCH_TEST  -- 접속, 통계, 과금 등의 상용에서 생성하는 로그를 생성하지 않는 것.
+  
+  
+=== 아래 MACRO 변경시 재 컴파일이 필요한 소스 : MemoryPoolManager.cpp
+  #ifdef MEM_DEBUG
