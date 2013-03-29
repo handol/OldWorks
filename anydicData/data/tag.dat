@@ -1,0 +1,134 @@
+# The following is an organizational list of all HTML 4.0 elements
+# http://www.htmlhelp.com/reference/html40/alist.html -- an alphabetical list of all HTML 4.0 elements
+# http://www.htmlhelp.com/reference/html40/olist.html -- an organizational list of all HTML 4.0 elements
+# http://www.htmlhelp.com/reference/wilbur/overview.html
+#Top-level Elements
+#format
+# tag_name - tag_description, P/NP, number, [NEW]
+# P means Pair; the element have a starting and ending
+# NP means Not Pair; the element has NO closing tag.
+# OP means Optional closing tag
+# number: how to process the contents within the tag pair
+# 		0: ignore the contents
+#       1: process the contets
+#       2: process the contets -- mark <>
+#		3: emphasis 'xxx' -- mark ''
+#		4: abbreviation (xxxx) -- mark []
+#		5: list item
+#		6: two new line, block
+# NEW: print newline after the tag ends
+
+HTML - HTML document, P, 1,
+HEAD - Document head, P, 1,
+BODY - Document body, P, 1,
+
+# Head Elements
+BASE - Document base URI, NP, 0,
+ISINDEX - Input prompt, NP, 0,
+LINK - Document relationship, NP, 0,
+META - Metadata, NP, 0,
+SCRIPT - Client-side script, P, 0,
+STYLE - Embedded style sheet, P, 0,
+TITLE - Document title, P, 2, NEW
+
+# Generic Block-level Elements
+ADDRESS - Address, P, 1, NEW
+BLOCKQUOTE - Block quotation, P, 6, NEW
+CENTER - Centered block, P, 6, NEW
+DEL - Deleted text, P, 0,
+DIV - Generic block-level container, P, 6, NEW
+H1 - Level-one heading , P, 6, NEW
+H2 - Level-two heading, P, 6, NEW
+H3 - Level-three heading, P, 6, NEW
+H4 - Level-four heading, P, 6, NEW
+H5 - Level-five heading, P, 6, NEW
+H6 - Level-six heading, P, 6, NEW
+HR - Horizontal rule, NP, 1, NEW
+INS - Inserted text, P, 1,
+ISINDEX - Input prompt, NP, 0,
+NOSCRIPT - Alternate script content, P, 0,
+P - Paragraph, OP, 6, NEW
+PRE - Preformatted text, P, 1,
+
+# Lists
+DIR - Directory list, P, 1,
+DL - Definition list, P, 1,
+DT - Definition term, OP, 5,
+DD - Definition description, OP, 1, NEW
+LI - List item, OP, 5, NEW
+MENU - Menu list, P, 1,
+OL - Ordered list, P, 1,
+UL - Unordered list, P, 1,
+
+# Tables
+TABLE - Table, P, 1, NEW
+CAPTION - Table caption, P, 1, NEW
+COLGROUP - Table column group, OP, 1,
+COL - Table column, NP, 1,
+THEAD - Table head, OP, 1,
+TFOOT - Table foot, OP, 1,
+TBODY - Table body, OP, 1,
+TR - Table row, OP, 1, NEW
+TD - Table data cell, OP, 1, NEW
+TH - Table header cell, OP, 1, NEW
+
+# Forms
+FORM - Interactive form, P, 0, NEW
+BUTTON - Button, P, 0,
+FIELDSET - Form control group, P, 0,
+LEGEND - Fieldset caption, P, 0,
+INPUT - Form input, NP, 0,
+LABEL - Form field label, P, 1,
+SELECT - Option selector, P, 0,
+OPTGROUP - Option group, P, 0,
+OPTION - Menu option, OP, 1,
+TEXTAREA - Multi-line text input, P, 0,
+
+# Special Inline Elements
+A - Anchor, P, 1,
+APPLET - Java applet, P, 0,
+BASEFONT - Base font change, NP, 0,
+BDO - BiDi override, P, 0,
+BR - Line break, NP, 1, NEW
+FONT - Font change, P, 1,
+IFRAME - Inline frame, P, 1, NEW
+IMG - Inline image, NP, 0, NEW
+MAP - Image map, P, 1, NEW
+AREA - Image map region, NP, 1, NEW
+OBJECT - Object, P, 0, NEW
+PARAM - Object parameter, NP, 0, NEW
+Q - Short quotation, P, 3,
+SCRIPT - Client-side script, P, 0, NEW
+SPAN - Generic inline container, P, 6, NEW
+SUB - Subscript, P, 1, NEW
+SUP - Superscript, P, 1, NEW
+
+# Phrase Elements
+ABBR - Abbreviation, P, 4,
+ACRONYM - Acronym, P, 4,
+CITE - Citation, P, 3,
+CODE - Computer code, P, 1,
+DEL - Deleted text, P, 0,
+DFN - Defined term, P, 1,
+EM - Emphasis, P, 3,
+INS - Inserted text, P, 1,
+KBD - Text to be input, P, 1,
+SAMP - Sample output, P, 1,
+STRONG - Strong emphasis, P, 1,
+VAR - Variable, P, 1,
+
+#Font Style Elements, P, 0,
+B - Bold text, P, 1,
+BIG - Large text, P, 1,
+I - Italic text, P, 1,
+S - Strike-through text, P, 1,
+SMALL - Small text, P, 1,
+STRIKE - Strike-through text, P, 1,
+TT - Teletype text, P, 1,
+U - Underlined text, P, 1,
+
+# Frames
+FRAMESET - Frameset, P, 0,
+FRAME - Frame, P, 0,
+NOFRAMES - Frames alternate content, P, 0,
+
