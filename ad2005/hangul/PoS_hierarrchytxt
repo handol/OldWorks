@@ -1,0 +1,44 @@
+품사 계층구조품사 계층구조 
+
+      기호(symbol) - s쉼표(s,) 문장종결(s.) 여는 따옴표(s`) 닫는 따옴표(s’) 이음표(s-) 단위(su) 한자어(sh) 
+      외국어(sf) 기타(so)
+      체언명사(noun) - M보통명사(common noun) - MC한국어(MCK) 한자어(MCC) 외래어(MCF)
+      고유명사(proper noun) - MP인명(person name) - MPN 지명(place name) - MPP 
+      국명(country name) - MPC) 기타other proper name) - MPO
+      의존명사(bound noun) - MD　
+      대명사(pronoun) - T정칭(TC)사람(TCH) 사물(TOT)
+      재귀(TS)사람(TSH) 사물(TST)
+      의문/부정(TO)사람(TOH) 사물(TOT)
+      수사(numeral) - S양수사(SC) 서수사(SO)
+      용언동사(verb) - D규칙(regular verb) - DR　
+      불규칙(irregular verb) - DIㄷ불규칙(DIㄷ) ㄹ불규칙(DIㄹ) ㅂ불규칙(DIㅂ) ㅅ불규칙(DIㅅ) 르불규칙(DI르) 
+      으불규칙(DI으) 여불규칙(DI여) 거라불규칙(DI거라) 너라불규칙(DI너라)
+      형용사(adjective) - H규칙(regular adjective) - HR　
+      불규칙(irregular adjective) - HIㄹ불규칙(HIㄹ) ㅎ불규칙(HIㅎ) ㅂ불규칙(HIㅂ) ㅅ불규칙(HIㅅ) 
+      르불규칙(HI르) 으불규칙(HI으) 여불규칙(HI여)
+      보조용언(auxiliary verb) - b동사(bD)규칙(bDR) 불규칙(bDI)
+      형용사(bH)규칙(bDR) 불규칙(bDI)
+      존재사(bE)　
+      존재사(existential predicate) - E　
+      지정사(i-predicative particle) - I　
+      수식언관형사(adnoun) - G성상(GC) 지시(GP) 수량(GS)
+      부사(adverb) - B문장연결(BJ) 과정(BP) 부정(Bb) 공간(BS) 시간(BT)양태(BM) 수량(BN) 정도(BD) 
+      간투사(BI)
+      독립언감탄사(interjection) - K　
+      관계언조사(particle) - j격조사(case particle) - jC 보조사(auxiliary particle) - jS 
+      기타조사(other particle) - jO
+      　어미(ending) - e문법어미(eG)어말어미(final ending) - eGE서술(eGEs) 의문(eGEu) 명령(eGEm) 
+      청유(eGEc) 약속(eGEy) 미정(eGEx)
+      선어말어미(prefinal ending) - eGS시제(eGSt) 존재(eGSp) 양태(eGsm)
+      복합문(eC)내포문(eCN)동사구내포(eCND)인용(quote conj ending) - eCNDC 보조연결(aux aonj 
+      ending) - eCNDI
+      명사구내포(eCNM)명사형전성(nominal ending) - eCNMM 관형사형전성(adnominal ending) - eCNMG
+      부사구내포(adverbial ending) - eCNB　
+      접속문(conjunctive ending) - eCC　
+      접사접두사(prefix) - +명사결합(+M), 용언결합(+Y)
+      접미사(suffix) - -인명(-N), 복수(-b), 부사화(-B), 수량(-n), ‘적’(-적), ‘화’(-화), 기타(-O)
+      조용사(predicative particle) - y동사(yD)규칙(yDR) 불규칙(yDI)
+      형용사(yH)규칙(yHR) 불규칙(yHI)
+
+　
+　

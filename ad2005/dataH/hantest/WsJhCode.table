@@ -1,0 +1,4805 @@
+ADHOME = D:\SVN\ad2005
+jaso2jh() wrong!8861 -  2 3 1
+jaso2jh() wrong!8862 -  2 3 2
+jaso2jh() wrong!8865 -  2 3 5
+jaso2jh() wrong!8868 -  2 3 8
+jaso2jh() wrong!8869 -  2 3 9
+jaso2jh() wrong!886A -  2 3 A
+jaso2jh() wrong!886B -  2 3 B
+jaso2jh() wrong!8871 -  2 3 11
+jaso2jh() wrong!8873 -  2 3 13
+jaso2jh() wrong!8874 -  2 3 14
+jaso2jh() wrong!8875 -  2 3 15
+jaso2jh() wrong!8876 -  2 3 16
+jaso2jh() wrong!8877 -  2 3 17
+jaso2jh() wrong!8878 -  2 3 18
+jaso2jh() wrong!8879 -  2 3 19
+jaso2jh() wrong!887B -  2 3 1B
+jaso2jh() wrong!887C -  2 3 1C
+jaso2jh() wrong!887D -  2 3 1D
+jaso2jh() wrong!8881 -  2 4 1
+jaso2jh() wrong!8882 -  2 4 2
+jaso2jh() wrong!8885 -  2 4 5
+jaso2jh() wrong!8889 -  2 4 9
+jaso2jh() wrong!8891 -  2 4 11
+jaso2jh() wrong!8893 -  2 4 13
+jaso2jh() wrong!8895 -  2 4 15
+jaso2jh() wrong!8896 -  2 4 16
+jaso2jh() wrong!8897 -  2 4 17
+jaso2jh() wrong!88A1 -  2 5 1
+jaso2jh() wrong!88A2 -  2 5 2
+jaso2jh() wrong!88A5 -  2 5 5
+jaso2jh() wrong!88A9 -  2 5 9
+jaso2jh() wrong!88B5 -  2 5 15
+jaso2jh() wrong!88B7 -  2 5 17
+jaso2jh() wrong!88C1 -  2 6 1
+jaso2jh() wrong!88C5 -  2 6 5
+jaso2jh() wrong!88C9 -  2 6 9
+jaso2jh() wrong!88E1 -  2 7 1
+jaso2jh() wrong!88E2 -  2 7 2
+jaso2jh() wrong!88E5 -  2 7 5
+jaso2jh() wrong!88E8 -  2 7 8
+jaso2jh() wrong!88E9 -  2 7 9
+jaso2jh() wrong!88EB -  2 7 B
+jaso2jh() wrong!88F1 -  2 7 11
+jaso2jh() wrong!88F3 -  2 7 13
+jaso2jh() wrong!88F5 -  2 7 15
+jaso2jh() wrong!88F6 -  2 7 16
+jaso2jh() wrong!88F7 -  2 7 17
+jaso2jh() wrong!88F8 -  2 7 18
+jaso2jh() wrong!88FB -  2 7 1B
+jaso2jh() wrong!88FC -  2 7 1C
+jaso2jh() wrong!88FD -  2 7 1D
+jaso2jh() wrong!8941 -  2 A 1
+jaso2jh() wrong!8945 -  2 A 5
+jaso2jh() wrong!8949 -  2 A 9
+jaso2jh() wrong!8951 -  2 A 11
+jaso2jh() wrong!8953 -  2 A 13
+jaso2jh() wrong!8955 -  2 A 15
+jaso2jh() wrong!8956 -  2 A 16
+jaso2jh() wrong!8957 -  2 A 17
+jaso2jh() wrong!8961 -  2 B 1
+jaso2jh() wrong!8962 -  2 B 2
+jaso2jh() wrong!8963 -  2 B 3
+jaso2jh() wrong!8965 -  2 B 5
+jaso2jh() wrong!8968 -  2 B 8
+jaso2jh() wrong!8969 -  2 B 9
+jaso2jh() wrong!8971 -  2 B 11
+jaso2jh() wrong!8973 -  2 B 13
+jaso2jh() wrong!8975 -  2 B 15
+jaso2jh() wrong!8976 -  2 B 16
+jaso2jh() wrong!8977 -  2 B 17
+jaso2jh() wrong!897B -  2 B 1B
+jaso2jh() wrong!8981 -  2 C 1
+jaso2jh() wrong!8985 -  2 C 5
+jaso2jh() wrong!8989 -  2 C 9
+jaso2jh() wrong!8993 -  2 C 13
+jaso2jh() wrong!8995 -  2 C 15
+jaso2jh() wrong!89A1 -  2 D 1
+jaso2jh() wrong!89A2 -  2 D 2
+jaso2jh() wrong!89A5 -  2 D 5
+jaso2jh() wrong!89A8 -  2 D 8
+jaso2jh() wrong!89A9 -  2 D 9
+jaso2jh() wrong!89AB -  2 D B
+jaso2jh() wrong!89AD -  2 D D
+jaso2jh() wrong!89B0 -  2 D 10
+jaso2jh() wrong!89B1 -  2 D 11
+jaso2jh() wrong!89B3 -  2 D 13
+jaso2jh() wrong!89B5 -  2 D 15
+jaso2jh() wrong!89B7 -  2 D 17
+jaso2jh() wrong!89B8 -  2 D 18
+jaso2jh() wrong!89C1 -  2 E 1
+jaso2jh() wrong!89C2 -  2 E 2
+jaso2jh() wrong!89C5 -  2 E 5
+jaso2jh() wrong!89C9 -  2 E 9
+jaso2jh() wrong!89CB -  2 E B
+jaso2jh() wrong!89D1 -  2 E 11
+jaso2jh() wrong!89D3 -  2 E 13
+jaso2jh() wrong!89D5 -  2 E 15
+jaso2jh() wrong!89D7 -  2 E 17
+jaso2jh() wrong!89E1 -  2 F 1
+jaso2jh() wrong!89E5 -  2 F 5
+jaso2jh() wrong!89E9 -  2 F 9
+jaso2jh() wrong!89F1 -  2 F 11
+jaso2jh() wrong!89F6 -  2 F 16
+jaso2jh() wrong!89F7 -  2 F 17
+jaso2jh() wrong!8A41 -  2 12 1
+jaso2jh() wrong!8A42 -  2 12 2
+jaso2jh() wrong!8A45 -  2 12 5
+jaso2jh() wrong!8A49 -  2 12 9
+jaso2jh() wrong!8A51 -  2 12 11
+jaso2jh() wrong!8A53 -  2 12 13
+jaso2jh() wrong!8A55 -  2 12 15
+jaso2jh() wrong!8A57 -  2 12 17
+jaso2jh() wrong!8A61 -  2 13 1
+jaso2jh() wrong!8A65 -  2 13 5
+jaso2jh() wrong!8A69 -  2 13 9
+jaso2jh() wrong!8A73 -  2 13 13
+jaso2jh() wrong!8A75 -  2 13 15
+jaso2jh() wrong!8A81 -  2 14 1
+jaso2jh() wrong!8A82 -  2 14 2
+jaso2jh() wrong!8A85 -  2 14 5
+jaso2jh() wrong!8A88 -  2 14 8
+jaso2jh() wrong!8A89 -  2 14 9
+jaso2jh() wrong!8A8A -  2 14 A
+jaso2jh() wrong!8A8B -  2 14 B
+jaso2jh() wrong!8A90 -  2 14 10
+jaso2jh() wrong!8A91 -  2 14 11
+jaso2jh() wrong!8A93 -  2 14 13
+jaso2jh() wrong!8A95 -  2 14 15
+jaso2jh() wrong!8A97 -  2 14 17
+jaso2jh() wrong!8A98 -  2 14 18
+jaso2jh() wrong!8AA1 -  2 15 1
+jaso2jh() wrong!8AA2 -  2 15 2
+jaso2jh() wrong!8AA5 -  2 15 5
+jaso2jh() wrong!8AA9 -  2 15 9
+jaso2jh() wrong!8AB6 -  2 15 16
+jaso2jh() wrong!8AB7 -  2 15 17
+jaso2jh() wrong!8AC1 -  2 16 1
+jaso2jh() wrong!8AD5 -  2 16 15
+jaso2jh() wrong!8AE1 -  2 17 1
+jaso2jh() wrong!8AE2 -  2 17 2
+jaso2jh() wrong!8AE5 -  2 17 5
+jaso2jh() wrong!8AE9 -  2 17 9
+jaso2jh() wrong!8AF1 -  2 17 11
+jaso2jh() wrong!8AF3 -  2 17 13
+jaso2jh() wrong!8AF5 -  2 17 15
+jaso2jh() wrong!8B41 -  2 1A 1
+jaso2jh() wrong!8B45 -  2 1A 5
+jaso2jh() wrong!8B49 -  2 1A 9
+jaso2jh() wrong!8B61 -  2 1B 1
+jaso2jh() wrong!8B62 -  2 1B 2
+jaso2jh() wrong!8B65 -  2 1B 5
+jaso2jh() wrong!8B68 -  2 1B 8
+jaso2jh() wrong!8B69 -  2 1B 9
+jaso2jh() wrong!8B6A -  2 1B A
+jaso2jh() wrong!8B71 -  2 1B 11
+jaso2jh() wrong!8B73 -  2 1B 13
+jaso2jh() wrong!8B75 -  2 1B 15
+jaso2jh() wrong!8B77 -  2 1B 17
+jaso2jh() wrong!8B81 -  2 1C 1
+jaso2jh() wrong!8BA1 -  2 1D 1
+jaso2jh() wrong!8BA2 -  2 1D 2
+jaso2jh() wrong!8BA5 -  2 1D 5
+jaso2jh() wrong!8BA8 -  2 1D 8
+jaso2jh() wrong!8BA9 -  2 1D 9
+jaso2jh() wrong!8BAB -  2 1D B
+jaso2jh() wrong!8BB1 -  2 1D 11
+jaso2jh() wrong!8BB3 -  2 1D 13
+jaso2jh() wrong!8BB5 -  2 1D 15
+jaso2jh() wrong!8BB7 -  2 1D 17
+jaso2jh() wrong!8BB8 -  2 1D 18
+jaso2jh() wrong!8BBC -  2 1D 1C
+jaso2jh() wrong!8C61 -  3 3 1
+jaso2jh() wrong!8C62 -  3 3 2
+jaso2jh() wrong!8C63 -  3 3 3
+jaso2jh() wrong!8C65 -  3 3 5
+jaso2jh() wrong!8C69 -  3 3 9
+jaso2jh() wrong!8C6B -  3 3 B
+jaso2jh() wrong!8C71 -  3 3 11
+jaso2jh() wrong!8C73 -  3 3 13
+jaso2jh() wrong!8C75 -  3 3 15
+jaso2jh() wrong!8C76 -  3 3 16
+jaso2jh() wrong!8C77 -  3 3 17
+jaso2jh() wrong!8C7B -  3 3 1B
+jaso2jh() wrong!8C81 -  3 4 1
+jaso2jh() wrong!8C82 -  3 4 2
+jaso2jh() wrong!8C85 -  3 4 5
+jaso2jh() wrong!8C89 -  3 4 9
+jaso2jh() wrong!8C91 -  3 4 11
+jaso2jh() wrong!8C93 -  3 4 13
+jaso2jh() wrong!8C95 -  3 4 15
+jaso2jh() wrong!8C96 -  3 4 16
+jaso2jh() wrong!8C97 -  3 4 17
+jaso2jh() wrong!8CA1 -  3 5 1
+jaso2jh() wrong!8CA2 -  3 5 2
+jaso2jh() wrong!8CA9 -  3 5 9
+jaso2jh() wrong!8CE1 -  3 7 1
+jaso2jh() wrong!8CE2 -  3 7 2
+jaso2jh() wrong!8CE3 -  3 7 3
+jaso2jh() wrong!8CE5 -  3 7 5
+jaso2jh() wrong!8CE9 -  3 7 9
+jaso2jh() wrong!8CF1 -  3 7 11
+jaso2jh() wrong!8CF3 -  3 7 13
+jaso2jh() wrong!8CF5 -  3 7 15
+jaso2jh() wrong!8CF6 -  3 7 16
+jaso2jh() wrong!8CF7 -  3 7 17
+jaso2jh() wrong!8D41 -  3 A 1
+jaso2jh() wrong!8D42 -  3 A 2
+jaso2jh() wrong!8D45 -  3 A 5
+jaso2jh() wrong!8D51 -  3 A 11
+jaso2jh() wrong!8D55 -  3 A 15
+jaso2jh() wrong!8D57 -  3 A 17
+jaso2jh() wrong!8D61 -  3 B 1
+jaso2jh() wrong!8D65 -  3 B 5
+jaso2jh() wrong!8D69 -  3 B 9
+jaso2jh() wrong!8D75 -  3 B 15
+jaso2jh() wrong!8D76 -  3 B 16
+jaso2jh() wrong!8D7B -  3 B 1B
+jaso2jh() wrong!8D81 -  3 C 1
+jaso2jh() wrong!8DA1 -  3 D 1
+jaso2jh() wrong!8DA2 -  3 D 2
+jaso2jh() wrong!8DA5 -  3 D 5
+jaso2jh() wrong!8DA7 -  3 D 7
+jaso2jh() wrong!8DA9 -  3 D 9
+jaso2jh() wrong!8DB1 -  3 D 11
+jaso2jh() wrong!8DB3 -  3 D 13
+jaso2jh() wrong!8DB5 -  3 D 15
+jaso2jh() wrong!8DB7 -  3 D 17
+jaso2jh() wrong!8DB8 -  3 D 18
+jaso2jh() wrong!8DB9 -  3 D 19
+jaso2jh() wrong!8DC1 -  3 E 1
+jaso2jh() wrong!8DC2 -  3 E 2
+jaso2jh() wrong!8DC9 -  3 E 9
+jaso2jh() wrong!8DD6 -  3 E 16
+jaso2jh() wrong!8DD7 -  3 E 17
+jaso2jh() wrong!8DE1 -  3 F 1
+jaso2jh() wrong!8DE2 -  3 F 2
+jaso2jh() wrong!8DF7 -  3 F 17
+jaso2jh() wrong!8E41 -  3 12 1
+jaso2jh() wrong!8E45 -  3 12 5
+jaso2jh() wrong!8E49 -  3 12 9
+jaso2jh() wrong!8E51 -  3 12 11
+jaso2jh() wrong!8E53 -  3 12 13
+jaso2jh() wrong!8E57 -  3 12 17
+jaso2jh() wrong!8E61 -  3 13 1
+jaso2jh() wrong!8E81 -  3 14 1
+jaso2jh() wrong!8E82 -  3 14 2
+jaso2jh() wrong!8E85 -  3 14 5
+jaso2jh() wrong!8E89 -  3 14 9
+jaso2jh() wrong!8E90 -  3 14 10
+jaso2jh() wrong!8E91 -  3 14 11
+jaso2jh() wrong!8E93 -  3 14 13
+jaso2jh() wrong!8E95 -  3 14 15
+jaso2jh() wrong!8E97 -  3 14 17
+jaso2jh() wrong!8E98 -  3 14 18
+jaso2jh() wrong!8EA1 -  3 15 1
+jaso2jh() wrong!8EA9 -  3 15 9
+jaso2jh() wrong!8EB6 -  3 15 16
+jaso2jh() wrong!8EB7 -  3 15 17
+jaso2jh() wrong!8EC1 -  3 16 1
+jaso2jh() wrong!8EC2 -  3 16 2
+jaso2jh() wrong!8EC5 -  3 16 5
+jaso2jh() wrong!8EC9 -  3 16 9
+jaso2jh() wrong!8ED1 -  3 16 11
+jaso2jh() wrong!8ED3 -  3 16 13
+jaso2jh() wrong!8ED6 -  3 16 16
+jaso2jh() wrong!8EE1 -  3 17 1
+jaso2jh() wrong!8EE5 -  3 17 5
+jaso2jh() wrong!8EE9 -  3 17 9
+jaso2jh() wrong!8EF1 -  3 17 11
+jaso2jh() wrong!8EF3 -  3 17 13
+jaso2jh() wrong!8F41 -  3 1A 1
+jaso2jh() wrong!8F61 -  3 1B 1
+jaso2jh() wrong!8F62 -  3 1B 2
+jaso2jh() wrong!8F65 -  3 1B 5
+jaso2jh() wrong!8F67 -  3 1B 7
+jaso2jh() wrong!8F69 -  3 1B 9
+jaso2jh() wrong!8F6B -  3 1B B
+jaso2jh() wrong!8F70 -  3 1B 10
+jaso2jh() wrong!8F71 -  3 1B 11
+jaso2jh() wrong!8F73 -  3 1B 13
+jaso2jh() wrong!8F75 -  3 1B 15
+jaso2jh() wrong!8F77 -  3 1B 17
+jaso2jh() wrong!8F7B -  3 1B 1B
+jaso2jh() wrong!8FA1 -  3 1D 1
+jaso2jh() wrong!8FA2 -  3 1D 2
+jaso2jh() wrong!8FA5 -  3 1D 5
+jaso2jh() wrong!8FA9 -  3 1D 9
+jaso2jh() wrong!8FB1 -  3 1D 11
+jaso2jh() wrong!8FB3 -  3 1D 13
+jaso2jh() wrong!8FB5 -  3 1D 15
+jaso2jh() wrong!8FB7 -  3 1D 17
+jaso2jh() wrong!9061 -  4 3 1
+jaso2jh() wrong!9062 -  4 3 2
+jaso2jh() wrong!9063 -  4 3 3
+jaso2jh() wrong!9065 -  4 3 5
+jaso2jh() wrong!9068 -  4 3 8
+jaso2jh() wrong!9069 -  4 3 9
+jaso2jh() wrong!906A -  4 3 A
+jaso2jh() wrong!906B -  4 3 B
+jaso2jh() wrong!9071 -  4 3 11
+jaso2jh() wrong!9073 -  4 3 13
+jaso2jh() wrong!9075 -  4 3 15
+jaso2jh() wrong!9076 -  4 3 16
+jaso2jh() wrong!9077 -  4 3 17
+jaso2jh() wrong!9078 -  4 3 18
+jaso2jh() wrong!9079 -  4 3 19
+jaso2jh() wrong!907B -  4 3 1B
+jaso2jh() wrong!907D -  4 3 1D
+jaso2jh() wrong!9081 -  4 4 1
+jaso2jh() wrong!9082 -  4 4 2
+jaso2jh() wrong!9085 -  4 4 5
+jaso2jh() wrong!9089 -  4 4 9
+jaso2jh() wrong!9091 -  4 4 11
+jaso2jh() wrong!9093 -  4 4 13
+jaso2jh() wrong!9095 -  4 4 15
+jaso2jh() wrong!9096 -  4 4 16
+jaso2jh() wrong!9097 -  4 4 17
+jaso2jh() wrong!90A1 -  4 5 1
+jaso2jh() wrong!90A2 -  4 5 2
+jaso2jh() wrong!90A5 -  4 5 5
+jaso2jh() wrong!90A9 -  4 5 9
+jaso2jh() wrong!90B1 -  4 5 11
+jaso2jh() wrong!90B7 -  4 5 17
+jaso2jh() wrong!90E1 -  4 7 1
+jaso2jh() wrong!90E2 -  4 7 2
+jaso2jh() wrong!90E4 -  4 7 4
+jaso2jh() wrong!90E5 -  4 7 5
+jaso2jh() wrong!90E9 -  4 7 9
+jaso2jh() wrong!90EB -  4 7 B
+jaso2jh() wrong!90EC -  4 7 C
+jaso2jh() wrong!90F1 -  4 7 11
+jaso2jh() wrong!90F3 -  4 7 13
+jaso2jh() wrong!90F5 -  4 7 15
+jaso2jh() wrong!90F6 -  4 7 16
+jaso2jh() wrong!90F7 -  4 7 17
+jaso2jh() wrong!90FD -  4 7 1D
+jaso2jh() wrong!9141 -  4 A 1
+jaso2jh() wrong!9142 -  4 A 2
+jaso2jh() wrong!9145 -  4 A 5
+jaso2jh() wrong!9149 -  4 A 9
+jaso2jh() wrong!9151 -  4 A 11
+jaso2jh() wrong!9153 -  4 A 13
+jaso2jh() wrong!9155 -  4 A 15
+jaso2jh() wrong!9156 -  4 A 16
+jaso2jh() wrong!9157 -  4 A 17
+jaso2jh() wrong!9161 -  4 B 1
+jaso2jh() wrong!9162 -  4 B 2
+jaso2jh() wrong!9165 -  4 B 5
+jaso2jh() wrong!9169 -  4 B 9
+jaso2jh() wrong!9171 -  4 B 11
+jaso2jh() wrong!9173 -  4 B 13
+jaso2jh() wrong!9176 -  4 B 16
+jaso2jh() wrong!9177 -  4 B 17
+jaso2jh() wrong!917A -  4 B 1A
+jaso2jh() wrong!9181 -  4 C 1
+jaso2jh() wrong!9185 -  4 C 5
+jaso2jh() wrong!91A1 -  4 D 1
+jaso2jh() wrong!91A2 -  4 D 2
+jaso2jh() wrong!91A5 -  4 D 5
+jaso2jh() wrong!91A9 -  4 D 9
+jaso2jh() wrong!91AB -  4 D B
+jaso2jh() wrong!91B1 -  4 D 11
+jaso2jh() wrong!91B3 -  4 D 13
+jaso2jh() wrong!91B5 -  4 D 15
+jaso2jh() wrong!91B7 -  4 D 17
+jaso2jh() wrong!91BC -  4 D 1C
+jaso2jh() wrong!91BD -  4 D 1D
+jaso2jh() wrong!91C1 -  4 E 1
+jaso2jh() wrong!91C5 -  4 E 5
+jaso2jh() wrong!91C9 -  4 E 9
+jaso2jh() wrong!91D6 -  4 E 16
+jaso2jh() wrong!9241 -  4 12 1
+jaso2jh() wrong!9245 -  4 12 5
+jaso2jh() wrong!9249 -  4 12 9
+jaso2jh() wrong!9251 -  4 12 11
+jaso2jh() wrong!9253 -  4 12 13
+jaso2jh() wrong!9255 -  4 12 15
+jaso2jh() wrong!9261 -  4 13 1
+jaso2jh() wrong!9262 -  4 13 2
+jaso2jh() wrong!9265 -  4 13 5
+jaso2jh() wrong!9269 -  4 13 9
+jaso2jh() wrong!9273 -  4 13 13
+jaso2jh() wrong!9275 -  4 13 15
+jaso2jh() wrong!9277 -  4 13 17
+jaso2jh() wrong!9281 -  4 14 1
+jaso2jh() wrong!9282 -  4 14 2
+jaso2jh() wrong!9285 -  4 14 5
+jaso2jh() wrong!9288 -  4 14 8
+jaso2jh() wrong!9289 -  4 14 9
+jaso2jh() wrong!9291 -  4 14 11
+jaso2jh() wrong!9293 -  4 14 13
+jaso2jh() wrong!9295 -  4 14 15
+jaso2jh() wrong!9297 -  4 14 17
+jaso2jh() wrong!92A1 -  4 15 1
+jaso2jh() wrong!92B6 -  4 15 16
+jaso2jh() wrong!92C1 -  4 16 1
+jaso2jh() wrong!92E1 -  4 17 1
+jaso2jh() wrong!92E5 -  4 17 5
+jaso2jh() wrong!92E9 -  4 17 9
+jaso2jh() wrong!92F1 -  4 17 11
+jaso2jh() wrong!92F3 -  4 17 13
+jaso2jh() wrong!9341 -  4 1A 1
+jaso2jh() wrong!9342 -  4 1A 2
+jaso2jh() wrong!9349 -  4 1A 9
+jaso2jh() wrong!9351 -  4 1A 11
+jaso2jh() wrong!9353 -  4 1A 13
+jaso2jh() wrong!9357 -  4 1A 17
+jaso2jh() wrong!9361 -  4 1B 1
+jaso2jh() wrong!9362 -  4 1B 2
+jaso2jh() wrong!9365 -  4 1B 5
+jaso2jh() wrong!9369 -  4 1B 9
+jaso2jh() wrong!936A -  4 1B A
+jaso2jh() wrong!936B -  4 1B B
+jaso2jh() wrong!9371 -  4 1B 11
+jaso2jh() wrong!9373 -  4 1B 13
+jaso2jh() wrong!9375 -  4 1B 15
+jaso2jh() wrong!9377 -  4 1B 17
+jaso2jh() wrong!9378 -  4 1B 18
+jaso2jh() wrong!937C -  4 1B 1C
+jaso2jh() wrong!9381 -  4 1C 1
+jaso2jh() wrong!9385 -  4 1C 5
+jaso2jh() wrong!9389 -  4 1C 9
+jaso2jh() wrong!93A1 -  4 1D 1
+jaso2jh() wrong!93A2 -  4 1D 2
+jaso2jh() wrong!93A5 -  4 1D 5
+jaso2jh() wrong!93A9 -  4 1D 9
+jaso2jh() wrong!93AF -  4 1D F
+jaso2jh() wrong!93B1 -  4 1D 11
+jaso2jh() wrong!93B3 -  4 1D 13
+jaso2jh() wrong!93B5 -  4 1D 15
+jaso2jh() wrong!93B7 -  4 1D 17
+jaso2jh() wrong!93BC -  4 1D 1C
+jaso2jh() wrong!9461 -  5 3 1
+jaso2jh() wrong!9462 -  5 3 2
+jaso2jh() wrong!9463 -  5 3 3
+jaso2jh() wrong!9465 -  5 3 5
+jaso2jh() wrong!9468 -  5 3 8
+jaso2jh() wrong!9469 -  5 3 9
+jaso2jh() wrong!946A -  5 3 A
+jaso2jh() wrong!946B -  5 3 B
+jaso2jh() wrong!946C -  5 3 C
+jaso2jh() wrong!9470 -  5 3 10
+jaso2jh() wrong!9471 -  5 3 11
+jaso2jh() wrong!9473 -  5 3 13
+jaso2jh() wrong!9475 -  5 3 15
+jaso2jh() wrong!9476 -  5 3 16
+jaso2jh() wrong!9477 -  5 3 17
+jaso2jh() wrong!9478 -  5 3 18
+jaso2jh() wrong!9479 -  5 3 19
+jaso2jh() wrong!947D -  5 3 1D
+jaso2jh() wrong!9481 -  5 4 1
+jaso2jh() wrong!9482 -  5 4 2
+jaso2jh() wrong!9485 -  5 4 5
+jaso2jh() wrong!9489 -  5 4 9
+jaso2jh() wrong!9491 -  5 4 11
+jaso2jh() wrong!9493 -  5 4 13
+jaso2jh() wrong!9495 -  5 4 15
+jaso2jh() wrong!9496 -  5 4 16
+jaso2jh() wrong!9497 -  5 4 17
+jaso2jh() wrong!94A1 -  5 5 1
+jaso2jh() wrong!94E1 -  5 7 1
+jaso2jh() wrong!94E2 -  5 7 2
+jaso2jh() wrong!94E3 -  5 7 3
+jaso2jh() wrong!94E5 -  5 7 5
+jaso2jh() wrong!94E8 -  5 7 8
+jaso2jh() wrong!94E9 -  5 7 9
+jaso2jh() wrong!94EB -  5 7 B
+jaso2jh() wrong!94EC -  5 7 C
+jaso2jh() wrong!94F1 -  5 7 11
+jaso2jh() wrong!94F3 -  5 7 13
+jaso2jh() wrong!94F5 -  5 7 15
+jaso2jh() wrong!94F7 -  5 7 17
+jaso2jh() wrong!94F9 -  5 7 19
+jaso2jh() wrong!94FC -  5 7 1C
+jaso2jh() wrong!9541 -  5 A 1
+jaso2jh() wrong!9542 -  5 A 2
+jaso2jh() wrong!9545 -  5 A 5
+jaso2jh() wrong!9549 -  5 A 9
+jaso2jh() wrong!9551 -  5 A 11
+jaso2jh() wrong!9553 -  5 A 13
+jaso2jh() wrong!9555 -  5 A 15
+jaso2jh() wrong!9556 -  5 A 16
+jaso2jh() wrong!9557 -  5 A 17
+jaso2jh() wrong!9561 -  5 B 1
+jaso2jh() wrong!9565 -  5 B 5
+jaso2jh() wrong!9569 -  5 B 9
+jaso2jh() wrong!9576 -  5 B 16
+jaso2jh() wrong!9577 -  5 B 17
+jaso2jh() wrong!9581 -  5 C 1
+jaso2jh() wrong!9585 -  5 C 5
+jaso2jh() wrong!95A1 -  5 D 1
+jaso2jh() wrong!95A2 -  5 D 2
+jaso2jh() wrong!95A5 -  5 D 5
+jaso2jh() wrong!95A8 -  5 D 8
+jaso2jh() wrong!95A9 -  5 D 9
+jaso2jh() wrong!95AB -  5 D B
+jaso2jh() wrong!95AD -  5 D D
+jaso2jh() wrong!95B1 -  5 D 11
+jaso2jh() wrong!95B3 -  5 D 13
+jaso2jh() wrong!95B5 -  5 D 15
+jaso2jh() wrong!95B7 -  5 D 17
+jaso2jh() wrong!95B9 -  5 D 19
+jaso2jh() wrong!95BB -  5 D 1B
+jaso2jh() wrong!95C1 -  5 E 1
+jaso2jh() wrong!95C5 -  5 E 5
+jaso2jh() wrong!95C9 -  5 E 9
+jaso2jh() wrong!95E1 -  5 F 1
+jaso2jh() wrong!95F6 -  5 F 16
+jaso2jh() wrong!9641 -  5 12 1
+jaso2jh() wrong!9645 -  5 12 5
+jaso2jh() wrong!9649 -  5 12 9
+jaso2jh() wrong!9651 -  5 12 11
+jaso2jh() wrong!9653 -  5 12 13
+jaso2jh() wrong!9655 -  5 12 15
+jaso2jh() wrong!9661 -  5 13 1
+jaso2jh() wrong!9681 -  5 14 1
+jaso2jh() wrong!9682 -  5 14 2
+jaso2jh() wrong!9685 -  5 14 5
+jaso2jh() wrong!9689 -  5 14 9
+jaso2jh() wrong!9691 -  5 14 11
+jaso2jh() wrong!9693 -  5 14 13
+jaso2jh() wrong!9695 -  5 14 15
+jaso2jh() wrong!9697 -  5 14 17
+jaso2jh() wrong!96A1 -  5 15 1
+jaso2jh() wrong!96B6 -  5 15 16
+jaso2jh() wrong!96C1 -  5 16 1
+jaso2jh() wrong!96D7 -  5 16 17
+jaso2jh() wrong!96E1 -  5 17 1
+jaso2jh() wrong!96E5 -  5 17 5
+jaso2jh() wrong!96E9 -  5 17 9
+jaso2jh() wrong!96F3 -  5 17 13
+jaso2jh() wrong!96F5 -  5 17 15
+jaso2jh() wrong!96F7 -  5 17 17
+jaso2jh() wrong!9741 -  5 1A 1
+jaso2jh() wrong!9745 -  5 1A 5
+jaso2jh() wrong!9749 -  5 1A 9
+jaso2jh() wrong!9751 -  5 1A 11
+jaso2jh() wrong!9757 -  5 1A 17
+jaso2jh() wrong!9761 -  5 1B 1
+jaso2jh() wrong!9762 -  5 1B 2
+jaso2jh() wrong!9765 -  5 1B 5
+jaso2jh() wrong!9768 -  5 1B 8
+jaso2jh() wrong!9769 -  5 1B 9
+jaso2jh() wrong!976B -  5 1B B
+jaso2jh() wrong!9771 -  5 1B 11
+jaso2jh() wrong!9773 -  5 1B 13
+jaso2jh() wrong!9775 -  5 1B 15
+jaso2jh() wrong!9777 -  5 1B 17
+jaso2jh() wrong!9781 -  5 1C 1
+jaso2jh() wrong!97A1 -  5 1D 1
+jaso2jh() wrong!97A2 -  5 1D 2
+jaso2jh() wrong!97A5 -  5 1D 5
+jaso2jh() wrong!97A8 -  5 1D 8
+jaso2jh() wrong!97A9 -  5 1D 9
+jaso2jh() wrong!97B1 -  5 1D 11
+jaso2jh() wrong!97B3 -  5 1D 13
+jaso2jh() wrong!97B5 -  5 1D 15
+jaso2jh() wrong!97B6 -  5 1D 16
+jaso2jh() wrong!97B7 -  5 1D 17
+jaso2jh() wrong!97B8 -  5 1D 18
+jaso2jh() wrong!9861 -  6 3 1
+jaso2jh() wrong!9862 -  6 3 2
+jaso2jh() wrong!9865 -  6 3 5
+jaso2jh() wrong!9869 -  6 3 9
+jaso2jh() wrong!9871 -  6 3 11
+jaso2jh() wrong!9873 -  6 3 13
+jaso2jh() wrong!9875 -  6 3 15
+jaso2jh() wrong!9876 -  6 3 16
+jaso2jh() wrong!9877 -  6 3 17
+jaso2jh() wrong!987D -  6 3 1D
+jaso2jh() wrong!9881 -  6 4 1
+jaso2jh() wrong!9882 -  6 4 2
+jaso2jh() wrong!9885 -  6 4 5
+jaso2jh() wrong!9889 -  6 4 9
+jaso2jh() wrong!9891 -  6 4 11
+jaso2jh() wrong!9893 -  6 4 13
+jaso2jh() wrong!9895 -  6 4 15
+jaso2jh() wrong!9896 -  6 4 16
+jaso2jh() wrong!9897 -  6 4 17
+jaso2jh() wrong!98E1 -  6 7 1
+jaso2jh() wrong!98E2 -  6 7 2
+jaso2jh() wrong!98E5 -  6 7 5
+jaso2jh() wrong!98E9 -  6 7 9
+jaso2jh() wrong!98EB -  6 7 B
+jaso2jh() wrong!98EC -  6 7 C
+jaso2jh() wrong!98F1 -  6 7 11
+jaso2jh() wrong!98F3 -  6 7 13
+jaso2jh() wrong!98F5 -  6 7 15
+jaso2jh() wrong!98F6 -  6 7 16
+jaso2jh() wrong!98F7 -  6 7 17
+jaso2jh() wrong!98FD -  6 7 1D
+jaso2jh() wrong!9941 -  6 A 1
+jaso2jh() wrong!9942 -  6 A 2
+jaso2jh() wrong!9945 -  6 A 5
+jaso2jh() wrong!9949 -  6 A 9
+jaso2jh() wrong!9951 -  6 A 11
+jaso2jh() wrong!9953 -  6 A 13
+jaso2jh() wrong!9955 -  6 A 15
+jaso2jh() wrong!9956 -  6 A 16
+jaso2jh() wrong!9957 -  6 A 17
+jaso2jh() wrong!9961 -  6 B 1
+jaso2jh() wrong!9976 -  6 B 16
+jaso2jh() wrong!99A1 -  6 D 1
+jaso2jh() wrong!99A2 -  6 D 2
+jaso2jh() wrong!99A5 -  6 D 5
+jaso2jh() wrong!99A9 -  6 D 9
+jaso2jh() wrong!99B7 -  6 D 17
+jaso2jh() wrong!99C1 -  6 E 1
+jaso2jh() wrong!99C9 -  6 E 9
+jaso2jh() wrong!99E1 -  6 F 1
+jaso2jh() wrong!9A41 -  6 12 1
+jaso2jh() wrong!9A45 -  6 12 5
+jaso2jh() wrong!9A81 -  6 14 1
+jaso2jh() wrong!9A82 -  6 14 2
+jaso2jh() wrong!9A85 -  6 14 5
+jaso2jh() wrong!9A89 -  6 14 9
+jaso2jh() wrong!9A90 -  6 14 10
+jaso2jh() wrong!9A91 -  6 14 11
+jaso2jh() wrong!9A97 -  6 14 17
+jaso2jh() wrong!9AC1 -  6 16 1
+jaso2jh() wrong!9AE1 -  6 17 1
+jaso2jh() wrong!9AE5 -  6 17 5
+jaso2jh() wrong!9AE9 -  6 17 9
+jaso2jh() wrong!9AF1 -  6 17 11
+jaso2jh() wrong!9AF3 -  6 17 13
+jaso2jh() wrong!9AF7 -  6 17 17
+jaso2jh() wrong!9B61 -  6 1B 1
+jaso2jh() wrong!9B62 -  6 1B 2
+jaso2jh() wrong!9B65 -  6 1B 5
+jaso2jh() wrong!9B68 -  6 1B 8
+jaso2jh() wrong!9B69 -  6 1B 9
+jaso2jh() wrong!9B71 -  6 1B 11
+jaso2jh() wrong!9B73 -  6 1B 13
+jaso2jh() wrong!9B75 -  6 1B 15
+jaso2jh() wrong!9B81 -  6 1C 1
+jaso2jh() wrong!9B85 -  6 1C 5
+jaso2jh() wrong!9B89 -  6 1C 9
+jaso2jh() wrong!9B91 -  6 1C 11
+jaso2jh() wrong!9B93 -  6 1C 13
+jaso2jh() wrong!9BA1 -  6 1D 1
+jaso2jh() wrong!9BA5 -  6 1D 5
+jaso2jh() wrong!9BA9 -  6 1D 9
+jaso2jh() wrong!9BB1 -  6 1D 11
+jaso2jh() wrong!9BB3 -  6 1D 13
+jaso2jh() wrong!9BB5 -  6 1D 15
+jaso2jh() wrong!9BB7 -  6 1D 17
+jaso2jh() wrong!9C61 -  7 3 1
+jaso2jh() wrong!9C62 -  7 3 2
+jaso2jh() wrong!9C65 -  7 3 5
+jaso2jh() wrong!9C69 -  7 3 9
+jaso2jh() wrong!9C71 -  7 3 11
+jaso2jh() wrong!9C73 -  7 3 13
+jaso2jh() wrong!9C75 -  7 3 15
+jaso2jh() wrong!9C76 -  7 3 16
+jaso2jh() wrong!9C77 -  7 3 17
+jaso2jh() wrong!9C78 -  7 3 18
+jaso2jh() wrong!9C7C -  7 3 1C
+jaso2jh() wrong!9C7D -  7 3 1D
+jaso2jh() wrong!9C81 -  7 4 1
+jaso2jh() wrong!9C82 -  7 4 2
+jaso2jh() wrong!9C85 -  7 4 5
+jaso2jh() wrong!9C89 -  7 4 9
+jaso2jh() wrong!9C91 -  7 4 11
+jaso2jh() wrong!9C93 -  7 4 13
+jaso2jh() wrong!9C95 -  7 4 15
+jaso2jh() wrong!9C96 -  7 4 16
+jaso2jh() wrong!9C97 -  7 4 17
+jaso2jh() wrong!9CA1 -  7 5 1
+jaso2jh() wrong!9CA2 -  7 5 2
+jaso2jh() wrong!9CA5 -  7 5 5
+jaso2jh() wrong!9CB5 -  7 5 15
+jaso2jh() wrong!9CB7 -  7 5 17
+jaso2jh() wrong!9CE1 -  7 7 1
+jaso2jh() wrong!9CE2 -  7 7 2
+jaso2jh() wrong!9CE5 -  7 7 5
+jaso2jh() wrong!9CE9 -  7 7 9
+jaso2jh() wrong!9CF1 -  7 7 11
+jaso2jh() wrong!9CF3 -  7 7 13
+jaso2jh() wrong!9CF5 -  7 7 15
+jaso2jh() wrong!9CF6 -  7 7 16
+jaso2jh() wrong!9CF7 -  7 7 17
+jaso2jh() wrong!9CFD -  7 7 1D
+jaso2jh() wrong!9D41 -  7 A 1
+jaso2jh() wrong!9D42 -  7 A 2
+jaso2jh() wrong!9D45 -  7 A 5
+jaso2jh() wrong!9D49 -  7 A 9
+jaso2jh() wrong!9D51 -  7 A 11
+jaso2jh() wrong!9D53 -  7 A 13
+jaso2jh() wrong!9D55 -  7 A 15
+jaso2jh() wrong!9D57 -  7 A 17
+jaso2jh() wrong!9D61 -  7 B 1
+jaso2jh() wrong!9D62 -  7 B 2
+jaso2jh() wrong!9D65 -  7 B 5
+jaso2jh() wrong!9D69 -  7 B 9
+jaso2jh() wrong!9D71 -  7 B 11
+jaso2jh() wrong!9D73 -  7 B 13
+jaso2jh() wrong!9D75 -  7 B 15
+jaso2jh() wrong!9D76 -  7 B 16
+jaso2jh() wrong!9D77 -  7 B 17
+jaso2jh() wrong!9D81 -  7 C 1
+jaso2jh() wrong!9D85 -  7 C 5
+jaso2jh() wrong!9D93 -  7 C 13
+jaso2jh() wrong!9D95 -  7 C 15
+jaso2jh() wrong!9DA1 -  7 D 1
+jaso2jh() wrong!9DA2 -  7 D 2
+jaso2jh() wrong!9DA5 -  7 D 5
+jaso2jh() wrong!9DA9 -  7 D 9
+jaso2jh() wrong!9DB1 -  7 D 11
+jaso2jh() wrong!9DB3 -  7 D 13
+jaso2jh() wrong!9DB5 -  7 D 15
+jaso2jh() wrong!9DB7 -  7 D 17
+jaso2jh() wrong!9DC1 -  7 E 1
+jaso2jh() wrong!9DC5 -  7 E 5
+jaso2jh() wrong!9DD7 -  7 E 17
+jaso2jh() wrong!9DF6 -  7 F 16
+jaso2jh() wrong!9E41 -  7 12 1
+jaso2jh() wrong!9E45 -  7 12 5
+jaso2jh() wrong!9E49 -  7 12 9
+jaso2jh() wrong!9E51 -  7 12 11
+jaso2jh() wrong!9E53 -  7 12 13
+jaso2jh() wrong!9E55 -  7 12 15
+jaso2jh() wrong!9E57 -  7 12 17
+jaso2jh() wrong!9E61 -  7 13 1
+jaso2jh() wrong!9E65 -  7 13 5
+jaso2jh() wrong!9E69 -  7 13 9
+jaso2jh() wrong!9E73 -  7 13 13
+jaso2jh() wrong!9E75 -  7 13 15
+jaso2jh() wrong!9E77 -  7 13 17
+jaso2jh() wrong!9E81 -  7 14 1
+jaso2jh() wrong!9E82 -  7 14 2
+jaso2jh() wrong!9E85 -  7 14 5
+jaso2jh() wrong!9E89 -  7 14 9
+jaso2jh() wrong!9E91 -  7 14 11
+jaso2jh() wrong!9E93 -  7 14 13
+jaso2jh() wrong!9E95 -  7 14 15
+jaso2jh() wrong!9E97 -  7 14 17
+jaso2jh() wrong!9EA1 -  7 15 1
+jaso2jh() wrong!9EB6 -  7 15 16
+jaso2jh() wrong!9EC1 -  7 16 1
+jaso2jh() wrong!9EE1 -  7 17 1
+jaso2jh() wrong!9EE2 -  7 17 2
+jaso2jh() wrong!9EE5 -  7 17 5
+jaso2jh() wrong!9EE9 -  7 17 9
+jaso2jh() wrong!9EF1 -  7 17 11
+jaso2jh() wrong!9EF5 -  7 17 15
+jaso2jh() wrong!9EF7 -  7 17 17
+jaso2jh() wrong!9F41 -  7 1A 1
+jaso2jh() wrong!9F42 -  7 1A 2
+jaso2jh() wrong!9F45 -  7 1A 5
+jaso2jh() wrong!9F49 -  7 1A 9
+jaso2jh() wrong!9F51 -  7 1A 11
+jaso2jh() wrong!9F53 -  7 1A 13
+jaso2jh() wrong!9F55 -  7 1A 15
+jaso2jh() wrong!9F57 -  7 1A 17
+jaso2jh() wrong!9F61 -  7 1B 1
+jaso2jh() wrong!9F62 -  7 1B 2
+jaso2jh() wrong!9F65 -  7 1B 5
+jaso2jh() wrong!9F69 -  7 1B 9
+jaso2jh() wrong!9F71 -  7 1B 11
+jaso2jh() wrong!9F73 -  7 1B 13
+jaso2jh() wrong!9F75 -  7 1B 15
+jaso2jh() wrong!9F77 -  7 1B 17
+jaso2jh() wrong!9F78 -  7 1B 18
+jaso2jh() wrong!9F7B -  7 1B 1B
+jaso2jh() wrong!9F7C -  7 1B 1C
+jaso2jh() wrong!9FA1 -  7 1D 1
+jaso2jh() wrong!9FA2 -  7 1D 2
+jaso2jh() wrong!9FA5 -  7 1D 5
+jaso2jh() wrong!9FA9 -  7 1D 9
+jaso2jh() wrong!9FB1 -  7 1D 11
+jaso2jh() wrong!9FB3 -  7 1D 13
+jaso2jh() wrong!9FB5 -  7 1D 15
+jaso2jh() wrong!9FB7 -  7 1D 17
+jaso2jh() wrong!A061 -  8 3 1
+jaso2jh() wrong!A062 -  8 3 2
+jaso2jh() wrong!A065 -  8 3 5
+jaso2jh() wrong!A067 -  8 3 7
+jaso2jh() wrong!A068 -  8 3 8
+jaso2jh() wrong!A069 -  8 3 9
+jaso2jh() wrong!A06A -  8 3 A
+jaso2jh() wrong!A06B -  8 3 B
+jaso2jh() wrong!A071 -  8 3 11
+jaso2jh() wrong!A073 -  8 3 13
+jaso2jh() wrong!A075 -  8 3 15
+jaso2jh() wrong!A077 -  8 3 17
+jaso2jh() wrong!A078 -  8 3 18
+jaso2jh() wrong!A07B -  8 3 1B
+jaso2jh() wrong!A07D -  8 3 1D
+jaso2jh() wrong!A081 -  8 4 1
+jaso2jh() wrong!A082 -  8 4 2
+jaso2jh() wrong!A085 -  8 4 5
+jaso2jh() wrong!A089 -  8 4 9
+jaso2jh() wrong!A091 -  8 4 11
+jaso2jh() wrong!A093 -  8 4 13
+jaso2jh() wrong!A095 -  8 4 15
+jaso2jh() wrong!A096 -  8 4 16
+jaso2jh() wrong!A097 -  8 4 17
+jaso2jh() wrong!A098 -  8 4 18
+jaso2jh() wrong!A0A1 -  8 5 1
+jaso2jh() wrong!A0A2 -  8 5 2
+jaso2jh() wrong!A0A9 -  8 5 9
+jaso2jh() wrong!A0B7 -  8 5 17
+jaso2jh() wrong!A0E1 -  8 7 1
+jaso2jh() wrong!A0E2 -  8 7 2
+jaso2jh() wrong!A0E5 -  8 7 5
+jaso2jh() wrong!A0E9 -  8 7 9
+jaso2jh() wrong!A0EB -  8 7 B
+jaso2jh() wrong!A0F1 -  8 7 11
+jaso2jh() wrong!A0F3 -  8 7 13
+jaso2jh() wrong!A0F5 -  8 7 15
+jaso2jh() wrong!A0F7 -  8 7 17
+jaso2jh() wrong!A0F8 -  8 7 18
+jaso2jh() wrong!A0FD -  8 7 1D
+jaso2jh() wrong!A141 -  8 A 1
+jaso2jh() wrong!A142 -  8 A 2
+jaso2jh() wrong!A145 -  8 A 5
+jaso2jh() wrong!A149 -  8 A 9
+jaso2jh() wrong!A151 -  8 A 11
+jaso2jh() wrong!A153 -  8 A 13
+jaso2jh() wrong!A155 -  8 A 15
+jaso2jh() wrong!A156 -  8 A 16
+jaso2jh() wrong!A157 -  8 A 17
+jaso2jh() wrong!A161 -  8 B 1
+jaso2jh() wrong!A162 -  8 B 2
+jaso2jh() wrong!A165 -  8 B 5
+jaso2jh() wrong!A169 -  8 B 9
+jaso2jh() wrong!A175 -  8 B 15
+jaso2jh() wrong!A176 -  8 B 16
+jaso2jh() wrong!A177 -  8 B 17
+jaso2jh() wrong!A179 -  8 B 19
+jaso2jh() wrong!A181 -  8 C 1
+jaso2jh() wrong!A1A1 -  8 D 1
+jaso2jh() wrong!A1A2 -  8 D 2
+jaso2jh() wrong!A1A4 -  8 D 4
+jaso2jh() wrong!A1A5 -  8 D 5
+jaso2jh() wrong!A1A9 -  8 D 9
+jaso2jh() wrong!A1AB -  8 D B
+jaso2jh() wrong!A1B1 -  8 D 11
+jaso2jh() wrong!A1B3 -  8 D 13
+jaso2jh() wrong!A1B5 -  8 D 15
+jaso2jh() wrong!A1B7 -  8 D 17
+jaso2jh() wrong!A1C1 -  8 E 1
+jaso2jh() wrong!A1C5 -  8 E 5
+jaso2jh() wrong!A1D6 -  8 E 16
+jaso2jh() wrong!A1D7 -  8 E 17
+jaso2jh() wrong!A241 -  8 12 1
+jaso2jh() wrong!A245 -  8 12 5
+jaso2jh() wrong!A249 -  8 12 9
+jaso2jh() wrong!A253 -  8 12 13
+jaso2jh() wrong!A255 -  8 12 15
+jaso2jh() wrong!A257 -  8 12 17
+jaso2jh() wrong!A261 -  8 13 1
+jaso2jh() wrong!A265 -  8 13 5
+jaso2jh() wrong!A269 -  8 13 9
+jaso2jh() wrong!A273 -  8 13 13
+jaso2jh() wrong!A275 -  8 13 15
+jaso2jh() wrong!A281 -  8 14 1
+jaso2jh() wrong!A282 -  8 14 2
+jaso2jh() wrong!A283 -  8 14 3
+jaso2jh() wrong!A285 -  8 14 5
+jaso2jh() wrong!A288 -  8 14 8
+jaso2jh() wrong!A289 -  8 14 9
+jaso2jh() wrong!A28A -  8 14 A
+jaso2jh() wrong!A28B -  8 14 B
+jaso2jh() wrong!A291 -  8 14 11
+jaso2jh() wrong!A293 -  8 14 13
+jaso2jh() wrong!A295 -  8 14 15
+jaso2jh() wrong!A297 -  8 14 17
+jaso2jh() wrong!A29B -  8 14 1B
+jaso2jh() wrong!A29D -  8 14 1D
+jaso2jh() wrong!A2A1 -  8 15 1
+jaso2jh() wrong!A2A5 -  8 15 5
+jaso2jh() wrong!A2A9 -  8 15 9
+jaso2jh() wrong!A2B3 -  8 15 13
+jaso2jh() wrong!A2B5 -  8 15 15
+jaso2jh() wrong!A2C1 -  8 16 1
+jaso2jh() wrong!A2E1 -  8 17 1
+jaso2jh() wrong!A2E5 -  8 17 5
+jaso2jh() wrong!A2E9 -  8 17 9
+jaso2jh() wrong!A341 -  8 1A 1
+jaso2jh() wrong!A345 -  8 1A 5
+jaso2jh() wrong!A349 -  8 1A 9
+jaso2jh() wrong!A351 -  8 1A 11
+jaso2jh() wrong!A355 -  8 1A 15
+jaso2jh() wrong!A361 -  8 1B 1
+jaso2jh() wrong!A365 -  8 1B 5
+jaso2jh() wrong!A369 -  8 1B 9
+jaso2jh() wrong!A371 -  8 1B 11
+jaso2jh() wrong!A375 -  8 1B 15
+jaso2jh() wrong!A3A1 -  8 1D 1
+jaso2jh() wrong!A3A2 -  8 1D 2
+jaso2jh() wrong!A3A5 -  8 1D 5
+jaso2jh() wrong!A3A8 -  8 1D 8
+jaso2jh() wrong!A3A9 -  8 1D 9
+jaso2jh() wrong!A3AB -  8 1D B
+jaso2jh() wrong!A3B1 -  8 1D 11
+jaso2jh() wrong!A3B3 -  8 1D 13
+jaso2jh() wrong!A3B5 -  8 1D 15
+jaso2jh() wrong!A3B6 -  8 1D 16
+jaso2jh() wrong!A3B7 -  8 1D 17
+jaso2jh() wrong!A3B9 -  8 1D 19
+jaso2jh() wrong!A3BB -  8 1D 1B
+jaso2jh() wrong!A461 -  9 3 1
+jaso2jh() wrong!A462 -  9 3 2
+jaso2jh() wrong!A463 -  9 3 3
+jaso2jh() wrong!A464 -  9 3 4
+jaso2jh() wrong!A465 -  9 3 5
+jaso2jh() wrong!A468 -  9 3 8
+jaso2jh() wrong!A469 -  9 3 9
+jaso2jh() wrong!A46A -  9 3 A
+jaso2jh() wrong!A46B -  9 3 B
+jaso2jh() wrong!A46C -  9 3 C
+jaso2jh() wrong!A471 -  9 3 11
+jaso2jh() wrong!A473 -  9 3 13
+jaso2jh() wrong!A475 -  9 3 15
+jaso2jh() wrong!A477 -  9 3 17
+jaso2jh() wrong!A47B -  9 3 1B
+jaso2jh() wrong!A481 -  9 4 1
+jaso2jh() wrong!A482 -  9 4 2
+jaso2jh() wrong!A485 -  9 4 5
+jaso2jh() wrong!A489 -  9 4 9
+jaso2jh() wrong!A491 -  9 4 11
+jaso2jh() wrong!A493 -  9 4 13
+jaso2jh() wrong!A495 -  9 4 15
+jaso2jh() wrong!A496 -  9 4 16
+jaso2jh() wrong!A497 -  9 4 17
+jaso2jh() wrong!A49B -  9 4 1B
+jaso2jh() wrong!A4A1 -  9 5 1
+jaso2jh() wrong!A4A2 -  9 5 2
+jaso2jh() wrong!A4A5 -  9 5 5
+jaso2jh() wrong!A4B3 -  9 5 13
+jaso2jh() wrong!A4E1 -  9 7 1
+jaso2jh() wrong!A4E2 -  9 7 2
+jaso2jh() wrong!A4E5 -  9 7 5
+jaso2jh() wrong!A4E8 -  9 7 8
+jaso2jh() wrong!A4E9 -  9 7 9
+jaso2jh() wrong!A4EB -  9 7 B
+jaso2jh() wrong!A4F1 -  9 7 11
+jaso2jh() wrong!A4F3 -  9 7 13
+jaso2jh() wrong!A4F5 -  9 7 15
+jaso2jh() wrong!A4F7 -  9 7 17
+jaso2jh() wrong!A4F8 -  9 7 18
+jaso2jh() wrong!A541 -  9 A 1
+jaso2jh() wrong!A542 -  9 A 2
+jaso2jh() wrong!A545 -  9 A 5
+jaso2jh() wrong!A548 -  9 A 8
+jaso2jh() wrong!A549 -  9 A 9
+jaso2jh() wrong!A551 -  9 A 11
+jaso2jh() wrong!A553 -  9 A 13
+jaso2jh() wrong!A555 -  9 A 15
+jaso2jh() wrong!A556 -  9 A 16
+jaso2jh() wrong!A557 -  9 A 17
+jaso2jh() wrong!A561 -  9 B 1
+jaso2jh() wrong!A562 -  9 B 2
+jaso2jh() wrong!A565 -  9 B 5
+jaso2jh() wrong!A569 -  9 B 9
+jaso2jh() wrong!A573 -  9 B 13
+jaso2jh() wrong!A575 -  9 B 15
+jaso2jh() wrong!A576 -  9 B 16
+jaso2jh() wrong!A577 -  9 B 17
+jaso2jh() wrong!A57B -  9 B 1B
+jaso2jh() wrong!A581 -  9 C 1
+jaso2jh() wrong!A585 -  9 C 5
+jaso2jh() wrong!A5A1 -  9 D 1
+jaso2jh() wrong!A5A2 -  9 D 2
+jaso2jh() wrong!A5A3 -  9 D 3
+jaso2jh() wrong!A5A5 -  9 D 5
+jaso2jh() wrong!A5A9 -  9 D 9
+jaso2jh() wrong!A5B1 -  9 D 11
+jaso2jh() wrong!A5B3 -  9 D 13
+jaso2jh() wrong!A5B5 -  9 D 15
+jaso2jh() wrong!A5B7 -  9 D 17
+jaso2jh() wrong!A5C1 -  9 E 1
+jaso2jh() wrong!A5C5 -  9 E 5
+jaso2jh() wrong!A5D6 -  9 E 16
+jaso2jh() wrong!A5E1 -  9 F 1
+jaso2jh() wrong!A5F6 -  9 F 16
+jaso2jh() wrong!A641 -  9 12 1
+jaso2jh() wrong!A642 -  9 12 2
+jaso2jh() wrong!A645 -  9 12 5
+jaso2jh() wrong!A649 -  9 12 9
+jaso2jh() wrong!A651 -  9 12 11
+jaso2jh() wrong!A653 -  9 12 13
+jaso2jh() wrong!A661 -  9 13 1
+jaso2jh() wrong!A665 -  9 13 5
+jaso2jh() wrong!A681 -  9 14 1
+jaso2jh() wrong!A682 -  9 14 2
+jaso2jh() wrong!A685 -  9 14 5
+jaso2jh() wrong!A688 -  9 14 8
+jaso2jh() wrong!A689 -  9 14 9
+jaso2jh() wrong!A68A -  9 14 A
+jaso2jh() wrong!A68B -  9 14 B
+jaso2jh() wrong!A691 -  9 14 11
+jaso2jh() wrong!A693 -  9 14 13
+jaso2jh() wrong!A695 -  9 14 15
+jaso2jh() wrong!A697 -  9 14 17
+jaso2jh() wrong!A69B -  9 14 1B
+jaso2jh() wrong!A69C -  9 14 1C
+jaso2jh() wrong!A6A1 -  9 15 1
+jaso2jh() wrong!A6A9 -  9 15 9
+jaso2jh() wrong!A6B6 -  9 15 16
+jaso2jh() wrong!A6C1 -  9 16 1
+jaso2jh() wrong!A6E1 -  9 17 1
+jaso2jh() wrong!A6E2 -  9 17 2
+jaso2jh() wrong!A6E5 -  9 17 5
+jaso2jh() wrong!A6E9 -  9 17 9
+jaso2jh() wrong!A6F7 -  9 17 17
+jaso2jh() wrong!A741 -  9 1A 1
+jaso2jh() wrong!A745 -  9 1A 5
+jaso2jh() wrong!A749 -  9 1A 9
+jaso2jh() wrong!A751 -  9 1A 11
+jaso2jh() wrong!A755 -  9 1A 15
+jaso2jh() wrong!A757 -  9 1A 17
+jaso2jh() wrong!A761 -  9 1B 1
+jaso2jh() wrong!A762 -  9 1B 2
+jaso2jh() wrong!A765 -  9 1B 5
+jaso2jh() wrong!A769 -  9 1B 9
+jaso2jh() wrong!A771 -  9 1B 11
+jaso2jh() wrong!A773 -  9 1B 13
+jaso2jh() wrong!A775 -  9 1B 15
+jaso2jh() wrong!A7A1 -  9 1D 1
+jaso2jh() wrong!A7A2 -  9 1D 2
+jaso2jh() wrong!A7A5 -  9 1D 5
+jaso2jh() wrong!A7A9 -  9 1D 9
+jaso2jh() wrong!A7AB -  9 1D B
+jaso2jh() wrong!A7B1 -  9 1D 11
+jaso2jh() wrong!A7B3 -  9 1D 13
+jaso2jh() wrong!A7B5 -  9 1D 15
+jaso2jh() wrong!A7B7 -  9 1D 17
+jaso2jh() wrong!A7B8 -  9 1D 18
+jaso2jh() wrong!A7B9 -  9 1D 19
+jaso2jh() wrong!A861 -  A 3 1
+jaso2jh() wrong!A862 -  A 3 2
+jaso2jh() wrong!A865 -  A 3 5
+jaso2jh() wrong!A869 -  A 3 9
+jaso2jh() wrong!A86B -  A 3 B
+jaso2jh() wrong!A871 -  A 3 11
+jaso2jh() wrong!A873 -  A 3 13
+jaso2jh() wrong!A875 -  A 3 15
+jaso2jh() wrong!A876 -  A 3 16
+jaso2jh() wrong!A877 -  A 3 17
+jaso2jh() wrong!A87D -  A 3 1D
+jaso2jh() wrong!A881 -  A 4 1
+jaso2jh() wrong!A882 -  A 4 2
+jaso2jh() wrong!A885 -  A 4 5
+jaso2jh() wrong!A889 -  A 4 9
+jaso2jh() wrong!A891 -  A 4 11
+jaso2jh() wrong!A893 -  A 4 13
+jaso2jh() wrong!A895 -  A 4 15
+jaso2jh() wrong!A896 -  A 4 16
+jaso2jh() wrong!A897 -  A 4 17
+jaso2jh() wrong!A8A1 -  A 5 1
+jaso2jh() wrong!A8A2 -  A 5 2
+jaso2jh() wrong!A8B1 -  A 5 11
+jaso2jh() wrong!A8E1 -  A 7 1
+jaso2jh() wrong!A8E2 -  A 7 2
+jaso2jh() wrong!A8E5 -  A 7 5
+jaso2jh() wrong!A8E8 -  A 7 8
+jaso2jh() wrong!A8E9 -  A 7 9
+jaso2jh() wrong!A8F1 -  A 7 11
+jaso2jh() wrong!A8F5 -  A 7 15
+jaso2jh() wrong!A8F6 -  A 7 16
+jaso2jh() wrong!A8F7 -  A 7 17
+jaso2jh() wrong!A941 -  A A 1
+jaso2jh() wrong!A957 -  A A 17
+jaso2jh() wrong!A961 -  A B 1
+jaso2jh() wrong!A962 -  A B 2
+jaso2jh() wrong!A971 -  A B 11
+jaso2jh() wrong!A973 -  A B 13
+jaso2jh() wrong!A975 -  A B 15
+jaso2jh() wrong!A976 -  A B 16
+jaso2jh() wrong!A977 -  A B 17
+jaso2jh() wrong!A9A1 -  A D 1
+jaso2jh() wrong!A9A2 -  A D 2
+jaso2jh() wrong!A9A5 -  A D 5
+jaso2jh() wrong!A9A9 -  A D 9
+jaso2jh() wrong!A9B1 -  A D 11
+jaso2jh() wrong!A9B3 -  A D 13
+jaso2jh() wrong!A9B7 -  A D 17
+jaso2jh() wrong!AA41 -  A 12 1
+jaso2jh() wrong!AA61 -  A 13 1
+jaso2jh() wrong!AA77 -  A 13 17
+jaso2jh() wrong!AA81 -  A 14 1
+jaso2jh() wrong!AA82 -  A 14 2
+jaso2jh() wrong!AA85 -  A 14 5
+jaso2jh() wrong!AA89 -  A 14 9
+jaso2jh() wrong!AA91 -  A 14 11
+jaso2jh() wrong!AA95 -  A 14 15
+jaso2jh() wrong!AA97 -  A 14 17
+jaso2jh() wrong!AB41 -  A 1A 1
+jaso2jh() wrong!AB57 -  A 1A 17
+jaso2jh() wrong!AB61 -  A 1B 1
+jaso2jh() wrong!AB65 -  A 1B 5
+jaso2jh() wrong!AB69 -  A 1B 9
+jaso2jh() wrong!AB71 -  A 1B 11
+jaso2jh() wrong!AB73 -  A 1B 13
+jaso2jh() wrong!ABA1 -  A 1D 1
+jaso2jh() wrong!ABA2 -  A 1D 2
+jaso2jh() wrong!ABA5 -  A 1D 5
+jaso2jh() wrong!ABA9 -  A 1D 9
+jaso2jh() wrong!ABB1 -  A 1D 11
+jaso2jh() wrong!ABB3 -  A 1D 13
+jaso2jh() wrong!ABB5 -  A 1D 15
+jaso2jh() wrong!ABB7 -  A 1D 17
+jaso2jh() wrong!AC61 -  B 3 1
+jaso2jh() wrong!AC62 -  B 3 2
+jaso2jh() wrong!AC64 -  B 3 4
+jaso2jh() wrong!AC65 -  B 3 5
+jaso2jh() wrong!AC68 -  B 3 8
+jaso2jh() wrong!AC69 -  B 3 9
+jaso2jh() wrong!AC6A -  B 3 A
+jaso2jh() wrong!AC6B -  B 3 B
+jaso2jh() wrong!AC71 -  B 3 11
+jaso2jh() wrong!AC73 -  B 3 13
+jaso2jh() wrong!AC75 -  B 3 15
+jaso2jh() wrong!AC76 -  B 3 16
+jaso2jh() wrong!AC77 -  B 3 17
+jaso2jh() wrong!AC7B -  B 3 1B
+jaso2jh() wrong!AC81 -  B 4 1
+jaso2jh() wrong!AC82 -  B 4 2
+jaso2jh() wrong!AC85 -  B 4 5
+jaso2jh() wrong!AC89 -  B 4 9
+jaso2jh() wrong!AC91 -  B 4 11
+jaso2jh() wrong!AC93 -  B 4 13
+jaso2jh() wrong!AC95 -  B 4 15
+jaso2jh() wrong!AC96 -  B 4 16
+jaso2jh() wrong!AC97 -  B 4 17
+jaso2jh() wrong!ACA1 -  B 5 1
+jaso2jh() wrong!ACA2 -  B 5 2
+jaso2jh() wrong!ACA5 -  B 5 5
+jaso2jh() wrong!ACA9 -  B 5 9
+jaso2jh() wrong!ACB1 -  B 5 11
+jaso2jh() wrong!ACB3 -  B 5 13
+jaso2jh() wrong!ACB5 -  B 5 15
+jaso2jh() wrong!ACB7 -  B 5 17
+jaso2jh() wrong!ACC1 -  B 6 1
+jaso2jh() wrong!ACC5 -  B 6 5
+jaso2jh() wrong!ACC9 -  B 6 9
+jaso2jh() wrong!ACD1 -  B 6 11
+jaso2jh() wrong!ACD7 -  B 6 17
+jaso2jh() wrong!ACE1 -  B 7 1
+jaso2jh() wrong!ACE2 -  B 7 2
+jaso2jh() wrong!ACE3 -  B 7 3
+jaso2jh() wrong!ACE4 -  B 7 4
+jaso2jh() wrong!ACE5 -  B 7 5
+jaso2jh() wrong!ACE8 -  B 7 8
+jaso2jh() wrong!ACE9 -  B 7 9
+jaso2jh() wrong!ACEB -  B 7 B
+jaso2jh() wrong!ACEC -  B 7 C
+jaso2jh() wrong!ACF1 -  B 7 11
+jaso2jh() wrong!ACF3 -  B 7 13
+jaso2jh() wrong!ACF5 -  B 7 15
+jaso2jh() wrong!ACF6 -  B 7 16
+jaso2jh() wrong!ACF7 -  B 7 17
+jaso2jh() wrong!ACFC -  B 7 1C
+jaso2jh() wrong!AD41 -  B A 1
+jaso2jh() wrong!AD42 -  B A 2
+jaso2jh() wrong!AD45 -  B A 5
+jaso2jh() wrong!AD49 -  B A 9
+jaso2jh() wrong!AD51 -  B A 11
+jaso2jh() wrong!AD53 -  B A 13
+jaso2jh() wrong!AD55 -  B A 15
+jaso2jh() wrong!AD56 -  B A 16
+jaso2jh() wrong!AD57 -  B A 17
+jaso2jh() wrong!AD61 -  B B 1
+jaso2jh() wrong!AD62 -  B B 2
+jaso2jh() wrong!AD65 -  B B 5
+jaso2jh() wrong!AD69 -  B B 9
+jaso2jh() wrong!AD71 -  B B 11
+jaso2jh() wrong!AD73 -  B B 13
+jaso2jh() wrong!AD75 -  B B 15
+jaso2jh() wrong!AD76 -  B B 16
+jaso2jh() wrong!AD77 -  B B 17
+jaso2jh() wrong!AD81 -  B C 1
+jaso2jh() wrong!AD85 -  B C 5
+jaso2jh() wrong!AD89 -  B C 9
+jaso2jh() wrong!AD97 -  B C 17
+jaso2jh() wrong!ADA1 -  B D 1
+jaso2jh() wrong!ADA2 -  B D 2
+jaso2jh() wrong!ADA3 -  B D 3
+jaso2jh() wrong!ADA5 -  B D 5
+jaso2jh() wrong!ADA9 -  B D 9
+jaso2jh() wrong!ADAB -  B D B
+jaso2jh() wrong!ADB1 -  B D 11
+jaso2jh() wrong!ADB3 -  B D 13
+jaso2jh() wrong!ADB5 -  B D 15
+jaso2jh() wrong!ADB7 -  B D 17
+jaso2jh() wrong!ADBB -  B D 1B
+jaso2jh() wrong!ADC1 -  B E 1
+jaso2jh() wrong!ADC2 -  B E 2
+jaso2jh() wrong!ADC5 -  B E 5
+jaso2jh() wrong!ADC9 -  B E 9
+jaso2jh() wrong!ADD7 -  B E 17
+jaso2jh() wrong!ADE1 -  B F 1
+jaso2jh() wrong!ADE5 -  B F 5
+jaso2jh() wrong!ADE9 -  B F 9
+jaso2jh() wrong!ADF1 -  B F 11
+jaso2jh() wrong!ADF5 -  B F 15
+jaso2jh() wrong!ADF6 -  B F 16
+jaso2jh() wrong!AE41 -  B 12 1
+jaso2jh() wrong!AE45 -  B 12 5
+jaso2jh() wrong!AE49 -  B 12 9
+jaso2jh() wrong!AE51 -  B 12 11
+jaso2jh() wrong!AE53 -  B 12 13
+jaso2jh() wrong!AE55 -  B 12 15
+jaso2jh() wrong!AE61 -  B 13 1
+jaso2jh() wrong!AE62 -  B 13 2
+jaso2jh() wrong!AE65 -  B 13 5
+jaso2jh() wrong!AE69 -  B 13 9
+jaso2jh() wrong!AE71 -  B 13 11
+jaso2jh() wrong!AE73 -  B 13 13
+jaso2jh() wrong!AE75 -  B 13 15
+jaso2jh() wrong!AE77 -  B 13 17
+jaso2jh() wrong!AE81 -  B 14 1
+jaso2jh() wrong!AE82 -  B 14 2
+jaso2jh() wrong!AE85 -  B 14 5
+jaso2jh() wrong!AE88 -  B 14 8
+jaso2jh() wrong!AE89 -  B 14 9
+jaso2jh() wrong!AE91 -  B 14 11
+jaso2jh() wrong!AE93 -  B 14 13
+jaso2jh() wrong!AE95 -  B 14 15
+jaso2jh() wrong!AE97 -  B 14 17
+jaso2jh() wrong!AE99 -  B 14 19
+jaso2jh() wrong!AE9B -  B 14 1B
+jaso2jh() wrong!AE9C -  B 14 1C
+jaso2jh() wrong!AEA1 -  B 15 1
+jaso2jh() wrong!AEB6 -  B 15 16
+jaso2jh() wrong!AEC1 -  B 16 1
+jaso2jh() wrong!AEC2 -  B 16 2
+jaso2jh() wrong!AEC5 -  B 16 5
+jaso2jh() wrong!AEC9 -  B 16 9
+jaso2jh() wrong!AED1 -  B 16 11
+jaso2jh() wrong!AED7 -  B 16 17
+jaso2jh() wrong!AEE1 -  B 17 1
+jaso2jh() wrong!AEE2 -  B 17 2
+jaso2jh() wrong!AEE5 -  B 17 5
+jaso2jh() wrong!AEE9 -  B 17 9
+jaso2jh() wrong!AEF1 -  B 17 11
+jaso2jh() wrong!AEF3 -  B 17 13
+jaso2jh() wrong!AEF5 -  B 17 15
+jaso2jh() wrong!AEF7 -  B 17 17
+jaso2jh() wrong!AF41 -  B 1A 1
+jaso2jh() wrong!AF42 -  B 1A 2
+jaso2jh() wrong!AF49 -  B 1A 9
+jaso2jh() wrong!AF51 -  B 1A 11
+jaso2jh() wrong!AF55 -  B 1A 15
+jaso2jh() wrong!AF57 -  B 1A 17
+jaso2jh() wrong!AF61 -  B 1B 1
+jaso2jh() wrong!AF62 -  B 1B 2
+jaso2jh() wrong!AF65 -  B 1B 5
+jaso2jh() wrong!AF69 -  B 1B 9
+jaso2jh() wrong!AF6A -  B 1B A
+jaso2jh() wrong!AF71 -  B 1B 11
+jaso2jh() wrong!AF73 -  B 1B 13
+jaso2jh() wrong!AF75 -  B 1B 15
+jaso2jh() wrong!AF77 -  B 1B 17
+jaso2jh() wrong!AFA1 -  B 1D 1
+jaso2jh() wrong!AFA2 -  B 1D 2
+jaso2jh() wrong!AFA5 -  B 1D 5
+jaso2jh() wrong!AFA8 -  B 1D 8
+jaso2jh() wrong!AFA9 -  B 1D 9
+jaso2jh() wrong!AFB0 -  B 1D 10
+jaso2jh() wrong!AFB1 -  B 1D 11
+jaso2jh() wrong!AFB3 -  B 1D 13
+jaso2jh() wrong!AFB5 -  B 1D 15
+jaso2jh() wrong!AFB7 -  B 1D 17
+jaso2jh() wrong!AFBC -  B 1D 1C
+jaso2jh() wrong!B061 -  C 3 1
+jaso2jh() wrong!B062 -  C 3 2
+jaso2jh() wrong!B064 -  C 3 4
+jaso2jh() wrong!B065 -  C 3 5
+jaso2jh() wrong!B069 -  C 3 9
+jaso2jh() wrong!B071 -  C 3 11
+jaso2jh() wrong!B073 -  C 3 13
+jaso2jh() wrong!B076 -  C 3 16
+jaso2jh() wrong!B077 -  C 3 17
+jaso2jh() wrong!B07D -  C 3 1D
+jaso2jh() wrong!B081 -  C 4 1
+jaso2jh() wrong!B082 -  C 4 2
+jaso2jh() wrong!B085 -  C 4 5
+jaso2jh() wrong!B089 -  C 4 9
+jaso2jh() wrong!B091 -  C 4 11
+jaso2jh() wrong!B093 -  C 4 13
+jaso2jh() wrong!B096 -  C 4 16
+jaso2jh() wrong!B097 -  C 4 17
+jaso2jh() wrong!B0B7 -  C 5 17
+jaso2jh() wrong!B0E1 -  C 7 1
+jaso2jh() wrong!B0E2 -  C 7 2
+jaso2jh() wrong!B0E5 -  C 7 5
+jaso2jh() wrong!B0E9 -  C 7 9
+jaso2jh() wrong!B0EB -  C 7 B
+jaso2jh() wrong!B0F1 -  C 7 11
+jaso2jh() wrong!B0F3 -  C 7 13
+jaso2jh() wrong!B0F6 -  C 7 16
+jaso2jh() wrong!B0F7 -  C 7 17
+jaso2jh() wrong!B141 -  C A 1
+jaso2jh() wrong!B145 -  C A 5
+jaso2jh() wrong!B149 -  C A 9
+jaso2jh() wrong!B157 -  C A 17
+jaso2jh() wrong!B1A1 -  C D 1
+jaso2jh() wrong!B1A2 -  C D 2
+jaso2jh() wrong!B1A5 -  C D 5
+jaso2jh() wrong!B1A8 -  C D 8
+jaso2jh() wrong!B1A9 -  C D 9
+jaso2jh() wrong!B1AB -  C D B
+jaso2jh() wrong!B1B1 -  C D 11
+jaso2jh() wrong!B1B3 -  C D 13
+jaso2jh() wrong!B1B7 -  C D 17
+jaso2jh() wrong!B1C1 -  C E 1
+jaso2jh() wrong!B1C2 -  C E 2
+jaso2jh() wrong!B1C5 -  C E 5
+jaso2jh() wrong!B1D6 -  C E 16
+jaso2jh() wrong!B1E1 -  C F 1
+jaso2jh() wrong!B1F6 -  C F 16
+jaso2jh() wrong!B241 -  C 12 1
+jaso2jh() wrong!B245 -  C 12 5
+jaso2jh() wrong!B249 -  C 12 9
+jaso2jh() wrong!B251 -  C 12 11
+jaso2jh() wrong!B253 -  C 12 13
+jaso2jh() wrong!B261 -  C 13 1
+jaso2jh() wrong!B281 -  C 14 1
+jaso2jh() wrong!B282 -  C 14 2
+jaso2jh() wrong!B285 -  C 14 5
+jaso2jh() wrong!B289 -  C 14 9
+jaso2jh() wrong!B291 -  C 14 11
+jaso2jh() wrong!B293 -  C 14 13
+jaso2jh() wrong!B297 -  C 14 17
+jaso2jh() wrong!B2A1 -  C 15 1
+jaso2jh() wrong!B2B6 -  C 15 16
+jaso2jh() wrong!B2C1 -  C 16 1
+jaso2jh() wrong!B2E1 -  C 17 1
+jaso2jh() wrong!B2E5 -  C 17 5
+jaso2jh() wrong!B357 -  C 1A 17
+jaso2jh() wrong!B361 -  C 1B 1
+jaso2jh() wrong!B362 -  C 1B 2
+jaso2jh() wrong!B365 -  C 1B 5
+jaso2jh() wrong!B369 -  C 1B 9
+jaso2jh() wrong!B36B -  C 1B B
+jaso2jh() wrong!B370 -  C 1B 10
+jaso2jh() wrong!B371 -  C 1B 11
+jaso2jh() wrong!B373 -  C 1B 13
+jaso2jh() wrong!B381 -  C 1C 1
+jaso2jh() wrong!B385 -  C 1C 5
+jaso2jh() wrong!B389 -  C 1C 9
+jaso2jh() wrong!B391 -  C 1C 11
+jaso2jh() wrong!B3A1 -  C 1D 1
+jaso2jh() wrong!B3A2 -  C 1D 2
+jaso2jh() wrong!B3A5 -  C 1D 5
+jaso2jh() wrong!B3A9 -  C 1D 9
+jaso2jh() wrong!B3B1 -  C 1D 11
+jaso2jh() wrong!B3B3 -  C 1D 13
+jaso2jh() wrong!B3B5 -  C 1D 15
+jaso2jh() wrong!B3B7 -  C 1D 17
+jaso2jh() wrong!B461 -  D 3 1
+jaso2jh() wrong!B462 -  D 3 2
+jaso2jh() wrong!B465 -  D 3 5
+jaso2jh() wrong!B466 -  D 3 6
+jaso2jh() wrong!B467 -  D 3 7
+jaso2jh() wrong!B469 -  D 3 9
+jaso2jh() wrong!B46A -  D 3 A
+jaso2jh() wrong!B46B -  D 3 B
+jaso2jh() wrong!B470 -  D 3 10
+jaso2jh() wrong!B471 -  D 3 11
+jaso2jh() wrong!B473 -  D 3 13
+jaso2jh() wrong!B475 -  D 3 15
+jaso2jh() wrong!B476 -  D 3 16
+jaso2jh() wrong!B477 -  D 3 17
+jaso2jh() wrong!B47B -  D 3 1B
+jaso2jh() wrong!B47C -  D 3 1C
+jaso2jh() wrong!B481 -  D 4 1
+jaso2jh() wrong!B482 -  D 4 2
+jaso2jh() wrong!B485 -  D 4 5
+jaso2jh() wrong!B489 -  D 4 9
+jaso2jh() wrong!B491 -  D 4 11
+jaso2jh() wrong!B493 -  D 4 13
+jaso2jh() wrong!B495 -  D 4 15
+jaso2jh() wrong!B496 -  D 4 16
+jaso2jh() wrong!B497 -  D 4 17
+jaso2jh() wrong!B4A1 -  D 5 1
+jaso2jh() wrong!B4A2 -  D 5 2
+jaso2jh() wrong!B4A5 -  D 5 5
+jaso2jh() wrong!B4A9 -  D 5 9
+jaso2jh() wrong!B4AC -  D 5 C
+jaso2jh() wrong!B4B1 -  D 5 11
+jaso2jh() wrong!B4B3 -  D 5 13
+jaso2jh() wrong!B4B5 -  D 5 15
+jaso2jh() wrong!B4B7 -  D 5 17
+jaso2jh() wrong!B4BB -  D 5 1B
+jaso2jh() wrong!B4BD -  D 5 1D
+jaso2jh() wrong!B4C1 -  D 6 1
+jaso2jh() wrong!B4C5 -  D 6 5
+jaso2jh() wrong!B4C9 -  D 6 9
+jaso2jh() wrong!B4D3 -  D 6 13
+jaso2jh() wrong!B4E1 -  D 7 1
+jaso2jh() wrong!B4E2 -  D 7 2
+jaso2jh() wrong!B4E5 -  D 7 5
+jaso2jh() wrong!B4E6 -  D 7 6
+jaso2jh() wrong!B4E8 -  D 7 8
+jaso2jh() wrong!B4E9 -  D 7 9
+jaso2jh() wrong!B4EA -  D 7 A
+jaso2jh() wrong!B4EB -  D 7 B
+jaso2jh() wrong!B4F1 -  D 7 11
+jaso2jh() wrong!B4F3 -  D 7 13
+jaso2jh() wrong!B4F4 -  D 7 14
+jaso2jh() wrong!B4F5 -  D 7 15
+jaso2jh() wrong!B4F6 -  D 7 16
+jaso2jh() wrong!B4F7 -  D 7 17
+jaso2jh() wrong!B4F8 -  D 7 18
+jaso2jh() wrong!B4FA -  D 7 1A
+jaso2jh() wrong!B4FC -  D 7 1C
+jaso2jh() wrong!B541 -  D A 1
+jaso2jh() wrong!B542 -  D A 2
+jaso2jh() wrong!B545 -  D A 5
+jaso2jh() wrong!B549 -  D A 9
+jaso2jh() wrong!B551 -  D A 11
+jaso2jh() wrong!B553 -  D A 13
+jaso2jh() wrong!B555 -  D A 15
+jaso2jh() wrong!B557 -  D A 17
+jaso2jh() wrong!B561 -  D B 1
+jaso2jh() wrong!B562 -  D B 2
+jaso2jh() wrong!B563 -  D B 3
+jaso2jh() wrong!B565 -  D B 5
+jaso2jh() wrong!B569 -  D B 9
+jaso2jh() wrong!B56B -  D B B
+jaso2jh() wrong!B56C -  D B C
+jaso2jh() wrong!B571 -  D B 11
+jaso2jh() wrong!B573 -  D B 13
+jaso2jh() wrong!B574 -  D B 14
+jaso2jh() wrong!B575 -  D B 15
+jaso2jh() wrong!B576 -  D B 16
+jaso2jh() wrong!B577 -  D B 17
+jaso2jh() wrong!B57B -  D B 1B
+jaso2jh() wrong!B57C -  D B 1C
+jaso2jh() wrong!B57D -  D B 1D
+jaso2jh() wrong!B581 -  D C 1
+jaso2jh() wrong!B585 -  D C 5
+jaso2jh() wrong!B589 -  D C 9
+jaso2jh() wrong!B591 -  D C 11
+jaso2jh() wrong!B593 -  D C 13
+jaso2jh() wrong!B595 -  D C 15
+jaso2jh() wrong!B596 -  D C 16
+jaso2jh() wrong!B5A1 -  D D 1
+jaso2jh() wrong!B5A2 -  D D 2
+jaso2jh() wrong!B5A5 -  D D 5
+jaso2jh() wrong!B5A9 -  D D 9
+jaso2jh() wrong!B5AA -  D D A
+jaso2jh() wrong!B5AB -  D D B
+jaso2jh() wrong!B5AD -  D D D
+jaso2jh() wrong!B5B0 -  D D 10
+jaso2jh() wrong!B5B1 -  D D 11
+jaso2jh() wrong!B5B3 -  D D 13
+jaso2jh() wrong!B5B5 -  D D 15
+jaso2jh() wrong!B5B7 -  D D 17
+jaso2jh() wrong!B5B9 -  D D 19
+jaso2jh() wrong!B5C1 -  D E 1
+jaso2jh() wrong!B5C2 -  D E 2
+jaso2jh() wrong!B5C5 -  D E 5
+jaso2jh() wrong!B5C9 -  D E 9
+jaso2jh() wrong!B5D1 -  D E 11
+jaso2jh() wrong!B5D3 -  D E 13
+jaso2jh() wrong!B5D5 -  D E 15
+jaso2jh() wrong!B5D6 -  D E 16
+jaso2jh() wrong!B5D7 -  D E 17
+jaso2jh() wrong!B5E1 -  D F 1
+jaso2jh() wrong!B5E2 -  D F 2
+jaso2jh() wrong!B5E5 -  D F 5
+jaso2jh() wrong!B5F1 -  D F 11
+jaso2jh() wrong!B5F5 -  D F 15
+jaso2jh() wrong!B5F7 -  D F 17
+jaso2jh() wrong!B641 -  D 12 1
+jaso2jh() wrong!B642 -  D 12 2
+jaso2jh() wrong!B645 -  D 12 5
+jaso2jh() wrong!B649 -  D 12 9
+jaso2jh() wrong!B651 -  D 12 11
+jaso2jh() wrong!B653 -  D 12 13
+jaso2jh() wrong!B655 -  D 12 15
+jaso2jh() wrong!B657 -  D 12 17
+jaso2jh() wrong!B661 -  D 13 1
+jaso2jh() wrong!B662 -  D 13 2
+jaso2jh() wrong!B665 -  D 13 5
+jaso2jh() wrong!B669 -  D 13 9
+jaso2jh() wrong!B671 -  D 13 11
+jaso2jh() wrong!B673 -  D 13 13
+jaso2jh() wrong!B675 -  D 13 15
+jaso2jh() wrong!B677 -  D 13 17
+jaso2jh() wrong!B681 -  D 14 1
+jaso2jh() wrong!B682 -  D 14 2
+jaso2jh() wrong!B685 -  D 14 5
+jaso2jh() wrong!B689 -  D 14 9
+jaso2jh() wrong!B68A -  D 14 A
+jaso2jh() wrong!B68B -  D 14 B
+jaso2jh() wrong!B691 -  D 14 11
+jaso2jh() wrong!B693 -  D 14 13
+jaso2jh() wrong!B695 -  D 14 15
+jaso2jh() wrong!B697 -  D 14 17
+jaso2jh() wrong!B6A1 -  D 15 1
+jaso2jh() wrong!B6A2 -  D 15 2
+jaso2jh() wrong!B6A5 -  D 15 5
+jaso2jh() wrong!B6A9 -  D 15 9
+jaso2jh() wrong!B6B1 -  D 15 11
+jaso2jh() wrong!B6B3 -  D 15 13
+jaso2jh() wrong!B6B6 -  D 15 16
+jaso2jh() wrong!B6B7 -  D 15 17
+jaso2jh() wrong!B6C1 -  D 16 1
+jaso2jh() wrong!B6C2 -  D 16 2
+jaso2jh() wrong!B6C5 -  D 16 5
+jaso2jh() wrong!B6C9 -  D 16 9
+jaso2jh() wrong!B6D1 -  D 16 11
+jaso2jh() wrong!B6D3 -  D 16 13
+jaso2jh() wrong!B6D7 -  D 16 17
+jaso2jh() wrong!B6E1 -  D 17 1
+jaso2jh() wrong!B6E2 -  D 17 2
+jaso2jh() wrong!B6E5 -  D 17 5
+jaso2jh() wrong!B6E9 -  D 17 9
+jaso2jh() wrong!B6F1 -  D 17 11
+jaso2jh() wrong!B6F3 -  D 17 13
+jaso2jh() wrong!B6F5 -  D 17 15
+jaso2jh() wrong!B6F7 -  D 17 17
+jaso2jh() wrong!B741 -  D 1A 1
+jaso2jh() wrong!B742 -  D 1A 2
+jaso2jh() wrong!B745 -  D 1A 5
+jaso2jh() wrong!B749 -  D 1A 9
+jaso2jh() wrong!B751 -  D 1A 11
+jaso2jh() wrong!B753 -  D 1A 13
+jaso2jh() wrong!B755 -  D 1A 15
+jaso2jh() wrong!B757 -  D 1A 17
+jaso2jh() wrong!B759 -  D 1A 19
+jaso2jh() wrong!B761 -  D 1B 1
+jaso2jh() wrong!B762 -  D 1B 2
+jaso2jh() wrong!B765 -  D 1B 5
+jaso2jh() wrong!B769 -  D 1B 9
+jaso2jh() wrong!B76F -  D 1B F
+jaso2jh() wrong!B771 -  D 1B 11
+jaso2jh() wrong!B773 -  D 1B 13
+jaso2jh() wrong!B775 -  D 1B 15
+jaso2jh() wrong!B777 -  D 1B 17
+jaso2jh() wrong!B778 -  D 1B 18
+jaso2jh() wrong!B779 -  D 1B 19
+jaso2jh() wrong!B77A -  D 1B 1A
+jaso2jh() wrong!B77B -  D 1B 1B
+jaso2jh() wrong!B77C -  D 1B 1C
+jaso2jh() wrong!B77D -  D 1B 1D
+jaso2jh() wrong!B781 -  D 1C 1
+jaso2jh() wrong!B785 -  D 1C 5
+jaso2jh() wrong!B789 -  D 1C 9
+jaso2jh() wrong!B791 -  D 1C 11
+jaso2jh() wrong!B795 -  D 1C 15
+jaso2jh() wrong!B7A1 -  D 1D 1
+jaso2jh() wrong!B7A2 -  D 1D 2
+jaso2jh() wrong!B7A5 -  D 1D 5
+jaso2jh() wrong!B7A9 -  D 1D 9
+jaso2jh() wrong!B7AA -  D 1D A
+jaso2jh() wrong!B7AB -  D 1D B
+jaso2jh() wrong!B7B0 -  D 1D 10
+jaso2jh() wrong!B7B1 -  D 1D 11
+jaso2jh() wrong!B7B3 -  D 1D 13
+jaso2jh() wrong!B7B5 -  D 1D 15
+jaso2jh() wrong!B7B6 -  D 1D 16
+jaso2jh() wrong!B7B7 -  D 1D 17
+jaso2jh() wrong!B7B8 -  D 1D 18
+jaso2jh() wrong!B7BC -  D 1D 1C
+jaso2jh() wrong!B861 -  E 3 1
+jaso2jh() wrong!B862 -  E 3 2
+jaso2jh() wrong!B865 -  E 3 5
+jaso2jh() wrong!B867 -  E 3 7
+jaso2jh() wrong!B868 -  E 3 8
+jaso2jh() wrong!B869 -  E 3 9
+jaso2jh() wrong!B86B -  E 3 B
+jaso2jh() wrong!B871 -  E 3 11
+jaso2jh() wrong!B873 -  E 3 13
+jaso2jh() wrong!B875 -  E 3 15
+jaso2jh() wrong!B876 -  E 3 16
+jaso2jh() wrong!B877 -  E 3 17
+jaso2jh() wrong!B878 -  E 3 18
+jaso2jh() wrong!B881 -  E 4 1
+jaso2jh() wrong!B882 -  E 4 2
+jaso2jh() wrong!B885 -  E 4 5
+jaso2jh() wrong!B889 -  E 4 9
+jaso2jh() wrong!B891 -  E 4 11
+jaso2jh() wrong!B893 -  E 4 13
+jaso2jh() wrong!B895 -  E 4 15
+jaso2jh() wrong!B896 -  E 4 16
+jaso2jh() wrong!B897 -  E 4 17
+jaso2jh() wrong!B8A1 -  E 5 1
+jaso2jh() wrong!B8A2 -  E 5 2
+jaso2jh() wrong!B8A5 -  E 5 5
+jaso2jh() wrong!B8A7 -  E 5 7
+jaso2jh() wrong!B8A9 -  E 5 9
+jaso2jh() wrong!B8B1 -  E 5 11
+jaso2jh() wrong!B8B7 -  E 5 17
+jaso2jh() wrong!B8C1 -  E 6 1
+jaso2jh() wrong!B8C5 -  E 6 5
+jaso2jh() wrong!B8C9 -  E 6 9
+jaso2jh() wrong!B8E1 -  E 7 1
+jaso2jh() wrong!B8E2 -  E 7 2
+jaso2jh() wrong!B8E5 -  E 7 5
+jaso2jh() wrong!B8E9 -  E 7 9
+jaso2jh() wrong!B8EB -  E 7 B
+jaso2jh() wrong!B8F1 -  E 7 11
+jaso2jh() wrong!B8F3 -  E 7 13
+jaso2jh() wrong!B8F5 -  E 7 15
+jaso2jh() wrong!B8F7 -  E 7 17
+jaso2jh() wrong!B8F8 -  E 7 18
+jaso2jh() wrong!B941 -  E A 1
+jaso2jh() wrong!B942 -  E A 2
+jaso2jh() wrong!B945 -  E A 5
+jaso2jh() wrong!B949 -  E A 9
+jaso2jh() wrong!B951 -  E A 11
+jaso2jh() wrong!B953 -  E A 13
+jaso2jh() wrong!B955 -  E A 15
+jaso2jh() wrong!B957 -  E A 17
+jaso2jh() wrong!B961 -  E B 1
+jaso2jh() wrong!B965 -  E B 5
+jaso2jh() wrong!B969 -  E B 9
+jaso2jh() wrong!B971 -  E B 11
+jaso2jh() wrong!B973 -  E B 13
+jaso2jh() wrong!B976 -  E B 16
+jaso2jh() wrong!B977 -  E B 17
+jaso2jh() wrong!B981 -  E C 1
+jaso2jh() wrong!B9A1 -  E D 1
+jaso2jh() wrong!B9A2 -  E D 2
+jaso2jh() wrong!B9A5 -  E D 5
+jaso2jh() wrong!B9A9 -  E D 9
+jaso2jh() wrong!B9AB -  E D B
+jaso2jh() wrong!B9B1 -  E D 11
+jaso2jh() wrong!B9B3 -  E D 13
+jaso2jh() wrong!B9B5 -  E D 15
+jaso2jh() wrong!B9B7 -  E D 17
+jaso2jh() wrong!B9B8 -  E D 18
+jaso2jh() wrong!B9B9 -  E D 19
+jaso2jh() wrong!B9BD -  E D 1D
+jaso2jh() wrong!B9C1 -  E E 1
+jaso2jh() wrong!B9C2 -  E E 2
+jaso2jh() wrong!B9C9 -  E E 9
+jaso2jh() wrong!B9D3 -  E E 13
+jaso2jh() wrong!B9D5 -  E E 15
+jaso2jh() wrong!B9D7 -  E E 17
+jaso2jh() wrong!B9E1 -  E F 1
+jaso2jh() wrong!B9F6 -  E F 16
+jaso2jh() wrong!B9F7 -  E F 17
+jaso2jh() wrong!BA41 -  E 12 1
+jaso2jh() wrong!BA45 -  E 12 5
+jaso2jh() wrong!BA49 -  E 12 9
+jaso2jh() wrong!BA51 -  E 12 11
+jaso2jh() wrong!BA53 -  E 12 13
+jaso2jh() wrong!BA55 -  E 12 15
+jaso2jh() wrong!BA57 -  E 12 17
+jaso2jh() wrong!BA61 -  E 13 1
+jaso2jh() wrong!BA62 -  E 13 2
+jaso2jh() wrong!BA65 -  E 13 5
+jaso2jh() wrong!BA77 -  E 13 17
+jaso2jh() wrong!BA81 -  E 14 1
+jaso2jh() wrong!BA82 -  E 14 2
+jaso2jh() wrong!BA85 -  E 14 5
+jaso2jh() wrong!BA89 -  E 14 9
+jaso2jh() wrong!BA8A -  E 14 A
+jaso2jh() wrong!BA8B -  E 14 B
+jaso2jh() wrong!BA91 -  E 14 11
+jaso2jh() wrong!BA93 -  E 14 13
+jaso2jh() wrong!BA95 -  E 14 15
+jaso2jh() wrong!BA97 -  E 14 17
+jaso2jh() wrong!BAA1 -  E 15 1
+jaso2jh() wrong!BAB6 -  E 15 16
+jaso2jh() wrong!BAC1 -  E 16 1
+jaso2jh() wrong!BAE1 -  E 17 1
+jaso2jh() wrong!BAE2 -  E 17 2
+jaso2jh() wrong!BAE5 -  E 17 5
+jaso2jh() wrong!BAE9 -  E 17 9
+jaso2jh() wrong!BAF1 -  E 17 11
+jaso2jh() wrong!BAF3 -  E 17 13
+jaso2jh() wrong!BAF5 -  E 17 15
+jaso2jh() wrong!BB41 -  E 1A 1
+jaso2jh() wrong!BB45 -  E 1A 5
+jaso2jh() wrong!BB49 -  E 1A 9
+jaso2jh() wrong!BB51 -  E 1A 11
+jaso2jh() wrong!BB61 -  E 1B 1
+jaso2jh() wrong!BB62 -  E 1B 2
+jaso2jh() wrong!BB65 -  E 1B 5
+jaso2jh() wrong!BB69 -  E 1B 9
+jaso2jh() wrong!BB71 -  E 1B 11
+jaso2jh() wrong!BB73 -  E 1B 13
+jaso2jh() wrong!BB75 -  E 1B 15
+jaso2jh() wrong!BB77 -  E 1B 17
+jaso2jh() wrong!BBA1 -  E 1D 1
+jaso2jh() wrong!BBA2 -  E 1D 2
+jaso2jh() wrong!BBA5 -  E 1D 5
+jaso2jh() wrong!BBA8 -  E 1D 8
+jaso2jh() wrong!BBA9 -  E 1D 9
+jaso2jh() wrong!BBAB -  E 1D B
+jaso2jh() wrong!BBB1 -  E 1D 11
+jaso2jh() wrong!BBB3 -  E 1D 13
+jaso2jh() wrong!BBB5 -  E 1D 15
+jaso2jh() wrong!BBB7 -  E 1D 17
+jaso2jh() wrong!BBB8 -  E 1D 18
+jaso2jh() wrong!BBBB -  E 1D 1B
+jaso2jh() wrong!BBBC -  E 1D 1C
+jaso2jh() wrong!BC61 -  F 3 1
+jaso2jh() wrong!BC62 -  F 3 2
+jaso2jh() wrong!BC65 -  F 3 5
+jaso2jh() wrong!BC67 -  F 3 7
+jaso2jh() wrong!BC69 -  F 3 9
+jaso2jh() wrong!BC6C -  F 3 C
+jaso2jh() wrong!BC71 -  F 3 11
+jaso2jh() wrong!BC73 -  F 3 13
+jaso2jh() wrong!BC75 -  F 3 15
+jaso2jh() wrong!BC76 -  F 3 16
+jaso2jh() wrong!BC77 -  F 3 17
+jaso2jh() wrong!BC81 -  F 4 1
+jaso2jh() wrong!BC82 -  F 4 2
+jaso2jh() wrong!BC85 -  F 4 5
+jaso2jh() wrong!BC89 -  F 4 9
+jaso2jh() wrong!BC91 -  F 4 11
+jaso2jh() wrong!BC93 -  F 4 13
+jaso2jh() wrong!BC95 -  F 4 15
+jaso2jh() wrong!BC96 -  F 4 16
+jaso2jh() wrong!BC97 -  F 4 17
+jaso2jh() wrong!BCA1 -  F 5 1
+jaso2jh() wrong!BCA5 -  F 5 5
+jaso2jh() wrong!BCB7 -  F 5 17
+jaso2jh() wrong!BCE1 -  F 7 1
+jaso2jh() wrong!BCE2 -  F 7 2
+jaso2jh() wrong!BCE5 -  F 7 5
+jaso2jh() wrong!BCE9 -  F 7 9
+jaso2jh() wrong!BCF1 -  F 7 11
+jaso2jh() wrong!BCF3 -  F 7 13
+jaso2jh() wrong!BCF5 -  F 7 15
+jaso2jh() wrong!BCF6 -  F 7 16
+jaso2jh() wrong!BCF7 -  F 7 17
+jaso2jh() wrong!BD41 -  F A 1
+jaso2jh() wrong!BD57 -  F A 17
+jaso2jh() wrong!BD61 -  F B 1
+jaso2jh() wrong!BD76 -  F B 16
+jaso2jh() wrong!BDA1 -  F D 1
+jaso2jh() wrong!BDA2 -  F D 2
+jaso2jh() wrong!BDA5 -  F D 5
+jaso2jh() wrong!BDA9 -  F D 9
+jaso2jh() wrong!BDB1 -  F D 11
+jaso2jh() wrong!BDB3 -  F D 13
+jaso2jh() wrong!BDB5 -  F D 15
+jaso2jh() wrong!BDB7 -  F D 17
+jaso2jh() wrong!BDB9 -  F D 19
+jaso2jh() wrong!BDC1 -  F E 1
+jaso2jh() wrong!BDC2 -  F E 2
+jaso2jh() wrong!BDC9 -  F E 9
+jaso2jh() wrong!BDD6 -  F E 16
+jaso2jh() wrong!BDE1 -  F F 1
+jaso2jh() wrong!BDF6 -  F F 16
+jaso2jh() wrong!BE41 -  F 12 1
+jaso2jh() wrong!BE45 -  F 12 5
+jaso2jh() wrong!BE49 -  F 12 9
+jaso2jh() wrong!BE51 -  F 12 11
+jaso2jh() wrong!BE53 -  F 12 13
+jaso2jh() wrong!BE77 -  F 13 17
+jaso2jh() wrong!BE81 -  F 14 1
+jaso2jh() wrong!BE82 -  F 14 2
+jaso2jh() wrong!BE85 -  F 14 5
+jaso2jh() wrong!BE89 -  F 14 9
+jaso2jh() wrong!BE91 -  F 14 11
+jaso2jh() wrong!BE93 -  F 14 13
+jaso2jh() wrong!BE97 -  F 14 17
+jaso2jh() wrong!BEA1 -  F 15 1
+jaso2jh() wrong!BEB6 -  F 15 16
+jaso2jh() wrong!BEB7 -  F 15 17
+jaso2jh() wrong!BEE1 -  F 17 1
+jaso2jh() wrong!BF41 -  F 1A 1
+jaso2jh() wrong!BF61 -  F 1B 1
+jaso2jh() wrong!BF71 -  F 1B 11
+jaso2jh() wrong!BF75 -  F 1B 15
+jaso2jh() wrong!BF77 -  F 1B 17
+jaso2jh() wrong!BFA1 -  F 1D 1
+jaso2jh() wrong!BFA2 -  F 1D 2
+jaso2jh() wrong!BFA5 -  F 1D 5
+jaso2jh() wrong!BFA9 -  F 1D 9
+jaso2jh() wrong!BFB1 -  F 1D 11
+jaso2jh() wrong!BFB3 -  F 1D 13
+jaso2jh() wrong!BFB7 -  F 1D 17
+jaso2jh() wrong!BFB8 -  F 1D 18
+jaso2jh() wrong!BFBD -  F 1D 1D
+jaso2jh() wrong!C061 -  10 3 1
+jaso2jh() wrong!C062 -  10 3 2
+jaso2jh() wrong!C065 -  10 3 5
+jaso2jh() wrong!C067 -  10 3 7
+jaso2jh() wrong!C069 -  10 3 9
+jaso2jh() wrong!C071 -  10 3 11
+jaso2jh() wrong!C073 -  10 3 13
+jaso2jh() wrong!C075 -  10 3 15
+jaso2jh() wrong!C076 -  10 3 16
+jaso2jh() wrong!C077 -  10 3 17
+jaso2jh() wrong!C078 -  10 3 18
+jaso2jh() wrong!C081 -  10 4 1
+jaso2jh() wrong!C082 -  10 4 2
+jaso2jh() wrong!C085 -  10 4 5
+jaso2jh() wrong!C089 -  10 4 9
+jaso2jh() wrong!C091 -  10 4 11
+jaso2jh() wrong!C093 -  10 4 13
+jaso2jh() wrong!C095 -  10 4 15
+jaso2jh() wrong!C096 -  10 4 16
+jaso2jh() wrong!C097 -  10 4 17
+jaso2jh() wrong!C0A1 -  10 5 1
+jaso2jh() wrong!C0A5 -  10 5 5
+jaso2jh() wrong!C0A7 -  10 5 7
+jaso2jh() wrong!C0A9 -  10 5 9
+jaso2jh() wrong!C0B1 -  10 5 11
+jaso2jh() wrong!C0B7 -  10 5 17
+jaso2jh() wrong!C0E1 -  10 7 1
+jaso2jh() wrong!C0E2 -  10 7 2
+jaso2jh() wrong!C0E5 -  10 7 5
+jaso2jh() wrong!C0E9 -  10 7 9
+jaso2jh() wrong!C0F1 -  10 7 11
+jaso2jh() wrong!C0F3 -  10 7 13
+jaso2jh() wrong!C0F5 -  10 7 15
+jaso2jh() wrong!C0F6 -  10 7 16
+jaso2jh() wrong!C0F7 -  10 7 17
+jaso2jh() wrong!C141 -  10 A 1
+jaso2jh() wrong!C142 -  10 A 2
+jaso2jh() wrong!C145 -  10 A 5
+jaso2jh() wrong!C149 -  10 A 9
+jaso2jh() wrong!C151 -  10 A 11
+jaso2jh() wrong!C153 -  10 A 13
+jaso2jh() wrong!C155 -  10 A 15
+jaso2jh() wrong!C157 -  10 A 17
+jaso2jh() wrong!C161 -  10 B 1
+jaso2jh() wrong!C165 -  10 B 5
+jaso2jh() wrong!C176 -  10 B 16
+jaso2jh() wrong!C181 -  10 C 1
+jaso2jh() wrong!C185 -  10 C 5
+jaso2jh() wrong!C197 -  10 C 17
+jaso2jh() wrong!C1A1 -  10 D 1
+jaso2jh() wrong!C1A2 -  10 D 2
+jaso2jh() wrong!C1A5 -  10 D 5
+jaso2jh() wrong!C1A9 -  10 D 9
+jaso2jh() wrong!C1B1 -  10 D 11
+jaso2jh() wrong!C1B3 -  10 D 13
+jaso2jh() wrong!C1B5 -  10 D 15
+jaso2jh() wrong!C1B7 -  10 D 17
+jaso2jh() wrong!C1C1 -  10 E 1
+jaso2jh() wrong!C1C5 -  10 E 5
+jaso2jh() wrong!C1C9 -  10 E 9
+jaso2jh() wrong!C1D7 -  10 E 17
+jaso2jh() wrong!C241 -  10 12 1
+jaso2jh() wrong!C245 -  10 12 5
+jaso2jh() wrong!C249 -  10 12 9
+jaso2jh() wrong!C251 -  10 12 11
+jaso2jh() wrong!C253 -  10 12 13
+jaso2jh() wrong!C255 -  10 12 15
+jaso2jh() wrong!C257 -  10 12 17
+jaso2jh() wrong!C261 -  10 13 1
+jaso2jh() wrong!C271 -  10 13 11
+jaso2jh() wrong!C281 -  10 14 1
+jaso2jh() wrong!C282 -  10 14 2
+jaso2jh() wrong!C285 -  10 14 5
+jaso2jh() wrong!C289 -  10 14 9
+jaso2jh() wrong!C291 -  10 14 11
+jaso2jh() wrong!C293 -  10 14 13
+jaso2jh() wrong!C295 -  10 14 15
+jaso2jh() wrong!C297 -  10 14 17
+jaso2jh() wrong!C2A1 -  10 15 1
+jaso2jh() wrong!C2B6 -  10 15 16
+jaso2jh() wrong!C2C1 -  10 16 1
+jaso2jh() wrong!C2C5 -  10 16 5
+jaso2jh() wrong!C2E1 -  10 17 1
+jaso2jh() wrong!C2E5 -  10 17 5
+jaso2jh() wrong!C2E9 -  10 17 9
+jaso2jh() wrong!C2F1 -  10 17 11
+jaso2jh() wrong!C2F3 -  10 17 13
+jaso2jh() wrong!C2F5 -  10 17 15
+jaso2jh() wrong!C2F7 -  10 17 17
+jaso2jh() wrong!C341 -  10 1A 1
+jaso2jh() wrong!C345 -  10 1A 5
+jaso2jh() wrong!C349 -  10 1A 9
+jaso2jh() wrong!C351 -  10 1A 11
+jaso2jh() wrong!C357 -  10 1A 17
+jaso2jh() wrong!C361 -  10 1B 1
+jaso2jh() wrong!C362 -  10 1B 2
+jaso2jh() wrong!C365 -  10 1B 5
+jaso2jh() wrong!C369 -  10 1B 9
+jaso2jh() wrong!C371 -  10 1B 11
+jaso2jh() wrong!C373 -  10 1B 13
+jaso2jh() wrong!C375 -  10 1B 15
+jaso2jh() wrong!C377 -  10 1B 17
+jaso2jh() wrong!C3A1 -  10 1D 1
+jaso2jh() wrong!C3A2 -  10 1D 2
+jaso2jh() wrong!C3A5 -  10 1D 5
+jaso2jh() wrong!C3A8 -  10 1D 8
+jaso2jh() wrong!C3A9 -  10 1D 9
+jaso2jh() wrong!C3AA -  10 1D A
+jaso2jh() wrong!C3B1 -  10 1D 11
+jaso2jh() wrong!C3B3 -  10 1D 13
+jaso2jh() wrong!C3B5 -  10 1D 15
+jaso2jh() wrong!C3B7 -  10 1D 17
+jaso2jh() wrong!C461 -  11 3 1
+jaso2jh() wrong!C462 -  11 3 2
+jaso2jh() wrong!C465 -  11 3 5
+jaso2jh() wrong!C469 -  11 3 9
+jaso2jh() wrong!C471 -  11 3 11
+jaso2jh() wrong!C473 -  11 3 13
+jaso2jh() wrong!C475 -  11 3 15
+jaso2jh() wrong!C477 -  11 3 17
+jaso2jh() wrong!C481 -  11 4 1
+jaso2jh() wrong!C482 -  11 4 2
+jaso2jh() wrong!C485 -  11 4 5
+jaso2jh() wrong!C489 -  11 4 9
+jaso2jh() wrong!C491 -  11 4 11
+jaso2jh() wrong!C493 -  11 4 13
+jaso2jh() wrong!C495 -  11 4 15
+jaso2jh() wrong!C496 -  11 4 16
+jaso2jh() wrong!C497 -  11 4 17
+jaso2jh() wrong!C4A1 -  11 5 1
+jaso2jh() wrong!C4A2 -  11 5 2
+jaso2jh() wrong!C4B7 -  11 5 17
+jaso2jh() wrong!C4E1 -  11 7 1
+jaso2jh() wrong!C4E2 -  11 7 2
+jaso2jh() wrong!C4E5 -  11 7 5
+jaso2jh() wrong!C4E8 -  11 7 8
+jaso2jh() wrong!C4E9 -  11 7 9
+jaso2jh() wrong!C4F1 -  11 7 11
+jaso2jh() wrong!C4F3 -  11 7 13
+jaso2jh() wrong!C4F5 -  11 7 15
+jaso2jh() wrong!C4F6 -  11 7 16
+jaso2jh() wrong!C4F7 -  11 7 17
+jaso2jh() wrong!C541 -  11 A 1
+jaso2jh() wrong!C542 -  11 A 2
+jaso2jh() wrong!C545 -  11 A 5
+jaso2jh() wrong!C549 -  11 A 9
+jaso2jh() wrong!C551 -  11 A 11
+jaso2jh() wrong!C553 -  11 A 13
+jaso2jh() wrong!C555 -  11 A 15
+jaso2jh() wrong!C557 -  11 A 17
+jaso2jh() wrong!C561 -  11 B 1
+jaso2jh() wrong!C565 -  11 B 5
+jaso2jh() wrong!C569 -  11 B 9
+jaso2jh() wrong!C571 -  11 B 11
+jaso2jh() wrong!C573 -  11 B 13
+jaso2jh() wrong!C575 -  11 B 15
+jaso2jh() wrong!C576 -  11 B 16
+jaso2jh() wrong!C577 -  11 B 17
+jaso2jh() wrong!C581 -  11 C 1
+jaso2jh() wrong!C5A1 -  11 D 1
+jaso2jh() wrong!C5A2 -  11 D 2
+jaso2jh() wrong!C5A5 -  11 D 5
+jaso2jh() wrong!C5A9 -  11 D 9
+jaso2jh() wrong!C5B1 -  11 D 11
+jaso2jh() wrong!C5B3 -  11 D 13
+jaso2jh() wrong!C5B5 -  11 D 15
+jaso2jh() wrong!C5B7 -  11 D 17
+jaso2jh() wrong!C5C1 -  11 E 1
+jaso2jh() wrong!C5C2 -  11 E 2
+jaso2jh() wrong!C5C5 -  11 E 5
+jaso2jh() wrong!C5C9 -  11 E 9
+jaso2jh() wrong!C5D1 -  11 E 11
+jaso2jh() wrong!C5D7 -  11 E 17
+jaso2jh() wrong!C5E1 -  11 F 1
+jaso2jh() wrong!C5F7 -  11 F 17
+jaso2jh() wrong!C641 -  11 12 1
+jaso2jh() wrong!C649 -  11 12 9
+jaso2jh() wrong!C661 -  11 13 1
+jaso2jh() wrong!C681 -  11 14 1
+jaso2jh() wrong!C682 -  11 14 2
+jaso2jh() wrong!C685 -  11 14 5
+jaso2jh() wrong!C689 -  11 14 9
+jaso2jh() wrong!C691 -  11 14 11
+jaso2jh() wrong!C693 -  11 14 13
+jaso2jh() wrong!C695 -  11 14 15
+jaso2jh() wrong!C697 -  11 14 17
+jaso2jh() wrong!C6A1 -  11 15 1
+jaso2jh() wrong!C6A5 -  11 15 5
+jaso2jh() wrong!C6A9 -  11 15 9
+jaso2jh() wrong!C6B7 -  11 15 17
+jaso2jh() wrong!C6C1 -  11 16 1
+jaso2jh() wrong!C6D7 -  11 16 17
+jaso2jh() wrong!C6E1 -  11 17 1
+jaso2jh() wrong!C6E2 -  11 17 2
+jaso2jh() wrong!C6E5 -  11 17 5
+jaso2jh() wrong!C6E9 -  11 17 9
+jaso2jh() wrong!C6F1 -  11 17 11
+jaso2jh() wrong!C6F3 -  11 17 13
+jaso2jh() wrong!C6F5 -  11 17 15
+jaso2jh() wrong!C6F7 -  11 17 17
+jaso2jh() wrong!C741 -  11 1A 1
+jaso2jh() wrong!C745 -  11 1A 5
+jaso2jh() wrong!C749 -  11 1A 9
+jaso2jh() wrong!C751 -  11 1A 11
+jaso2jh() wrong!C761 -  11 1B 1
+jaso2jh() wrong!C762 -  11 1B 2
+jaso2jh() wrong!C765 -  11 1B 5
+jaso2jh() wrong!C769 -  11 1B 9
+jaso2jh() wrong!C771 -  11 1B 11
+jaso2jh() wrong!C773 -  11 1B 13
+jaso2jh() wrong!C777 -  11 1B 17
+jaso2jh() wrong!C7A1 -  11 1D 1
+jaso2jh() wrong!C7A2 -  11 1D 2
+jaso2jh() wrong!C7A5 -  11 1D 5
+jaso2jh() wrong!C7A9 -  11 1D 9
+jaso2jh() wrong!C7B1 -  11 1D 11
+jaso2jh() wrong!C7B3 -  11 1D 13
+jaso2jh() wrong!C7B5 -  11 1D 15
+jaso2jh() wrong!C7B7 -  11 1D 17
+jaso2jh() wrong!C861 -  12 3 1
+jaso2jh() wrong!C862 -  12 3 2
+jaso2jh() wrong!C865 -  12 3 5
+jaso2jh() wrong!C869 -  12 3 9
+jaso2jh() wrong!C86A -  12 3 A
+jaso2jh() wrong!C871 -  12 3 11
+jaso2jh() wrong!C873 -  12 3 13
+jaso2jh() wrong!C875 -  12 3 15
+jaso2jh() wrong!C876 -  12 3 16
+jaso2jh() wrong!C877 -  12 3 17
+jaso2jh() wrong!C881 -  12 4 1
+jaso2jh() wrong!C882 -  12 4 2
+jaso2jh() wrong!C885 -  12 4 5
+jaso2jh() wrong!C889 -  12 4 9
+jaso2jh() wrong!C891 -  12 4 11
+jaso2jh() wrong!C893 -  12 4 13
+jaso2jh() wrong!C895 -  12 4 15
+jaso2jh() wrong!C896 -  12 4 16
+jaso2jh() wrong!C897 -  12 4 17
+jaso2jh() wrong!C8A1 -  12 5 1
+jaso2jh() wrong!C8B7 -  12 5 17
+jaso2jh() wrong!C8E1 -  12 7 1
+jaso2jh() wrong!C8E2 -  12 7 2
+jaso2jh() wrong!C8E5 -  12 7 5
+jaso2jh() wrong!C8E9 -  12 7 9
+jaso2jh() wrong!C8EB -  12 7 B
+jaso2jh() wrong!C8F1 -  12 7 11
+jaso2jh() wrong!C8F3 -  12 7 13
+jaso2jh() wrong!C8F5 -  12 7 15
+jaso2jh() wrong!C8F6 -  12 7 16
+jaso2jh() wrong!C8F7 -  12 7 17
+jaso2jh() wrong!C941 -  12 A 1
+jaso2jh() wrong!C942 -  12 A 2
+jaso2jh() wrong!C945 -  12 A 5
+jaso2jh() wrong!C949 -  12 A 9
+jaso2jh() wrong!C951 -  12 A 11
+jaso2jh() wrong!C953 -  12 A 13
+jaso2jh() wrong!C955 -  12 A 15
+jaso2jh() wrong!C957 -  12 A 17
+jaso2jh() wrong!C961 -  12 B 1
+jaso2jh() wrong!C965 -  12 B 5
+jaso2jh() wrong!C976 -  12 B 16
+jaso2jh() wrong!C981 -  12 C 1
+jaso2jh() wrong!C985 -  12 C 5
+jaso2jh() wrong!C9A1 -  12 D 1
+jaso2jh() wrong!C9A2 -  12 D 2
+jaso2jh() wrong!C9A5 -  12 D 5
+jaso2jh() wrong!C9A9 -  12 D 9
+jaso2jh() wrong!C9B1 -  12 D 11
+jaso2jh() wrong!C9B3 -  12 D 13
+jaso2jh() wrong!C9B5 -  12 D 15
+jaso2jh() wrong!C9B7 -  12 D 17
+jaso2jh() wrong!C9BC -  12 D 1C
+jaso2jh() wrong!C9C1 -  12 E 1
+jaso2jh() wrong!C9C5 -  12 E 5
+jaso2jh() wrong!C9E1 -  12 F 1
+jaso2jh() wrong!CA41 -  12 12 1
+jaso2jh() wrong!CA45 -  12 12 5
+jaso2jh() wrong!CA55 -  12 12 15
+jaso2jh() wrong!CA57 -  12 12 17
+jaso2jh() wrong!CA61 -  12 13 1
+jaso2jh() wrong!CA81 -  12 14 1
+jaso2jh() wrong!CA82 -  12 14 2
+jaso2jh() wrong!CA85 -  12 14 5
+jaso2jh() wrong!CA89 -  12 14 9
+jaso2jh() wrong!CA91 -  12 14 11
+jaso2jh() wrong!CA93 -  12 14 13
+jaso2jh() wrong!CA95 -  12 14 15
+jaso2jh() wrong!CA97 -  12 14 17
+jaso2jh() wrong!CAA1 -  12 15 1
+jaso2jh() wrong!CAB6 -  12 15 16
+jaso2jh() wrong!CAC1 -  12 16 1
+jaso2jh() wrong!CAE1 -  12 17 1
+jaso2jh() wrong!CAE2 -  12 17 2
+jaso2jh() wrong!CAE5 -  12 17 5
+jaso2jh() wrong!CAE9 -  12 17 9
+jaso2jh() wrong!CAF1 -  12 17 11
+jaso2jh() wrong!CAF3 -  12 17 13
+jaso2jh() wrong!CAF7 -  12 17 17
+jaso2jh() wrong!CB41 -  12 1A 1
+jaso2jh() wrong!CB45 -  12 1A 5
+jaso2jh() wrong!CB49 -  12 1A 9
+jaso2jh() wrong!CB51 -  12 1A 11
+jaso2jh() wrong!CB57 -  12 1A 17
+jaso2jh() wrong!CB61 -  12 1B 1
+jaso2jh() wrong!CB62 -  12 1B 2
+jaso2jh() wrong!CB65 -  12 1B 5
+jaso2jh() wrong!CB68 -  12 1B 8
+jaso2jh() wrong!CB69 -  12 1B 9
+jaso2jh() wrong!CB6B -  12 1B B
+jaso2jh() wrong!CB71 -  12 1B 11
+jaso2jh() wrong!CB73 -  12 1B 13
+jaso2jh() wrong!CB75 -  12 1B 15
+jaso2jh() wrong!CB81 -  12 1C 1
+jaso2jh() wrong!CB85 -  12 1C 5
+jaso2jh() wrong!CB89 -  12 1C 9
+jaso2jh() wrong!CB91 -  12 1C 11
+jaso2jh() wrong!CB93 -  12 1C 13
+jaso2jh() wrong!CBA1 -  12 1D 1
+jaso2jh() wrong!CBA2 -  12 1D 2
+jaso2jh() wrong!CBA5 -  12 1D 5
+jaso2jh() wrong!CBA9 -  12 1D 9
+jaso2jh() wrong!CBB1 -  12 1D 11
+jaso2jh() wrong!CBB3 -  12 1D 13
+jaso2jh() wrong!CBB5 -  12 1D 15
+jaso2jh() wrong!CBB7 -  12 1D 17
+jaso2jh() wrong!CC61 -  13 3 1
+jaso2jh() wrong!CC62 -  13 3 2
+jaso2jh() wrong!CC63 -  13 3 3
+jaso2jh() wrong!CC65 -  13 3 5
+jaso2jh() wrong!CC69 -  13 3 9
+jaso2jh() wrong!CC6B -  13 3 B
+jaso2jh() wrong!CC71 -  13 3 11
+jaso2jh() wrong!CC73 -  13 3 13
+jaso2jh() wrong!CC75 -  13 3 15
+jaso2jh() wrong!CC76 -  13 3 16
+jaso2jh() wrong!CC77 -  13 3 17
+jaso2jh() wrong!CC7B -  13 3 1B
+jaso2jh() wrong!CC81 -  13 4 1
+jaso2jh() wrong!CC82 -  13 4 2
+jaso2jh() wrong!CC85 -  13 4 5
+jaso2jh() wrong!CC89 -  13 4 9
+jaso2jh() wrong!CC91 -  13 4 11
+jaso2jh() wrong!CC93 -  13 4 13
+jaso2jh() wrong!CC95 -  13 4 15
+jaso2jh() wrong!CC96 -  13 4 16
+jaso2jh() wrong!CC97 -  13 4 17
+jaso2jh() wrong!CCA1 -  13 5 1
+jaso2jh() wrong!CCA2 -  13 5 2
+jaso2jh() wrong!CCE1 -  13 7 1
+jaso2jh() wrong!CCE2 -  13 7 2
+jaso2jh() wrong!CCE5 -  13 7 5
+jaso2jh() wrong!CCE9 -  13 7 9
+jaso2jh() wrong!CCF1 -  13 7 11
+jaso2jh() wrong!CCF3 -  13 7 13
+jaso2jh() wrong!CCF5 -  13 7 15
+jaso2jh() wrong!CCF6 -  13 7 16
+jaso2jh() wrong!CCF7 -  13 7 17
+jaso2jh() wrong!CD41 -  13 A 1
+jaso2jh() wrong!CD42 -  13 A 2
+jaso2jh() wrong!CD45 -  13 A 5
+jaso2jh() wrong!CD49 -  13 A 9
+jaso2jh() wrong!CD51 -  13 A 11
+jaso2jh() wrong!CD53 -  13 A 13
+jaso2jh() wrong!CD55 -  13 A 15
+jaso2jh() wrong!CD57 -  13 A 17
+jaso2jh() wrong!CD61 -  13 B 1
+jaso2jh() wrong!CD65 -  13 B 5
+jaso2jh() wrong!CD69 -  13 B 9
+jaso2jh() wrong!CD71 -  13 B 11
+jaso2jh() wrong!CD73 -  13 B 13
+jaso2jh() wrong!CD76 -  13 B 16
+jaso2jh() wrong!CD77 -  13 B 17
+jaso2jh() wrong!CD81 -  13 C 1
+jaso2jh() wrong!CD89 -  13 C 9
+jaso2jh() wrong!CD93 -  13 C 13
+jaso2jh() wrong!CD95 -  13 C 15
+jaso2jh() wrong!CDA1 -  13 D 1
+jaso2jh() wrong!CDA2 -  13 D 2
+jaso2jh() wrong!CDA5 -  13 D 5
+jaso2jh() wrong!CDA9 -  13 D 9
+jaso2jh() wrong!CDB1 -  13 D 11
+jaso2jh() wrong!CDB3 -  13 D 13
+jaso2jh() wrong!CDB5 -  13 D 15
+jaso2jh() wrong!CDB7 -  13 D 17
+jaso2jh() wrong!CDC1 -  13 E 1
+jaso2jh() wrong!CDD7 -  13 E 17
+jaso2jh() wrong!CE41 -  13 12 1
+jaso2jh() wrong!CE45 -  13 12 5
+jaso2jh() wrong!CE61 -  13 13 1
+jaso2jh() wrong!CE65 -  13 13 5
+jaso2jh() wrong!CE69 -  13 13 9
+jaso2jh() wrong!CE73 -  13 13 13
+jaso2jh() wrong!CE75 -  13 13 15
+jaso2jh() wrong!CE81 -  13 14 1
+jaso2jh() wrong!CE82 -  13 14 2
+jaso2jh() wrong!CE85 -  13 14 5
+jaso2jh() wrong!CE88 -  13 14 8
+jaso2jh() wrong!CE89 -  13 14 9
+jaso2jh() wrong!CE8B -  13 14 B
+jaso2jh() wrong!CE91 -  13 14 11
+jaso2jh() wrong!CE93 -  13 14 13
+jaso2jh() wrong!CE95 -  13 14 15
+jaso2jh() wrong!CE97 -  13 14 17
+jaso2jh() wrong!CEA1 -  13 15 1
+jaso2jh() wrong!CEB7 -  13 15 17
+jaso2jh() wrong!CEE1 -  13 17 1
+jaso2jh() wrong!CEE5 -  13 17 5
+jaso2jh() wrong!CEE9 -  13 17 9
+jaso2jh() wrong!CEF1 -  13 17 11
+jaso2jh() wrong!CEF5 -  13 17 15
+jaso2jh() wrong!CF41 -  13 1A 1
+jaso2jh() wrong!CF45 -  13 1A 5
+jaso2jh() wrong!CF49 -  13 1A 9
+jaso2jh() wrong!CF51 -  13 1A 11
+jaso2jh() wrong!CF55 -  13 1A 15
+jaso2jh() wrong!CF57 -  13 1A 17
+jaso2jh() wrong!CF61 -  13 1B 1
+jaso2jh() wrong!CF65 -  13 1B 5
+jaso2jh() wrong!CF69 -  13 1B 9
+jaso2jh() wrong!CF71 -  13 1B 11
+jaso2jh() wrong!CF73 -  13 1B 13
+jaso2jh() wrong!CF75 -  13 1B 15
+jaso2jh() wrong!CFA1 -  13 1D 1
+jaso2jh() wrong!CFA2 -  13 1D 2
+jaso2jh() wrong!CFA5 -  13 1D 5
+jaso2jh() wrong!CFA9 -  13 1D 9
+jaso2jh() wrong!CFB1 -  13 1D 11
+jaso2jh() wrong!CFB3 -  13 1D 13
+jaso2jh() wrong!CFB5 -  13 1D 15
+jaso2jh() wrong!CFB7 -  13 1D 17
+jaso2jh() wrong!D061 -  14 3 1
+jaso2jh() wrong!D062 -  14 3 2
+jaso2jh() wrong!D065 -  14 3 5
+jaso2jh() wrong!D069 -  14 3 9
+jaso2jh() wrong!D06E -  14 3 E
+jaso2jh() wrong!D071 -  14 3 11
+jaso2jh() wrong!D073 -  14 3 13
+jaso2jh() wrong!D075 -  14 3 15
+jaso2jh() wrong!D077 -  14 3 17
+jaso2jh() wrong!D081 -  14 4 1
+jaso2jh() wrong!D082 -  14 4 2
+jaso2jh() wrong!D085 -  14 4 5
+jaso2jh() wrong!D089 -  14 4 9
+jaso2jh() wrong!D091 -  14 4 11
+jaso2jh() wrong!D093 -  14 4 13
+jaso2jh() wrong!D095 -  14 4 15
+jaso2jh() wrong!D096 -  14 4 16
+jaso2jh() wrong!D097 -  14 4 17
+jaso2jh() wrong!D0A1 -  14 5 1
+jaso2jh() wrong!D0B7 -  14 5 17
+jaso2jh() wrong!D0E1 -  14 7 1
+jaso2jh() wrong!D0E2 -  14 7 2
+jaso2jh() wrong!D0E5 -  14 7 5
+jaso2jh() wrong!D0E9 -  14 7 9
+jaso2jh() wrong!D0EB -  14 7 B
+jaso2jh() wrong!D0F1 -  14 7 11
+jaso2jh() wrong!D0F3 -  14 7 13
+jaso2jh() wrong!D0F5 -  14 7 15
+jaso2jh() wrong!D0F7 -  14 7 17
+jaso2jh() wrong!D141 -  14 A 1
+jaso2jh() wrong!D142 -  14 A 2
+jaso2jh() wrong!D145 -  14 A 5
+jaso2jh() wrong!D149 -  14 A 9
+jaso2jh() wrong!D151 -  14 A 11
+jaso2jh() wrong!D153 -  14 A 13
+jaso2jh() wrong!D155 -  14 A 15
+jaso2jh() wrong!D157 -  14 A 17
+jaso2jh() wrong!D161 -  14 B 1
+jaso2jh() wrong!D162 -  14 B 2
+jaso2jh() wrong!D165 -  14 B 5
+jaso2jh() wrong!D169 -  14 B 9
+jaso2jh() wrong!D171 -  14 B 11
+jaso2jh() wrong!D173 -  14 B 13
+jaso2jh() wrong!D175 -  14 B 15
+jaso2jh() wrong!D176 -  14 B 16
+jaso2jh() wrong!D177 -  14 B 17
+jaso2jh() wrong!D181 -  14 C 1
+jaso2jh() wrong!D185 -  14 C 5
+jaso2jh() wrong!D189 -  14 C 9
+jaso2jh() wrong!D193 -  14 C 13
+jaso2jh() wrong!D1A1 -  14 D 1
+jaso2jh() wrong!D1A2 -  14 D 2
+jaso2jh() wrong!D1A5 -  14 D 5
+jaso2jh() wrong!D1A9 -  14 D 9
+jaso2jh() wrong!D1AE -  14 D E
+jaso2jh() wrong!D1B1 -  14 D 11
+jaso2jh() wrong!D1B3 -  14 D 13
+jaso2jh() wrong!D1B5 -  14 D 15
+jaso2jh() wrong!D1B7 -  14 D 17
+jaso2jh() wrong!D1BB -  14 D 1B
+jaso2jh() wrong!D1C1 -  14 E 1
+jaso2jh() wrong!D1C2 -  14 E 2
+jaso2jh() wrong!D1C5 -  14 E 5
+jaso2jh() wrong!D1C9 -  14 E 9
+jaso2jh() wrong!D1D5 -  14 E 15
+jaso2jh() wrong!D1D7 -  14 E 17
+jaso2jh() wrong!D1E1 -  14 F 1
+jaso2jh() wrong!D1E2 -  14 F 2
+jaso2jh() wrong!D1E5 -  14 F 5
+jaso2jh() wrong!D1F5 -  14 F 15
+jaso2jh() wrong!D1F7 -  14 F 17
+jaso2jh() wrong!D241 -  14 12 1
+jaso2jh() wrong!D242 -  14 12 2
+jaso2jh() wrong!D245 -  14 12 5
+jaso2jh() wrong!D249 -  14 12 9
+jaso2jh() wrong!D253 -  14 12 13
+jaso2jh() wrong!D255 -  14 12 15
+jaso2jh() wrong!D257 -  14 12 17
+jaso2jh() wrong!D261 -  14 13 1
+jaso2jh() wrong!D265 -  14 13 5
+jaso2jh() wrong!D269 -  14 13 9
+jaso2jh() wrong!D273 -  14 13 13
+jaso2jh() wrong!D275 -  14 13 15
+jaso2jh() wrong!D281 -  14 14 1
+jaso2jh() wrong!D282 -  14 14 2
+jaso2jh() wrong!D285 -  14 14 5
+jaso2jh() wrong!D289 -  14 14 9
+jaso2jh() wrong!D28E -  14 14 E
+jaso2jh() wrong!D291 -  14 14 11
+jaso2jh() wrong!D295 -  14 14 15
+jaso2jh() wrong!D297 -  14 14 17
+jaso2jh() wrong!D2A1 -  14 15 1
+jaso2jh() wrong!D2A5 -  14 15 5
+jaso2jh() wrong!D2A9 -  14 15 9
+jaso2jh() wrong!D2B1 -  14 15 11
+jaso2jh() wrong!D2B7 -  14 15 17
+jaso2jh() wrong!D2C1 -  14 16 1
+jaso2jh() wrong!D2C2 -  14 16 2
+jaso2jh() wrong!D2C5 -  14 16 5
+jaso2jh() wrong!D2C9 -  14 16 9
+jaso2jh() wrong!D2D7 -  14 16 17
+jaso2jh() wrong!D2E1 -  14 17 1
+jaso2jh() wrong!D2E2 -  14 17 2
+jaso2jh() wrong!D2E5 -  14 17 5
+jaso2jh() wrong!D2E9 -  14 17 9
+jaso2jh() wrong!D2F1 -  14 17 11
+jaso2jh() wrong!D2F3 -  14 17 13
+jaso2jh() wrong!D2F5 -  14 17 15
+jaso2jh() wrong!D2F7 -  14 17 17
+jaso2jh() wrong!D341 -  14 1A 1
+jaso2jh() wrong!D342 -  14 1A 2
+jaso2jh() wrong!D345 -  14 1A 5
+jaso2jh() wrong!D349 -  14 1A 9
+jaso2jh() wrong!D351 -  14 1A 11
+jaso2jh() wrong!D355 -  14 1A 15
+jaso2jh() wrong!D357 -  14 1A 17
+jaso2jh() wrong!D361 -  14 1B 1
+jaso2jh() wrong!D362 -  14 1B 2
+jaso2jh() wrong!D365 -  14 1B 5
+jaso2jh() wrong!D367 -  14 1B 7
+jaso2jh() wrong!D368 -  14 1B 8
+jaso2jh() wrong!D369 -  14 1B 9
+jaso2jh() wrong!D36A -  14 1B A
+jaso2jh() wrong!D371 -  14 1B 11
+jaso2jh() wrong!D373 -  14 1B 13
+jaso2jh() wrong!D375 -  14 1B 15
+jaso2jh() wrong!D377 -  14 1B 17
+jaso2jh() wrong!D37B -  14 1B 1B
+jaso2jh() wrong!D381 -  14 1C 1
+jaso2jh() wrong!D385 -  14 1C 5
+jaso2jh() wrong!D389 -  14 1C 9
+jaso2jh() wrong!D391 -  14 1C 11
+jaso2jh() wrong!D393 -  14 1C 13
+jaso2jh() wrong!D397 -  14 1C 17
+jaso2jh() wrong!D3A1 -  14 1D 1
+jaso2jh() wrong!D3A2 -  14 1D 2
+jaso2jh() wrong!D3A5 -  14 1D 5
+jaso2jh() wrong!D3A9 -  14 1D 9
+jaso2jh() wrong!D3B1 -  14 1D 11
+jaso2jh() wrong!D3B3 -  14 1D 13
+jaso2jh() wrong!D3B5 -  14 1D 15
+jaso2jh() wrong!D3B7 -  14 1D 17
+jaso2jh() wrong!8841 -  2 2 1
+jaso2jh() wrong!8C41 -  3 2 1
+jaso2jh() wrong!8444 -  1 2 4
+jaso2jh() wrong!9041 -  4 2 1
+jaso2jh() wrong!8446 -  1 2 6
+jaso2jh() wrong!8447 -  1 2 7
+jaso2jh() wrong!9441 -  5 2 1
+jaso2jh() wrong!9841 -  6 2 1
+jaso2jh() wrong!9C41 -  7 2 1
+jaso2jh() wrong!844A -  1 2 A
+jaso2jh() wrong!844B -  1 2 B
+jaso2jh() wrong!844C -  1 2 C
+jaso2jh() wrong!844D -  1 2 D
+jaso2jh() wrong!844E -  1 2 E
+jaso2jh() wrong!844F -  1 2 F
+jaso2jh() wrong!8450 -  1 2 10
+jaso2jh() wrong!A041 -  8 2 1
+jaso2jh() wrong!A441 -  9 2 1
+jaso2jh() wrong!A841 -  A 2 1
+jaso2jh() wrong!8454 -  1 2 14
+jaso2jh() wrong!AC41 -  B 2 1
+jaso2jh() wrong!B041 -  C 2 1
+jaso2jh() wrong!B441 -  D 2 1
+jaso2jh() wrong!B841 -  E 2 1
+jaso2jh() wrong!BC41 -  F 2 1
+jaso2jh() wrong!C041 -  10 2 1
+jaso2jh() wrong!C441 -  11 2 1
+jaso2jh() wrong!C841 -  12 2 1
+jaso2jh() wrong!CC41 -  13 2 1
+jaso2jh() wrong!D041 -  14 2 1
+jaso2jh() wrong!8461 -  1 3 1
+jaso2jh() wrong!8481 -  1 4 1
+jaso2jh() wrong!84A1 -  1 5 1
+jaso2jh() wrong!84C1 -  1 6 1
+jaso2jh() wrong!84E1 -  1 7 1
+jaso2jh() wrong!8541 -  1 A 1
+jaso2jh() wrong!8561 -  1 B 1
+jaso2jh() wrong!8581 -  1 C 1
+jaso2jh() wrong!85A1 -  1 D 1
+jaso2jh() wrong!85C1 -  1 E 1
+jaso2jh() wrong!85E1 -  1 F 1
+jaso2jh() wrong!8641 -  1 12 1
+jaso2jh() wrong!8661 -  1 13 1
+jaso2jh() wrong!8681 -  1 14 1
+jaso2jh() wrong!86A1 -  1 15 1
+jaso2jh() wrong!86C1 -  1 16 1
+jaso2jh() wrong!86E1 -  1 17 1
+jaso2jh() wrong!8741 -  1 1A 1
+jaso2jh() wrong!8761 -  1 1B 1
+jaso2jh() wrong!8781 -  1 1C 1
+jaso2jh() wrong!87A1 -  1 1D 1
+### d:\svn\ad2005\Debug\hdict.exe	Option: w
+
+B0A1 861 °¡ ¤¡ ¤¿      2  3  1 °¡ 0 0000020B
+B0A2 861 °¢ ¤¡ ¤¿ ¤¡   2  3  2 °¡ 0 00000000
+B0A3 861 °£ ¤¡ ¤¿ ¤¤   2  3  5 °¡ 0 0000000A
+B0A4 861 °¤ ¤¡ ¤¿ ¤§   2  3  8 °¡ 0 00000000
+B0A5 861 °¥ ¤¡ ¤¿ ¤©   2  3  9 °¡ 0 00000000
+B0A6 861 °¦ ¤¡ ¤¿ ¤ª   2  3 10 °¡ 0 00000000
+B0A7 861 °§ ¤¡ ¤¿ ¤«   2  3 11 °¡ 0 00000000
+B0A8 861 °¨ ¤¡ ¤¿ ¤±   2  3 17 °¡ 0 00000000
+B0A9 861 °© ¤¡ ¤¿ ¤²   2  3 19 °¡ 0 00000000
+B0AA 861 °ª ¤¡ ¤¿ ¤´   2  3 20 °¡ 0 00000000
+B0AB 861 °« ¤¡ ¤¿ ¤µ   2  3 21 °¡ 0 00000000
+B0AC 861 °¬ ¤¡ ¤¿ ¤¶   2  3 22 °¡ 0 00000000
+B0AD 861 °­ ¤¡ ¤¿ ¤·   2  3 23 °¡ 0 00000000
+B0AE 861 °® ¤¡ ¤¿ ¤¸   2  3 24 °¡ 0 00000000
+B0AF 861 °¯ ¤¡ ¤¿ ¤º   2  3 25 °¡ 0 00000000
+B0B0 861 °° ¤¡ ¤¿ ¤¼   2  3 27 °¡ 0 00000001
+B0B1 861 °± ¤¡ ¤¿ ¤½   2  3 28 °¡ 0 00000000
+B0B2 861 °² ¤¡ ¤¿ ¤¾   2  3 29 °¡ 0 00000000
+B0B3 881 °³ ¤¡ ¤À      2  4  1 °³ 0 00000000
+B0B4 881 °´ ¤¡ ¤À ¤¡   2  4  2 °³ 0 00000000
+B0B5 881 °µ ¤¡ ¤À ¤¤   2  4  5 °³ 0 00000000
+B0B6 881 °¶ ¤¡ ¤À ¤©   2  4  9 °³ 0 00000000
+B0B7 881 °· ¤¡ ¤À ¤±   2  4 17 °³ 0 00000000
+B0B8 881 °¸ ¤¡ ¤À ¤²   2  4 19 °³ 0 00000000
+B0B9 881 °¹ ¤¡ ¤À ¤µ   2  4 21 °³ 0 00000000
+B0BA 881 °º ¤¡ ¤À ¤¶   2  4 22 °³ 0 00000000
+B0BB 881 °» ¤¡ ¤À ¤·   2  4 23 °³ 0 00000000
+B0BC 8A1 °¼ ¤¡ ¤Á      2  5  1 °¼ 0 00000000
+B0BD 8A1 °½ ¤¡ ¤Á ¤¡   2  5  2 °¼ 0 00000000
+B0BE 8A1 °¾ ¤¡ ¤Á ¤¤   2  5  5 °¼ 0 00000000
+B0BF 8A1 °¿ ¤¡ ¤Á ¤©   2  5  9 °¼ 0 00000000
+B0C0 8A1 °À ¤¡ ¤Á ¤µ   2  5 21 °¼ 0 00000000
+B0C1 8A1 °Á ¤¡ ¤Á ¤·   2  5 23 °¼ 0 00000000
+B0C2 8C1 °Â ¤¡ ¤Â      2  6  1 °Â 0 00000000
+B0C3 8C1 °Ã ¤¡ ¤Â ¤¤   2  6  5 °Â 0 00000000
+B0C4 8C1 °Ä ¤¡ ¤Â ¤©   2  6  9 °Â 0 00000000
+B0C5 8E1 °Å ¤¡ ¤Ã      2  7  1 °Å 0 0000000C
+B0C6 8E1 °Æ ¤¡ ¤Ã ¤¡   2  7  2 °Å 0 00000000
+B0C7 8E1 °Ç ¤¡ ¤Ã ¤¤   2  7  5 °Å 0 00000004
+B0C8 8E1 °È ¤¡ ¤Ã ¤§   2  7  8 °Å 0 00000000
+B0C9 8E1 °É ¤¡ ¤Ã ¤©   2  7  9 °Å 0 00000008
+B0CA 8E1 °Ê ¤¡ ¤Ã ¤«   2  7 11 °Å 0 00000000
+B0CB 8E1 °Ë ¤¡ ¤Ã ¤±   2  7 17 °Å 0 00000000
+B0CC 8E1 °Ì ¤¡ ¤Ã ¤²   2  7 19 °Å 0 00000000
+B0CD 8E1 °Í ¤¡ ¤Ã ¤µ   2  7 21 °Å 0 00000004
+B0CE 8E1 °Î ¤¡ ¤Ã ¤¶   2  7 22 °Å 0 00000000
+B0CF 8E1 °Ï ¤¡ ¤Ã ¤·   2  7 23 °Å 0 00000000
+B0D0 8E1 °Ð ¤¡ ¤Ã ¤¸   2  7 24 °Å 0 00000000
+B0D1 8E1 °Ñ ¤¡ ¤Ã ¤¼   2  7 27 °Å 0 00000000
+B0D2 8E1 °Ò ¤¡ ¤Ã ¤½   2  7 28 °Å 0 00000000
+B0D3 8E1 °Ó ¤¡ ¤Ã ¤¾   2  7 29 °Å 0 00000000
+B0D4 941 °Ô ¤¡ ¤Ä      2 10  1 °Ô 0 0000000E
+B0D5 941 °Õ ¤¡ ¤Ä ¤¤   2 10  5 °Ô 0 00000002
+B0D6 941 °Ö ¤¡ ¤Ä ¤©   2 10  9 °Ô 0 00000000
+B0D7 941 °× ¤¡ ¤Ä ¤±   2 10 17 °Ô 0 00000000
+B0D8 941 °Ø ¤¡ ¤Ä ¤²   2 10 19 °Ô 0 00000000
+B0D9 941 °Ù ¤¡ ¤Ä ¤µ   2 10 21 °Ô 0 00000000
+B0DA 941 °Ú ¤¡ ¤Ä ¤¶   2 10 22 °Ô 0 00000000
+B0DB 941 °Û ¤¡ ¤Ä ¤·   2 10 23 °Ô 0 00000000
+B0DC 961 °Ü ¤¡ ¤Å      2 11  1 °Ü 0 00000000
+B0DD 961 °Ý ¤¡ ¤Å ¤¡   2 11  2 °Ü 0 00000000
+B0DE 961 °Þ ¤¡ ¤Å ¤¢   2 11  3 °Ü 0 00000000
+B0DF 961 °ß ¤¡ ¤Å ¤¤   2 11  5 °Ü 0 00000000
+B0E0 961 °à ¤¡ ¤Å ¤§   2 11  8 °Ü 0 00000000
+B0E1 961 °á ¤¡ ¤Å ¤©   2 11  9 °Ü 0 00000000
+B0E2 961 °â ¤¡ ¤Å ¤±   2 11 17 °Ü 0 00000000
+B0E3 961 °ã ¤¡ ¤Å ¤²   2 11 19 °Ü 0 00000000
+B0E4 961 °ä ¤¡ ¤Å ¤µ   2 11 21 °Ü 0 00000000
+B0E5 961 °å ¤¡ ¤Å ¤¶   2 11 22 °Ü 0 00000000
+B0E6 961 °æ ¤¡ ¤Å ¤·   2 11 23 °Ü 0 00000000
+B0E7 961 °ç ¤¡ ¤Å ¤¼   2 11 27 °Ü 0 00000000
+B0E8 981 °è ¤¡ ¤Æ      2 12  1 °è 0 00000000
+B0E9 981 °é ¤¡ ¤Æ ¤¤   2 12  5 °è 0 00000000
+B0EA 981 °ê ¤¡ ¤Æ ¤©   2 12  9 °è 0 00000000
+B0EB 981 °ë ¤¡ ¤Æ ¤²   2 12 19 °è 0 00000000
+B0EC 981 °ì ¤¡ ¤Æ ¤µ   2 12 21 °è 0 00000000
+B0ED 9A1 °í ¤¡ ¤Ç      2 13  1 °í 0 0000000F
+B0EE 9A1 °î ¤¡ ¤Ç ¤¡   2 13  2 °í 0 00000000
+B0EF 9A1 °ï ¤¡ ¤Ç ¤¤   2 13  5 °í 0 0000000E
+B0F0 9A1 °ð ¤¡ ¤Ç ¤§   2 13  8 °í 0 00000000
+B0F1 9A1 °ñ ¤¡ ¤Ç ¤©   2 13  9 °í 0 00000000
+B0F2 9A1 °ò ¤¡ ¤Ç ¤«   2 13 11 °í 0 00000000
+B0F3 9A1 °ó ¤¡ ¤Ç ¤­   2 13 13 °í 0 00000000
+B0F4 9A1 °ô ¤¡ ¤Ç ¤°   2 13 16 °í 0 00000000
+B0F5 9A1 °õ ¤¡ ¤Ç ¤±   2 13 17 °í 0 00000000
+B0F6 9A1 °ö ¤¡ ¤Ç ¤²   2 13 19 °í 0 00000000
+B0F7 9A1 °÷ ¤¡ ¤Ç ¤µ   2 13 21 °í 0 00000000
+B0F8 9A1 °ø ¤¡ ¤Ç ¤·   2 13 23 °í 0 00000000
+B0F9 9A1 °ù ¤¡ ¤Ç ¤¸   2 13 24 °í 0 00000000
+B0FA 9C1 °ú ¤¡ ¤È      2 14  1 °ú 0 00000009
+B0FB 9C1 °û ¤¡ ¤È ¤¡   2 14  2 °ú 0 00000000
+B0FC 9C1 °ü ¤¡ ¤È ¤¤   2 14  5 °ú 0 00000004
+B0FD 9C1 °ý ¤¡ ¤È ¤©   2 14  9 °ú 0 00000000
+B0FE 9C1 °þ ¤¡ ¤È ¤«   2 14 11 °ú 0 00000000
+B1A1 9C1 ±¡ ¤¡ ¤È ¤±   2 14 17 °ú 0 00000000
+B1A2 9C1 ±¢ ¤¡ ¤È ¤²   2 14 19 °ú 0 00000000
+B1A3 9C1 ±£ ¤¡ ¤È ¤µ   2 14 21 °ú 0 00000000
+B1A4 9C1 ±¤ ¤¡ ¤È ¤·   2 14 23 °ú 0 00000000
+B1A5 9E1 ±¥ ¤¡ ¤É      2 15  1 ±¥ 0 00000000
+B1A6 9E1 ±¦ ¤¡ ¤É ¤¤   2 15  5 ±¥ 0 00000000
+B1A7 9E1 ±§ ¤¡ ¤É ¤©   2 15  9 ±¥ 0 00000000
+B1A8 9E1 ±¨ ¤¡ ¤É ¤±   2 15 17 ±¥ 0 00000000
+B1A9 9E1 ±© ¤¡ ¤É ¤¶   2 15 22 ±¥ 0 00000000
+B1AA 9E1 ±ª ¤¡ ¤É ¤·   2 15 23 ±¥ 0 00000000
+B1AB A41 ±« ¤¡ ¤Ê      2 18  1 ±« 0 00000000
+B1AC A41 ±¬ ¤¡ ¤Ê ¤¡   2 18  2 ±« 0 00000000
+B1AD A41 ±­ ¤¡ ¤Ê ¤¤   2 18  5 ±« 0 00000000
+B1AE A41 ±® ¤¡ ¤Ê ¤©   2 18  9 ±« 0 00000000
+B1AF A41 ±¯ ¤¡ ¤Ê ¤±   2 18 17 ±« 0 00000000
+B1B0 A41 ±° ¤¡ ¤Ê ¤²   2 18 19 ±« 0 00000000
+B1B1 A41 ±± ¤¡ ¤Ê ¤µ   2 18 21 ±« 0 00000000
+B1B2 A41 ±² ¤¡ ¤Ê ¤·   2 18 23 ±« 0 00000000
+B1B3 A61 ±³ ¤¡ ¤Ë      2 19  1 ±³ 0 00000000
+B1B4 A61 ±´ ¤¡ ¤Ë ¤¤   2 19  5 ±³ 0 00000000
+B1B5 A61 ±µ ¤¡ ¤Ë ¤©   2 19  9 ±³ 0 00000000
+B1B6 A61 ±¶ ¤¡ ¤Ë ¤²   2 19 19 ±³ 0 00000000
+B1B7 A61 ±· ¤¡ ¤Ë ¤µ   2 19 21 ±³ 0 00000000
+B1B8 A81 ±¸ ¤¡ ¤Ì      2 20  1 ±¸ 0 0000000E
+B1B9 A81 ±¹ ¤¡ ¤Ì ¤¡   2 20  2 ±¸ 0 00000000
+B1BA A81 ±º ¤¡ ¤Ì ¤¤   2 20  5 ±¸ 0 0000000E
+B1BB A81 ±» ¤¡ ¤Ì ¤§   2 20  8 ±¸ 0 00000000
+B1BC A81 ±¼ ¤¡ ¤Ì ¤©   2 20  9 ±¸ 0 00000000
+B1BD A81 ±½ ¤¡ ¤Ì ¤ª   2 20 10 ±¸ 0 00000000
+B1BE A81 ±¾ ¤¡ ¤Ì ¤«   2 20 11 ±¸ 0 00000000
+B1BF A81 ±¿ ¤¡ ¤Ì ¤°   2 20 16 ±¸ 0 00000000
+B1C0 A81 ±À ¤¡ ¤Ì ¤±   2 20 17 ±¸ 0 00000000
+B1C1 A81 ±Á ¤¡ ¤Ì ¤²   2 20 19 ±¸ 0 00000000
+B1C2 A81 ±Â ¤¡ ¤Ì ¤µ   2 20 21 ±¸ 0 00000000
+B1C3 A81 ±Ã ¤¡ ¤Ì ¤·   2 20 23 ±¸ 0 00000000
+B1C4 A81 ±Ä ¤¡ ¤Ì ¤¸   2 20 24 ±¸ 0 00000000
+B1C5 AA1 ±Å ¤¡ ¤Í      2 21  1 ±Å 0 00000000
+B1C6 AA1 ±Æ ¤¡ ¤Í ¤¡   2 21  2 ±Å 0 00000000
+B1C7 AA1 ±Ç ¤¡ ¤Í ¤¤   2 21  5 ±Å 0 00000000
+B1C8 AA1 ±È ¤¡ ¤Í ¤©   2 21  9 ±Å 0 00000000
+B1C9 AA1 ±É ¤¡ ¤Í ¤¶   2 21 22 ±Å 0 00000000
+B1CA AA1 ±Ê ¤¡ ¤Í ¤·   2 21 23 ±Å 0 00000000
+B1CB AC1 ±Ë ¤¡ ¤Î      2 22  1 ±Ë 0 00000000
+B1CC AC1 ±Ì ¤¡ ¤Î ¤µ   2 22 21 ±Ë 0 00000000
+B1CD AE1 ±Í ¤¡ ¤Ï      2 23  1 ±Í 0 00000000
+B1CE AE1 ±Î ¤¡ ¤Ï ¤¡   2 23  2 ±Í 0 00000000
+B1CF AE1 ±Ï ¤¡ ¤Ï ¤¤   2 23  5 ±Í 0 00000000
+B1D0 AE1 ±Ð ¤¡ ¤Ï ¤©   2 23  9 ±Í 0 00000000
+B1D1 AE1 ±Ñ ¤¡ ¤Ï ¤±   2 23 17 ±Í 0 00000000
+B1D2 AE1 ±Ò ¤¡ ¤Ï ¤²   2 23 19 ±Í 0 00000000
+B1D3 AE1 ±Ó ¤¡ ¤Ï ¤µ   2 23 21 ±Í 0 00000000
+B1D4 B41 ±Ô ¤¡ ¤Ð      2 26  1 ±Ô 0 00000000
+B1D5 B41 ±Õ ¤¡ ¤Ð ¤¤   2 26  5 ±Ô 0 00000000
+B1D6 B41 ±Ö ¤¡ ¤Ð ¤©   2 26  9 ±Ô 0 00000000
+B1D7 B61 ±× ¤¡ ¤Ñ      2 27  1 ±× 0 00000000
+B1D8 B61 ±Ø ¤¡ ¤Ñ ¤¡   2 27  2 ±× 0 00000000
+B1D9 B61 ±Ù ¤¡ ¤Ñ ¤¤   2 27  5 ±× 0 00000000
+B1DA B61 ±Ú ¤¡ ¤Ñ ¤§   2 27  8 ±× 0 00000000
+B1DB B61 ±Û ¤¡ ¤Ñ ¤©   2 27  9 ±× 0 00000000
+B1DC B61 ±Ü ¤¡ ¤Ñ ¤ª   2 27 10 ±× 0 00000000
+B1DD B61 ±Ý ¤¡ ¤Ñ ¤±   2 27 17 ±× 0 00000000
+B1DE B61 ±Þ ¤¡ ¤Ñ ¤²   2 27 19 ±× 0 00000000
+B1DF B61 ±ß ¤¡ ¤Ñ ¤µ   2 27 21 ±× 0 00000000
+B1E0 B61 ±à ¤¡ ¤Ñ ¤·   2 27 23 ±× 0 00000000
+B1E1 B81 ±á ¤¡ ¤Ò      2 28  1 ±á 0 00000000
+B1E2 BA1 ±â ¤¡ ¤Ó      2 29  1 ±â 0 0000000C
+B1E3 BA1 ±ã ¤¡ ¤Ó ¤¡   2 29  2 ±â 0 00000000
+B1E4 BA1 ±ä ¤¡ ¤Ó ¤¤   2 29  5 ±â 0 00000004
+B1E5 BA1 ±å ¤¡ ¤Ó ¤§   2 29  8 ±â 0 00000000
+B1E6 BA1 ±æ ¤¡ ¤Ó ¤©   2 29  9 ±â 0 00000004
+B1E7 BA1 ±ç ¤¡ ¤Ó ¤«   2 29 11 ±â 0 00000000
+B1E8 BA1 ±è ¤¡ ¤Ó ¤±   2 29 17 ±â 0 00000000
+B1E9 BA1 ±é ¤¡ ¤Ó ¤²   2 29 19 ±â 0 00000000
+B1EA BA1 ±ê ¤¡ ¤Ó ¤µ   2 29 21 ±â 0 00000000
+B1EB BA1 ±ë ¤¡ ¤Ó ¤·   2 29 23 ±â 0 00000000
+B1EC BA1 ±ì ¤¡ ¤Ó ¤¸   2 29 24 ±â 0 00000000
+B1ED BA1 ±í ¤¡ ¤Ó ¤½   2 29 28 ±â 0 00000000
+B1EE C61 ±î ¤¢ ¤¿      3  3  1 ±î 0 0000000B
+B1EF C61 ±ï ¤¢ ¤¿ ¤¡   3  3  2 ±î 0 00000000
+B1F0 C61 ±ð ¤¢ ¤¿ ¤¢   3  3  3 ±î 0 00000000
+B1F1 C61 ±ñ ¤¢ ¤¿ ¤¤   3  3  5 ±î 0 00000008
+B1F2 C61 ±ò ¤¢ ¤¿ ¤©   3  3  9 ±î 0 00000000
+B1F3 C61 ±ó ¤¢ ¤¿ ¤«   3  3 11 ±î 0 00000000
+B1F4 C61 ±ô ¤¢ ¤¿ ¤±   3  3 17 ±î 0 00000000
+B1F5 C61 ±õ ¤¢ ¤¿ ¤²   3  3 19 ±î 0 00000000
+B1F6 C61 ±ö ¤¢ ¤¿ ¤µ   3  3 21 ±î 0 00000000
+B1F7 C61 ±÷ ¤¢ ¤¿ ¤¶   3  3 22 ±î 0 00000000
+B1F8 C61 ±ø ¤¢ ¤¿ ¤·   3  3 23 ±î 0 00000000
+B1F9 C61 ±ù ¤¢ ¤¿ ¤¼   3  3 27 ±î 0 00000000
+B1FA C81 ±ú ¤¢ ¤À      3  4  1 ±ú 0 00000000
+B1FB C81 ±û ¤¢ ¤À ¤¡   3  4  2 ±ú 0 00000000
+B1FC C81 ±ü ¤¢ ¤À ¤¤   3  4  5 ±ú 0 00000000
+B1FD C81 ±ý ¤¢ ¤À ¤©   3  4  9 ±ú 0 00000000
+B1FE C81 ±þ ¤¢ ¤À ¤±   3  4 17 ±ú 0 00000000
+B2A1 C81 ²¡ ¤¢ ¤À ¤²   3  4 19 ±ú 0 00000000
+B2A2 C81 ²¢ ¤¢ ¤À ¤µ   3  4 21 ±ú 0 00000000
+B2A3 C81 ²£ ¤¢ ¤À ¤¶   3  4 22 ±ú 0 00000000
+B2A4 C81 ²¤ ¤¢ ¤À ¤·   3  4 23 ±ú 0 00000000
+B2A5 CA1 ²¥ ¤¢ ¤Á      3  5  1 ²¥ 0 00000000
+B2A6 CA1 ²¦ ¤¢ ¤Á ¤¡   3  5  2 ²¥ 0 00000000
+B2A7 CA1 ²§ ¤¢ ¤Á ¤©   3  5  9 ²¥ 0 00000000
+B2A8 CE1 ²¨ ¤¢ ¤Ã      3  7  1 ²¨ 0 00000000
+B2A9 CE1 ²© ¤¢ ¤Ã ¤¡   3  7  2 ²¨ 0 00000000
+B2AA CE1 ²ª ¤¢ ¤Ã ¤¢   3  7  3 ²¨ 0 00000000
+B2AB CE1 ²« ¤¢ ¤Ã ¤¤   3  7  5 ²¨ 0 00000000
+B2AC CE1 ²¬ ¤¢ ¤Ã ¤©   3  7  9 ²¨ 0 00000000
+B2AD CE1 ²­ ¤¢ ¤Ã ¤±   3  7 17 ²¨ 0 00000000
+B2AE CE1 ²® ¤¢ ¤Ã ¤²   3  7 19 ²¨ 0 00000000
+B2AF CE1 ²¯ ¤¢ ¤Ã ¤µ   3  7 21 ²¨ 0 00000000
+B2B0 CE1 ²° ¤¢ ¤Ã ¤¶   3  7 22 ²¨ 0 00000000
+B2B1 CE1 ²± ¤¢ ¤Ã ¤·   3  7 23 ²¨ 0 00000000
+B2B2 D41 ²² ¤¢ ¤Ä      3 10  1 ²² 0 00000009
+B2B3 D41 ²³ ¤¢ ¤Ä ¤¡   3 10  2 ²² 0 00000000
+B2B4 D41 ²´ ¤¢ ¤Ä ¤¤   3 10  5 ²² 0 00000000
+B2B5 D41 ²µ ¤¢ ¤Ä ¤±   3 10 17 ²² 0 00000000
+B2B6 D41 ²¶ ¤¢ ¤Ä ¤µ   3 10 21 ²² 0 00000000
+B2B7 D41 ²· ¤¢ ¤Ä ¤·   3 10 23 ²² 0 00000000
+B2B8 D61 ²¸ ¤¢ ¤Å      3 11  1 ²¸ 0 00000000
+B2B9 D61 ²¹ ¤¢ ¤Å ¤¤   3 11  5 ²¸ 0 00000000
+B2BA D61 ²º ¤¢ ¤Å ¤©   3 11  9 ²¸ 0 00000000
+B2BB D61 ²» ¤¢ ¤Å ¤µ   3 11 21 ²¸ 0 00000000
+B2BC D61 ²¼ ¤¢ ¤Å ¤¶   3 11 22 ²¸ 0 00000000
+B2BD D61 ²½ ¤¢ ¤Å ¤¼   3 11 27 ²¸ 0 00000000
+B2BE D81 ²¾ ¤¢ ¤Æ      3 12  1 ²¾ 0 00000000
+B2BF DA1 ²¿ ¤¢ ¤Ç      3 13  1 ²¿ 0 00000008
+B2C0 DA1 ²À ¤¢ ¤Ç ¤¡   3 13  2 ²¿ 0 00000000
+B2C1 DA1 ²Á ¤¢ ¤Ç ¤¤   3 13  5 ²¿ 0 00000000
+B2C2 DA1 ²Â ¤¢ ¤Ç ¤¦   3 13  7 ²¿ 0 00000000
+B2C3 DA1 ²Ã ¤¢ ¤Ç ¤©   3 13  9 ²¿ 0 00000000
+B2C4 DA1 ²Ä ¤¢ ¤Ç ¤±   3 13 17 ²¿ 0 00000000
+B2C5 DA1 ²Å ¤¢ ¤Ç ¤²   3 13 19 ²¿ 0 00000000
+B2C6 DA1 ²Æ ¤¢ ¤Ç ¤µ   3 13 21 ²¿ 0 00000000
+B2C7 DA1 ²Ç ¤¢ ¤Ç ¤·   3 13 23 ²¿ 0 00000000
+B2C8 DA1 ²È ¤¢ ¤Ç ¤¸   3 13 24 ²¿ 0 00000000
+B2C9 DA1 ²É ¤¢ ¤Ç ¤º   3 13 25 ²¿ 0 00000000
+B2CA DC1 ²Ê ¤¢ ¤È      3 14  1 ²Ê 0 00000000
+B2CB DC1 ²Ë ¤¢ ¤È ¤¡   3 14  2 ²Ê 0 00000000
+B2CC DC1 ²Ì ¤¢ ¤È ¤©   3 14  9 ²Ê 0 00000000
+B2CD DC1 ²Í ¤¢ ¤È ¤¶   3 14 22 ²Ê 0 00000000
+B2CE DC1 ²Î ¤¢ ¤È ¤·   3 14 23 ²Ê 0 00000000
+B2CF DE1 ²Ï ¤¢ ¤É      3 15  1 ²Ï 0 00000000
+B2D0 DE1 ²Ð ¤¢ ¤É ¤¡   3 15  2 ²Ï 0 00000000
+B2D1 DE1 ²Ñ ¤¢ ¤É ¤·   3 15 23 ²Ï 0 00000000
+B2D2 E41 ²Ò ¤¢ ¤Ê      3 18  1 ²Ò 0 00000000
+B2D3 E41 ²Ó ¤¢ ¤Ê ¤¤   3 18  5 ²Ò 0 00000000
+B2D4 E41 ²Ô ¤¢ ¤Ê ¤©   3 18  9 ²Ò 0 00000000
+B2D5 E41 ²Õ ¤¢ ¤Ê ¤±   3 18 17 ²Ò 0 00000000
+B2D6 E41 ²Ö ¤¢ ¤Ê ¤²   3 18 19 ²Ò 0 00000000
+B2D7 E41 ²× ¤¢ ¤Ê ¤·   3 18 23 ²Ò 0 00000000
+B2D8 E61 ²Ø ¤¢ ¤Ë      3 19  1 ²Ø 0 00000000
+B2D9 E81 ²Ù ¤¢ ¤Ì      3 20  1 ²Ù 0 00000008
+B2DA E81 ²Ú ¤¢ ¤Ì ¤¡   3 20  2 ²Ù 0 00000000
+B2DB E81 ²Û ¤¢ ¤Ì ¤¤   3 20  5 ²Ù 0 00000000
+B2DC E81 ²Ü ¤¢ ¤Ì ¤©   3 20  9 ²Ù 0 00000000
+B2DD E81 ²Ý ¤¢ ¤Ì ¤°   3 20 16 ²Ù 0 00000000
+B2DE E81 ²Þ ¤¢ ¤Ì ¤±   3 20 17 ²Ù 0 00000000
+B2DF E81 ²ß ¤¢ ¤Ì ¤²   3 20 19 ²Ù 0 00000000
+B2E0 E81 ²à ¤¢ ¤Ì ¤µ   3 20 21 ²Ù 0 00000000
+B2E1 E81 ²á ¤¢ ¤Ì ¤·   3 20 23 ²Ù 0 00000000
+B2E2 E81 ²â ¤¢ ¤Ì ¤¸   3 20 24 ²Ù 0 00000000
+B2E3 EA1 ²ã ¤¢ ¤Í      3 21  1 ²ã 0 00000000
+B2E4 EA1 ²ä ¤¢ ¤Í ¤©   3 21  9 ²ã 0 00000000
+B2E5 EA1 ²å ¤¢ ¤Í ¤¶   3 21 22 ²ã 0 00000000
+B2E6 EA1 ²æ ¤¢ ¤Í ¤·   3 21 23 ²ã 0 00000000
+B2E7 EC1 ²ç ¤¢ ¤Î      3 22  1 ²ç 0 00000000
+B2E8 EC1 ²è ¤¢ ¤Î ¤¡   3 22  2 ²ç 0 00000000
+B2E9 EC1 ²é ¤¢ ¤Î ¤¤   3 22  5 ²ç 0 00000000
+B2EA EC1 ²ê ¤¢ ¤Î ¤©   3 22  9 ²ç 0 00000000
+B2EB EC1 ²ë ¤¢ ¤Î ¤±   3 22 17 ²ç 0 00000000
+B2EC EC1 ²ì ¤¢ ¤Î ¤²   3 22 19 ²ç 0 00000000
+B2ED EC1 ²í ¤¢ ¤Î ¤¶   3 22 22 ²ç 0 00000000
+B2EE EE1 ²î ¤¢ ¤Ï      3 23  1 ²î 0 00000000
+B2EF EE1 ²ï ¤¢ ¤Ï ¤¤   3 23  5 ²î 0 00000000
+B2F0 EE1 ²ð ¤¢ ¤Ï ¤©   3 23  9 ²î 0 00000000
+B2F1 EE1 ²ñ ¤¢ ¤Ï ¤±   3 23 17 ²î 0 00000000
+B2F2 EE1 ²ò ¤¢ ¤Ï ¤²   3 23 19 ²î 0 00000000
+B2F3 F41 ²ó ¤¢ ¤Ð      3 26  1 ²ó 0 00000000
+B2F4 F61 ²ô ¤¢ ¤Ñ      3 27  1 ²ô 0 00000000
+B2F5 F61 ²õ ¤¢ ¤Ñ ¤¡   3 27  2 ²ô 0 00000000
+B2F6 F61 ²ö ¤¢ ¤Ñ ¤¤   3 27  5 ²ô 0 00000000
+B2F7 F61 ²÷ ¤¢ ¤Ñ ¤¦   3 27  7 ²ô 0 00000000
+B2F8 F61 ²ø ¤¢ ¤Ñ ¤©   3 27  9 ²ô 0 00000000
+B2F9 F61 ²ù ¤¢ ¤Ñ ¤«   3 27 11 ²ô 0 00000000
+B2FA F61 ²ú ¤¢ ¤Ñ ¤°   3 27 16 ²ô 0 00000000
+B2FB F61 ²û ¤¢ ¤Ñ ¤±   3 27 17 ²ô 0 00000008
+B2FC F61 ²ü ¤¢ ¤Ñ ¤²   3 27 19 ²ô 0 00000000
+B2FD F61 ²ý ¤¢ ¤Ñ ¤µ   3 27 21 ²ô 0 00000000
+B2FE F61 ²þ ¤¢ ¤Ñ ¤·   3 27 23 ²ô 0 00000000
+B3A1 F61 ³¡ ¤¢ ¤Ñ ¤¼   3 27 27 ²ô 0 00000000
+B3A2 FA1 ³¢ ¤¢ ¤Ó      3 29  1 ³¢ 0 00000000
+B3A3 FA1 ³£ ¤¢ ¤Ó ¤¡   3 29  2 ³¢ 0 00000000
+B3A4 FA1 ³¤ ¤¢ ¤Ó ¤¤   3 29  5 ³¢ 0 00000000
+B3A5 FA1 ³¥ ¤¢ ¤Ó ¤©   3 29  9 ³¢ 0 00000000
+B3A6 FA1 ³¦ ¤¢ ¤Ó ¤±   3 29 17 ³¢ 0 00000000
+B3A7 FA1 ³§ ¤¢ ¤Ó ¤²   3 29 19 ³¢ 0 00000000
+B3A8 FA1 ³¨ ¤¢ ¤Ó ¤µ   3 29 21 ³¢ 0 00000000
+B3A9 FA1 ³© ¤¢ ¤Ó ¤·   3 29 23 ³¢ 0 00000000
+B3AA 1061 ³ª ¤¤ ¤¿      4  3  1 ³ª 0 0000020F
+B3AB 1061 ³« ¤¤ ¤¿ ¤¡   4  3  2 ³ª 0 00000000
+B3AC 1061 ³¬ ¤¤ ¤¿ ¤¢   4  3  3 ³ª 0 00000000
+B3AD 1061 ³­ ¤¤ ¤¿ ¤¤   4  3  5 ³ª 0 00000000
+B3AE 1061 ³® ¤¤ ¤¿ ¤§   4  3  8 ³ª 0 00000000
+B3AF 1061 ³¯ ¤¤ ¤¿ ¤©   4  3  9 ³ª 0 00000000
+B3B0 1061 ³° ¤¤ ¤¿ ¤ª   4  3 10 ³ª 0 00000000
+B3B1 1061 ³± ¤¤ ¤¿ ¤«   4  3 11 ³ª 0 00000000
+B3B2 1061 ³² ¤¤ ¤¿ ¤±   4  3 17 ³ª 0 00000000
+B3B3 1061 ³³ ¤¤ ¤¿ ¤²   4  3 19 ³ª 0 00000000
+B3B4 1061 ³´ ¤¤ ¤¿ ¤µ   4  3 21 ³ª 0 00000000
+B3B5 1061 ³µ ¤¤ ¤¿ ¤¶   4  3 22 ³ª 0 00000000
+B3B6 1061 ³¶ ¤¤ ¤¿ ¤·   4  3 23 ³ª 0 00000000
+B3B7 1061 ³· ¤¤ ¤¿ ¤¸   4  3 24 ³ª 0 00000000
+B3B8 1061 ³¸ ¤¤ ¤¿ ¤º   4  3 25 ³ª 0 00000000
+B3B9 1061 ³¹ ¤¤ ¤¿ ¤¼   4  3 27 ³ª 0 00000000
+B3BA 1061 ³º ¤¤ ¤¿ ¤¾   4  3 29 ³ª 0 00000000
+B3BB 1081 ³» ¤¤ ¤À      4  4  1 ³» 0 00000000
+B3BC 1081 ³¼ ¤¤ ¤À ¤¡   4  4  2 ³» 0 00000000
+B3BD 1081 ³½ ¤¤ ¤À ¤¤   4  4  5 ³» 0 00000000
+B3BE 1081 ³¾ ¤¤ ¤À ¤©   4  4  9 ³» 0 00000000
+B3BF 1081 ³¿ ¤¤ ¤À ¤±   4  4 17 ³» 0 00000000
+B3C0 1081 ³À ¤¤ ¤À ¤²   4  4 19 ³» 0 00000000
+B3C1 1081 ³Á ¤¤ ¤À ¤µ   4  4 21 ³» 0 00000000
+B3C2 1081 ³Â ¤¤ ¤À ¤¶   4  4 22 ³» 0 00000000
+B3C3 1081 ³Ã ¤¤ ¤À ¤·   4  4 23 ³» 0 00000000
+B3C4 10A1 ³Ä ¤¤ ¤Á      4  5  1 ³Ä 0 0000000C
+B3C5 10A1 ³Å ¤¤ ¤Á ¤¡   4  5  2 ³Ä 0 00000000
+B3C6 10A1 ³Æ ¤¤ ¤Á ¤¤   4  5  5 ³Ä 0 00000000
+B3C7 10A1 ³Ç ¤¤ ¤Á ¤©   4  5  9 ³Ä 0 00000000
+B3C8 10A1 ³È ¤¤ ¤Á ¤±   4  5 17 ³Ä 0 00000000
+B3C9 10A1 ³É ¤¤ ¤Á ¤·   4  5 23 ³Ä 0 00000000
+B3CA 10E1 ³Ê ¤¤ ¤Ã      4  7  1 ³Ê 0 00000000
+B3CB 10E1 ³Ë ¤¤ ¤Ã ¤¡   4  7  2 ³Ê 0 00000000
+B3CC 10E1 ³Ì ¤¤ ¤Ã ¤£   4  7  4 ³Ê 0 00000000
+B3CD 10E1 ³Í ¤¤ ¤Ã ¤¤   4  7  5 ³Ê 0 00000000
+B3CE 10E1 ³Î ¤¤ ¤Ã ¤©   4  7  9 ³Ê 0 00000000
+B3CF 10E1 ³Ï ¤¤ ¤Ã ¤«   4  7 11 ³Ê 0 00000000
+B3D0 10E1 ³Ð ¤¤ ¤Ã ¤¬   4  7 12 ³Ê 0 00000000
+B3D1 10E1 ³Ñ ¤¤ ¤Ã ¤±   4  7 17 ³Ê 0 00000000
+B3D2 10E1 ³Ò ¤¤ ¤Ã ¤²   4  7 19 ³Ê 0 00000000
+B3D3 10E1 ³Ó ¤¤ ¤Ã ¤µ   4  7 21 ³Ê 0 00000000
+B3D4 10E1 ³Ô ¤¤ ¤Ã ¤¶   4  7 22 ³Ê 0 00000000
+B3D5 10E1 ³Õ ¤¤ ¤Ã ¤·   4  7 23 ³Ê 0 00000000
+B3D6 10E1 ³Ö ¤¤ ¤Ã ¤¾   4  7 29 ³Ê 0 00000000
+B3D7 1141 ³× ¤¤ ¤Ä      4 10  1 ³× 0 0000000C
+B3D8 1141 ³Ø ¤¤ ¤Ä ¤¡   4 10  2 ³× 0 00000000
+B3D9 1141 ³Ù ¤¤ ¤Ä ¤¤   4 10  5 ³× 0 00000000
+B3DA 1141 ³Ú ¤¤ ¤Ä ¤©   4 10  9 ³× 0 00000000
+B3DB 1141 ³Û ¤¤ ¤Ä ¤±   4 10 17 ³× 0 00000000
+B3DC 1141 ³Ü ¤¤ ¤Ä ¤²   4 10 19 ³× 0 00000000
+B3DD 1141 ³Ý ¤¤ ¤Ä ¤µ   4 10 21 ³× 0 00000000
+B3DE 1141 ³Þ ¤¤ ¤Ä ¤¶   4 10 22 ³× 0 00000000
+B3DF 1141 ³ß ¤¤ ¤Ä ¤·   4 10 23 ³× 0 00000000
+B3E0 1161 ³à ¤¤ ¤Å      4 11  1 ³à 0 00000000
+B3E1 1161 ³á ¤¤ ¤Å ¤¡   4 11  2 ³à 0 00000000
+B3E2 1161 ³â ¤¤ ¤Å ¤¤   4 11  5 ³à 0 00000000
+B3E3 1161 ³ã ¤¤ ¤Å ¤©   4 11  9 ³à 0 00000000
+B3E4 1161 ³ä ¤¤ ¤Å ¤±   4 11 17 ³à 0 00000000
+B3E5 1161 ³å ¤¤ ¤Å ¤²   4 11 19 ³à 0 00000000
+B3E6 1161 ³æ ¤¤ ¤Å ¤¶   4 11 22 ³à 0 00000000
+B3E7 1161 ³ç ¤¤ ¤Å ¤·   4 11 23 ³à 0 00000002
+B3E8 1161 ³è ¤¤ ¤Å ¤»   4 11 26 ³à 0 00000000
+B3E9 1181 ³é ¤¤ ¤Æ      4 12  1 ³é 0 00000000
+B3EA 1181 ³ê ¤¤ ¤Æ ¤¤   4 12  5 ³é 0 00000000
+B3EB 11A1 ³ë ¤¤ ¤Ç      4 13  1 ³ë 0 00000004
+B3EC 11A1 ³ì ¤¤ ¤Ç ¤¡   4 13  2 ³ë 0 00000000
+B3ED 11A1 ³í ¤¤ ¤Ç ¤¤   4 13  5 ³ë 0 00000000
+B3EE 11A1 ³î ¤¤ ¤Ç ¤©   4 13  9 ³ë 0 00000000
+B3EF 11A1 ³ï ¤¤ ¤Ç ¤«   4 13 11 ³ë 0 00000000
+B3F0 11A1 ³ð ¤¤ ¤Ç ¤±   4 13 17 ³ë 0 00000000
+B3F1 11A1 ³ñ ¤¤ ¤Ç ¤²   4 13 19 ³ë 0 00000000
+B3F2 11A1 ³ò ¤¤ ¤Ç ¤µ   4 13 21 ³ë 0 00000000
+B3F3 11A1 ³ó ¤¤ ¤Ç ¤·   4 13 23 ³ë 0 00000000
+B3F4 11A1 ³ô ¤¤ ¤Ç ¤½   4 13 28 ³ë 0 00000000
+B3F5 11A1 ³õ ¤¤ ¤Ç ¤¾   4 13 29 ³ë 0 00000000
+B3F6 11C1 ³ö ¤¤ ¤È      4 14  1 ³ö 0 00000000
+B3F7 11C1 ³÷ ¤¤ ¤È ¤¤   4 14  5 ³ö 0 00000000
+B3F8 11C1 ³ø ¤¤ ¤È ¤©   4 14  9 ³ö 0 00000000
+B3F9 11C1 ³ù ¤¤ ¤È ¤¶   4 14 22 ³ö 0 00000000
+B3FA 1241 ³ú ¤¤ ¤Ê      4 18  1 ³ú 0 00000000
+B3FB 1241 ³û ¤¤ ¤Ê ¤¤   4 18  5 ³ú 0 00000000
+B3FC 1241 ³ü ¤¤ ¤Ê ¤©   4 18  9 ³ú 0 00000000
+B3FD 1241 ³ý ¤¤ ¤Ê ¤±   4 18 17 ³ú 0 00000000
+B3FE 1241 ³þ ¤¤ ¤Ê ¤²   4 18 19 ³ú 0 00000000
+B4A1 1241 ´¡ ¤¤ ¤Ê ¤µ   4 18 21 ³ú 0 00000000
+B4A2 1261 ´¢ ¤¤ ¤Ë      4 19  1 ´¢ 0 00000008
+B4A3 1261 ´£ ¤¤ ¤Ë ¤¡   4 19  2 ´¢ 0 00000000
+B4A4 1261 ´¤ ¤¤ ¤Ë ¤¤   4 19  5 ´¢ 0 00000000
+B4A5 1261 ´¥ ¤¤ ¤Ë ¤©   4 19  9 ´¢ 0 00000000
+B4A6 1261 ´¦ ¤¤ ¤Ë ¤²   4 19 19 ´¢ 0 00000000
+B4A7 1261 ´§ ¤¤ ¤Ë ¤µ   4 19 21 ´¢ 0 00000000
+B4A8 1261 ´¨ ¤¤ ¤Ë ¤·   4 19 23 ´¢ 0 00000000
+B4A9 1281 ´© ¤¤ ¤Ì      4 20  1 ´© 0 00000000
+B4AA 1281 ´ª ¤¤ ¤Ì ¤¡   4 20  2 ´© 0 00000000
+B4AB 1281 ´« ¤¤ ¤Ì ¤¤   4 20  5 ´© 0 00000000
+B4AC 1281 ´¬ ¤¤ ¤Ì ¤§   4 20  8 ´© 0 00000000
+B4AD 1281 ´­ ¤¤ ¤Ì ¤©   4 20  9 ´© 0 00000000
+B4AE 1281 ´® ¤¤ ¤Ì ¤±   4 20 17 ´© 0 00000000
+B4AF 1281 ´¯ ¤¤ ¤Ì ¤²   4 20 19 ´© 0 00000000
+B4B0 1281 ´° ¤¤ ¤Ì ¤µ   4 20 21 ´© 0 00000000
+B4B1 1281 ´± ¤¤ ¤Ì ¤·   4 20 23 ´© 0 00000000
+B4B2 12A1 ´² ¤¤ ¤Í      4 21  1 ´² 0 00000000
+B4B3 12A1 ´³ ¤¤ ¤Í ¤¶   4 21 22 ´² 0 00000000
+B4B4 12C1 ´´ ¤¤ ¤Î      4 22  1 ´´ 0 00000000
+B4B5 12E1 ´µ ¤¤ ¤Ï      4 23  1 ´µ 0 00000000
+B4B6 12E1 ´¶ ¤¤ ¤Ï ¤¤   4 23  5 ´µ 0 00000000
+B4B7 12E1 ´· ¤¤ ¤Ï ¤©   4 23  9 ´µ 0 00000000
+B4B8 12E1 ´¸ ¤¤ ¤Ï ¤±   4 23 17 ´µ 0 00000000
+B4B9 12E1 ´¹ ¤¤ ¤Ï ¤²   4 23 19 ´µ 0 00000000
+B4BA 1341 ´º ¤¤ ¤Ð      4 26  1 ´º 0 00000000
+B4BB 1341 ´» ¤¤ ¤Ð ¤¡   4 26  2 ´º 0 00000000
+B4BC 1341 ´¼ ¤¤ ¤Ð ¤©   4 26  9 ´º 0 00000000
+B4BD 1341 ´½ ¤¤ ¤Ð ¤±   4 26 17 ´º 0 00000000
+B4BE 1341 ´¾ ¤¤ ¤Ð ¤²   4 26 19 ´º 0 00000000
+B4BF 1341 ´¿ ¤¤ ¤Ð ¤·   4 26 23 ´º 0 00000000
+B4C0 1361 ´À ¤¤ ¤Ñ      4 27  1 ´À 0 0000000C
+B4C1 1361 ´Á ¤¤ ¤Ñ ¤¡   4 27  2 ´À 0 00000000
+B4C2 1361 ´Â ¤¤ ¤Ñ ¤¤   4 27  5 ´À 0 0000000F
+B4C3 1361 ´Ã ¤¤ ¤Ñ ¤©   4 27  9 ´À 0 00000008
+B4C4 1361 ´Ä ¤¤ ¤Ñ ¤ª   4 27 10 ´À 0 00000000
+B4C5 1361 ´Å ¤¤ ¤Ñ ¤«   4 27 11 ´À 0 00000000
+B4C6 1361 ´Æ ¤¤ ¤Ñ ¤±   4 27 17 ´À 0 00000000
+B4C7 1361 ´Ç ¤¤ ¤Ñ ¤²   4 27 19 ´À 0 00000000
+B4C8 1361 ´È ¤¤ ¤Ñ ¤µ   4 27 21 ´À 0 00000000
+B4C9 1361 ´É ¤¤ ¤Ñ ¤·   4 27 23 ´À 0 00000000
+B4CA 1361 ´Ê ¤¤ ¤Ñ ¤¸   4 27 24 ´À 0 00000000
+B4CB 1361 ´Ë ¤¤ ¤Ñ ¤½   4 27 28 ´À 0 00000000
+B4CC 1381 ´Ì ¤¤ ¤Ò      4 28  1 ´Ì 0 00000000
+B4CD 1381 ´Í ¤¤ ¤Ò ¤¤   4 28  5 ´Ì 0 00000000
+B4CE 1381 ´Î ¤¤ ¤Ò ¤©   4 28  9 ´Ì 0 00000000
+B4CF 13A1 ´Ï ¤¤ ¤Ó      4 29  1 ´Ï 0 0000000F
+B4D0 13A1 ´Ð ¤¤ ¤Ó ¤¡   4 29  2 ´Ï 0 00000000
+B4D1 13A1 ´Ñ ¤¤ ¤Ó ¤¤   4 29  5 ´Ï 0 00000000
+B4D2 13A1 ´Ò ¤¤ ¤Ó ¤©   4 29  9 ´Ï 0 00000000
+B4D3 13A1 ´Ó ¤¤ ¤Ó ¤¯   4 29 15 ´Ï 0 00000000
+B4D4 13A1 ´Ô ¤¤ ¤Ó ¤±   4 29 17 ´Ï 0 00000000
+B4D5 13A1 ´Õ ¤¤ ¤Ó ¤²   4 29 19 ´Ï 0 00000000
+B4D6 13A1 ´Ö ¤¤ ¤Ó ¤µ   4 29 21 ´Ï 0 00000000
+B4D7 13A1 ´× ¤¤ ¤Ó ¤·   4 29 23 ´Ï 0 00000000
+B4D8 13A1 ´Ø ¤¤ ¤Ó ¤½   4 29 28 ´Ï 0 00000000
+B4D9 1461 ´Ù ¤§ ¤¿      5  3  1 ´Ù 0 0000000F
+B4DA 1461 ´Ú ¤§ ¤¿ ¤¡   5  3  2 ´Ù 0 00000000
+B4DB 1461 ´Û ¤§ ¤¿ ¤¢   5  3  3 ´Ù 0 00000000
+B4DC 1461 ´Ü ¤§ ¤¿ ¤¤   5  3  5 ´Ù 0 0000000E
+B4DD 1461 ´Ý ¤§ ¤¿ ¤§   5  3  8 ´Ù 0 00000000
+B4DE 1461 ´Þ ¤§ ¤¿ ¤©   5  3  9 ´Ù 0 00000000
+B4DF 1461 ´ß ¤§ ¤¿ ¤ª   5  3 10 ´Ù 0 00000000
+B4E0 1461 ´à ¤§ ¤¿ ¤«   5  3 11 ´Ù 0 00000000
+B4E1 1461 ´á ¤§ ¤¿ ¤¬   5  3 12 ´Ù 0 00000000
+B4E2 1461 ´â ¤§ ¤¿ ¤°   5  3 16 ´Ù 0 00000000
+B4E3 1461 ´ã ¤§ ¤¿ ¤±   5  3 17 ´Ù 0 0000000C
+B4E4 1461 ´ä ¤§ ¤¿ ¤²   5  3 19 ´Ù 0 0000000C
+B4E5 1461 ´å ¤§ ¤¿ ¤µ   5  3 21 ´Ù 0 00000000
+B4E6 1461 ´æ ¤§ ¤¿ ¤¶   5  3 22 ´Ù 0 00000000
+B4E7 1461 ´ç ¤§ ¤¿ ¤·   5  3 23 ´Ù 0 00000000
+B4E8 1461 ´è ¤§ ¤¿ ¤¸   5  3 24 ´Ù 0 00000000
+B4E9 1461 ´é ¤§ ¤¿ ¤º   5  3 25 ´Ù 0 00000000
+B4EA 1461 ´ê ¤§ ¤¿ ¤¾   5  3 29 ´Ù 0 00000000
+B4EB 1481 ´ë ¤§ ¤À      5  4  1 ´ë 0 00000009
+B4EC 1481 ´ì ¤§ ¤À ¤¡   5  4  2 ´ë 0 00000000
+B4ED 1481 ´í ¤§ ¤À ¤¤   5  4  5 ´ë 0 00000008
+B4EE 1481 ´î ¤§ ¤À ¤©   5  4  9 ´ë 0 00000000
+B4EF 1481 ´ï ¤§ ¤À ¤±   5  4 17 ´ë 0 00000000
+B4F0 1481 ´ð ¤§ ¤À ¤²   5  4 19 ´ë 0 00000000
+B4F1 1481 ´ñ ¤§ ¤À ¤µ   5  4 21 ´ë 0 00000000
+B4F2 1481 ´ò ¤§ ¤À ¤¶   5  4 22 ´ë 0 00000000
+B4F3 1481 ´ó ¤§ ¤À ¤·   5  4 23 ´ë 0 00000000
+B4F4 14A1 ´ô ¤§ ¤Á      5  5  1 ´ô 0 00000000
+B4F5 14E1 ´õ ¤§ ¤Ã      5  7  1 ´õ 0 0000000D
+B4F6 14E1 ´ö ¤§ ¤Ã ¤¡   5  7  2 ´õ 0 00000000
+B4F7 14E1 ´÷ ¤§ ¤Ã ¤¢   5  7  3 ´õ 0 00000000
+B4F8 14E1 ´ø ¤§ ¤Ã ¤¤   5  7  5 ´õ 0 0000000C
+B4F9 14E1 ´ù ¤§ ¤Ã ¤§   5  7  8 ´õ 0 00000000
+B4FA 14E1 ´ú ¤§ ¤Ã ¤©   5  7  9 ´õ 0 00000000
+B4FB 14E1 ´û ¤§ ¤Ã ¤«   5  7 11 ´õ 0 00000000
+B4FC 14E1 ´ü ¤§ ¤Ã ¤¬   5  7 12 ´õ 0 00000000
+B4FD 14E1 ´ý ¤§ ¤Ã ¤±   5  7 17 ´õ 0 00000000
+B4FE 14E1 ´þ ¤§ ¤Ã ¤²   5  7 19 ´õ 0 00000000
+B5A1 14E1 µ¡ ¤§ ¤Ã ¤µ   5  7 21 ´õ 0 00000000
+B5A2 14E1 µ¢ ¤§ ¤Ã ¤·   5  7 23 ´õ 0 00000000
+B5A3 14E1 µ£ ¤§ ¤Ã ¤º   5  7 25 ´õ 0 00000000
+B5A4 14E1 µ¤ ¤§ ¤Ã ¤½   5  7 28 ´õ 0 00000000
+B5A5 1541 µ¥ ¤§ ¤Ä      5 10  1 µ¥ 0 0000000C
+B5A6 1541 µ¦ ¤§ ¤Ä ¤¡   5 10  2 µ¥ 0 00000000
+B5A7 1541 µ§ ¤§ ¤Ä ¤¤   5 10  5 µ¥ 0 00000000
+B5A8 1541 µ¨ ¤§ ¤Ä ¤©   5 10  9 µ¥ 0 00000000
+B5A9 1541 µ© ¤§ ¤Ä ¤±   5 10 17 µ¥ 0 00000000
+B5AA 1541 µª ¤§ ¤Ä ¤²   5 10 19 µ¥ 0 00000000
+B5AB 1541 µ« ¤§ ¤Ä ¤µ   5 10 21 µ¥ 0 00000000
+B5AC 1541 µ¬ ¤§ ¤Ä ¤¶   5 10 22 µ¥ 0 00000000
+B5AD 1541 µ­ ¤§ ¤Ä ¤·   5 10 23 µ¥ 0 00000000
+B5AE 1561 µ® ¤§ ¤Å      5 11  1 µ® 0 00000000
+B5AF 1561 µ¯ ¤§ ¤Å ¤¤   5 11  5 µ® 0 00000000
+B5B0 1561 µ° ¤§ ¤Å ¤©   5 11  9 µ® 0 00000000
+B5B1 1561 µ± ¤§ ¤Å ¤¶   5 11 22 µ® 0 00000000
+B5B2 1561 µ² ¤§ ¤Å ¤·   5 11 23 µ® 0 00000000
+B5B3 1581 µ³ ¤§ ¤Æ      5 12  1 µ³ 0 00000000
+B5B4 1581 µ´ ¤§ ¤Æ ¤¤   5 12  5 µ³ 0 00000000
+B5B5 15A1 µµ ¤§ ¤Ç      5 13  1 µµ 0 0000000F
+B5B6 15A1 µ¶ ¤§ ¤Ç ¤¡   5 13  2 µµ 0 00000000
+B5B7 15A1 µ· ¤§ ¤Ç ¤¤   5 13  5 µµ 0 00000000
+B5B8 15A1 µ¸ ¤§ ¤Ç ¤§   5 13  8 µµ 0 00000000
+B5B9 15A1 µ¹ ¤§ ¤Ç ¤©   5 13  9 µµ 0 00000000
+B5BA 15A1 µº ¤§ ¤Ç ¤«   5 13 11 µµ 0 00000000
+B5BB 15A1 µ» ¤§ ¤Ç ¤­   5 13 13 µµ 0 00000000
+B5BC 15A1 µ¼ ¤§ ¤Ç ¤±   5 13 17 µµ 0 00000000
+B5BD 15A1 µ½ ¤§ ¤Ç ¤²   5 13 19 µµ 0 00000000
+B5BE 15A1 µ¾ ¤§ ¤Ç ¤µ   5 13 21 µµ 0 00000000
+B5BF 15A1 µ¿ ¤§ ¤Ç ¤·   5 13 23 µµ 0 00000000
+B5C0 15A1 µÀ ¤§ ¤Ç ¤º   5 13 25 µµ 0 00000000
+B5C1 15A1 µÁ ¤§ ¤Ç ¤¼   5 13 27 µµ 0 00000000
+B5C2 15C1 µÂ ¤§ ¤È      5 14  1 µÂ 0 00000000
+B5C3 15C1 µÃ ¤§ ¤È ¤¤   5 14  5 µÂ 0 00000000
+B5C4 15C1 µÄ ¤§ ¤È ¤©   5 14  9 µÂ 0 00000000
+B5C5 15E1 µÅ ¤§ ¤É      5 15  1 µÅ 0 00000000
+B5C6 15E1 µÆ ¤§ ¤É ¤¶   5 15 22 µÅ 0 00000000
+B5C7 1641 µÇ ¤§ ¤Ê      5 18  1 µÇ 0 00000006
+B5C8 1641 µÈ ¤§ ¤Ê ¤¤   5 18  5 µÇ 0 00000000
+B5C9 1641 µÉ ¤§ ¤Ê ¤©   5 18  9 µÇ 0 00000000
+B5CA 1641 µÊ ¤§ ¤Ê ¤±   5 18 17 µÇ 0 00000000
+B5CB 1641 µË ¤§ ¤Ê ¤²   5 18 19 µÇ 0 00000000
+B5CC 1641 µÌ ¤§ ¤Ê ¤µ   5 18 21 µÇ 0 00000000
+B5CD 1661 µÍ ¤§ ¤Ë      5 19  1 µÍ 0 00000000
+B5CE 1681 µÎ ¤§ ¤Ì      5 20  1 µÎ 0 00000000
+B5CF 1681 µÏ ¤§ ¤Ì ¤¡   5 20  2 µÎ 0 00000000
+B5D0 1681 µÐ ¤§ ¤Ì ¤¤   5 20  5 µÎ 0 00000000
+B5D1 1681 µÑ ¤§ ¤Ì ¤©   5 20  9 µÎ 0 00000000
+B5D2 1681 µÒ ¤§ ¤Ì ¤±   5 20 17 µÎ 0 00000000
+B5D3 1681 µÓ ¤§ ¤Ì ¤²   5 20 19 µÎ 0 00000000
+B5D4 1681 µÔ ¤§ ¤Ì ¤µ   5 20 21 µÎ 0 00000000
+B5D5 1681 µÕ ¤§ ¤Ì ¤·   5 20 23 µÎ 0 00000000
+B5D6 16A1 µÖ ¤§ ¤Í      5 21  1 µÖ 0 00000000
+B5D7 16A1 µ× ¤§ ¤Í ¤¶   5 21 22 µÖ 0 00000000
+B5D8 16C1 µØ ¤§ ¤Î      5 22  1 µØ 0 00000000
+B5D9 16C1 µÙ ¤§ ¤Î ¤·   5 22 23 µØ 0 00000000
+B5DA 16E1 µÚ ¤§ ¤Ï      5 23  1 µÚ 0 00000000
+B5DB 16E1 µÛ ¤§ ¤Ï ¤¤   5 23  5 µÚ 0 00000000
+B5DC 16E1 µÜ ¤§ ¤Ï ¤©   5 23  9 µÚ 0 00000000
+B5DD 16E1 µÝ ¤§ ¤Ï ¤²   5 23 19 µÚ 0 00000000
+B5DE 16E1 µÞ ¤§ ¤Ï ¤µ   5 23 21 µÚ 0 00000000
+B5DF 16E1 µß ¤§ ¤Ï ¤·   5 23 23 µÚ 0 00000000
+B5E0 1741 µà ¤§ ¤Ð      5 26  1 µà 0 00000000
+B5E1 1741 µá ¤§ ¤Ð ¤¤   5 26  5 µà 0 00000000
+B5E2 1741 µâ ¤§ ¤Ð ¤©   5 26  9 µà 0 00000000
+B5E3 1741 µã ¤§ ¤Ð ¤±   5 26 17 µà 0 00000000
+B5E4 1741 µä ¤§ ¤Ð ¤·   5 26 23 µà 0 00000000
+B5E5 1761 µå ¤§ ¤Ñ      5 27  1 µå 0 00000008
+B5E6 1761 µæ ¤§ ¤Ñ ¤¡   5 27  2 µå 0 00000000
+B5E7 1761 µç ¤§ ¤Ñ ¤¤   5 27  5 µå 0 0000000F
+B5E8 1761 µè ¤§ ¤Ñ ¤§   5 27  8 µå 0 00000000
+B5E9 1761 µé ¤§ ¤Ñ ¤©   5 27  9 µå 0 0000000A
+B5EA 1761 µê ¤§ ¤Ñ ¤«   5 27 11 µå 0 00000000
+B5EB 1761 µë ¤§ ¤Ñ ¤±   5 27 17 µå 0 00000000
+B5EC 1761 µì ¤§ ¤Ñ ¤²   5 27 19 µå 0 00000000
+B5ED 1761 µí ¤§ ¤Ñ ¤µ   5 27 21 µå 0 00000004
+B5EE 1761 µî ¤§ ¤Ñ ¤·   5 27 23 µå 0 00000000
+B5EF 1781 µï ¤§ ¤Ò      5 28  1 µï 0 00000000
+B5F0 17A1 µð ¤§ ¤Ó      5 29  1 µð 0 0000000C
+B5F1 17A1 µñ ¤§ ¤Ó ¤¡   5 29  2 µð 0 00000000
+B5F2 17A1 µò ¤§ ¤Ó ¤¤   5 29  5 µð 0 00000008
+B5F3 17A1 µó ¤§ ¤Ó ¤§   5 29  8 µð 0 00000000
+B5F4 17A1 µô ¤§ ¤Ó ¤©   5 29  9 µð 0 00000000
+B5F5 17A1 µõ ¤§ ¤Ó ¤±   5 29 17 µð 0 00000000
+B5F6 17A1 µö ¤§ ¤Ó ¤²   5 29 19 µð 0 00000000
+B5F7 17A1 µ÷ ¤§ ¤Ó ¤µ   5 29 21 µð 0 00000000
+B5F8 17A1 µø ¤§ ¤Ó ¤¶   5 29 22 µð 0 00000000
+B5F9 17A1 µù ¤§ ¤Ó ¤·   5 29 23 µð 0 00000000
+B5FA 17A1 µú ¤§ ¤Ó ¤¸   5 29 24 µð 0 00000000
+B5FB 1861 µû ¤¨ ¤¿      6  3  1 µû 0 00000002
+B5FC 1861 µü ¤¨ ¤¿ ¤¡   6  3  2 µû 0 00000000
+B5FD 1861 µý ¤¨ ¤¿ ¤¤   6  3  5 µû 0 00000000
+B5FE 1861 µþ ¤¨ ¤¿ ¤©   6  3  9 µû 0 00000000
+B6A1 1861 ¶¡ ¤¨ ¤¿ ¤±   6  3 17 µû 0 00000000
+B6A2 1861 ¶¢ ¤¨ ¤¿ ¤²   6  3 19 µû 0 00000000
+B6A3 1861 ¶£ ¤¨ ¤¿ ¤µ   6  3 21 µû 0 00000000
+B6A4 1861 ¶¤ ¤¨ ¤¿ ¤¶   6  3 22 µû 0 00000000
+B6A5 1861 ¶¥ ¤¨ ¤¿ ¤·   6  3 23 µû 0 00000000
+B6A6 1861 ¶¦ ¤¨ ¤¿ ¤¾   6  3 29 µû 0 00000000
+B6A7 1881 ¶§ ¤¨ ¤À      6  4  1 ¶§ 0 00000000
+B6A8 1881 ¶¨ ¤¨ ¤À ¤¡   6  4  2 ¶§ 0 00000000
+B6A9 1881 ¶© ¤¨ ¤À ¤¤   6  4  5 ¶§ 0 00000000
+B6AA 1881 ¶ª ¤¨ ¤À ¤©   6  4  9 ¶§ 0 00000000
+B6AB 1881 ¶« ¤¨ ¤À ¤±   6  4 17 ¶§ 0 00000000
+B6AC 1881 ¶¬ ¤¨ ¤À ¤²   6  4 19 ¶§ 0 00000000
+B6AD 1881 ¶­ ¤¨ ¤À ¤µ   6  4 21 ¶§ 0 00000000
+B6AE 1881 ¶® ¤¨ ¤À ¤¶   6  4 22 ¶§ 0 00000000
+B6AF 1881 ¶¯ ¤¨ ¤À ¤·   6  4 23 ¶§ 0 00000000
+B6B0 18E1 ¶° ¤¨ ¤Ã      6  7  1 ¶° 0 00000000
+B6B1 18E1 ¶± ¤¨ ¤Ã ¤¡   6  7  2 ¶° 0 00000000
+B6B2 18E1 ¶² ¤¨ ¤Ã ¤¤   6  7  5 ¶° 0 00000000
+B6B3 18E1 ¶³ ¤¨ ¤Ã ¤©   6  7  9 ¶° 0 00000000
+B6B4 18E1 ¶´ ¤¨ ¤Ã ¤«   6  7 11 ¶° 0 00000000
+B6B5 18E1 ¶µ ¤¨ ¤Ã ¤¬   6  7 12 ¶° 0 00000000
+B6B6 18E1 ¶¶ ¤¨ ¤Ã ¤±   6  7 17 ¶° 0 00000000
+B6B7 18E1 ¶· ¤¨ ¤Ã ¤²   6  7 19 ¶° 0 00000000
+B6B8 18E1 ¶¸ ¤¨ ¤Ã ¤µ   6  7 21 ¶° 0 00000000
+B6B9 18E1 ¶¹ ¤¨ ¤Ã ¤¶   6  7 22 ¶° 0 00000000
+B6BA 18E1 ¶º ¤¨ ¤Ã ¤·   6  7 23 ¶° 0 00000000
+B6BB 18E1 ¶» ¤¨ ¤Ã ¤¾   6  7 29 ¶° 0 00000000
+B6BC 1941 ¶¼ ¤¨ ¤Ä      6 10  1 ¶¼ 0 00000000
+B6BD 1941 ¶½ ¤¨ ¤Ä ¤¡   6 10  2 ¶¼ 0 00000000
+B6BE 1941 ¶¾ ¤¨ ¤Ä ¤¤   6 10  5 ¶¼ 0 00000000
+B6BF 1941 ¶¿ ¤¨ ¤Ä ¤©   6 10  9 ¶¼ 0 00000000
+B6C0 1941 ¶À ¤¨ ¤Ä ¤±   6 10 17 ¶¼ 0 00000000
+B6C1 1941 ¶Á ¤¨ ¤Ä ¤²   6 10 19 ¶¼ 0 00000000
+B6C2 1941 ¶Â ¤¨ ¤Ä ¤µ   6 10 21 ¶¼ 0 00000000
+B6C3 1941 ¶Ã ¤¨ ¤Ä ¤¶   6 10 22 ¶¼ 0 00000000
+B6C4 1941 ¶Ä ¤¨ ¤Ä ¤·   6 10 23 ¶¼ 0 00000000
+B6C5 1961 ¶Å ¤¨ ¤Å      6 11  1 ¶Å 0 00000000
+B6C6 1961 ¶Æ ¤¨ ¤Å ¤¶   6 11 22 ¶Å 0 00000000
+B6C7 19A1 ¶Ç ¤¨ ¤Ç      6 13  1 ¶Ç 0 00000000
+B6C8 19A1 ¶È ¤¨ ¤Ç ¤¡   6 13  2 ¶Ç 0 00000000
+B6C9 19A1 ¶É ¤¨ ¤Ç ¤¤   6 13  5 ¶Ç 0 00000000
+B6CA 19A1 ¶Ê ¤¨ ¤Ç ¤©   6 13  9 ¶Ç 0 00000000
+B6CB 19A1 ¶Ë ¤¨ ¤Ç ¤·   6 13 23 ¶Ç 0 00000000
+B6CC 19C1 ¶Ì ¤¨ ¤È      6 14  1 ¶Ì 0 00000000
+B6CD 19C1 ¶Í ¤¨ ¤È ¤©   6 14  9 ¶Ì 0 00000000
+B6CE 19E1 ¶Î ¤¨ ¤É      6 15  1 ¶Î 0 00000000
+B6CF 1A41 ¶Ï ¤¨ ¤Ê      6 18  1 ¶Ï 0 00000000
+B6D0 1A41 ¶Ð ¤¨ ¤Ê ¤¤   6 18  5 ¶Ï 0 00000000
+B6D1 1A81 ¶Ñ ¤¨ ¤Ì      6 20  1 ¶Ñ 0 00000000
+B6D2 1A81 ¶Ò ¤¨ ¤Ì ¤¡   6 20  2 ¶Ñ 0 00000000
+B6D3 1A81 ¶Ó ¤¨ ¤Ì ¤¤   6 20  5 ¶Ñ 0 00000000
+B6D4 1A81 ¶Ô ¤¨ ¤Ì ¤©   6 20  9 ¶Ñ 0 00000000
+B6D5 1A81 ¶Õ ¤¨ ¤Ì ¤°   6 20 16 ¶Ñ 0 00000000
+B6D6 1A81 ¶Ö ¤¨ ¤Ì ¤±   6 20 17 ¶Ñ 0 00000000
+B6D7 1A81 ¶× ¤¨ ¤Ì ¤·   6 20 23 ¶Ñ 0 00000000
+B6D8 1AC1 ¶Ø ¤¨ ¤Î      6 22  1 ¶Ø 0 00000000
+B6D9 1AE1 ¶Ù ¤¨ ¤Ï      6 23  1 ¶Ù 0 00000000
+B6DA 1AE1 ¶Ú ¤¨ ¤Ï ¤¤   6 23  5 ¶Ù 0 00000000
+B6DB 1AE1 ¶Û ¤¨ ¤Ï ¤©   6 23  9 ¶Ù 0 00000000
+B6DC 1AE1 ¶Ü ¤¨ ¤Ï ¤±   6 23 17 ¶Ù 0 00000000
+B6DD 1AE1 ¶Ý ¤¨ ¤Ï ¤²   6 23 19 ¶Ù 0 00000000
+B6DE 1AE1 ¶Þ ¤¨ ¤Ï ¤·   6 23 23 ¶Ù 0 00000000
+B6DF 1B61 ¶ß ¤¨ ¤Ñ      6 27  1 ¶ß 0 00000000
+B6E0 1B61 ¶à ¤¨ ¤Ñ ¤¡   6 27  2 ¶ß 0 00000000
+B6E1 1B61 ¶á ¤¨ ¤Ñ ¤¤   6 27  5 ¶ß 0 00000000
+B6E2 1B61 ¶â ¤¨ ¤Ñ ¤§   6 27  8 ¶ß 0 00000000
+B6E3 1B61 ¶ã ¤¨ ¤Ñ ¤©   6 27  9 ¶ß 0 00000000
+B6E4 1B61 ¶ä ¤¨ ¤Ñ ¤±   6 27 17 ¶ß 0 00000000
+B6E5 1B61 ¶å ¤¨ ¤Ñ ¤²   6 27 19 ¶ß 0 00000000
+B6E6 1B61 ¶æ ¤¨ ¤Ñ ¤µ   6 27 21 ¶ß 0 00000000
+B6E7 1B81 ¶ç ¤¨ ¤Ò      6 28  1 ¶ç 0 00000000
+B6E8 1B81 ¶è ¤¨ ¤Ò ¤¤   6 28  5 ¶ç 0 00000000
+B6E9 1B81 ¶é ¤¨ ¤Ò ¤©   6 28  9 ¶ç 0 00000000
+B6EA 1B81 ¶ê ¤¨ ¤Ò ¤±   6 28 17 ¶ç 0 00000000
+B6EB 1B81 ¶ë ¤¨ ¤Ò ¤²   6 28 19 ¶ç 0 00000000
+B6EC 1BA1 ¶ì ¤¨ ¤Ó      6 29  1 ¶ì 0 00000000
+B6ED 1BA1 ¶í ¤¨ ¤Ó ¤¤   6 29  5 ¶ì 0 00000000
+B6EE 1BA1 ¶î ¤¨ ¤Ó ¤©   6 29  9 ¶ì 0 00000000
+B6EF 1BA1 ¶ï ¤¨ ¤Ó ¤±   6 29 17 ¶ì 0 00000000
+B6F0 1BA1 ¶ð ¤¨ ¤Ó ¤²   6 29 19 ¶ì 0 00000000
+B6F1 1BA1 ¶ñ ¤¨ ¤Ó ¤µ   6 29 21 ¶ì 0 00000000
+B6F2 1BA1 ¶ò ¤¨ ¤Ó ¤·   6 29 23 ¶ì 0 00000000
+B6F3 1C61 ¶ó ¤© ¤¿      7  3  1 ¶ó 0 0000000F
+B6F4 1C61 ¶ô ¤© ¤¿ ¤¡   7  3  2 ¶ó 0 00000008
+B6F5 1C61 ¶õ ¤© ¤¿ ¤¤   7  3  5 ¶ó 0 0000000C
+B6F6 1C61 ¶ö ¤© ¤¿ ¤©   7  3  9 ¶ó 0 00000000
+B6F7 1C61 ¶÷ ¤© ¤¿ ¤±   7  3 17 ¶ó 0 0000000C
+B6F8 1C61 ¶ø ¤© ¤¿ ¤²   7  3 19 ¶ó 0 0000000C
+B6F9 1C61 ¶ù ¤© ¤¿ ¤µ   7  3 21 ¶ó 0 00000000
+B6FA 1C61 ¶ú ¤© ¤¿ ¤¶   7  3 22 ¶ó 0 00000000
+B6FB 1C61 ¶û ¤© ¤¿ ¤·   7  3 23 ¶ó 0 00000003
+B6FC 1C61 ¶ü ¤© ¤¿ ¤¸   7  3 24 ¶ó 0 00000000
+B6FD 1C61 ¶ý ¤© ¤¿ ¤½   7  3 28 ¶ó 0 00000000
+B6FE 1C61 ¶þ ¤© ¤¿ ¤¾   7  3 29 ¶ó 0 00000000
+B7A1 1C81 ·¡ ¤© ¤À      7  4  1 ·¡ 0 0000000C
+B7A2 1C81 ·¢ ¤© ¤À ¤¡   7  4  2 ·¡ 0 00000000
+B7A3 1C81 ·£ ¤© ¤À ¤¤   7  4  5 ·¡ 0 00000000
+B7A4 1C81 ·¤ ¤© ¤À ¤©   7  4  9 ·¡ 0 00000000
+B7A5 1C81 ·¥ ¤© ¤À ¤±   7  4 17 ·¡ 0 00000000
+B7A6 1C81 ·¦ ¤© ¤À ¤²   7  4 19 ·¡ 0 00000000
+B7A7 1C81 ·§ ¤© ¤À ¤µ   7  4 21 ·¡ 0 00000000
+B7A8 1C81 ·¨ ¤© ¤À ¤¶   7  4 22 ·¡ 0 00000000
+B7A9 1C81 ·© ¤© ¤À ¤·   7  4 23 ·¡ 0 00000000
+B7AA 1CA1 ·ª ¤© ¤Á      7  5  1 ·ª 0 0000000C
+B7AB 1CA1 ·« ¤© ¤Á ¤¡   7  5  2 ·ª 0 00000000
+B7AC 1CA1 ·¬ ¤© ¤Á ¤¤   7  5  5 ·ª 0 00000000
+B7AD 1CA1 ·­ ¤© ¤Á ¤µ   7  5 21 ·ª 0 00000000
+B7AE 1CA1 ·® ¤© ¤Á ¤·   7  5 23 ·ª 0 00000000
+B7AF 1CE1 ·¯ ¤© ¤Ã      7  7  1 ·¯ 0 0000000E
+B7B0 1CE1 ·° ¤© ¤Ã ¤¡   7  7  2 ·¯ 0 00000000
+B7B1 1CE1 ·± ¤© ¤Ã ¤¤   7  7  5 ·¯ 0 0000000C
+B7B2 1CE1 ·² ¤© ¤Ã ¤©   7  7  9 ·¯ 0 00000000
+B7B3 1CE1 ·³ ¤© ¤Ã ¤±   7  7 17 ·¯ 0 00000002
+B7B4 1CE1 ·´ ¤© ¤Ã ¤²   7  7 19 ·¯ 0 00000000
+B7B5 1CE1 ·µ ¤© ¤Ã ¤µ   7  7 21 ·¯ 0 00000000
+B7B6 1CE1 ·¶ ¤© ¤Ã ¤¶   7  7 22 ·¯ 0 00000000
+B7B7 1CE1 ·· ¤© ¤Ã ¤·   7  7 23 ·¯ 0 00000000
+B7B8 1CE1 ·¸ ¤© ¤Ã ¤¾   7  7 29 ·¯ 0 00000000
+B7B9 1D41 ·¹ ¤© ¤Ä      7 10  1 ·¹ 0 00000008
+B7BA 1D41 ·º ¤© ¤Ä ¤¡   7 10  2 ·¹ 0 00000000
+B7BB 1D41 ·» ¤© ¤Ä ¤¤   7 10  5 ·¹ 0 00000000
+B7BC 1D41 ·¼ ¤© ¤Ä ¤©   7 10  9 ·¹ 0 00000000
+B7BD 1D41 ·½ ¤© ¤Ä ¤±   7 10 17 ·¹ 0 00000000
+B7BE 1D41 ·¾ ¤© ¤Ä ¤²   7 10 19 ·¹ 0 00000000
+B7BF 1D41 ·¿ ¤© ¤Ä ¤µ   7 10 21 ·¹ 0 00000000
+B7C0 1D41 ·À ¤© ¤Ä ¤·   7 10 23 ·¹ 0 00000000
+B7C1 1D61 ·Á ¤© ¤Å      7 11  1 ·Á 0 0000000C
+B7C2 1D61 ·Â ¤© ¤Å ¤¡   7 11  2 ·Á 0 00000000
+B7C3 1D61 ·Ã ¤© ¤Å ¤¤   7 11  5 ·Á 0 0000000C
+B7C4 1D61 ·Ä ¤© ¤Å ¤©   7 11  9 ·Á 0 00000000
+B7C5 1D61 ·Å ¤© ¤Å ¤±   7 11 17 ·Á 0 0000000C
+B7C6 1D61 ·Æ ¤© ¤Å ¤²   7 11 19 ·Á 0 00000008
+B7C7 1D61 ·Ç ¤© ¤Å ¤µ   7 11 21 ·Á 0 0000000C
+B7C8 1D61 ·È ¤© ¤Å ¤¶   7 11 22 ·Á 0 00000000
+B7C9 1D61 ·É ¤© ¤Å ¤·   7 11 23 ·Á 0 00000000
+B7CA 1D81 ·Ê ¤© ¤Æ      7 12  1 ·Ê 0 00000000
+B7CB 1D81 ·Ë ¤© ¤Æ ¤¤   7 12  5 ·Ê 0 00000000
+B7CC 1D81 ·Ì ¤© ¤Æ ¤²   7 12 19 ·Ê 0 00000000
+B7CD 1D81 ·Í ¤© ¤Æ ¤µ   7 12 21 ·Ê 0 00000000
+B7CE 1DA1 ·Î ¤© ¤Ç      7 13  1 ·Î 0 0000000B
+B7CF 1DA1 ·Ï ¤© ¤Ç ¤¡   7 13  2 ·Î 0 0000000A
+B7D0 1DA1 ·Ð ¤© ¤Ç ¤¤   7 13  5 ·Î 0 00000002
+B7D1 1DA1 ·Ñ ¤© ¤Ç ¤©   7 13  9 ·Î 0 00000000
+B7D2 1DA1 ·Ò ¤© ¤Ç ¤±   7 13 17 ·Î 0 00000000
+B7D3 1DA1 ·Ó ¤© ¤Ç ¤²   7 13 19 ·Î 0 00000000
+B7D4 1DA1 ·Ô ¤© ¤Ç ¤µ   7 13 21 ·Î 0 00000000
+B7D5 1DA1 ·Õ ¤© ¤Ç ¤·   7 13 23 ·Î 0 00000000
+B7D6 1DC1 ·Ö ¤© ¤È      7 14  1 ·Ö 0 00000000
+B7D7 1DC1 ·× ¤© ¤È ¤¤   7 14  5 ·Ö 0 00000000
+B7D8 1DC1 ·Ø ¤© ¤È ¤·   7 14 23 ·Ö 0 00000000
+B7D9 1DE1 ·Ù ¤© ¤É ¤¶   7 15 22 ¶Î 0 00000000
+B7DA 1E41 ·Ú ¤© ¤Ê      7 18  1 ·Ú 0 00000000
+B7DB 1E41 ·Û ¤© ¤Ê ¤¤   7 18  5 ·Ú 0 00000000
+B7DC 1E41 ·Ü ¤© ¤Ê ¤©   7 18  9 ·Ú 0 00000000
+B7DD 1E41 ·Ý ¤© ¤Ê ¤±   7 18 17 ·Ú 0 00000000
+B7DE 1E41 ·Þ ¤© ¤Ê ¤²   7 18 19 ·Ú 0 00000000
+B7DF 1E41 ·ß ¤© ¤Ê ¤µ   7 18 21 ·Ú 0 00000000
+B7E0 1E41 ·à ¤© ¤Ê ¤·   7 18 23 ·Ú 0 00000000
+B7E1 1E61 ·á ¤© ¤Ë      7 19  1 ·á 0 00000008
+B7E2 1E61 ·â ¤© ¤Ë ¤¤   7 19  5 ·á 0 00000000
+B7E3 1E61 ·ã ¤© ¤Ë ¤©   7 19  9 ·á 0 00000000
+B7E4 1E61 ·ä ¤© ¤Ë ¤²   7 19 19 ·á 0 00000000
+B7E5 1E61 ·å ¤© ¤Ë ¤µ   7 19 21 ·á 0 00000000
+B7E6 1E61 ·æ ¤© ¤Ë ¤·   7 19 23 ·á 0 00000000
+B7E7 1E81 ·ç ¤© ¤Ì      7 20  1 ·ç 0 00000000
+B7E8 1E81 ·è ¤© ¤Ì ¤¡   7 20  2 ·ç 0 00000000
+B7E9 1E81 ·é ¤© ¤Ì ¤¤   7 20  5 ·ç 0 00000000
+B7EA 1E81 ·ê ¤© ¤Ì ¤©   7 20  9 ·ç 0 00000000
+B7EB 1E81 ·ë ¤© ¤Ì ¤±   7 20 17 ·ç 0 00000000
+B7EC 1E81 ·ì ¤© ¤Ì ¤²   7 20 19 ·ç 0 00000000
+B7ED 1E81 ·í ¤© ¤Ì ¤µ   7 20 21 ·ç 0 00000000
+B7EE 1E81 ·î ¤© ¤Ì ¤·   7 20 23 ·ç 0 00000000
+B7EF 1EA1 ·ï ¤© ¤Í      7 21  1 ·ï 0 00000000
+B7F0 1EA1 ·ð ¤© ¤Í ¤¶   7 21 22 ·ï 0 00000000
+B7F1 1EC1 ·ñ ¤© ¤Î      7 22  1 ·ñ 0 00000000
+B7F2 1EE1 ·ò ¤© ¤Ï      7 23  1 ·ò 0 00000000
+B7F3 1EE1 ·ó ¤© ¤Ï ¤¡   7 23  2 ·ò 0 00000000
+B7F4 1EE1 ·ô ¤© ¤Ï ¤¤   7 23  5 ·ò 0 00000000
+B7F5 1EE1 ·õ ¤© ¤Ï ¤©   7 23  9 ·ò 0 00000000
+B7F6 1EE1 ·ö ¤© ¤Ï ¤±   7 23 17 ·ò 0 00000000
+B7F7 1EE1 ·÷ ¤© ¤Ï ¤µ   7 23 21 ·ò 0 00000000
+B7F8 1EE1 ·ø ¤© ¤Ï ¤·   7 23 23 ·ò 0 00000000
+B7F9 1F41 ·ù ¤© ¤Ð      7 26  1 ·ù 0 00000000
+B7FA 1F41 ·ú ¤© ¤Ð ¤¡   7 26  2 ·ù 0 00000000
+B7FB 1F41 ·û ¤© ¤Ð ¤¤   7 26  5 ·ù 0 00000000
+B7FC 1F41 ·ü ¤© ¤Ð ¤©   7 26  9 ·ù 0 00000000
+B7FD 1F41 ·ý ¤© ¤Ð ¤±   7 26 17 ·ù 0 00000000
+B7FE 1F41 ·þ ¤© ¤Ð ¤²   7 26 19 ·ù 0 00000000
+B8A1 1F41 ¸¡ ¤© ¤Ð ¤µ   7 26 21 ·ù 0 00000000
+B8A2 1F41 ¸¢ ¤© ¤Ð ¤·   7 26 23 ·ù 0 00000000
+B8A3 1F61 ¸£ ¤© ¤Ñ      7 27  1 ¸£ 0 00000000
+B8A4 1F61 ¸¤ ¤© ¤Ñ ¤¡   7 27  2 ¸£ 0 00000000
+B8A5 1F61 ¸¥ ¤© ¤Ñ ¤¤   7 27  5 ¸£ 0 00000000
+B8A6 1F61 ¸¦ ¤© ¤Ñ ¤©   7 27  9 ¸£ 0 0000000B
+B8A7 1F61 ¸§ ¤© ¤Ñ ¤±   7 27 17 ¸£ 0 00000000
+B8A8 1F61 ¸¨ ¤© ¤Ñ ¤²   7 27 19 ¸£ 0 00000000
+B8A9 1F61 ¸© ¤© ¤Ñ ¤µ   7 27 21 ¸£ 0 00000000
+B8AA 1F61 ¸ª ¤© ¤Ñ ¤·   7 27 23 ¸£ 0 00000000
+B8AB 1F61 ¸« ¤© ¤Ñ ¤¸   7 27 24 ¸£ 0 00000000
+B8AC 1F61 ¸¬ ¤© ¤Ñ ¤¼   7 27 27 ¸£ 0 00000000
+B8AD 1F61 ¸­ ¤© ¤Ñ ¤½   7 27 28 ¸£ 0 00000000
+B8AE 1FA1 ¸® ¤© ¤Ó      7 29  1 ¸® 0 0000000C
+B8AF 1FA1 ¸¯ ¤© ¤Ó ¤¡   7 29  2 ¸® 0 00000000
+B8B0 1FA1 ¸° ¤© ¤Ó ¤¤   7 29  5 ¸® 0 00000000
+B8B1 1FA1 ¸± ¤© ¤Ó ¤©   7 29  9 ¸® 0 00000000
+B8B2 1FA1 ¸² ¤© ¤Ó ¤±   7 29 17 ¸® 0 00000000
+B8B3 1FA1 ¸³ ¤© ¤Ó ¤²   7 29 19 ¸® 0 00000000
+B8B4 1FA1 ¸´ ¤© ¤Ó ¤µ   7 29 21 ¸® 0 00000000
+B8B5 1FA1 ¸µ ¤© ¤Ó ¤·   7 29 23 ¸® 0 00000000
+B8B6 2061 ¸¶ ¤± ¤¿      8  3  1 ¸¶ 0 0000000F
+B8B7 2061 ¸· ¤± ¤¿ ¤¡   8  3  2 ¸¶ 0 00000000
+B8B8 2061 ¸¸ ¤± ¤¿ ¤¤   8  3  5 ¸¶ 0 0000000B
+B8B9 2061 ¸¹ ¤± ¤¿ ¤¦   8  3  7 ¸¶ 0 00000000
+B8BA 2061 ¸º ¤± ¤¿ ¤§   8  3  8 ¸¶ 0 00000000
+B8BB 2061 ¸» ¤± ¤¿ ¤©   8  3  9 ¸¶ 0 0000000B
+B8BC 2061 ¸¼ ¤± ¤¿ ¤ª   8  3 10 ¸¶ 0 00000000
+B8BD 2061 ¸½ ¤± ¤¿ ¤«   8  3 11 ¸¶ 0 00000000
+B8BE 2061 ¸¾ ¤± ¤¿ ¤±   8  3 17 ¸¶ 0 00000000
+B8BF 2061 ¸¿ ¤± ¤¿ ¤²   8  3 19 ¸¶ 0 00000000
+B8C0 2061 ¸À ¤± ¤¿ ¤µ   8  3 21 ¸¶ 0 00000000
+B8C1 2061 ¸Á ¤± ¤¿ ¤·   8  3 23 ¸¶ 0 00000008
+B8C2 2061 ¸Â ¤± ¤¿ ¤¸   8  3 24 ¸¶ 0 00000000
+B8C3 2061 ¸Ã ¤± ¤¿ ¤¼   8  3 27 ¸¶ 0 00000000
+B8C4 2061 ¸Ä ¤± ¤¿ ¤¾   8  3 29 ¸¶ 0 00000000
+B8C5 2081 ¸Å ¤± ¤À      8  4  1 ¸Å 0 0000000C
+B8C6 2081 ¸Æ ¤± ¤À ¤¡   8  4  2 ¸Å 0 00000000
+B8C7 2081 ¸Ç ¤± ¤À ¤¤   8  4  5 ¸Å 0 00000000
+B8C8 2081 ¸È ¤± ¤À ¤©   8  4  9 ¸Å 0 00000000
+B8C9 2081 ¸É ¤± ¤À ¤±   8  4 17 ¸Å 0 00000000
+B8CA 2081 ¸Ê ¤± ¤À ¤²   8  4 19 ¸Å 0 00000000
+B8CB 2081 ¸Ë ¤± ¤À ¤µ   8  4 21 ¸Å 0 00000000
+B8CC 2081 ¸Ì ¤± ¤À ¤¶   8  4 22 ¸Å 0 00000000
+B8CD 2081 ¸Í ¤± ¤À ¤·   8  4 23 ¸Å 0 00000000
+B8CE 2081 ¸Î ¤± ¤À ¤¸   8  4 24 ¸Å 0 00000000
+B8CF 20A1 ¸Ï ¤± ¤Á      8  5  1 ¸Ï 0 00000000
+B8D0 20A1 ¸Ð ¤± ¤Á ¤¡   8  5  2 ¸Ï 0 00000000
+B8D1 20A1 ¸Ñ ¤± ¤Á ¤©   8  5  9 ¸Ï 0 00000000
+B8D2 20A1 ¸Ò ¤± ¤Á ¤·   8  5 23 ¸Ï 0 00000000
+B8D3 20E1 ¸Ó ¤± ¤Ã      8  7  1 ¸Ó 0 00000000
+B8D4 20E1 ¸Ô ¤± ¤Ã ¤¡   8  7  2 ¸Ó 0 00000000
+B8D5 20E1 ¸Õ ¤± ¤Ã ¤¤   8  7  5 ¸Ó 0 00000008
+B8D6 20E1 ¸Ö ¤± ¤Ã ¤©   8  7  9 ¸Ó 0 00000000
+B8D7 20E1 ¸× ¤± ¤Ã ¤«   8  7 11 ¸Ó 0 00000000
+B8D8 20E1 ¸Ø ¤± ¤Ã ¤±   8  7 17 ¸Ó 0 00000000
+B8D9 20E1 ¸Ù ¤± ¤Ã ¤²   8  7 19 ¸Ó 0 00000000
+B8DA 20E1 ¸Ú ¤± ¤Ã ¤µ   8  7 21 ¸Ó 0 00000000
+B8DB 20E1 ¸Û ¤± ¤Ã ¤·   8  7 23 ¸Ó 0 00000000
+B8DC 20E1 ¸Ü ¤± ¤Ã ¤¸   8  7 24 ¸Ó 0 00000000
+B8DD 20E1 ¸Ý ¤± ¤Ã ¤¾   8  7 29 ¸Ó 0 00000000
+B8DE 2141 ¸Þ ¤± ¤Ä      8 10  1 ¸Þ 0 00000000
+B8DF 2141 ¸ß ¤± ¤Ä ¤¡   8 10  2 ¸Þ 0 00000000
+B8E0 2141 ¸à ¤± ¤Ä ¤¤   8 10  5 ¸Þ 0 00000000
+B8E1 2141 ¸á ¤± ¤Ä ¤©   8 10  9 ¸Þ 0 00000000
+B8E2 2141 ¸â ¤± ¤Ä ¤±   8 10 17 ¸Þ 0 00000000
+B8E3 2141 ¸ã ¤± ¤Ä ¤²   8 10 19 ¸Þ 0 00000000
+B8E4 2141 ¸ä ¤± ¤Ä ¤µ   8 10 21 ¸Þ 0 00000000
+B8E5 2141 ¸å ¤± ¤Ä ¤¶   8 10 22 ¸Þ 0 00000000
+B8E6 2141 ¸æ ¤± ¤Ä ¤·   8 10 23 ¸Þ 0 00000000
+B8E7 2161 ¸ç ¤± ¤Å      8 11  1 ¸ç 0 0000000F
+B8E8 2161 ¸è ¤± ¤Å ¤¡   8 11  2 ¸ç 0 00000000
+B8E9 2161 ¸é ¤± ¤Å ¤¤   8 11  5 ¸ç 0 0000000C
+B8EA 2161 ¸ê ¤± ¤Å ¤©   8 11  9 ¸ç 0 00000000
+B8EB 2161 ¸ë ¤± ¤Å ¤µ   8 11 21 ¸ç 0 00000000
+B8EC 2161 ¸ì ¤± ¤Å ¤¶   8 11 22 ¸ç 0 00000000
+B8ED 2161 ¸í ¤± ¤Å ¤·   8 11 23 ¸ç 0 00000000
+B8EE 2161 ¸î ¤± ¤Å ¤º   8 11 25 ¸ç 0 00000000
+B8EF 2181 ¸ï ¤± ¤Æ      8 12  1 ¸ï 0 00000000
+B8F0 21A1 ¸ð ¤± ¤Ç      8 13  1 ¸ð 0 00000000
+B8F1 21A1 ¸ñ ¤± ¤Ç ¤¡   8 13  2 ¸ð 0 00000000
+B8F2 21A1 ¸ò ¤± ¤Ç ¤£   8 13  4 ¸ð 0 00000000
+B8F3 21A1 ¸ó ¤± ¤Ç ¤¤   8 13  5 ¸ð 0 00000000
+B8F4 21A1 ¸ô ¤± ¤Ç ¤©   8 13  9 ¸ð 0 00000000
+B8F5 21A1 ¸õ ¤± ¤Ç ¤«   8 13 11 ¸ð 0 00000000
+B8F6 21A1 ¸ö ¤± ¤Ç ¤±   8 13 17 ¸ð 0 00000000
+B8F7 21A1 ¸÷ ¤± ¤Ç ¤²   8 13 19 ¸ð 0 00000000
+B8F8 21A1 ¸ø ¤± ¤Ç ¤µ   8 13 21 ¸ð 0 00000000
+B8F9 21A1 ¸ù ¤± ¤Ç ¤·   8 13 23 ¸ð 0 00000000
+B8FA 21C1 ¸ú ¤± ¤È      8 14  1 ¸ú 0 00000000
+B8FB 21C1 ¸û ¤± ¤È ¤¤   8 14  5 ¸ú 0 00000000
+B8FC 21C1 ¸ü ¤± ¤È ¤¶   8 14 22 ¸ú 0 00000000
+B8FD 21C1 ¸ý ¤± ¤È ¤·   8 14 23 ¸ú 0 00000000
+B8FE 2241 ¸þ ¤± ¤Ê      8 18  1 ¸þ 0 00000000
+B9A1 2241 ¹¡ ¤± ¤Ê ¤¤   8 18  5 ¸þ 0 00000000
+B9A2 2241 ¹¢ ¤± ¤Ê ¤©   8 18  9 ¸þ 0 00000000
+B9A3 2241 ¹£ ¤± ¤Ê ¤²   8 18 19 ¸þ 0 00000000
+B9A4 2241 ¹¤ ¤± ¤Ê ¤µ   8 18 21 ¸þ 0 00000000
+B9A5 2241 ¹¥ ¤± ¤Ê ¤·   8 18 23 ¸þ 0 00000000
+B9A6 2261 ¹¦ ¤± ¤Ë      8 19  1 ¹¦ 0 00000000
+B9A7 2261 ¹§ ¤± ¤Ë ¤¤   8 19  5 ¹¦ 0 00000000
+B9A8 2261 ¹¨ ¤± ¤Ë ¤©   8 19  9 ¹¦ 0 00000000
+B9A9 2261 ¹© ¤± ¤Ë ¤²   8 19 19 ¹¦ 0 00000000
+B9AA 2261 ¹ª ¤± ¤Ë ¤µ   8 19 21 ¹¦ 0 00000000
+B9AB 2281 ¹« ¤± ¤Ì      8 20  1 ¹« 0 00000008
+B9AC 2281 ¹¬ ¤± ¤Ì ¤¡   8 20  2 ¹« 0 00000000
+B9AD 2281 ¹­ ¤± ¤Ì ¤¢   8 20  3 ¹« 0 00000000
+B9AE 2281 ¹® ¤± ¤Ì ¤¤   8 20  5 ¹« 0 00000000
+B9AF 2281 ¹¯ ¤± ¤Ì ¤§   8 20  8 ¹« 0 00000000
+B9B0 2281 ¹° ¤± ¤Ì ¤©   8 20  9 ¹« 0 00000000
+B9B1 2281 ¹± ¤± ¤Ì ¤ª   8 20 10 ¹« 0 00000000
+B9B2 2281 ¹² ¤± ¤Ì ¤«   8 20 11 ¹« 0 00000000
+B9B3 2281 ¹³ ¤± ¤Ì ¤±   8 20 17 ¹« 0 00000000
+B9B4 2281 ¹´ ¤± ¤Ì ¤²   8 20 19 ¹« 0 00000000
+B9B5 2281 ¹µ ¤± ¤Ì ¤µ   8 20 21 ¹« 0 00000000
+B9B6 2281 ¹¶ ¤± ¤Ì ¤·   8 20 23 ¹« 0 00000000
+B9B7 2281 ¹· ¤± ¤Ì ¤¼   8 20 27 ¹« 0 00000000
+B9B8 2281 ¹¸ ¤± ¤Ì ¤¾   8 20 29 ¹« 0 00000000
+B9B9 22A1 ¹¹ ¤± ¤Í      8 21  1 ¹¹ 0 00000000
+B9BA 22A1 ¹º ¤± ¤Í ¤¤   8 21  5 ¹¹ 0 00000000
+B9BB 22A1 ¹» ¤± ¤Í ¤©   8 21  9 ¹¹ 0 00000000
+B9BC 22A1 ¹¼ ¤± ¤Í ¤²   8 21 19 ¹¹ 0 00000000
+B9BD 22A1 ¹½ ¤± ¤Í ¤µ   8 21 21 ¹¹ 0 00000000
+B9BE 22C1 ¹¾ ¤± ¤Î      8 22  1 ¹¾ 0 00000000
+B9BF 22E1 ¹¿ ¤± ¤Ï      8 23  1 ¹¿ 0 00000000
+B9C0 22E1 ¹À ¤± ¤Ï ¤¤   8 23  5 ¹¿ 0 00000000
+B9C1 22E1 ¹Á ¤± ¤Ï ¤©   8 23  9 ¹¿ 0 00000000
+B9C2 2341 ¹Â ¤± ¤Ð      8 26  1 ¹Â 0 00000000
+B9C3 2341 ¹Ã ¤± ¤Ð ¤¤   8 26  5 ¹Â 0 00000000
+B9C4 2341 ¹Ä ¤± ¤Ð ¤©   8 26  9 ¹Â 0 00000000
+B9C5 2341 ¹Å ¤± ¤Ð ¤±   8 26 17 ¹Â 0 00000000
+B9C6 2341 ¹Æ ¤± ¤Ð ¤µ   8 26 21 ¹Â 0 00000000
+B9C7 2361 ¹Ç ¤± ¤Ñ      8 27  1 ¹Ç 0 0000000C
+B9C8 2361 ¹È ¤± ¤Ñ ¤¤   8 27  5 ¹Ç 0 00000000
+B9C9 2361 ¹É ¤± ¤Ñ ¤©   8 27  9 ¹Ç 0 00000000
+B9CA 2361 ¹Ê ¤± ¤Ñ ¤±   8 27 17 ¹Ç 0 00000000
+B9CB 2361 ¹Ë ¤± ¤Ñ ¤µ   8 27 21 ¹Ç 0 00000000
+B9CC 23A1 ¹Ì ¤± ¤Ó      8 29  1 ¹Ì 0 00000000
+B9CD 23A1 ¹Í ¤± ¤Ó ¤¡   8 29  2 ¹Ì 0 00000000
+B9CE 23A1 ¹Î ¤± ¤Ó ¤¤   8 29  5 ¹Ì 0 00000000
+B9CF 23A1 ¹Ï ¤± ¤Ó ¤§   8 29  8 ¹Ì 0 00000000
+B9D0 23A1 ¹Ð ¤± ¤Ó ¤©   8 29  9 ¹Ì 0 00000000
+B9D1 23A1 ¹Ñ ¤± ¤Ó ¤«   8 29 11 ¹Ì 0 00000000
+B9D2 23A1 ¹Ò ¤± ¤Ó ¤±   8 29 17 ¹Ì 0 00000000
+B9D3 23A1 ¹Ó ¤± ¤Ó ¤²   8 29 19 ¹Ì 0 00000000
+B9D4 23A1 ¹Ô ¤± ¤Ó ¤µ   8 29 21 ¹Ì 0 00000000
+B9D5 23A1 ¹Õ ¤± ¤Ó ¤¶   8 29 22 ¹Ì 0 00000000
+B9D6 23A1 ¹Ö ¤± ¤Ó ¤·   8 29 23 ¹Ì 0 00000000
+B9D7 23A1 ¹× ¤± ¤Ó ¤º   8 29 25 ¹Ì 0 00000000
+B9D8 23A1 ¹Ø ¤± ¤Ó ¤¼   8 29 27 ¹Ì 0 00000000
+B9D9 2461 ¹Ù ¤² ¤¿      9  3  1 ¹Ù 0 00000008
+B9DA 2461 ¹Ú ¤² ¤¿ ¤¡   9  3  2 ¹Ù 0 00000000
+B9DB 2461 ¹Û ¤² ¤¿ ¤¢   9  3  3 ¹Ù 0 00000009
+B9DC 2461 ¹Ü ¤² ¤¿ ¤£   9  3  4 ¹Ù 0 00000000
+B9DD 2461 ¹Ý ¤² ¤¿ ¤¤   9  3  5 ¹Ù 0 00000000
+B9DE 2461 ¹Þ ¤² ¤¿ ¤§   9  3  8 ¹Ù 0 00000000
+B9DF 2461 ¹ß ¤² ¤¿ ¤©   9  3  9 ¹Ù 0 00000000
+B9E0 2461 ¹à ¤² ¤¿ ¤ª   9  3 10 ¹Ù 0 00000000
+B9E1 2461 ¹á ¤² ¤¿ ¤«   9  3 11 ¹Ù 0 00000000
+B9E2 2461 ¹â ¤² ¤¿ ¤¬   9  3 12 ¹Ù 0 00000000
+B9E3 2461 ¹ã ¤² ¤¿ ¤±   9  3 17 ¹Ù 0 00000000
+B9E4 2461 ¹ä ¤² ¤¿ ¤²   9  3 19 ¹Ù 0 00000000
+B9E5 2461 ¹å ¤² ¤¿ ¤µ   9  3 21 ¹Ù 0 00000000
+B9E6 2461 ¹æ ¤² ¤¿ ¤·   9  3 23 ¹Ù 0 00000000
+B9E7 2461 ¹ç ¤² ¤¿ ¤¼   9  3 27 ¹Ù 0 00000000
+B9E8 2481 ¹è ¤² ¤À      9  4  1 ¹è 0 00000000
+B9E9 2481 ¹é ¤² ¤À ¤¡   9  4  2 ¹è 0 00000000
+B9EA 2481 ¹ê ¤² ¤À ¤¤   9  4  5 ¹è 0 00000000
+B9EB 2481 ¹ë ¤² ¤À ¤©   9  4  9 ¹è 0 00000000
+B9EC 2481 ¹ì ¤² ¤À ¤±   9  4 17 ¹è 0 00000000
+B9ED 2481 ¹í ¤² ¤À ¤²   9  4 19 ¹è 0 00000000
+B9EE 2481 ¹î ¤² ¤À ¤µ   9  4 21 ¹è 0 00000000
+B9EF 2481 ¹ï ¤² ¤À ¤¶   9  4 22 ¹è 0 00000000
+B9F0 2481 ¹ð ¤² ¤À ¤·   9  4 23 ¹è 0 00000000
+B9F1 2481 ¹ñ ¤² ¤À ¤¼   9  4 27 ¹è 0 00000000
+B9F2 24A1 ¹ò ¤² ¤Á      9  5  1 ¹ò 0 00000000
+B9F3 24A1 ¹ó ¤² ¤Á ¤¡   9  5  2 ¹ò 0 00000000
+B9F4 24A1 ¹ô ¤² ¤Á ¤¤   9  5  5 ¹ò 0 00000000
+B9F5 24A1 ¹õ ¤² ¤Á ¤²   9  5 19 ¹ò 0 00000000
+B9F6 24E1 ¹ö ¤² ¤Ã      9  7  1 ¹ö 0 00000000
+B9F7 24E1 ¹÷ ¤² ¤Ã ¤¡   9  7  2 ¹ö 0 00000000
+B9F8 24E1 ¹ø ¤² ¤Ã ¤¤   9  7  5 ¹ö 0 00000000
+B9F9 24E1 ¹ù ¤² ¤Ã ¤§   9  7  8 ¹ö 0 00000000
+B9FA 24E1 ¹ú ¤² ¤Ã ¤©   9  7  9 ¹ö 0 00000000
+B9FB 24E1 ¹û ¤² ¤Ã ¤«   9  7 11 ¹ö 0 00000000
+B9FC 24E1 ¹ü ¤² ¤Ã ¤±   9  7 17 ¹ö 0 00000000
+B9FD 24E1 ¹ý ¤² ¤Ã ¤²   9  7 19 ¹ö 0 00000000
+B9FE 24E1 ¹þ ¤² ¤Ã ¤µ   9  7 21 ¹ö 0 00000000
+BAA1 24E1 º¡ ¤² ¤Ã ¤·   9  7 23 ¹ö 0 00000000
+BAA2 24E1 º¢ ¤² ¤Ã ¤¸   9  7 24 ¹ö 0 00000000
+BAA3 2541 º£ ¤² ¤Ä      9 10  1 º£ 0 00000000
+BAA4 2541 º¤ ¤² ¤Ä ¤¡   9 10  2 º£ 0 00000000
+BAA5 2541 º¥ ¤² ¤Ä ¤¤   9 10  5 º£ 0 00000000
+BAA6 2541 º¦ ¤² ¤Ä ¤§   9 10  8 º£ 0 00000000
+BAA7 2541 º§ ¤² ¤Ä ¤©   9 10  9 º£ 0 00000000
+BAA8 2541 º¨ ¤² ¤Ä ¤±   9 10 17 º£ 0 00000000
+BAA9 2541 º© ¤² ¤Ä ¤²   9 10 19 º£ 0 00000000
+BAAA 2541 ºª ¤² ¤Ä ¤µ   9 10 21 º£ 0 00000000
+BAAB 2541 º« ¤² ¤Ä ¤¶   9 10 22 º£ 0 00000000
+BAAC 2541 º¬ ¤² ¤Ä ¤·   9 10 23 º£ 0 00000000
+BAAD 2561 º­ ¤² ¤Å      9 11  1 º­ 0 00000000
+BAAE 2561 º® ¤² ¤Å ¤¡   9 11  2 º­ 0 00000000
+BAAF 2561 º¯ ¤² ¤Å ¤¤   9 11  5 º­ 0 00000000
+BAB0 2561 º° ¤² ¤Å ¤©   9 11  9 º­ 0 00000000
+BAB1 2561 º± ¤² ¤Å ¤²   9 11 19 º­ 0 00000000
+BAB2 2561 º² ¤² ¤Å ¤µ   9 11 21 º­ 0 00000000
+BAB3 2561 º³ ¤² ¤Å ¤¶   9 11 22 º­ 0 00000000
+BAB4 2561 º´ ¤² ¤Å ¤·   9 11 23 º­ 0 00000000
+BAB5 2561 ºµ ¤² ¤Å ¤¼   9 11 27 º­ 0 00000000
+BAB6 2581 º¶ ¤² ¤Æ      9 12  1 º¶ 0 00000000
+BAB7 2581 º· ¤² ¤Æ ¤¤   9 12  5 º¶ 0 00000000
+BAB8 25A1 º¸ ¤² ¤Ç      9 13  1 º¸ 0 00000001
+BAB9 25A1 º¹ ¤² ¤Ç ¤¡   9 13  2 º¸ 0 00000000
+BABA 25A1 ºº ¤² ¤Ç ¤¢   9 13  3 º¸ 0 00000000
+BABB 25A1 º» ¤² ¤Ç ¤¤   9 13  5 º¸ 0 00000000
+BABC 25A1 º¼ ¤² ¤Ç ¤©   9 13  9 º¸ 0 00000000
+BABD 25A1 º½ ¤² ¤Ç ¤±   9 13 17 º¸ 0 00000000
+BABE 25A1 º¾ ¤² ¤Ç ¤²   9 13 19 º¸ 0 00000000
+BABF 25A1 º¿ ¤² ¤Ç ¤µ   9 13 21 º¸ 0 00000000
+BAC0 25A1 ºÀ ¤² ¤Ç ¤·   9 13 23 º¸ 0 00000000
+BAC1 25C1 ºÁ ¤² ¤È      9 14  1 ºÁ 0 00000000
+BAC2 25C1 ºÂ ¤² ¤È ¤¤   9 14  5 ºÁ 0 00000000
+BAC3 25C1 ºÃ ¤² ¤È ¤¶   9 14 22 ºÁ 0 00000000
+BAC4 25E1 ºÄ ¤² ¤É      9 15  1 ºÄ 0 00000000
+BAC5 25E1 ºÅ ¤² ¤É ¤¶   9 15 22 ºÄ 0 00000000
+BAC6 2641 ºÆ ¤² ¤Ê      9 18  1 ºÆ 0 00000000
+BAC7 2641 ºÇ ¤² ¤Ê ¤¡   9 18  2 ºÆ 0 00000000
+BAC8 2641 ºÈ ¤² ¤Ê ¤¤   9 18  5 ºÆ 0 00000000
+BAC9 2641 ºÉ ¤² ¤Ê ¤©   9 18  9 ºÆ 0 00000000
+BACA 2641 ºÊ ¤² ¤Ê ¤±   9 18 17 ºÆ 0 00000000
+BACB 2641 ºË ¤² ¤Ê ¤²   9 18 19 ºÆ 0 00000000
+BACC 2661 ºÌ ¤² ¤Ë      9 19  1 ºÌ 0 00000000
+BACD 2661 ºÍ ¤² ¤Ë ¤¤   9 19  5 ºÌ 0 00000000
+BACE 2681 ºÎ ¤² ¤Ì      9 20  1 ºÎ 0 00000003
+BACF 2681 ºÏ ¤² ¤Ì ¤¡   9 20  2 ºÎ 0 00000000
+BAD0 2681 ºÐ ¤² ¤Ì ¤¤   9 20  5 ºÎ 0 00000000
+BAD1 2681 ºÑ ¤² ¤Ì ¤§   9 20  8 ºÎ 0 00000000
+BAD2 2681 ºÒ ¤² ¤Ì ¤©   9 20  9 ºÎ 0 00000000
+BAD3 2681 ºÓ ¤² ¤Ì ¤ª   9 20 10 ºÎ 0 00000000
+BAD4 2681 ºÔ ¤² ¤Ì ¤«   9 20 11 ºÎ 0 00000000
+BAD5 2681 ºÕ ¤² ¤Ì ¤±   9 20 17 ºÎ 0 00000000
+BAD6 2681 ºÖ ¤² ¤Ì ¤²   9 20 19 ºÎ 0 00000000
+BAD7 2681 º× ¤² ¤Ì ¤µ   9 20 21 ºÎ 0 00000000
+BAD8 2681 ºØ ¤² ¤Ì ¤·   9 20 23 ºÎ 0 00000000
+BAD9 2681 ºÙ ¤² ¤Ì ¤¼   9 20 27 ºÎ 0 00000000
+BADA 2681 ºÚ ¤² ¤Ì ¤½   9 20 28 ºÎ 0 00000000
+BADB 26A1 ºÛ ¤² ¤Í      9 21  1 ºÛ 0 00000000
+BADC 26A1 ºÜ ¤² ¤Í ¤©   9 21  9 ºÛ 0 00000000
+BADD 26A1 ºÝ ¤² ¤Í ¤¶   9 21 22 ºÛ 0 00000000
+BADE 26C1 ºÞ ¤² ¤Î      9 22  1 ºÞ 0 00000000
+BADF 26E1 ºß ¤² ¤Ï      9 23  1 ºß 0 00000000
+BAE0 26E1 ºà ¤² ¤Ï ¤¡   9 23  2 ºß 0 00000000
+BAE1 26E1 ºá ¤² ¤Ï ¤¤   9 23  5 ºß 0 00000000
+BAE2 26E1 ºâ ¤² ¤Ï ¤©   9 23  9 ºß 0 00000000
+BAE3 26E1 ºã ¤² ¤Ï ¤·   9 23 23 ºß 0 00000000
+BAE4 2741 ºä ¤² ¤Ð      9 26  1 ºä 0 00000000
+BAE5 2741 ºå ¤² ¤Ð ¤¤   9 26  5 ºä 0 00000000
+BAE6 2741 ºæ ¤² ¤Ð ¤©   9 26  9 ºä 0 00000000
+BAE7 2741 ºç ¤² ¤Ð ¤±   9 26 17 ºä 0 00000000
+BAE8 2741 ºè ¤² ¤Ð ¤µ   9 26 21 ºä 0 00000000
+BAE9 2741 ºé ¤² ¤Ð ¤·   9 26 23 ºä 0 00000000
+BAEA 2761 ºê ¤² ¤Ñ      9 27  1 ºê 0 00000000
+BAEB 2761 ºë ¤² ¤Ñ ¤¡   9 27  2 ºê 0 00000000
+BAEC 2761 ºì ¤² ¤Ñ ¤¤   9 27  5 ºê 0 00000000
+BAED 2761 ºí ¤² ¤Ñ ¤©   9 27  9 ºê 0 00000000
+BAEE 2761 ºî ¤² ¤Ñ ¤±   9 27 17 ºê 0 00000000
+BAEF 2761 ºï ¤² ¤Ñ ¤²   9 27 19 ºê 0 00000000
+BAF0 2761 ºð ¤² ¤Ñ ¤µ   9 27 21 ºê 0 00000000
+BAF1 27A1 ºñ ¤² ¤Ó      9 29  1 ºñ 0 00000000
+BAF2 27A1 ºò ¤² ¤Ó ¤¡   9 29  2 ºñ 0 00000000
+BAF3 27A1 ºó ¤² ¤Ó ¤¤   9 29  5 ºñ 0 00000000
+BAF4 27A1 ºô ¤² ¤Ó ¤©   9 29  9 ºñ 0 00000000
+BAF5 27A1 ºõ ¤² ¤Ó ¤«   9 29 11 ºñ 0 00000000
+BAF6 27A1 ºö ¤² ¤Ó ¤±   9 29 17 ºñ 0 00000000
+BAF7 27A1 º÷ ¤² ¤Ó ¤²   9 29 19 ºñ 0 00000000
+BAF8 27A1 ºø ¤² ¤Ó ¤µ   9 29 21 ºñ 0 00000000
+BAF9 27A1 ºù ¤² ¤Ó ¤·   9 29 23 ºñ 0 00000000
+BAFA 27A1 ºú ¤² ¤Ó ¤¸   9 29 24 ºñ 0 00000000
+BAFB 27A1 ºû ¤² ¤Ó ¤º   9 29 25 ºñ 0 00000000
+BAFC 2861 ºü ¤³ ¤¿     10  3  1 ºü 0 00000000
+BAFD 2861 ºý ¤³ ¤¿ ¤¡  10  3  2 ºü 0 00000000
+BAFE 2861 ºþ ¤³ ¤¿ ¤¤  10  3  5 ºü 0 00000000
+BBA1 2861 »¡ ¤³ ¤¿ ¤©  10  3  9 ºü 0 00000000
+BBA2 2861 »¢ ¤³ ¤¿ ¤«  10  3 11 ºü 0 00000000
+BBA3 2861 »£ ¤³ ¤¿ ¤±  10  3 17 ºü 0 00000000
+BBA4 2861 »¤ ¤³ ¤¿ ¤²  10  3 19 ºü 0 00000000
+BBA5 2861 »¥ ¤³ ¤¿ ¤µ  10  3 21 ºü 0 00000000
+BBA6 2861 »¦ ¤³ ¤¿ ¤¶  10  3 22 ºü 0 00000000
+BBA7 2861 »§ ¤³ ¤¿ ¤·  10  3 23 ºü 0 00000000
+BBA8 2861 »¨ ¤³ ¤¿ ¤¾  10  3 29 ºü 0 00000000
+BBA9 2881 »© ¤³ ¤À     10  4  1 »© 0 00000000
+BBAA 2881 »ª ¤³ ¤À ¤¡  10  4  2 »© 0 00000000
+BBAB 2881 »« ¤³ ¤À ¤¤  10  4  5 »© 0 00000000
+BBAC 2881 »¬ ¤³ ¤À ¤©  10  4  9 »© 0 00000000
+BBAD 2881 »­ ¤³ ¤À ¤±  10  4 17 »© 0 00000000
+BBAE 2881 »® ¤³ ¤À ¤²  10  4 19 »© 0 00000000
+BBAF 2881 »¯ ¤³ ¤À ¤µ  10  4 21 »© 0 00000000
+BBB0 2881 »° ¤³ ¤À ¤¶  10  4 22 »© 0 00000000
+BBB1 2881 »± ¤³ ¤À ¤·  10  4 23 »© 0 00000000
+BBB2 28A1 »² ¤³ ¤Á     10  5  1 »² 0 00000000
+BBB3 28A1 »³ ¤³ ¤Á ¤¡  10  5  2 »² 0 00000000
+BBB4 28A1 »´ ¤³ ¤Á ¤±  10  5 17 »² 0 00000000
+BBB5 28E1 »µ ¤³ ¤Ã     10  7  1 »µ 0 00000000
+BBB6 28E1 »¶ ¤³ ¤Ã ¤¡  10  7  2 »µ 0 00000000
+BBB7 28E1 »· ¤³ ¤Ã ¤¤  10  7  5 »µ 0 00000000
+BBB8 28E1 »¸ ¤³ ¤Ã ¤§  10  7  8 »µ 0 00000000
+BBB9 28E1 »¹ ¤³ ¤Ã ¤©  10  7  9 »µ 0 00000000
+BBBA 28E1 »º ¤³ ¤Ã ¤±  10  7 17 »µ 0 00000000
+BBBB 28E1 »» ¤³ ¤Ã ¤µ  10  7 21 »µ 0 00000000
+BBBC 28E1 »¼ ¤³ ¤Ã ¤¶  10  7 22 »µ 0 00000000
+BBBD 28E1 »½ ¤³ ¤Ã ¤·  10  7 23 »µ 0 00000000
+BBBE 2941 »¾ ¤³ ¤Ä     10 10  1 »¾ 0 00000000
+BBBF 2941 »¿ ¤³ ¤Ä ¤·  10 10 23 »¾ 0 00000000
+BBC0 2961 »À ¤³ ¤Å     10 11  1 »À 0 00000000
+BBC1 2961 »Á ¤³ ¤Å ¤¡  10 11  2 »À 0 00000000
+BBC2 2961 »Â ¤³ ¤Å ¤±  10 11 17 »À 0 00000000
+BBC3 2961 »Ã ¤³ ¤Å ¤²  10 11 19 »À 0 00000000
+BBC4 2961 »Ä ¤³ ¤Å ¤µ  10 11 21 »À 0 00000000
+BBC5 2961 »Å ¤³ ¤Å ¤¶  10 11 22 »À 0 00000000
+BBC6 2961 »Æ ¤³ ¤Å ¤·  10 11 23 »À 0 00000000
+BBC7 29A1 »Ç ¤³ ¤Ç     10 13  1 »Ç 0 00000000
+BBC8 29A1 »È ¤³ ¤Ç ¤¡  10 13  2 »Ç 0 00000000
+BBC9 29A1 »É ¤³ ¤Ç ¤¤  10 13  5 »Ç 0 00000000
+BBCA 29A1 »Ê ¤³ ¤Ç ¤©  10 13  9 »Ç 0 00000000
+BBCB 29A1 »Ë ¤³ ¤Ç ¤±  10 13 17 »Ç 0 00000000
+BBCC 29A1 »Ì ¤³ ¤Ç ¤²  10 13 19 »Ç 0 00000000
+BBCD 29A1 »Í ¤³ ¤Ç ¤·  10 13 23 »Ç 0 00000000
+BBCE 2A41 »Î ¤³ ¤Ê     10 18  1 »Î 0 00000000
+BBCF 2A61 »Ï ¤³ ¤Ë     10 19  1 »Ï 0 00000000
+BBD0 2A61 »Ð ¤³ ¤Ë ¤·  10 19 23 »Ï 0 00000000
+BBD1 2A81 »Ñ ¤³ ¤Ì     10 20  1 »Ñ 0 00000000
+BBD2 2A81 »Ò ¤³ ¤Ì ¤¡  10 20  2 »Ñ 0 00000000
+BBD3 2A81 »Ó ¤³ ¤Ì ¤¤  10 20  5 »Ñ 0 00000009
+BBD4 2A81 »Ô ¤³ ¤Ì ¤©  10 20  9 »Ñ 0 00000000
+BBD5 2A81 »Õ ¤³ ¤Ì ¤±  10 20 17 »Ñ 0 00000000
+BBD6 2A81 »Ö ¤³ ¤Ì ¤µ  10 20 21 »Ñ 0 00000000
+BBD7 2A81 »× ¤³ ¤Ì ¤·  10 20 23 »Ñ 0 00000000
+BBD8 2B41 »Ø ¤³ ¤Ð     10 26  1 »Ø 0 00000000
+BBD9 2B41 »Ù ¤³ ¤Ð ¤·  10 26 23 »Ø 0 00000000
+BBDA 2B61 »Ú ¤³ ¤Ñ     10 27  1 »Ú 0 00000000
+BBDB 2B61 »Û ¤³ ¤Ñ ¤¤  10 27  5 »Ú 0 00000000
+BBDC 2B61 »Ü ¤³ ¤Ñ ¤©  10 27  9 »Ú 0 00000000
+BBDD 2B61 »Ý ¤³ ¤Ñ ¤±  10 27 17 »Ú 0 00000000
+BBDE 2B61 »Þ ¤³ ¤Ñ ¤²  10 27 19 »Ú 0 00000000
+BBDF 2BA1 »ß ¤³ ¤Ó     10 29  1 »ß 0 00000000
+BBE0 2BA1 »à ¤³ ¤Ó ¤¡  10 29  2 »ß 0 00000000
+BBE1 2BA1 »á ¤³ ¤Ó ¤¤  10 29  5 »ß 0 00000000
+BBE2 2BA1 »â ¤³ ¤Ó ¤©  10 29  9 »ß 0 00000000
+BBE3 2BA1 »ã ¤³ ¤Ó ¤±  10 29 17 »ß 0 00000000
+BBE4 2BA1 »ä ¤³ ¤Ó ¤²  10 29 19 »ß 0 00000000
+BBE5 2BA1 »å ¤³ ¤Ó ¤µ  10 29 21 »ß 0 00000000
+BBE6 2BA1 »æ ¤³ ¤Ó ¤·  10 29 23 »ß 0 00000000
+BBE7 2C61 »ç ¤µ ¤¿     11  3  1 »ç 0 00000004
+BBE8 2C61 »è ¤µ ¤¿ ¤¡  11  3  2 »ç 0 00000000
+BBE9 2C61 »é ¤µ ¤¿ ¤£  11  3  4 »ç 0 00000000
+BBEA 2C61 »ê ¤µ ¤¿ ¤¤  11  3  5 »ç 0 00000000
+BBEB 2C61 »ë ¤µ ¤¿ ¤§  11  3  8 »ç 0 00000000
+BBEC 2C61 »ì ¤µ ¤¿ ¤©  11  3  9 »ç 0 00000000
+BBED 2C61 »í ¤µ ¤¿ ¤ª  11  3 10 »ç 0 00000000
+BBEE 2C61 »î ¤µ ¤¿ ¤«  11  3 11 »ç 0 00000000
+BBEF 2C61 »ï ¤µ ¤¿ ¤±  11  3 17 »ç 0 00000000
+BBF0 2C61 »ð ¤µ ¤¿ ¤²  11  3 19 »ç 0 00000000
+BBF1 2C61 »ñ ¤µ ¤¿ ¤µ  11  3 21 »ç 0 00000000
+BBF2 2C61 »ò ¤µ ¤¿ ¤¶  11  3 22 »ç 0 00000000
+BBF3 2C61 »ó ¤µ ¤¿ ¤·  11  3 23 »ç 0 00000000
+BBF4 2C61 »ô ¤µ ¤¿ ¤¼  11  3 27 »ç 0 00000000
+BBF5 2C81 »õ ¤µ ¤À     11  4  1 »õ 0 00000008
+BBF6 2C81 »ö ¤µ ¤À ¤¡  11  4  2 »õ 0 00000000
+BBF7 2C81 »÷ ¤µ ¤À ¤¤  11  4  5 »õ 0 00000000
+BBF8 2C81 »ø ¤µ ¤À ¤©  11  4  9 »õ 0 00000000
+BBF9 2C81 »ù ¤µ ¤À ¤±  11  4 17 »õ 0 00000000
+BBFA 2C81 »ú ¤µ ¤À ¤²  11  4 19 »õ 0 00000000
+BBFB 2C81 »û ¤µ ¤À ¤µ  11  4 21 »õ 0 00000000
+BBFC 2C81 »ü ¤µ ¤À ¤¶  11  4 22 »õ 0 00000000
+BBFD 2C81 »ý ¤µ ¤À ¤·  11  4 23 »õ 0 00000000
+BBFE 2CA1 »þ ¤µ ¤Á     11  5  1 »þ 0 00000000
+BCA1 2CA1 ¼¡ ¤µ ¤Á ¤¡  11  5  2 »þ 0 00000000
+BCA2 2CA1 ¼¢ ¤µ ¤Á ¤¤  11  5  5 »þ 0 00000000
+BCA3 2CA1 ¼£ ¤µ ¤Á ¤©  11  5  9 »þ 0 00000000
+BCA4 2CA1 ¼¤ ¤µ ¤Á ¤±  11  5 17 »þ 0 00000000
+BCA5 2CA1 ¼¥ ¤µ ¤Á ¤²  11  5 19 »þ 0 00000000
+BCA6 2CA1 ¼¦ ¤µ ¤Á ¤µ  11  5 21 »þ 0 00000000
+BCA7 2CA1 ¼§ ¤µ ¤Á ¤·  11  5 23 »þ 0 00000000
+BCA8 2CC1 ¼¨ ¤µ ¤Â     11  6  1 ¼¨ 0 00000000
+BCA9 2CC1 ¼© ¤µ ¤Â ¤¤  11  6  5 ¼¨ 0 00000000
+BCAA 2CC1 ¼ª ¤µ ¤Â ¤©  11  6  9 ¼¨ 0 00000000
+BCAB 2CC1 ¼« ¤µ ¤Â ¤±  11  6 17 ¼¨ 0 00000000
+BCAC 2CC1 ¼¬ ¤µ ¤Â ¤·  11  6 23 ¼¨ 0 00000000
+BCAD 2CE1 ¼­ ¤µ ¤Ã     11  7  1 ¼­ 0 0000000B
+BCAE 2CE1 ¼® ¤µ ¤Ã ¤¡  11  7  2 ¼­ 0 00000000
+BCAF 2CE1 ¼¯ ¤µ ¤Ã ¤¢  11  7  3 ¼­ 0 00000000
+BCB0 2CE1 ¼° ¤µ ¤Ã ¤£  11  7  4 ¼­ 0 00000000
+BCB1 2CE1 ¼± ¤µ ¤Ã ¤¤  11  7  5 ¼­ 0 0000000A
+BCB2 2CE1 ¼² ¤µ ¤Ã ¤§  11  7  8 ¼­ 0 00000000
+BCB3 2CE1 ¼³ ¤µ ¤Ã ¤©  11  7  9 ¼­ 0 00000000
+BCB4 2CE1 ¼´ ¤µ ¤Ã ¤«  11  7 11 ¼­ 0 00000000
+BCB5 2CE1 ¼µ ¤µ ¤Ã ¤¬  11  7 12 ¼­ 0 00000000
+BCB6 2CE1 ¼¶ ¤µ ¤Ã ¤±  11  7 17 ¼­ 0 00000000
+BCB7 2CE1 ¼· ¤µ ¤Ã ¤²  11  7 19 ¼­ 0 00000000
+BCB8 2CE1 ¼¸ ¤µ ¤Ã ¤µ  11  7 21 ¼­ 0 00000000
+BCB9 2CE1 ¼¹ ¤µ ¤Ã ¤¶  11  7 22 ¼­ 0 00000000
+BCBA 2CE1 ¼º ¤µ ¤Ã ¤·  11  7 23 ¼­ 0 00000000
+BCBB 2CE1 ¼» ¤µ ¤Ã ¤½  11  7 28 ¼­ 0 00000000
+BCBC 2D41 ¼¼ ¤µ ¤Ä     11 10  1 ¼¼ 0 0000000E
+BCBD 2D41 ¼½ ¤µ ¤Ä ¤¡  11 10  2 ¼¼ 0 00000000
+BCBE 2D41 ¼¾ ¤µ ¤Ä ¤¤  11 10  5 ¼¼ 0 00000000
+BCBF 2D41 ¼¿ ¤µ ¤Ä ¤©  11 10  9 ¼¼ 0 00000000
+BCC0 2D41 ¼À ¤µ ¤Ä ¤±  11 10 17 ¼¼ 0 00000000
+BCC1 2D41 ¼Á ¤µ ¤Ä ¤²  11 10 19 ¼¼ 0 00000000
+BCC2 2D41 ¼Â ¤µ ¤Ä ¤µ  11 10 21 ¼¼ 0 00000000
+BCC3 2D41 ¼Ã ¤µ ¤Ä ¤¶  11 10 22 ¼¼ 0 00000000
+BCC4 2D41 ¼Ä ¤µ ¤Ä ¤·  11 10 23 ¼¼ 0 00000000
+BCC5 2D61 ¼Å ¤µ ¤Å     11 11  1 ¼Å 0 00000008
+BCC6 2D61 ¼Æ ¤µ ¤Å ¤¡  11 11  2 ¼Å 0 00000000
+BCC7 2D61 ¼Ç ¤µ ¤Å ¤¤  11 11  5 ¼Å 0 00000000
+BCC8 2D61 ¼È ¤µ ¤Å ¤©  11 11  9 ¼Å 0 00000000
+BCC9 2D61 ¼É ¤µ ¤Å ¤±  11 11 17 ¼Å 0 00000000
+BCCA 2D61 ¼Ê ¤µ ¤Å ¤²  11 11 19 ¼Å 0 00000000
+BCCB 2D61 ¼Ë ¤µ ¤Å ¤µ  11 11 21 ¼Å 0 00000000
+BCCC 2D61 ¼Ì ¤µ ¤Å ¤¶  11 11 22 ¼Å 0 00000000
+BCCD 2D61 ¼Í ¤µ ¤Å ¤·  11 11 23 ¼Å 0 00000000
+BCCE 2D81 ¼Î ¤µ ¤Æ     11 12  1 ¼Î 0 00000000
+BCCF 2D81 ¼Ï ¤µ ¤Æ ¤¤  11 12  5 ¼Î 0 00000000
+BCD0 2D81 ¼Ð ¤µ ¤Æ ¤©  11 12  9 ¼Î 0 00000000
+BCD1 2D81 ¼Ñ ¤µ ¤Æ ¤·  11 12 23 ¼Î 0 00000000
+BCD2 2DA1 ¼Ò ¤µ ¤Ç     11 13  1 ¼Ò 0 0000000C
+BCD3 2DA1 ¼Ó ¤µ ¤Ç ¤¡  11 13  2 ¼Ò 0 00000000
+BCD4 2DA1 ¼Ô ¤µ ¤Ç ¤¢  11 13  3 ¼Ò 0 00000000
+BCD5 2DA1 ¼Õ ¤µ ¤Ç ¤¤  11 13  5 ¼Ò 0 00000000
+BCD6 2DA1 ¼Ö ¤µ ¤Ç ¤©  11 13  9 ¼Ò 0 00000000
+BCD7 2DA1 ¼× ¤µ ¤Ç ¤«  11 13 11 ¼Ò 0 00000000
+BCD8 2DA1 ¼Ø ¤µ ¤Ç ¤±  11 13 17 ¼Ò 0 00000000
+BCD9 2DA1 ¼Ù ¤µ ¤Ç ¤²  11 13 19 ¼Ò 0 00000000
+BCDA 2DA1 ¼Ú ¤µ ¤Ç ¤µ  11 13 21 ¼Ò 0 00000000
+BCDB 2DA1 ¼Û ¤µ ¤Ç ¤·  11 13 23 ¼Ò 0 00000000
+BCDC 2DA1 ¼Ü ¤µ ¤Ç ¤¼  11 13 27 ¼Ò 0 00000000
+BCDD 2DC1 ¼Ý ¤µ ¤È     11 14  1 ¼Ý 0 00000000
+BCDE 2DC1 ¼Þ ¤µ ¤È ¤¡  11 14  2 ¼Ý 0 00000000
+BCDF 2DC1 ¼ß ¤µ ¤È ¤¤  11 14  5 ¼Ý 0 00000000
+BCE0 2DC1 ¼à ¤µ ¤È ¤©  11 14  9 ¼Ý 0 00000000
+BCE1 2DC1 ¼á ¤µ ¤È ¤·  11 14 23 ¼Ý 0 00000000
+BCE2 2DE1 ¼â ¤µ ¤É     11 15  1 ¼â 0 00000000
+BCE3 2DE1 ¼ã ¤µ ¤É ¤¤  11 15  5 ¼â 0 00000000
+BCE4 2DE1 ¼ä ¤µ ¤É ¤©  11 15  9 ¼â 0 00000000
+BCE5 2DE1 ¼å ¤µ ¤É ¤±  11 15 17 ¼â 0 00000000
+BCE6 2DE1 ¼æ ¤µ ¤É ¤µ  11 15 21 ¼â 0 00000000
+BCE7 2DE1 ¼ç ¤µ ¤É ¤¶  11 15 22 ¼â 0 00000000
+BCE8 2E41 ¼è ¤µ ¤Ê     11 18  1 ¼è 0 00000004
+BCE9 2E41 ¼é ¤µ ¤Ê ¤¤  11 18  5 ¼è 0 00000000
+BCEA 2E41 ¼ê ¤µ ¤Ê ¤©  11 18  9 ¼è 0 00000000
+BCEB 2E41 ¼ë ¤µ ¤Ê ¤±  11 18 17 ¼è 0 00000000
+BCEC 2E41 ¼ì ¤µ ¤Ê ¤²  11 18 19 ¼è 0 00000000
+BCED 2E41 ¼í ¤µ ¤Ê ¤µ  11 18 21 ¼è 0 00000000
+BCEE 2E61 ¼î ¤µ ¤Ë     11 19  1 ¼î 0 00000008
+BCEF 2E61 ¼ï ¤µ ¤Ë ¤¡  11 19  2 ¼î 0 00000000
+BCF0 2E61 ¼ð ¤µ ¤Ë ¤¤  11 19  5 ¼î 0 00000000
+BCF1 2E61 ¼ñ ¤µ ¤Ë ¤©  11 19  9 ¼î 0 00000000
+BCF2 2E61 ¼ò ¤µ ¤Ë ¤±  11 19 17 ¼î 0 00000000
+BCF3 2E61 ¼ó ¤µ ¤Ë ¤²  11 19 19 ¼î 0 00000000
+BCF4 2E61 ¼ô ¤µ ¤Ë ¤µ  11 19 21 ¼î 0 00000000
+BCF5 2E61 ¼õ ¤µ ¤Ë ¤·  11 19 23 ¼î 0 00000000
+BCF6 2E81 ¼ö ¤µ ¤Ì     11 20  1 ¼ö 0 00000008
+BCF7 2E81 ¼÷ ¤µ ¤Ì ¤¡  11 20  2 ¼ö 0 00000000
+BCF8 2E81 ¼ø ¤µ ¤Ì ¤¤  11 20  5 ¼ö 0 00000000
+BCF9 2E81 ¼ù ¤µ ¤Ì ¤§  11 20  8 ¼ö 0 00000000
+BCFA 2E81 ¼ú ¤µ ¤Ì ¤©  11 20  9 ¼ö 0 00000000
+BCFB 2E81 ¼û ¤µ ¤Ì ¤±  11 20 17 ¼ö 0 00000000
+BCFC 2E81 ¼ü ¤µ ¤Ì ¤²  11 20 19 ¼ö 0 00000000
+BCFD 2E81 ¼ý ¤µ ¤Ì ¤µ  11 20 21 ¼ö 0 00000000
+BCFE 2E81 ¼þ ¤µ ¤Ì ¤·  11 20 23 ¼ö 0 00000000
+BDA1 2E81 ½¡ ¤µ ¤Ì ¤º  11 20 25 ¼ö 0 00000000
+BDA2 2E81 ½¢ ¤µ ¤Ì ¤¼  11 20 27 ¼ö 0 00000000
+BDA3 2E81 ½£ ¤µ ¤Ì ¤½  11 20 28 ¼ö 0 00000000
+BDA4 2EA1 ½¤ ¤µ ¤Í     11 21  1 ½¤ 0 00000000
+BDA5 2EA1 ½¥ ¤µ ¤Í ¤¶  11 21 22 ½¤ 0 00000000
+BDA6 2EC1 ½¦ ¤µ ¤Î     11 22  1 ½¦ 0 00000000
+BDA7 2EC1 ½§ ¤µ ¤Î ¤¡  11 22  2 ½¦ 0 00000000
+BDA8 2EC1 ½¨ ¤µ ¤Î ¤¤  11 22  5 ½¦ 0 00000000
+BDA9 2EC1 ½© ¤µ ¤Î ¤©  11 22  9 ½¦ 0 00000000
+BDAA 2EC1 ½ª ¤µ ¤Î ¤±  11 22 17 ½¦ 0 00000000
+BDAB 2EC1 ½« ¤µ ¤Î ¤·  11 22 23 ½¦ 0 00000000
+BDAC 2EE1 ½¬ ¤µ ¤Ï     11 23  1 ½¬ 0 00000000
+BDAD 2EE1 ½­ ¤µ ¤Ï ¤¡  11 23  2 ½¬ 0 00000000
+BDAE 2EE1 ½® ¤µ ¤Ï ¤¤  11 23  5 ½¬ 0 00000000
+BDAF 2EE1 ½¯ ¤µ ¤Ï ¤©  11 23  9 ½¬ 0 00000000
+BDB0 2EE1 ½° ¤µ ¤Ï ¤±  11 23 17 ½¬ 0 00000000
+BDB1 2EE1 ½± ¤µ ¤Ï ¤²  11 23 19 ½¬ 0 00000000
+BDB2 2EE1 ½² ¤µ ¤Ï ¤µ  11 23 21 ½¬ 0 00000000
+BDB3 2EE1 ½³ ¤µ ¤Ï ¤·  11 23 23 ½¬ 0 00000000
+BDB4 2F41 ½´ ¤µ ¤Ð     11 26  1 ½´ 0 00000000
+BDB5 2F41 ½µ ¤µ ¤Ð ¤¡  11 26  2 ½´ 0 00000000
+BDB6 2F41 ½¶ ¤µ ¤Ð ¤©  11 26  9 ½´ 0 00000000
+BDB7 2F41 ½· ¤µ ¤Ð ¤±  11 26 17 ½´ 0 00000000
+BDB8 2F41 ½¸ ¤µ ¤Ð ¤µ  11 26 21 ½´ 0 00000000
+BDB9 2F41 ½¹ ¤µ ¤Ð ¤·  11 26 23 ½´ 0 00000000
+BDBA 2F61 ½º ¤µ ¤Ñ     11 27  1 ½º 0 00000000
+BDBB 2F61 ½» ¤µ ¤Ñ ¤¡  11 27  2 ½º 0 00000000
+BDBC 2F61 ½¼ ¤µ ¤Ñ ¤¤  11 27  5 ½º 0 00000000
+BDBD 2F61 ½½ ¤µ ¤Ñ ¤©  11 27  9 ½º 0 00000000
+BDBE 2F61 ½¾ ¤µ ¤Ñ ¤ª  11 27 10 ½º 0 00000000
+BDBF 2F61 ½¿ ¤µ ¤Ñ ¤±  11 27 17 ½º 0 00000000
+BDC0 2F61 ½À ¤µ ¤Ñ ¤²  11 27 19 ½º 0 0000000C
+BDC1 2F61 ½Á ¤µ ¤Ñ ¤µ  11 27 21 ½º 0 00000000
+BDC2 2F61 ½Â ¤µ ¤Ñ ¤·  11 27 23 ½º 0 00000000
+BDC3 2FA1 ½Ã ¤µ ¤Ó     11 29  1 ½Ã 0 0000000B
+BDC4 2FA1 ½Ä ¤µ ¤Ó ¤¡  11 29  2 ½Ã 0 00000000
+BDC5 2FA1 ½Å ¤µ ¤Ó ¤¤  11 29  5 ½Ã 0 00000000
+BDC6 2FA1 ½Æ ¤µ ¤Ó ¤§  11 29  8 ½Ã 0 00000000
+BDC7 2FA1 ½Ç ¤µ ¤Ó ¤©  11 29  9 ½Ã 0 00000000
+BDC8 2FA1 ½È ¤µ ¤Ó ¤°  11 29 16 ½Ã 0 00000000
+BDC9 2FA1 ½É ¤µ ¤Ó ¤±  11 29 17 ½Ã 0 00000000
+BDCA 2FA1 ½Ê ¤µ ¤Ó ¤²  11 29 19 ½Ã 0 00000000
+BDCB 2FA1 ½Ë ¤µ ¤Ó ¤µ  11 29 21 ½Ã 0 00000000
+BDCC 2FA1 ½Ì ¤µ ¤Ó ¤·  11 29 23 ½Ã 0 00000000
+BDCD 2FA1 ½Í ¤µ ¤Ó ¤½  11 29 28 ½Ã 0 00000000
+BDCE 3061 ½Î ¤¶ ¤¿     12  3  1 ½Î 0 00000000
+BDCF 3061 ½Ï ¤¶ ¤¿ ¤¡  12  3  2 ½Î 0 00000000
+BDD0 3061 ½Ð ¤¶ ¤¿ ¤£  12  3  4 ½Î 0 00000000
+BDD1 3061 ½Ñ ¤¶ ¤¿ ¤¤  12  3  5 ½Î 0 00000000
+BDD2 3061 ½Ò ¤¶ ¤¿ ¤©  12  3  9 ½Î 0 00000000
+BDD3 3061 ½Ó ¤¶ ¤¿ ¤±  12  3 17 ½Î 0 00000000
+BDD4 3061 ½Ô ¤¶ ¤¿ ¤²  12  3 19 ½Î 0 00000000
+BDD5 3061 ½Õ ¤¶ ¤¿ ¤¶  12  3 22 ½Î 0 00000000
+BDD6 3061 ½Ö ¤¶ ¤¿ ¤·  12  3 23 ½Î 0 00000000
+BDD7 3061 ½× ¤¶ ¤¿ ¤¾  12  3 29 ½Î 0 00000000
+BDD8 3081 ½Ø ¤¶ ¤À     12  4  1 ½Ø 0 00000000
+BDD9 3081 ½Ù ¤¶ ¤À ¤¡  12  4  2 ½Ø 0 00000000
+BDDA 3081 ½Ú ¤¶ ¤À ¤¤  12  4  5 ½Ø 0 00000000
+BDDB 3081 ½Û ¤¶ ¤À ¤©  12  4  9 ½Ø 0 00000000
+BDDC 3081 ½Ü ¤¶ ¤À ¤±  12  4 17 ½Ø 0 00000000
+BDDD 3081 ½Ý ¤¶ ¤À ¤²  12  4 19 ½Ø 0 00000000
+BDDE 3081 ½Þ ¤¶ ¤À ¤¶  12  4 22 ½Ø 0 00000000
+BDDF 3081 ½ß ¤¶ ¤À ¤·  12  4 23 ½Ø 0 00000000
+BDE0 30A1 ½à ¤¶ ¤Á ¤·  12  5 23 »þ 0 00000000
+BDE1 30E1 ½á ¤¶ ¤Ã     12  7  1 ½á 0 00000002
+BDE2 30E1 ½â ¤¶ ¤Ã ¤¡  12  7  2 ½á 0 00000000
+BDE3 30E1 ½ã ¤¶ ¤Ã ¤¤  12  7  5 ½á 0 00000000
+BDE4 30E1 ½ä ¤¶ ¤Ã ¤©  12  7  9 ½á 0 00000000
+BDE5 30E1 ½å ¤¶ ¤Ã ¤«  12  7 11 ½á 0 00000000
+BDE6 30E1 ½æ ¤¶ ¤Ã ¤±  12  7 17 ½á 0 00000000
+BDE7 30E1 ½ç ¤¶ ¤Ã ¤²  12  7 19 ½á 0 00000000
+BDE8 30E1 ½è ¤¶ ¤Ã ¤¶  12  7 22 ½á 0 00000000
+BDE9 30E1 ½é ¤¶ ¤Ã ¤·  12  7 23 ½á 0 00000000
+BDEA 3141 ½ê ¤¶ ¤Ä     12 10  1 ½ê 0 00000000
+BDEB 3141 ½ë ¤¶ ¤Ä ¤¤  12 10  5 ½ê 0 00000000
+BDEC 3141 ½ì ¤¶ ¤Ä ¤©  12 10  9 ½ê 0 00000000
+BDED 3141 ½í ¤¶ ¤Ä ¤·  12 10 23 ½ê 0 00000000
+BDEE 31A1 ½î ¤¶ ¤Ç     12 13  1 ½î 0 00000008
+BDEF 31A1 ½ï ¤¶ ¤Ç ¤¡  12 13  2 ½î 0 00000000
+BDF0 31A1 ½ð ¤¶ ¤Ç ¤¤  12 13  5 ½î 0 00000000
+BDF1 31A1 ½ñ ¤¶ ¤Ç ¤§  12 13  8 ½î 0 00000000
+BDF2 31A1 ½ò ¤¶ ¤Ç ¤©  12 13  9 ½î 0 00000000
+BDF3 31A1 ½ó ¤¶ ¤Ç ¤«  12 13 11 ½î 0 00000000
+BDF4 31A1 ½ô ¤¶ ¤Ç ¤±  12 13 17 ½î 0 00000000
+BDF5 31A1 ½õ ¤¶ ¤Ç ¤²  12 13 19 ½î 0 00000000
+BDF6 31A1 ½ö ¤¶ ¤Ç ¤·  12 13 23 ½î 0 00000000
+BDF7 31C1 ½÷ ¤¶ ¤È     12 14  1 ½÷ 0 00000000
+BDF8 31C1 ½ø ¤¶ ¤È ¤¡  12 14  2 ½÷ 0 00000000
+BDF9 31C1 ½ù ¤¶ ¤È ¤¤  12 14  5 ½÷ 0 00000000
+BDFA 31C1 ½ú ¤¶ ¤È ¤¶  12 14 22 ½÷ 0 00000000
+BDFB 31E1 ½û ¤¶ ¤É     12 15  1 ½û 0 00000000
+BDFC 31E1 ½ü ¤¶ ¤É ¤¶  12 15 22 ½û 0 00000000
+BDFD 3241 ½ý ¤¶ ¤Ê     12 18  1 ½ý 0 00000000
+BDFE 3241 ½þ ¤¶ ¤Ê ¤¤  12 18  5 ½ý 0 00000000
+BEA1 3241 ¾¡ ¤¶ ¤Ê ¤©  12 18  9 ½ý 0 00000000
+BEA2 3241 ¾¢ ¤¶ ¤Ê ¤±  12 18 17 ½ý 0 00000000
+BEA3 3241 ¾£ ¤¶ ¤Ê ¤²  12 18 19 ½ý 0 00000000
+BEA4 3261 ¾¤ ¤¶ ¤Ë     12 19  1 ¾¤ 0 00000000
+BEA5 3281 ¾¥ ¤¶ ¤Ì     12 20  1 ¾¥ 0 00000000
+BEA6 3281 ¾¦ ¤¶ ¤Ì ¤¡  12 20  2 ¾¥ 0 00000000
+BEA7 3281 ¾§ ¤¶ ¤Ì ¤¤  12 20  5 ¾¥ 0 00000000
+BEA8 3281 ¾¨ ¤¶ ¤Ì ¤©  12 20  9 ¾¥ 0 00000000
+BEA9 3281 ¾© ¤¶ ¤Ì ¤±  12 20 17 ¾¥ 0 00000000
+BEAA 3281 ¾ª ¤¶ ¤Ì ¤²  12 20 19 ¾¥ 0 00000000
+BEAB 3281 ¾« ¤¶ ¤Ì ¤·  12 20 23 ¾¥ 0 00000000
+BEAC 32A1 ¾¬ ¤¶ ¤Í     12 21  1 ¾¬ 0 00000000
+BEAD 32A1 ¾­ ¤¶ ¤Í ¤¶  12 21 22 ¾¬ 0 00000000
+BEAE 32C1 ¾® ¤¶ ¤Î     12 22  1 ¾® 0 00000000
+BEAF 32E1 ¾¯ ¤¶ ¤Ï     12 23  1 ¾¯ 0 00000000
+BEB0 32E1 ¾° ¤¶ ¤Ï ¤¤  12 23  5 ¾¯ 0 00000000
+BEB1 3341 ¾± ¤¶ ¤Ð ¤·  12 26 23 ½´ 0 00000000
+BEB2 3361 ¾² ¤¶ ¤Ñ     12 27  1 ¾² 0 00000000
+BEB3 3361 ¾³ ¤¶ ¤Ñ ¤¡  12 27  2 ¾² 0 00000000
+BEB4 3361 ¾´ ¤¶ ¤Ñ ¤¤  12 27  5 ¾² 0 00000000
+BEB5 3361 ¾µ ¤¶ ¤Ñ ¤©  12 27  9 ¾² 0 00000000
+BEB6 3361 ¾¶ ¤¶ ¤Ñ ¤«  12 27 11 ¾² 0 00000000
+BEB7 3361 ¾· ¤¶ ¤Ñ ¤°  12 27 16 ¾² 0 00000000
+BEB8 3361 ¾¸ ¤¶ ¤Ñ ¤±  12 27 17 ¾² 0 00000000
+BEB9 3361 ¾¹ ¤¶ ¤Ñ ¤²  12 27 19 ¾² 0 00000000
+BEBA 3381 ¾º ¤¶ ¤Ò     12 28  1 ¾º 0 00000000
+BEBB 3381 ¾» ¤¶ ¤Ò ¤¤  12 28  5 ¾º 0 00000000
+BEBC 3381 ¾¼ ¤¶ ¤Ò ¤©  12 28  9 ¾º 0 00000000
+BEBD 3381 ¾½ ¤¶ ¤Ò ¤±  12 28 17 ¾º 0 00000000
+BEBE 33A1 ¾¾ ¤¶ ¤Ó     12 29  1 ¾¾ 0 00000000
+BEBF 33A1 ¾¿ ¤¶ ¤Ó ¤¡  12 29  2 ¾¾ 0 00000000
+BEC0 33A1 ¾À ¤¶ ¤Ó ¤¤  12 29  5 ¾¾ 0 00000000
+BEC1 33A1 ¾Á ¤¶ ¤Ó ¤©  12 29  9 ¾¾ 0 00000000
+BEC2 33A1 ¾Â ¤¶ ¤Ó ¤±  12 29 17 ¾¾ 0 00000000
+BEC3 33A1 ¾Ã ¤¶ ¤Ó ¤²  12 29 19 ¾¾ 0 00000000
+BEC4 33A1 ¾Ä ¤¶ ¤Ó ¤µ  12 29 21 ¾¾ 0 00000000
+BEC5 33A1 ¾Å ¤¶ ¤Ó ¤·  12 29 23 ¾¾ 0 00000000
+BEC6 3461 ¾Æ ¤· ¤¿     13  3  1 ¾Æ 0 00000005
+BEC7 3461 ¾Ç ¤· ¤¿ ¤¡  13  3  2 ¾Æ 0 00000000
+BEC8 3461 ¾È ¤· ¤¿ ¤¤  13  3  5 ¾Æ 0 00000000
+BEC9 3461 ¾É ¤· ¤¿ ¤¥  13  3  6 ¾Æ 0 00000000
+BECA 3461 ¾Ê ¤· ¤¿ ¤¦  13  3  7 ¾Æ 0 00000000
+BECB 3461 ¾Ë ¤· ¤¿ ¤©  13  3  9 ¾Æ 0 00000000
+BECC 3461 ¾Ì ¤· ¤¿ ¤ª  13  3 10 ¾Æ 0 00000000
+BECD 3461 ¾Í ¤· ¤¿ ¤«  13  3 11 ¾Æ 0 00000000
+BECE 3461 ¾Î ¤· ¤¿ ¤°  13  3 16 ¾Æ 0 00000000
+BECF 3461 ¾Ï ¤· ¤¿ ¤±  13  3 17 ¾Æ 0 00000000
+BED0 3461 ¾Ð ¤· ¤¿ ¤²  13  3 19 ¾Æ 0 00000000
+BED1 3461 ¾Ñ ¤· ¤¿ ¤µ  13  3 21 ¾Æ 0 00000000
+BED2 3461 ¾Ò ¤· ¤¿ ¤¶  13  3 22 ¾Æ 0 00000000
+BED3 3461 ¾Ó ¤· ¤¿ ¤·  13  3 23 ¾Æ 0 00000000
+BED4 3461 ¾Ô ¤· ¤¿ ¤¼  13  3 27 ¾Æ 0 00000000
+BED5 3461 ¾Õ ¤· ¤¿ ¤½  13  3 28 ¾Æ 0 00000000
+BED6 3481 ¾Ö ¤· ¤À     13  4  1 ¾Ö 0 00000000
+BED7 3481 ¾× ¤· ¤À ¤¡  13  4  2 ¾Ö 0 00000000
+BED8 3481 ¾Ø ¤· ¤À ¤¤  13  4  5 ¾Ö 0 00000000
+BED9 3481 ¾Ù ¤· ¤À ¤©  13  4  9 ¾Ö 0 00000000
+BEDA 3481 ¾Ú ¤· ¤À ¤±  13  4 17 ¾Ö 0 00000000
+BEDB 3481 ¾Û ¤· ¤À ¤²  13  4 19 ¾Ö 0 00000000
+BEDC 3481 ¾Ü ¤· ¤À ¤µ  13  4 21 ¾Ö 0 00000000
+BEDD 3481 ¾Ý ¤· ¤À ¤¶  13  4 22 ¾Ö 0 00000000
+BEDE 3481 ¾Þ ¤· ¤À ¤·  13  4 23 ¾Ö 0 00000000
+BEDF 34A1 ¾ß ¤· ¤Á     13  5  1 ¾ß 0 0000000B
+BEE0 34A1 ¾à ¤· ¤Á ¤¡  13  5  2 ¾ß 0 00000000
+BEE1 34A1 ¾á ¤· ¤Á ¤¤  13  5  5 ¾ß 0 00000000
+BEE2 34A1 ¾â ¤· ¤Á ¤©  13  5  9 ¾ß 0 00000000
+BEE3 34A1 ¾ã ¤· ¤Á ¤¬  13  5 12 ¾ß 0 00000000
+BEE4 34A1 ¾ä ¤· ¤Á ¤±  13  5 17 ¾ß 0 00000000
+BEE5 34A1 ¾å ¤· ¤Á ¤²  13  5 19 ¾ß 0 00000000
+BEE6 34A1 ¾æ ¤· ¤Á ¤µ  13  5 21 ¾ß 0 00000000
+BEE7 34A1 ¾ç ¤· ¤Á ¤·  13  5 23 ¾ß 0 00000000
+BEE8 34A1 ¾è ¤· ¤Á ¤¼  13  5 27 ¾ß 0 00000000
+BEE9 34A1 ¾é ¤· ¤Á ¤¾  13  5 29 ¾ß 0 00000000
+BEEA 34C1 ¾ê ¤· ¤Â     13  6  1 ¾ê 0 00000000
+BEEB 34C1 ¾ë ¤· ¤Â ¤¤  13  6  5 ¾ê 0 00000000
+BEEC 34C1 ¾ì ¤· ¤Â ¤©  13  6  9 ¾ê 0 00000000
+BEED 34C1 ¾í ¤· ¤Â ¤²  13  6 19 ¾ê 0 00000000
+BEEE 34E1 ¾î ¤· ¤Ã     13  7  1 ¾î 0 00000004
+BEEF 34E1 ¾ï ¤· ¤Ã ¤¡  13  7  2 ¾î 0 00000000
+BEF0 34E1 ¾ð ¤· ¤Ã ¤¤  13  7  5 ¾î 0 00000004
+BEF1 34E1 ¾ñ ¤· ¤Ã ¤¥  13  7  6 ¾î 0 00000000
+BEF2 34E1 ¾ò ¤· ¤Ã ¤§  13  7  8 ¾î 0 00000000
+BEF3 34E1 ¾ó ¤· ¤Ã ¤©  13  7  9 ¾î 0 00000000
+BEF4 34E1 ¾ô ¤· ¤Ã ¤ª  13  7 10 ¾î 0 00000000
+BEF5 34E1 ¾õ ¤· ¤Ã ¤«  13  7 11 ¾î 0 00000000
+BEF6 34E1 ¾ö ¤· ¤Ã ¤±  13  7 17 ¾î 0 00000000
+BEF7 34E1 ¾÷ ¤· ¤Ã ¤²  13  7 19 ¾î 0 00000000
+BEF8 34E1 ¾ø ¤· ¤Ã ¤´  13  7 20 ¾î 0 00000000
+BEF9 34E1 ¾ù ¤· ¤Ã ¤µ  13  7 21 ¾î 0 00000004
+BEFA 34E1 ¾ú ¤· ¤Ã ¤¶  13  7 22 ¾î 0 00000000
+BEFB 34E1 ¾û ¤· ¤Ã ¤·  13  7 23 ¾î 0 00000000
+BEFC 34E1 ¾ü ¤· ¤Ã ¤¸  13  7 24 ¾î 0 00000000
+BEFD 34E1 ¾ý ¤· ¤Ã ¤»  13  7 26 ¾î 0 00000000
+BEFE 34E1 ¾þ ¤· ¤Ã ¤½  13  7 28 ¾î 0 00000000
+BFA1 3541 ¿¡ ¤· ¤Ä     13 10  1 ¿¡ 0 0000000B
+BFA2 3541 ¿¢ ¤· ¤Ä ¤¡  13 10  2 ¿¡ 0 00000000
+BFA3 3541 ¿£ ¤· ¤Ä ¤¤  13 10  5 ¿¡ 0 00000003
+BFA4 3541 ¿¤ ¤· ¤Ä ¤©  13 10  9 ¿¡ 0 00000001
+BFA5 3541 ¿¥ ¤· ¤Ä ¤±  13 10 17 ¿¡ 0 00000000
+BFA6 3541 ¿¦ ¤· ¤Ä ¤²  13 10 19 ¿¡ 0 00000000
+BFA7 3541 ¿§ ¤· ¤Ä ¤µ  13 10 21 ¿¡ 0 00000000
+BFA8 3541 ¿¨ ¤· ¤Ä ¤·  13 10 23 ¿¡ 0 00000000
+BFA9 3561 ¿© ¤· ¤Å     13 11  1 ¿© 0 00000003
+BFAA 3561 ¿ª ¤· ¤Å ¤¡  13 11  2 ¿© 0 00000000
+BFAB 3561 ¿« ¤· ¤Å ¤¢  13 11  3 ¿© 0 00000000
+BFAC 3561 ¿¬ ¤· ¤Å ¤¤  13 11  5 ¿© 0 00000000
+BFAD 3561 ¿­ ¤· ¤Å ¤©  13 11  9 ¿© 0 00000000
+BFAE 3561 ¿® ¤· ¤Å ¤«  13 11 11 ¿© 0 00000000
+BFAF 3561 ¿¯ ¤· ¤Å ¤¬  13 11 12 ¿© 0 00000000
+BFB0 3561 ¿° ¤· ¤Å ¤±  13 11 17 ¿© 0 00000000
+BFB1 3561 ¿± ¤· ¤Å ¤²  13 11 19 ¿© 0 00000000
+BFB2 3561 ¿² ¤· ¤Å ¤´  13 11 20 ¿© 0 00000000
+BFB3 3561 ¿³ ¤· ¤Å ¤µ  13 11 21 ¿© 0 00000000
+BFB4 3561 ¿´ ¤· ¤Å ¤¶  13 11 22 ¿© 0 00000000
+BFB5 3561 ¿µ ¤· ¤Å ¤·  13 11 23 ¿© 0 00000000
+BFB6 3561 ¿¶ ¤· ¤Å ¤¼  13 11 27 ¿© 0 00000000
+BFB7 3561 ¿· ¤· ¤Å ¤½  13 11 28 ¿© 0 00000000
+BFB8 3561 ¿¸ ¤· ¤Å ¤¾  13 11 29 ¿© 0 00000000
+BFB9 3581 ¿¹ ¤· ¤Æ     13 12  1 ¿¹ 0 00000000
+BFBA 3581 ¿º ¤· ¤Æ ¤¤  13 12  5 ¿¹ 0 00000000
+BFBB 3581 ¿» ¤· ¤Æ ¤©  13 12  9 ¿¹ 0 00000000
+BFBC 3581 ¿¼ ¤· ¤Æ ¤±  13 12 17 ¿¹ 0 00000000
+BFBD 3581 ¿½ ¤· ¤Æ ¤²  13 12 19 ¿¹ 0 00000000
+BFBE 3581 ¿¾ ¤· ¤Æ ¤µ  13 12 21 ¿¹ 0 00000000
+BFBF 3581 ¿¿ ¤· ¤Æ ¤¶  13 12 22 ¿¹ 0 00000000
+BFC0 35A1 ¿À ¤· ¤Ç     13 13  1 ¿À 0 0000040E
+BFC1 35A1 ¿Á ¤· ¤Ç ¤¡  13 13  2 ¿À 0 00000000
+BFC2 35A1 ¿Â ¤· ¤Ç ¤¤  13 13  5 ¿À 0 00000000
+BFC3 35A1 ¿Ã ¤· ¤Ç ¤©  13 13  9 ¿À 0 00000004
+BFC4 35A1 ¿Ä ¤· ¤Ç ¤ª  13 13 10 ¿À 0 00000000
+BFC5 35A1 ¿Å ¤· ¤Ç ¤«  13 13 11 ¿À 0 00000000
+BFC6 35A1 ¿Æ ¤· ¤Ç ¤­  13 13 13 ¿À 0 00000000
+BFC7 35A1 ¿Ç ¤· ¤Ç ¤°  13 13 16 ¿À 0 00000000
+BFC8 35A1 ¿È ¤· ¤Ç ¤±  13 13 17 ¿À 0 00000000
+BFC9 35A1 ¿É ¤· ¤Ç ¤²  13 13 19 ¿À 0 0000000E
+BFCA 35A1 ¿Ê ¤· ¤Ç ¤µ  13 13 21 ¿À 0 00000000
+BFCB 35A1 ¿Ë ¤· ¤Ç ¤·  13 13 23 ¿À 0 00000000
+BFCC 35A1 ¿Ì ¤· ¤Ç ¤º  13 13 25 ¿À 0 00000000
+BFCD 35C1 ¿Í ¤· ¤È     13 14  1 ¿Í 0 00000001
+BFCE 35C1 ¿Î ¤· ¤È ¤¡  13 14  2 ¿Í 0 00000000
+BFCF 35C1 ¿Ï ¤· ¤È ¤¤  13 14  5 ¿Í 0 00000000
+BFD0 35C1 ¿Ð ¤· ¤È ¤©  13 14  9 ¿Í 0 00000000
+BFD1 35C1 ¿Ñ ¤· ¤È ¤±  13 14 17 ¿Í 0 00000000
+BFD2 35C1 ¿Ò ¤· ¤È ¤²  13 14 19 ¿Í 0 00000000
+BFD3 35C1 ¿Ó ¤· ¤È ¤µ  13 14 21 ¿Í 0 00000000
+BFD4 35C1 ¿Ô ¤· ¤È ¤¶  13 14 22 ¿Í 0 00000000
+BFD5 35C1 ¿Õ ¤· ¤È ¤·  13 14 23 ¿Í 0 00000000
+BFD6 35E1 ¿Ö ¤· ¤É     13 15  1 ¿Ö 0 00000000
+BFD7 35E1 ¿× ¤· ¤É ¤¡  13 15  2 ¿Ö 0 00000000
+BFD8 35E1 ¿Ø ¤· ¤É ¤¤  13 15  5 ¿Ö 0 00000000
+BFD9 35E1 ¿Ù ¤· ¤É ¤±  13 15 17 ¿Ö 0 00000000
+BFDA 35E1 ¿Ú ¤· ¤É ¤µ  13 15 21 ¿Ö 0 00000000
+BFDB 35E1 ¿Û ¤· ¤É ¤·  13 15 23 ¿Ö 0 00000000
+BFDC 3641 ¿Ü ¤· ¤Ê     13 18  1 ¿Ü 0 0000000C
+BFDD 3641 ¿Ý ¤· ¤Ê ¤¡  13 18  2 ¿Ü 0 00000000
+BFDE 3641 ¿Þ ¤· ¤Ê ¤¤  13 18  5 ¿Ü 0 00000000
+BFDF 3641 ¿ß ¤· ¤Ê ¤©  13 18  9 ¿Ü 0 00000000
+BFE0 3641 ¿à ¤· ¤Ê ¤±  13 18 17 ¿Ü 0 00000000
+BFE1 3641 ¿á ¤· ¤Ê ¤²  13 18 19 ¿Ü 0 00000000
+BFE2 3641 ¿â ¤· ¤Ê ¤µ  13 18 21 ¿Ü 0 00000000
+BFE3 3641 ¿ã ¤· ¤Ê ¤·  13 18 23 ¿Ü 0 00000000
+BFE4 3661 ¿ä ¤· ¤Ë     13 19  1 ¿ä 0 0000000D
+BFE5 3661 ¿å ¤· ¤Ë ¤¡  13 19  2 ¿ä 0 00000000
+BFE6 3661 ¿æ ¤· ¤Ë ¤¤  13 19  5 ¿ä 0 00000000
+BFE7 3661 ¿ç ¤· ¤Ë ¤©  13 19  9 ¿ä 0 00000000
+BFE8 3661 ¿è ¤· ¤Ë ¤±  13 19 17 ¿ä 0 00000000
+BFE9 3661 ¿é ¤· ¤Ë ¤²  13 19 19 ¿ä 0 00000000
+BFEA 3661 ¿ê ¤· ¤Ë ¤µ  13 19 21 ¿ä 0 00000000
+BFEB 3661 ¿ë ¤· ¤Ë ¤·  13 19 23 ¿ä 0 00000000
+BFEC 3681 ¿ì ¤· ¤Ì     13 20  1 ¿ì 0 00000000
+BFED 3681 ¿í ¤· ¤Ì ¤¡  13 20  2 ¿ì 0 00000000
+BFEE 3681 ¿î ¤· ¤Ì ¤¤  13 20  5 ¿ì 0 00000000
+BFEF 3681 ¿ï ¤· ¤Ì ¤©  13 20  9 ¿ì 0 00000000
+BFF0 3681 ¿ð ¤· ¤Ì ¤ª  13 20 10 ¿ì 0 00000000
+BFF1 3681 ¿ñ ¤· ¤Ì ¤«  13 20 11 ¿ì 0 00000000
+BFF2 3681 ¿ò ¤· ¤Ì ¤±  13 20 17 ¿ì 0 00000000
+BFF3 3681 ¿ó ¤· ¤Ì ¤²  13 20 19 ¿ì 0 00000000
+BFF4 3681 ¿ô ¤· ¤Ì ¤µ  13 20 21 ¿ì 0 00000000
+BFF5 3681 ¿õ ¤· ¤Ì ¤·  13 20 23 ¿ì 0 00000000
+BFF6 36A1 ¿ö ¤· ¤Í     13 21  1 ¿ö 0 00000000
+BFF7 36A1 ¿÷ ¤· ¤Í ¤¡  13 21  2 ¿ö 0 00000000
+BFF8 36A1 ¿ø ¤· ¤Í ¤¤  13 21  5 ¿ö 0 00000000
+BFF9 36A1 ¿ù ¤· ¤Í ¤©  13 21  9 ¿ö 0 00000000
+BFFA 36A1 ¿ú ¤· ¤Í ¤±  13 21 17 ¿ö 0 00000000
+BFFB 36A1 ¿û ¤· ¤Í ¤²  13 21 19 ¿ö 0 00000000
+BFFC 36A1 ¿ü ¤· ¤Í ¤¶  13 21 22 ¿ö 0 00000000
+BFFD 36A1 ¿ý ¤· ¤Í ¤·  13 21 23 ¿ö 0 00000000
+BFFE 36C1 ¿þ ¤· ¤Î     13 22  1 ¿þ 0 00000000
+C0A1 36C1 À¡ ¤· ¤Î ¤¡  13 22  2 ¿þ 0 00000000
+C0A2 36C1 À¢ ¤· ¤Î ¤¤  13 22  5 ¿þ 0 00000000
+C0A3 36C1 À£ ¤· ¤Î ¤©  13 22  9 ¿þ 0 00000000
+C0A4 36C1 À¤ ¤· ¤Î ¤±  13 22 17 ¿þ 0 00000000
+C0A5 36C1 À¥ ¤· ¤Î ¤²  13 22 19 ¿þ 0 00000000
+C0A6 36C1 À¦ ¤· ¤Î ¤·  13 22 23 ¿þ 0 00000000
+C0A7 36E1 À§ ¤· ¤Ï     13 23  1 À§ 0 00000000
+C0A8 36E1 À¨ ¤· ¤Ï ¤¡  13 23  2 À§ 0 00000000
+C0A9 36E1 À© ¤· ¤Ï ¤¤  13 23  5 À§ 0 00000000
+C0AA 36E1 Àª ¤· ¤Ï ¤©  13 23  9 À§ 0 00000000
+C0AB 36E1 À« ¤· ¤Ï ¤±  13 23 17 À§ 0 00000000
+C0AC 36E1 À¬ ¤· ¤Ï ¤²  13 23 19 À§ 0 00000000
+C0AD 36E1 À­ ¤· ¤Ï ¤µ  13 23 21 À§ 0 00000000
+C0AE 36E1 À® ¤· ¤Ï ¤·  13 23 23 À§ 0 00000000
+C0AF 3741 À¯ ¤· ¤Ð     13 26  1 À¯ 0 00000000
+C0B0 3741 À° ¤· ¤Ð ¤¡  13 26  2 À¯ 0 00000000
+C0B1 3741 À± ¤· ¤Ð ¤¤  13 26  5 À¯ 0 00000000
+C0B2 3741 À² ¤· ¤Ð ¤©  13 26  9 À¯ 0 00000000
+C0B3 3741 À³ ¤· ¤Ð ¤±  13 26 17 À¯ 0 00000000
+C0B4 3741 À´ ¤· ¤Ð ¤²  13 26 19 À¯ 0 00000000
+C0B5 3741 Àµ ¤· ¤Ð ¤µ  13 26 21 À¯ 0 00000000
+C0B6 3741 À¶ ¤· ¤Ð ¤·  13 26 23 À¯ 0 00000000
+C0B7 3741 À· ¤· ¤Ð ¤º  13 26 25 À¯ 0 00000000
+C0B8 3761 À¸ ¤· ¤Ñ     13 27  1 À¸ 0 00000007
+C0B9 3761 À¹ ¤· ¤Ñ ¤¡  13 27  2 À¸ 0 00000000
+C0BA 3761 Àº ¤· ¤Ñ ¤¤  13 27  5 À¸ 0 0000000F
+C0BB 3761 À» ¤· ¤Ñ ¤©  13 27  9 À¸ 0 00000007
+C0BC 3761 À¼ ¤· ¤Ñ ¤¯  13 27 15 À¸ 0 00000000
+C0BD 3761 À½ ¤· ¤Ñ ¤±  13 27 17 À¸ 0 00000004
+C0BE 3761 À¾ ¤· ¤Ñ ¤²  13 27 19 À¸ 0 00000004
+C0BF 3761 À¿ ¤· ¤Ñ ¤µ  13 27 21 À¸ 0 00000000
+C0C0 3761 ÀÀ ¤· ¤Ñ ¤·  13 27 23 À¸ 0 00000000
+C0C1 3761 ÀÁ ¤· ¤Ñ ¤¸  13 27 24 À¸ 0 00000000
+C0C2 3761 ÀÂ ¤· ¤Ñ ¤º  13 27 25 À¸ 0 00000000
+C0C3 3761 ÀÃ ¤· ¤Ñ ¤»  13 27 26 À¸ 0 00000000
+C0C4 3761 ÀÄ ¤· ¤Ñ ¤¼  13 27 27 À¸ 0 00000000
+C0C5 3761 ÀÅ ¤· ¤Ñ ¤½  13 27 28 À¸ 0 00000000
+C0C6 3761 ÀÆ ¤· ¤Ñ ¤¾  13 27 29 À¸ 0 00000000
+C0C7 3781 ÀÇ ¤· ¤Ò     13 28  1 ÀÇ 0 00000003
+C0C8 3781 ÀÈ ¤· ¤Ò ¤¤  13 28  5 ÀÇ 0 00000000
+C0C9 3781 ÀÉ ¤· ¤Ò ¤©  13 28  9 ÀÇ 0 00000000
+C0CA 3781 ÀÊ ¤· ¤Ò ¤±  13 28 17 ÀÇ 0 00000000
+C0CB 3781 ÀË ¤· ¤Ò ¤µ  13 28 21 ÀÇ 0 00000000
+C0CC 37A1 ÀÌ ¤· ¤Ó     13 29  1 ÀÌ 0 0000000F
+C0CD 37A1 ÀÍ ¤· ¤Ó ¤¡  13 29  2 ÀÌ 0 00000000
+C0CE 37A1 ÀÎ ¤· ¤Ó ¤¤  13 29  5 ÀÌ 0 00000003
+C0CF 37A1 ÀÏ ¤· ¤Ó ¤©  13 29  9 ÀÌ 0 00000001
+C0D0 37A1 ÀÐ ¤· ¤Ó ¤ª  13 29 10 ÀÌ 0 00000000
+C0D1 37A1 ÀÑ ¤· ¤Ó ¤«  13 29 11 ÀÌ 0 00000000
+C0D2 37A1 ÀÒ ¤· ¤Ó ¤°  13 29 16 ÀÌ 0 00000000
+C0D3 37A1 ÀÓ ¤· ¤Ó ¤±  13 29 17 ÀÌ 0 00000000
+C0D4 37A1 ÀÔ ¤· ¤Ó ¤²  13 29 19 ÀÌ 0 00000000
+C0D5 37A1 ÀÕ ¤· ¤Ó ¤µ  13 29 21 ÀÌ 0 00000000
+C0D6 37A1 ÀÖ ¤· ¤Ó ¤¶  13 29 22 ÀÌ 0 00000000
+C0D7 37A1 À× ¤· ¤Ó ¤·  13 29 23 ÀÌ 0 00000000
+C0D8 37A1 ÀØ ¤· ¤Ó ¤¸  13 29 24 ÀÌ 0 00000000
+C0D9 37A1 ÀÙ ¤· ¤Ó ¤½  13 29 28 ÀÌ 0 00000000
+C0DA 3861 ÀÚ ¤¸ ¤¿     14  3  1 ÀÚ 0 0000020C
+C0DB 3861 ÀÛ ¤¸ ¤¿ ¤¡  14  3  2 ÀÚ 0 00000008
+C0DC 3861 ÀÜ ¤¸ ¤¿ ¤¤  14  3  5 ÀÚ 0 00000004
+C0DD 3861 ÀÝ ¤¸ ¤¿ ¤¦  14  3  7 ÀÚ 0 00000000
+C0DE 3861 ÀÞ ¤¸ ¤¿ ¤§  14  3  8 ÀÚ 0 00000000
+C0DF 3861 Àß ¤¸ ¤¿ ¤©  14  3  9 ÀÚ 0 00000004
+C0E0 3861 Àà ¤¸ ¤¿ ¤«  14  3 11 ÀÚ 0 00000000
+C0E1 3861 Àá ¤¸ ¤¿ ¤±  14  3 17 ÀÚ 0 00000000
+C0E2 3861 Àâ ¤¸ ¤¿ ¤²  14  3 19 ÀÚ 0 00000000
+C0E3 3861 Àã ¤¸ ¤¿ ¤µ  14  3 21 ÀÚ 0 00000000
+C0E4 3861 Àä ¤¸ ¤¿ ¤¶  14  3 22 ÀÚ 0 00000000
+C0E5 3861 Àå ¤¸ ¤¿ ¤·  14  3 23 ÀÚ 0 00000000
+C0E6 3861 Àæ ¤¸ ¤¿ ¤¸  14  3 24 ÀÚ 0 00000000
+C0E7 3881 Àç ¤¸ ¤À     14  4  1 Àç 0 00000000
+C0E8 3881 Àè ¤¸ ¤À ¤¡  14  4  2 Àç 0 00000000
+C0E9 3881 Àé ¤¸ ¤À ¤¤  14  4  5 Àç 0 00000000
+C0EA 3881 Àê ¤¸ ¤À ¤©  14  4  9 Àç 0 00000000
+C0EB 3881 Àë ¤¸ ¤À ¤±  14  4 17 Àç 0 00000000
+C0EC 3881 Àì ¤¸ ¤À ¤²  14  4 19 Àç 0 00000000
+C0ED 3881 Àí ¤¸ ¤À ¤µ  14  4 21 Àç 0 00000000
+C0EE 3881 Àî ¤¸ ¤À ¤¶  14  4 22 Àç 0 00000000
+C0EF 3881 Àï ¤¸ ¤À ¤·  14  4 23 Àç 0 00000000
+C0F0 38A1 Àð ¤¸ ¤Á     14  5  1 Àð 0 00000000
+C0F1 38A1 Àñ ¤¸ ¤Á ¤¡  14  5  2 Àð 0 00000000
+C0F2 38A1 Àò ¤¸ ¤Á ¤¤  14  5  5 Àð 0 00000000
+C0F3 38A1 Àó ¤¸ ¤Á ¤¦  14  5  7 Àð 0 00000000
+C0F4 38A1 Àô ¤¸ ¤Á ¤©  14  5  9 Àð 0 00000000
+C0F5 38A1 Àõ ¤¸ ¤Á ¤±  14  5 17 Àð 0 00000000
+C0F6 38A1 Àö ¤¸ ¤Á ¤·  14  5 23 Àð 0 00000000
+C0F7 38C1 À÷ ¤¸ ¤Â     14  6  1 À÷ 0 00000000
+C0F8 38C1 Àø ¤¸ ¤Â ¤¤  14  6  5 À÷ 0 00000000
+C0F9 38C1 Àù ¤¸ ¤Â ¤©  14  6  9 À÷ 0 00000000
+C0FA 38E1 Àú ¤¸ ¤Ã     14  7  1 Àú 0 00000002
+C0FB 38E1 Àû ¤¸ ¤Ã ¤¡  14  7  2 Àú 0 00000000
+C0FC 38E1 Àü ¤¸ ¤Ã ¤¤  14  7  5 Àú 0 00000000
+C0FD 38E1 Àý ¤¸ ¤Ã ¤©  14  7  9 Àú 0 00000000
+C0FE 38E1 Àþ ¤¸ ¤Ã ¤«  14  7 11 Àú 0 00000000
+C1A1 38E1 Á¡ ¤¸ ¤Ã ¤±  14  7 17 Àú 0 00000000
+C1A2 38E1 Á¢ ¤¸ ¤Ã ¤²  14  7 19 Àú 0 00000000
+C1A3 38E1 Á£ ¤¸ ¤Ã ¤µ  14  7 21 Àú 0 00000000
+C1A4 38E1 Á¤ ¤¸ ¤Ã ¤·  14  7 23 Àú 0 00000008
+C1A5 38E1 Á¥ ¤¸ ¤Ã ¤¸  14  7 24 Àú 0 00000000
+C1A6 3941 Á¦ ¤¸ ¤Ä     14 10  1 Á¦ 0 00000000
+C1A7 3941 Á§ ¤¸ ¤Ä ¤¡  14 10  2 Á¦ 0 00000000
+C1A8 3941 Á¨ ¤¸ ¤Ä ¤¤  14 10  5 Á¦ 0 00000000
+C1A9 3941 Á© ¤¸ ¤Ä ¤©  14 10  9 Á¦ 0 00000000
+C1AA 3941 Áª ¤¸ ¤Ä ¤±  14 10 17 Á¦ 0 00000000
+C1AB 3941 Á« ¤¸ ¤Ä ¤²  14 10 19 Á¦ 0 00000000
+C1AC 3941 Á¬ ¤¸ ¤Ä ¤µ  14 10 21 Á¦ 0 00000000
+C1AD 3941 Á­ ¤¸ ¤Ä ¤·  14 10 23 Á¦ 0 00000000
+C1AE 3961 Á® ¤¸ ¤Å     14 11  1 Á® 0 00000000
+C1AF 3961 Á¯ ¤¸ ¤Å ¤¤  14 11  5 Á® 0 00000000
+C1B0 3961 Á° ¤¸ ¤Å ¤©  14 11  9 Á® 0 00000000
+C1B1 3961 Á± ¤¸ ¤Å ¤±  14 11 17 Á® 0 00000000
+C1B2 3961 Á² ¤¸ ¤Å ¤²  14 11 19 Á® 0 00000000
+C1B3 3961 Á³ ¤¸ ¤Å ¤¶  14 11 22 Á® 0 00000000
+C1B4 3961 Á´ ¤¸ ¤Å ¤·  14 11 23 Á® 0 00000000
+C1B5 3981 Áµ ¤¸ ¤Æ     14 12  1 Áµ 0 00000000
+C1B6 39A1 Á¶ ¤¸ ¤Ç     14 13  1 Á¶ 0 00000003
+C1B7 39A1 Á· ¤¸ ¤Ç ¤¡  14 13  2 Á¶ 0 00000000
+C1B8 39A1 Á¸ ¤¸ ¤Ç ¤¤  14 13  5 Á¶ 0 00000000
+C1B9 39A1 Á¹ ¤¸ ¤Ç ¤©  14 13  9 Á¶ 0 00000000
+C1BA 39A1 Áº ¤¸ ¤Ç ¤«  14 13 11 Á¶ 0 00000000
+C1BB 39A1 Á» ¤¸ ¤Ç ¤±  14 13 17 Á¶ 0 00000000
+C1BC 39A1 Á¼ ¤¸ ¤Ç ¤²  14 13 19 Á¶ 0 00000000
+C1BD 39A1 Á½ ¤¸ ¤Ç ¤µ  14 13 21 Á¶ 0 00000000
+C1BE 39A1 Á¾ ¤¸ ¤Ç ¤·  14 13 23 Á¶ 0 00000000
+C1BF 39A1 Á¿ ¤¸ ¤Ç ¤¸  14 13 24 Á¶ 0 00000000
+C1C0 39A1 ÁÀ ¤¸ ¤Ç ¤º  14 13 25 Á¶ 0 00000000
+C1C1 39A1 ÁÁ ¤¸ ¤Ç ¤¾  14 13 29 Á¶ 0 00000000
+C1C2 39C1 ÁÂ ¤¸ ¤È     14 14  1 ÁÂ 0 00000000
+C1C3 39C1 ÁÃ ¤¸ ¤È ¤¡  14 14  2 ÁÂ 0 00000000
+C1C4 39C1 ÁÄ ¤¸ ¤È ¤©  14 14  9 ÁÂ 0 00000000
+C1C5 39C1 ÁÅ ¤¸ ¤È ¤²  14 14 19 ÁÂ 0 00000000
+C1C6 39C1 ÁÆ ¤¸ ¤È ¤µ  14 14 21 ÁÂ 0 00000000
+C1C7 39C1 ÁÇ ¤¸ ¤È ¤·  14 14 23 ÁÂ 0 00000000
+C1C8 39E1 ÁÈ ¤¸ ¤É     14 15  1 ÁÈ 0 00000000
+C1C9 39E1 ÁÉ ¤¸ ¤É ¤¶  14 15 22 ÁÈ 0 00000000
+C1CA 39E1 ÁÊ ¤¸ ¤É ¤·  14 15 23 ÁÈ 0 00000000
+C1CB 3A41 ÁË ¤¸ ¤Ê     14 18  1 ÁË 0 00000000
+C1CC 3A41 ÁÌ ¤¸ ¤Ê ¤¤  14 18  5 ÁË 0 00000000
+C1CD 3A41 ÁÍ ¤¸ ¤Ê ¤©  14 18  9 ÁË 0 00000000
+C1CE 3A41 ÁÎ ¤¸ ¤Ê ¤±  14 18 17 ÁË 0 00000000
+C1CF 3A41 ÁÏ ¤¸ ¤Ê ¤²  14 18 19 ÁË 0 00000000
+C1D0 3A41 ÁÐ ¤¸ ¤Ê ¤µ  14 18 21 ÁË 0 00000000
+C1D1 3A41 ÁÑ ¤¸ ¤Ê ¤·  14 18 23 ÁË 0 00000000
+C1D2 3A61 ÁÒ ¤¸ ¤Ë     14 19  1 ÁÒ 0 00000000
+C1D3 3A61 ÁÓ ¤¸ ¤Ë ¤¡  14 19  2 ÁÒ 0 00000000
+C1D4 3A61 ÁÔ ¤¸ ¤Ë ¤¤  14 19  5 ÁÒ 0 00000000
+C1D5 3A61 ÁÕ ¤¸ ¤Ë ¤·  14 19 23 ÁÒ 0 00000000
+C1D6 3A81 ÁÖ ¤¸ ¤Ì     14 20  1 ÁÖ 0 00000000
+C1D7 3A81 Á× ¤¸ ¤Ì ¤¡  14 20  2 ÁÖ 0 00000000
+C1D8 3A81 ÁØ ¤¸ ¤Ì ¤¤  14 20  5 ÁÖ 0 00000000
+C1D9 3A81 ÁÙ ¤¸ ¤Ì ¤©  14 20  9 ÁÖ 0 00000000
+C1DA 3A81 ÁÚ ¤¸ ¤Ì ¤ª  14 20 10 ÁÖ 0 00000000
+C1DB 3A81 ÁÛ ¤¸ ¤Ì ¤«  14 20 11 ÁÖ 0 00000000
+C1DC 3A81 ÁÜ ¤¸ ¤Ì ¤±  14 20 17 ÁÖ 0 00000000
+C1DD 3A81 ÁÝ ¤¸ ¤Ì ¤²  14 20 19 ÁÖ 0 00000000
+C1DE 3A81 ÁÞ ¤¸ ¤Ì ¤µ  14 20 21 ÁÖ 0 00000000
+C1DF 3A81 Áß ¤¸ ¤Ì ¤·  14 20 23 ÁÖ 0 00000000
+C1E0 3AA1 Áà ¤¸ ¤Í     14 21  1 Áà 0 00000000
+C1E1 3AA1 Áá ¤¸ ¤Í ¤¶  14 21 22 Áà 0 00000000
+C1E2 3AC1 Áâ ¤¸ ¤Î     14 22  1 Áâ 0 00000000
+C1E3 3AE1 Áã ¤¸ ¤Ï     14 23  1 Áã 0 00000000
+C1E4 3AE1 Áä ¤¸ ¤Ï ¤¡  14 23  2 Áã 0 00000000
+C1E5 3AE1 Áå ¤¸ ¤Ï ¤¤  14 23  5 Áã 0 00000000
+C1E6 3AE1 Áæ ¤¸ ¤Ï ¤©  14 23  9 Áã 0 00000000
+C1E7 3AE1 Áç ¤¸ ¤Ï ¤±  14 23 17 Áã 0 00000000
+C1E8 3AE1 Áè ¤¸ ¤Ï ¤²  14 23 19 Áã 0 00000000
+C1E9 3AE1 Áé ¤¸ ¤Ï ¤µ  14 23 21 Áã 0 00000000
+C1EA 3B41 Áê ¤¸ ¤Ð     14 26  1 Áê 0 00000000
+C1EB 3B41 Áë ¤¸ ¤Ð ¤¤  14 26  5 Áê 0 00000000
+C1EC 3B41 Áì ¤¸ ¤Ð ¤©  14 26  9 Áê 0 00000000
+C1ED 3B41 Áí ¤¸ ¤Ð ¤±  14 26 17 Áê 0 00000000
+C1EE 3B61 Áî ¤¸ ¤Ñ     14 27  1 Áî 0 00000000
+C1EF 3B61 Áï ¤¸ ¤Ñ ¤¡  14 27  2 Áî 0 0000000A
+C1F0 3B61 Áð ¤¸ ¤Ñ ¤¤  14 27  5 Áî 0 00000000
+C1F1 3B61 Áñ ¤¸ ¤Ñ ¤©  14 27  9 Áî 0 00000000
+C1F2 3B61 Áò ¤¸ ¤Ñ ¤±  14 27 17 Áî 0 00000000
+C1F3 3B61 Áó ¤¸ ¤Ñ ¤²  14 27 19 Áî 0 00000000
+C1F4 3B61 Áô ¤¸ ¤Ñ ¤µ  14 27 21 Áî 0 00000000
+C1F5 3B61 Áõ ¤¸ ¤Ñ ¤·  14 27 23 Áî 0 00000000
+C1F6 3BA1 Áö ¤¸ ¤Ó     14 29  1 Áö 0 0000000E
+C1F7 3BA1 Á÷ ¤¸ ¤Ó ¤¡  14 29  2 Áö 0 00000000
+C1F8 3BA1 Áø ¤¸ ¤Ó ¤¤  14 29  5 Áö 0 0000000E
+C1F9 3BA1 Áù ¤¸ ¤Ó ¤§  14 29  8 Áö 0 00000000
+C1FA 3BA1 Áú ¤¸ ¤Ó ¤©  14 29  9 Áö 0 00000004
+C1FB 3BA1 Áû ¤¸ ¤Ó ¤«  14 29 11 Áö 0 00000000
+C1FC 3BA1 Áü ¤¸ ¤Ó ¤±  14 29 17 Áö 0 00000000
+C1FD 3BA1 Áý ¤¸ ¤Ó ¤²  14 29 19 Áö 0 00000000
+C1FE 3BA1 Áþ ¤¸ ¤Ó ¤µ  14 29 21 Áö 0 00000000
+C2A1 3BA1 Â¡ ¤¸ ¤Ó ¤·  14 29 23 Áö 0 00000000
+C2A2 3BA1 Â¢ ¤¸ ¤Ó ¤¸  14 29 24 Áö 0 00000000
+C2A3 3BA1 Â£ ¤¸ ¤Ó ¤¼  14 29 27 Áö 0 00000000
+C2A4 3BA1 Â¤ ¤¸ ¤Ó ¤½  14 29 28 Áö 0 00000000
+C2A5 3C61 Â¥ ¤¹ ¤¿     15  3  1 Â¥ 0 00000000
+C2A6 3C61 Â¦ ¤¹ ¤¿ ¤¡  15  3  2 Â¥ 0 00000000
+C2A7 3C61 Â§ ¤¹ ¤¿ ¤¤  15  3  5 Â¥ 0 00000000
+C2A8 3C61 Â¨ ¤¹ ¤¿ ¤¦  15  3  7 Â¥ 0 00000000
+C2A9 3C61 Â© ¤¹ ¤¿ ¤©  15  3  9 Â¥ 0 00000000
+C2AA 3C61 Âª ¤¹ ¤¿ ¤¬  15  3 12 Â¥ 0 00000000
+C2AB 3C61 Â« ¤¹ ¤¿ ¤±  15  3 17 Â¥ 0 00000000
+C2AC 3C61 Â¬ ¤¹ ¤¿ ¤²  15  3 19 Â¥ 0 00000000
+C2AD 3C61 Â­ ¤¹ ¤¿ ¤µ  15  3 21 Â¥ 0 00000000
+C2AE 3C61 Â® ¤¹ ¤¿ ¤¶  15  3 22 Â¥ 0 00000000
+C2AF 3C61 Â¯ ¤¹ ¤¿ ¤·  15  3 23 Â¥ 0 00000000
+C2B0 3C81 Â° ¤¹ ¤À     15  4  1 Â° 0 00000000
+C2B1 3C81 Â± ¤¹ ¤À ¤¡  15  4  2 Â° 0 00000000
+C2B2 3C81 Â² ¤¹ ¤À ¤¤  15  4  5 Â° 0 00000000
+C2B3 3C81 Â³ ¤¹ ¤À ¤©  15  4  9 Â° 0 00000000
+C2B4 3C81 Â´ ¤¹ ¤À ¤±  15  4 17 Â° 0 00000000
+C2B5 3C81 Âµ ¤¹ ¤À ¤²  15  4 19 Â° 0 00000000
+C2B6 3C81 Â¶ ¤¹ ¤À ¤µ  15  4 21 Â° 0 00000000
+C2B7 3C81 Â· ¤¹ ¤À ¤¶  15  4 22 Â° 0 00000000
+C2B8 3C81 Â¸ ¤¹ ¤À ¤·  15  4 23 Â° 0 00000000
+C2B9 3CA1 Â¹ ¤¹ ¤Á     15  5  1 Â¹ 0 00000000
+C2BA 3CA1 Âº ¤¹ ¤Á ¤¤  15  5  5 Â¹ 0 00000000
+C2BB 3CA1 Â» ¤¹ ¤Á ¤·  15  5 23 Â¹ 0 00000000
+C2BC 3CE1 Â¼ ¤¹ ¤Ã     15  7  1 Â¼ 0 00000000
+C2BD 3CE1 Â½ ¤¹ ¤Ã ¤¡  15  7  2 Â¼ 0 00000000
+C2BE 3CE1 Â¾ ¤¹ ¤Ã ¤¤  15  7  5 Â¼ 0 00000000
+C2BF 3CE1 Â¿ ¤¹ ¤Ã ¤©  15  7  9 Â¼ 0 00000000
+C2C0 3CE1 ÂÀ ¤¹ ¤Ã ¤±  15  7 17 Â¼ 0 00000000
+C2C1 3CE1 ÂÁ ¤¹ ¤Ã ¤²  15  7 19 Â¼ 0 00000000
+C2C2 3CE1 ÂÂ ¤¹ ¤Ã ¤µ  15  7 21 Â¼ 0 00000000
+C2C3 3CE1 ÂÃ ¤¹ ¤Ã ¤¶  15  7 22 Â¼ 0 00000000
+C2C4 3CE1 ÂÄ ¤¹ ¤Ã ¤·  15  7 23 Â¼ 0 00000000
+C2C5 3D41 ÂÅ ¤¹ ¤Ä     15 10  1 ÂÅ 0 00000000
+C2C6 3D41 ÂÆ ¤¹ ¤Ä ¤·  15 10 23 ÂÅ 0 00000000
+C2C7 3D61 ÂÇ ¤¹ ¤Å     15 11  1 ÂÇ 0 00000000
+C2C8 3D61 ÂÈ ¤¹ ¤Å ¤¶  15 11 22 ÂÇ 0 00000000
+C2C9 3DA1 ÂÉ ¤¹ ¤Ç     15 13  1 ÂÉ 0 00000000
+C2CA 3DA1 ÂÊ ¤¹ ¤Ç ¤¡  15 13  2 ÂÉ 0 00000000
+C2CB 3DA1 ÂË ¤¹ ¤Ç ¤¤  15 13  5 ÂÉ 0 00000000
+C2CC 3DA1 ÂÌ ¤¹ ¤Ç ¤©  15 13  9 ÂÉ 0 00000000
+C2CD 3DA1 ÂÍ ¤¹ ¤Ç ¤±  15 13 17 ÂÉ 0 00000000
+C2CE 3DA1 ÂÎ ¤¹ ¤Ç ¤²  15 13 19 ÂÉ 0 00000000
+C2CF 3DA1 ÂÏ ¤¹ ¤Ç ¤µ  15 13 21 ÂÉ 0 00000000
+C2D0 3DA1 ÂÐ ¤¹ ¤Ç ¤·  15 13 23 ÂÉ 0 00000000
+C2D1 3DA1 ÂÑ ¤¹ ¤Ç ¤º  15 13 25 ÂÉ 0 00000000
+C2D2 3DC1 ÂÒ ¤¹ ¤È     15 14  1 ÂÒ 0 00000000
+C2D3 3DC1 ÂÓ ¤¹ ¤È ¤¡  15 14  2 ÂÒ 0 00000000
+C2D4 3DC1 ÂÔ ¤¹ ¤È ¤©  15 14  9 ÂÒ 0 00000000
+C2D5 3DC1 ÂÕ ¤¹ ¤È ¤¶  15 14 22 ÂÒ 0 00000000
+C2D6 3DE1 ÂÖ ¤¹ ¤É     15 15  1 ÂÖ 0 00000000
+C2D7 3DE1 Â× ¤¹ ¤É ¤¶  15 15 22 ÂÖ 0 00000000
+C2D8 3E41 ÂØ ¤¹ ¤Ê     15 18  1 ÂØ 0 00000000
+C2D9 3E41 ÂÙ ¤¹ ¤Ê ¤¤  15 18  5 ÂØ 0 00000000
+C2DA 3E41 ÂÚ ¤¹ ¤Ê ¤©  15 18  9 ÂØ 0 00000000
+C2DB 3E41 ÂÛ ¤¹ ¤Ê ¤±  15 18 17 ÂØ 0 00000000
+C2DC 3E41 ÂÜ ¤¹ ¤Ê ¤²  15 18 19 ÂØ 0 00000000
+C2DD 3E61 ÂÝ ¤¹ ¤Ë ¤·  15 19 23 ÁÒ 0 00000000
+C2DE 3E81 ÂÞ ¤¹ ¤Ì     15 20  1 ÂÞ 0 00000000
+C2DF 3E81 Âß ¤¹ ¤Ì ¤¡  15 20  2 ÂÞ 0 00000000
+C2E0 3E81 Âà ¤¹ ¤Ì ¤¤  15 20  5 ÂÞ 0 00000000
+C2E1 3E81 Âá ¤¹ ¤Ì ¤©  15 20  9 ÂÞ 0 00000000
+C2E2 3E81 Ââ ¤¹ ¤Ì ¤±  15 20 17 ÂÞ 0 00000000
+C2E3 3E81 Âã ¤¹ ¤Ì ¤²  15 20 19 ÂÞ 0 00000000
+C2E4 3E81 Âä ¤¹ ¤Ì ¤·  15 20 23 ÂÞ 0 00000000
+C2E5 3EA1 Âå ¤¹ ¤Í     15 21  1 Âå 0 00000000
+C2E6 3EA1 Âæ ¤¹ ¤Í ¤¶  15 21 22 Âå 0 00000000
+C2E7 3EA1 Âç ¤¹ ¤Í ¤·  15 21 23 Âå 0 00000000
+C2E8 3EE1 Âè ¤¹ ¤Ï     15 23  1 Âè 0 00000000
+C2E9 3F41 Âé ¤¹ ¤Ð     15 26  1 Âé 0 00000000
+C2EA 3F61 Âê ¤¹ ¤Ñ     15 27  1 Âê 0 00000000
+C2EB 3F61 Âë ¤¹ ¤Ñ ¤±  15 27 17 Âê 0 00000000
+C2EC 3F61 Âì ¤¹ ¤Ñ ¤µ  15 27 21 Âê 0 00000000
+C2ED 3F61 Âí ¤¹ ¤Ñ ¤·  15 27 23 Âê 0 00000000
+C2EE 3FA1 Âî ¤¹ ¤Ó     15 29  1 Âî 0 00000000
+C2EF 3FA1 Âï ¤¹ ¤Ó ¤¡  15 29  2 Âî 0 00000000
+C2F0 3FA1 Âð ¤¹ ¤Ó ¤¤  15 29  5 Âî 0 00000000
+C2F1 3FA1 Âñ ¤¹ ¤Ó ¤©  15 29  9 Âî 0 00000000
+C2F2 3FA1 Âò ¤¹ ¤Ó ¤±  15 29 17 Âî 0 00000000
+C2F3 3FA1 Âó ¤¹ ¤Ó ¤²  15 29 19 Âî 0 00000000
+C2F4 3FA1 Âô ¤¹ ¤Ó ¤·  15 29 23 Âî 0 00000000
+C2F5 3FA1 Âõ ¤¹ ¤Ó ¤¸  15 29 24 Âî 0 00000000
+C2F6 3FA1 Âö ¤¹ ¤Ó ¤¾  15 29 29 Âî 0 00000000
+C2F7 4061 Â÷ ¤º ¤¿     16  3  1 Â÷ 0 00000002
+C2F8 4061 Âø ¤º ¤¿ ¤¡  16  3  2 Â÷ 0 00000000
+C2F9 4061 Âù ¤º ¤¿ ¤¤  16  3  5 Â÷ 0 00000000
+C2FA 4061 Âú ¤º ¤¿ ¤¦  16  3  7 Â÷ 0 00000000
+C2FB 4061 Âû ¤º ¤¿ ¤©  16  3  9 Â÷ 0 00000000
+C2FC 4061 Âü ¤º ¤¿ ¤±  16  3 17 Â÷ 0 00000000
+C2FD 4061 Âý ¤º ¤¿ ¤²  16  3 19 Â÷ 0 00000000
+C2FE 4061 Âþ ¤º ¤¿ ¤µ  16  3 21 Â÷ 0 00000000
+C3A1 4061 Ã¡ ¤º ¤¿ ¤¶  16  3 22 Â÷ 0 00000000
+C3A2 4061 Ã¢ ¤º ¤¿ ¤·  16  3 23 Â÷ 0 00000000
+C3A3 4061 Ã£ ¤º ¤¿ ¤¸  16  3 24 Â÷ 0 00000000
+C3A4 4081 Ã¤ ¤º ¤À     16  4  1 Ã¤ 0 00000000
+C3A5 4081 Ã¥ ¤º ¤À ¤¡  16  4  2 Ã¤ 0 00000000
+C3A6 4081 Ã¦ ¤º ¤À ¤¤  16  4  5 Ã¤ 0 00000000
+C3A7 4081 Ã§ ¤º ¤À ¤©  16  4  9 Ã¤ 0 00000000
+C3A8 4081 Ã¨ ¤º ¤À ¤±  16  4 17 Ã¤ 0 00000000
+C3A9 4081 Ã© ¤º ¤À ¤²  16  4 19 Ã¤ 0 00000000
+C3AA 4081 Ãª ¤º ¤À ¤µ  16  4 21 Ã¤ 0 00000000
+C3AB 4081 Ã« ¤º ¤À ¤¶  16  4 22 Ã¤ 0 00000000
+C3AC 4081 Ã¬ ¤º ¤À ¤·  16  4 23 Ã¤ 0 00000000
+C3AD 40A1 Ã­ ¤º ¤Á     16  5  1 Ã­ 0 00000000
+C3AE 40A1 Ã® ¤º ¤Á ¤¤  16  5  5 Ã­ 0 00000000
+C3AF 40A1 Ã¯ ¤º ¤Á ¤¦  16  5  7 Ã­ 0 00000000
+C3B0 40A1 Ã° ¤º ¤Á ¤©  16  5  9 Ã­ 0 00000000
+C3B1 40A1 Ã± ¤º ¤Á ¤±  16  5 17 Ã­ 0 00000000
+C3B2 40A1 Ã² ¤º ¤Á ¤·  16  5 23 Ã­ 0 00000000
+C3B3 40E1 Ã³ ¤º ¤Ã     16  7  1 Ã³ 0 00000003
+C3B4 40E1 Ã´ ¤º ¤Ã ¤¡  16  7  2 Ã³ 0 00000000
+C3B5 40E1 Ãµ ¤º ¤Ã ¤¤  16  7  5 Ã³ 0 00000000
+C3B6 40E1 Ã¶ ¤º ¤Ã ¤©  16  7  9 Ã³ 0 00000000
+C3B7 40E1 Ã· ¤º ¤Ã ¤±  16  7 17 Ã³ 0 00000000
+C3B8 40E1 Ã¸ ¤º ¤Ã ¤²  16  7 19 Ã³ 0 00000000
+C3B9 40E1 Ã¹ ¤º ¤Ã ¤µ  16  7 21 Ã³ 0 00000000
+C3BA 40E1 Ãº ¤º ¤Ã ¤¶  16  7 22 Ã³ 0 00000000
+C3BB 40E1 Ã» ¤º ¤Ã ¤·  16  7 23 Ã³ 0 00000000
+C3BC 4141 Ã¼ ¤º ¤Ä     16 10  1 Ã¼ 0 00000000
+C3BD 4141 Ã½ ¤º ¤Ä ¤¡  16 10  2 Ã¼ 0 00000000
+C3BE 4141 Ã¾ ¤º ¤Ä ¤¤  16 10  5 Ã¼ 0 00000000
+C3BF 4141 Ã¿ ¤º ¤Ä ¤©  16 10  9 Ã¼ 0 00000000
+C3C0 4141 ÃÀ ¤º ¤Ä ¤±  16 10 17 Ã¼ 0 00000000
+C3C1 4141 ÃÁ ¤º ¤Ä ¤²  16 10 19 Ã¼ 0 00000000
+C3C2 4141 ÃÂ ¤º ¤Ä ¤µ  16 10 21 Ã¼ 0 00000000
+C3C3 4141 ÃÃ ¤º ¤Ä ¤·  16 10 23 Ã¼ 0 00000000
+C3C4 4161 ÃÄ ¤º ¤Å     16 11  1 ÃÄ 0 00000000
+C3C5 4161 ÃÅ ¤º ¤Å ¤¤  16 11  5 ÃÄ 0 00000000
+C3C6 4161 ÃÆ ¤º ¤Å ¤¶  16 11 22 ÃÄ 0 00000000
+C3C7 4181 ÃÇ ¤º ¤Æ     16 12  1 ÃÇ 0 00000000
+C3C8 4181 ÃÈ ¤º ¤Æ ¤¤  16 12  5 ÃÇ 0 00000000
+C3C9 4181 ÃÉ ¤º ¤Æ ¤·  16 12 23 ÃÇ 0 00000000
+C3CA 41A1 ÃÊ ¤º ¤Ç     16 13  1 ÃÊ 0 00000000
+C3CB 41A1 ÃË ¤º ¤Ç ¤¡  16 13  2 ÃÊ 0 00000000
+C3CC 41A1 ÃÌ ¤º ¤Ç ¤¤  16 13  5 ÃÊ 0 00000000
+C3CD 41A1 ÃÍ ¤º ¤Ç ¤©  16 13  9 ÃÊ 0 00000000
+C3CE 41A1 ÃÎ ¤º ¤Ç ¤±  16 13 17 ÃÊ 0 00000000
+C3CF 41A1 ÃÏ ¤º ¤Ç ¤²  16 13 19 ÃÊ 0 00000000
+C3D0 41A1 ÃÐ ¤º ¤Ç ¤µ  16 13 21 ÃÊ 0 00000000
+C3D1 41A1 ÃÑ ¤º ¤Ç ¤·  16 13 23 ÃÊ 0 00000000
+C3D2 41C1 ÃÒ ¤º ¤È     16 14  1 ÃÒ 0 00000000
+C3D3 41C1 ÃÓ ¤º ¤È ¤¤  16 14  5 ÃÒ 0 00000000
+C3D4 41C1 ÃÔ ¤º ¤È ¤©  16 14  9 ÃÒ 0 00000000
+C3D5 41C1 ÃÕ ¤º ¤È ¤·  16 14 23 ÃÒ 0 00000000
+C3D6 4241 ÃÖ ¤º ¤Ê     16 18  1 ÃÖ 0 00000000
+C3D7 4241 Ã× ¤º ¤Ê ¤¤  16 18  5 ÃÖ 0 00000000
+C3D8 4241 ÃØ ¤º ¤Ê ¤©  16 18  9 ÃÖ 0 00000000
+C3D9 4241 ÃÙ ¤º ¤Ê ¤±  16 18 17 ÃÖ 0 00000000
+C3DA 4241 ÃÚ ¤º ¤Ê ¤²  16 18 19 ÃÖ 0 00000000
+C3DB 4241 ÃÛ ¤º ¤Ê ¤µ  16 18 21 ÃÖ 0 00000000
+C3DC 4241 ÃÜ ¤º ¤Ê ¤·  16 18 23 ÃÖ 0 00000000
+C3DD 4261 ÃÝ ¤º ¤Ë     16 19  1 ÃÝ 0 00000000
+C3DE 4261 ÃÞ ¤º ¤Ë ¤±  16 19 17 ÃÝ 0 00000000
+C3DF 4281 Ãß ¤º ¤Ì     16 20  1 Ãß 0 00000000
+C3E0 4281 Ãà ¤º ¤Ì ¤¡  16 20  2 Ãß 0 00000000
+C3E1 4281 Ãá ¤º ¤Ì ¤¤  16 20  5 Ãß 0 00000000
+C3E2 4281 Ãâ ¤º ¤Ì ¤©  16 20  9 Ãß 0 00000000
+C3E3 4281 Ãã ¤º ¤Ì ¤±  16 20 17 Ãß 0 00000000
+C3E4 4281 Ãä ¤º ¤Ì ¤²  16 20 19 Ãß 0 00000000
+C3E5 4281 Ãå ¤º ¤Ì ¤µ  16 20 21 Ãß 0 00000000
+C3E6 4281 Ãæ ¤º ¤Ì ¤·  16 20 23 Ãß 0 00000000
+C3E7 42A1 Ãç ¤º ¤Í     16 21  1 Ãç 0 00000000
+C3E8 42A1 Ãè ¤º ¤Í ¤¶  16 21 22 Ãç 0 00000000
+C3E9 42C1 Ãé ¤º ¤Î     16 22  1 Ãé 0 00000000
+C3EA 42C1 Ãê ¤º ¤Î ¤¤  16 22  5 Ãé 0 00000000
+C3EB 42E1 Ãë ¤º ¤Ï     16 23  1 Ãë 0 00000000
+C3EC 42E1 Ãì ¤º ¤Ï ¤¤  16 23  5 Ãë 0 00000000
+C3ED 42E1 Ãí ¤º ¤Ï ¤©  16 23  9 Ãë 0 00000000
+C3EE 42E1 Ãî ¤º ¤Ï ¤±  16 23 17 Ãë 0 00000000
+C3EF 42E1 Ãï ¤º ¤Ï ¤²  16 23 19 Ãë 0 00000000
+C3F0 42E1 Ãð ¤º ¤Ï ¤µ  16 23 21 Ãë 0 00000000
+C3F1 42E1 Ãñ ¤º ¤Ï ¤·  16 23 23 Ãë 0 00000000
+C3F2 4341 Ãò ¤º ¤Ð     16 26  1 Ãò 0 00000000
+C3F3 4341 Ãó ¤º ¤Ð ¤¤  16 26  5 Ãò 0 00000000
+C3F4 4341 Ãô ¤º ¤Ð ¤©  16 26  9 Ãò 0 00000000
+C3F5 4341 Ãõ ¤º ¤Ð ¤±  16 26 17 Ãò 0 00000000
+C3F6 4341 Ãö ¤º ¤Ð ¤·  16 26 23 Ãò 0 00000000
+C3F7 4361 Ã÷ ¤º ¤Ñ     16 27  1 Ã÷ 0 00000000
+C3F8 4361 Ãø ¤º ¤Ñ ¤¡  16 27  2 Ã÷ 0 00000000
+C3F9 4361 Ãù ¤º ¤Ñ ¤¤  16 27  5 Ã÷ 0 00000000
+C3FA 4361 Ãú ¤º ¤Ñ ¤©  16 27  9 Ã÷ 0 00000000
+C3FB 4361 Ãû ¤º ¤Ñ ¤±  16 27 17 Ã÷ 0 00000000
+C3FC 4361 Ãü ¤º ¤Ñ ¤²  16 27 19 Ã÷ 0 00000000
+C3FD 4361 Ãý ¤º ¤Ñ ¤µ  16 27 21 Ã÷ 0 00000000
+C3FE 4361 Ãþ ¤º ¤Ñ ¤·  16 27 23 Ã÷ 0 00000000
+C4A1 43A1 Ä¡ ¤º ¤Ó     16 29  1 Ä¡ 0 00000003
+C4A2 43A1 Ä¢ ¤º ¤Ó ¤¡  16 29  2 Ä¡ 0 00000000
+C4A3 43A1 Ä£ ¤º ¤Ó ¤¤  16 29  5 Ä¡ 0 00000000
+C4A4 43A1 Ä¤ ¤º ¤Ó ¤§  16 29  8 Ä¡ 0 00000000
+C4A5 43A1 Ä¥ ¤º ¤Ó ¤©  16 29  9 Ä¡ 0 00000000
+C4A6 43A1 Ä¦ ¤º ¤Ó ¤ª  16 29 10 Ä¡ 0 00000000
+C4A7 43A1 Ä§ ¤º ¤Ó ¤±  16 29 17 Ä¡ 0 00000000
+C4A8 43A1 Ä¨ ¤º ¤Ó ¤²  16 29 19 Ä¡ 0 00000000
+C4A9 43A1 Ä© ¤º ¤Ó ¤µ  16 29 21 Ä¡ 0 00000000
+C4AA 43A1 Äª ¤º ¤Ó ¤·  16 29 23 Ä¡ 0 00000000
+C4AB 4461 Ä« ¤» ¤¿     17  3  1 Ä« 0 00000000
+C4AC 4461 Ä¬ ¤» ¤¿ ¤¡  17  3  2 Ä« 0 00000000
+C4AD 4461 Ä­ ¤» ¤¿ ¤¤  17  3  5 Ä« 0 00000000
+C4AE 4461 Ä® ¤» ¤¿ ¤©  17  3  9 Ä« 0 00000000
+C4AF 4461 Ä¯ ¤» ¤¿ ¤±  17  3 17 Ä« 0 00000000
+C4B0 4461 Ä° ¤» ¤¿ ¤²  17  3 19 Ä« 0 00000000
+C4B1 4461 Ä± ¤» ¤¿ ¤µ  17  3 21 Ä« 0 00000000
+C4B2 4461 Ä² ¤» ¤¿ ¤·  17  3 23 Ä« 0 00000000
+C4B3 4481 Ä³ ¤» ¤À     17  4  1 Ä³ 0 00000000
+C4B4 4481 Ä´ ¤» ¤À ¤¡  17  4  2 Ä³ 0 00000000
+C4B5 4481 Äµ ¤» ¤À ¤¤  17  4  5 Ä³ 0 00000000
+C4B6 4481 Ä¶ ¤» ¤À ¤©  17  4  9 Ä³ 0 00000000
+C4B7 4481 Ä· ¤» ¤À ¤±  17  4 17 Ä³ 0 00000000
+C4B8 4481 Ä¸ ¤» ¤À ¤²  17  4 19 Ä³ 0 00000000
+C4B9 4481 Ä¹ ¤» ¤À ¤µ  17  4 21 Ä³ 0 00000000
+C4BA 4481 Äº ¤» ¤À ¤¶  17  4 22 Ä³ 0 00000000
+C4BB 4481 Ä» ¤» ¤À ¤·  17  4 23 Ä³ 0 00000000
+C4BC 44A1 Ä¼ ¤» ¤Á     17  5  1 Ä¼ 0 00000000
+C4BD 44A1 Ä½ ¤» ¤Á ¤¡  17  5  2 Ä¼ 0 00000000
+C4BE 44A1 Ä¾ ¤» ¤Á ¤·  17  5 23 Ä¼ 0 00000000
+C4BF 44E1 Ä¿ ¤» ¤Ã     17  7  1 Ä¿ 0 00000003
+C4C0 44E1 ÄÀ ¤» ¤Ã ¤¡  17  7  2 Ä¿ 0 00000000
+C4C1 44E1 ÄÁ ¤» ¤Ã ¤¤  17  7  5 Ä¿ 0 00000000
+C4C2 44E1 ÄÂ ¤» ¤Ã ¤§  17  7  8 Ä¿ 0 00000000
+C4C3 44E1 ÄÃ ¤» ¤Ã ¤©  17  7  9 Ä¿ 0 00000000
+C4C4 44E1 ÄÄ ¤» ¤Ã ¤±  17  7 17 Ä¿ 0 00000000
+C4C5 44E1 ÄÅ ¤» ¤Ã ¤²  17  7 19 Ä¿ 0 00000000
+C4C6 44E1 ÄÆ ¤» ¤Ã ¤µ  17  7 21 Ä¿ 0 00000000
+C4C7 44E1 ÄÇ ¤» ¤Ã ¤¶  17  7 22 Ä¿ 0 00000000
+C4C8 44E1 ÄÈ ¤» ¤Ã ¤·  17  7 23 Ä¿ 0 00000000
+C4C9 4541 ÄÉ ¤» ¤Ä     17 10  1 ÄÉ 0 00000000
+C4CA 4541 ÄÊ ¤» ¤Ä ¤¡  17 10  2 ÄÉ 0 00000000
+C4CB 4541 ÄË ¤» ¤Ä ¤¤  17 10  5 ÄÉ 0 00000000
+C4CC 4541 ÄÌ ¤» ¤Ä ¤©  17 10  9 ÄÉ 0 00000000
+C4CD 4541 ÄÍ ¤» ¤Ä ¤±  17 10 17 ÄÉ 0 00000000
+C4CE 4541 ÄÎ ¤» ¤Ä ¤²  17 10 19 ÄÉ 0 00000000
+C4CF 4541 ÄÏ ¤» ¤Ä ¤µ  17 10 21 ÄÉ 0 00000000
+C4D0 4541 ÄÐ ¤» ¤Ä ¤·  17 10 23 ÄÉ 0 00000000
+C4D1 4561 ÄÑ ¤» ¤Å     17 11  1 ÄÑ 0 00000000
+C4D2 4561 ÄÒ ¤» ¤Å ¤¤  17 11  5 ÄÑ 0 00000000
+C4D3 4561 ÄÓ ¤» ¤Å ¤©  17 11  9 ÄÑ 0 00000000
+C4D4 4561 ÄÔ ¤» ¤Å ¤±  17 11 17 ÄÑ 0 00000000
+C4D5 4561 ÄÕ ¤» ¤Å ¤²  17 11 19 ÄÑ 0 00000000
+C4D6 4561 ÄÖ ¤» ¤Å ¤µ  17 11 21 ÄÑ 0 00000000
+C4D7 4561 Ä× ¤» ¤Å ¤¶  17 11 22 ÄÑ 0 00000000
+C4D8 4561 ÄØ ¤» ¤Å ¤·  17 11 23 ÄÑ 0 00000000
+C4D9 4581 ÄÙ ¤» ¤Æ     17 12  1 ÄÙ 0 00000000
+C4DA 45A1 ÄÚ ¤» ¤Ç     17 13  1 ÄÚ 0 00000000
+C4DB 45A1 ÄÛ ¤» ¤Ç ¤¡  17 13  2 ÄÚ 0 00000000
+C4DC 45A1 ÄÜ ¤» ¤Ç ¤¤  17 13  5 ÄÚ 0 00000000
+C4DD 45A1 ÄÝ ¤» ¤Ç ¤©  17 13  9 ÄÚ 0 00000000
+C4DE 45A1 ÄÞ ¤» ¤Ç ¤±  17 13 17 ÄÚ 0 00000000
+C4DF 45A1 Äß ¤» ¤Ç ¤²  17 13 19 ÄÚ 0 00000000
+C4E0 45A1 Äà ¤» ¤Ç ¤µ  17 13 21 ÄÚ 0 00000000
+C4E1 45A1 Äá ¤» ¤Ç ¤·  17 13 23 ÄÚ 0 00000000
+C4E2 45C1 Äâ ¤» ¤È     17 14  1 Äâ 0 00000000
+C4E3 45C1 Äã ¤» ¤È ¤¡  17 14  2 Äâ 0 00000000
+C4E4 45C1 Ää ¤» ¤È ¤¤  17 14  5 Äâ 0 00000000
+C4E5 45C1 Äå ¤» ¤È ¤©  17 14  9 Äâ 0 00000000
+C4E6 45C1 Äæ ¤» ¤È ¤±  17 14 17 Äâ 0 00000000
+C4E7 45C1 Äç ¤» ¤È ¤·  17 14 23 Äâ 0 00000000
+C4E8 45E1 Äè ¤» ¤É     17 15  1 Äè 0 00000000
+C4E9 45E1 Äé ¤» ¤É ¤·  17 15 23 Äè 0 00000000
+C4EA 4641 Äê ¤» ¤Ê     17 18  1 Äê 0 00000000
+C4EB 4641 Äë ¤» ¤Ê ¤©  17 18  9 Äê 0 00000000
+C4EC 4661 Äì ¤» ¤Ë     17 19  1 Äì 0 00000000
+C4ED 4681 Äí ¤» ¤Ì     17 20  1 Äí 0 00000000
+C4EE 4681 Äî ¤» ¤Ì ¤¡  17 20  2 Äí 0 00000000
+C4EF 4681 Äï ¤» ¤Ì ¤¤  17 20  5 Äí 0 00000000
+C4F0 4681 Äð ¤» ¤Ì ¤©  17 20  9 Äí 0 00000000
+C4F1 4681 Äñ ¤» ¤Ì ¤±  17 20 17 Äí 0 00000000
+C4F2 4681 Äò ¤» ¤Ì ¤²  17 20 19 Äí 0 00000000
+C4F3 4681 Äó ¤» ¤Ì ¤µ  17 20 21 Äí 0 00000000
+C4F4 4681 Äô ¤» ¤Ì ¤·  17 20 23 Äí 0 00000000
+C4F5 46A1 Äõ ¤» ¤Í     17 21  1 Äõ 0 00000000
+C4F6 46A1 Äö ¤» ¤Í ¤¤  17 21  5 Äõ 0 00000000
+C4F7 46A1 Ä÷ ¤» ¤Í ¤©  17 21  9 Äõ 0 00000000
+C4F8 46A1 Äø ¤» ¤Í ¤·  17 21 23 Äõ 0 00000000
+C4F9 46C1 Äù ¤» ¤Î     17 22  1 Äù 0 00000000
+C4FA 46C1 Äú ¤» ¤Î ¤·  17 22 23 Äù 0 00000000
+C4FB 46E1 Äû ¤» ¤Ï     17 23  1 Äû 0 00000000
+C4FC 46E1 Äü ¤» ¤Ï ¤¡  17 23  2 Äû 0 00000000
+C4FD 46E1 Äý ¤» ¤Ï ¤¤  17 23  5 Äû 0 00000000
+C4FE 46E1 Äþ ¤» ¤Ï ¤©  17 23  9 Äû 0 00000000
+C5A1 46E1 Å¡ ¤» ¤Ï ¤±  17 23 17 Äû 0 00000000
+C5A2 46E1 Å¢ ¤» ¤Ï ¤²  17 23 19 Äû 0 00000000
+C5A3 46E1 Å£ ¤» ¤Ï ¤µ  17 23 21 Äû 0 00000000
+C5A4 46E1 Å¤ ¤» ¤Ï ¤·  17 23 23 Äû 0 00000000
+C5A5 4741 Å¥ ¤» ¤Ð     17 26  1 Å¥ 0 00000000
+C5A6 4741 Å¦ ¤» ¤Ð ¤¤  17 26  5 Å¥ 0 00000000
+C5A7 4741 Å§ ¤» ¤Ð ¤©  17 26  9 Å¥ 0 00000000
+C5A8 4741 Å¨ ¤» ¤Ð ¤±  17 26 17 Å¥ 0 00000000
+C5A9 4761 Å© ¤» ¤Ñ     17 27  1 Å© 0 00000000
+C5AA 4761 Åª ¤» ¤Ñ ¤¡  17 27  2 Å© 0 00000000
+C5AB 4761 Å« ¤» ¤Ñ ¤¤  17 27  5 Å© 0 00000000
+C5AC 4761 Å¬ ¤» ¤Ñ ¤©  17 27  9 Å© 0 00000000
+C5AD 4761 Å­ ¤» ¤Ñ ¤±  17 27 17 Å© 0 00000002
+C5AE 4761 Å® ¤» ¤Ñ ¤²  17 27 19 Å© 0 00000000
+C5AF 4761 Å¯ ¤» ¤Ñ ¤·  17 27 23 Å© 0 00000000
+C5B0 47A1 Å° ¤» ¤Ó     17 29  1 Å° 0 00000000
+C5B1 47A1 Å± ¤» ¤Ó ¤¡  17 29  2 Å° 0 00000000
+C5B2 47A1 Å² ¤» ¤Ó ¤¤  17 29  5 Å° 0 00000000
+C5B3 47A1 Å³ ¤» ¤Ó ¤©  17 29  9 Å° 0 00000000
+C5B4 47A1 Å´ ¤» ¤Ó ¤±  17 29 17 Å° 0 00000000
+C5B5 47A1 Åµ ¤» ¤Ó ¤²  17 29 19 Å° 0 00000000
+C5B6 47A1 Å¶ ¤» ¤Ó ¤µ  17 29 21 Å° 0 00000000
+C5B7 47A1 Å· ¤» ¤Ó ¤·  17 29 23 Å° 0 00000000
+C5B8 4861 Å¸ ¤¼ ¤¿     18  3  1 Å¸ 0 00000000
+C5B9 4861 Å¹ ¤¼ ¤¿ ¤¡  18  3  2 Å¸ 0 00000000
+C5BA 4861 Åº ¤¼ ¤¿ ¤¤  18  3  5 Å¸ 0 00000000
+C5BB 4861 Å» ¤¼ ¤¿ ¤©  18  3  9 Å¸ 0 00000000
+C5BC 4861 Å¼ ¤¼ ¤¿ ¤ª  18  3 10 Å¸ 0 00000000
+C5BD 4861 Å½ ¤¼ ¤¿ ¤±  18  3 17 Å¸ 0 00000000
+C5BE 4861 Å¾ ¤¼ ¤¿ ¤²  18  3 19 Å¸ 0 00000000
+C5BF 4861 Å¿ ¤¼ ¤¿ ¤µ  18  3 21 Å¸ 0 00000000
+C5C0 4861 ÅÀ ¤¼ ¤¿ ¤¶  18  3 22 Å¸ 0 00000000
+C5C1 4861 ÅÁ ¤¼ ¤¿ ¤·  18  3 23 Å¸ 0 00000000
+C5C2 4881 ÅÂ ¤¼ ¤À     18  4  1 ÅÂ 0 00000000
+C5C3 4881 ÅÃ ¤¼ ¤À ¤¡  18  4  2 ÅÂ 0 00000000
+C5C4 4881 ÅÄ ¤¼ ¤À ¤¤  18  4  5 ÅÂ 0 00000000
+C5C5 4881 ÅÅ ¤¼ ¤À ¤©  18  4  9 ÅÂ 0 00000000
+C5C6 4881 ÅÆ ¤¼ ¤À ¤±  18  4 17 ÅÂ 0 00000000
+C5C7 4881 ÅÇ ¤¼ ¤À ¤²  18  4 19 ÅÂ 0 00000000
+C5C8 4881 ÅÈ ¤¼ ¤À ¤µ  18  4 21 ÅÂ 0 00000000
+C5C9 4881 ÅÉ ¤¼ ¤À ¤¶  18  4 22 ÅÂ 0 00000000
+C5CA 4881 ÅÊ ¤¼ ¤À ¤·  18  4 23 ÅÂ 0 00000000
+C5CB 48A1 ÅË ¤¼ ¤Á     18  5  1 ÅË 0 00000000
+C5CC 48A1 ÅÌ ¤¼ ¤Á ¤·  18  5 23 ÅË 0 00000000
+C5CD 48E1 ÅÍ ¤¼ ¤Ã     18  7  1 ÅÍ 0 00000002
+C5CE 48E1 ÅÎ ¤¼ ¤Ã ¤¡  18  7  2 ÅÍ 0 00000000
+C5CF 48E1 ÅÏ ¤¼ ¤Ã ¤¤  18  7  5 ÅÍ 0 00000002
+C5D0 48E1 ÅÐ ¤¼ ¤Ã ¤©  18  7  9 ÅÍ 0 00000000
+C5D1 48E1 ÅÑ ¤¼ ¤Ã ¤«  18  7 11 ÅÍ 0 00000000
+C5D2 48E1 ÅÒ ¤¼ ¤Ã ¤±  18  7 17 ÅÍ 0 00000000
+C5D3 48E1 ÅÓ ¤¼ ¤Ã ¤²  18  7 19 ÅÍ 0 00000000
+C5D4 48E1 ÅÔ ¤¼ ¤Ã ¤µ  18  7 21 ÅÍ 0 00000000
+C5D5 48E1 ÅÕ ¤¼ ¤Ã ¤¶  18  7 22 ÅÍ 0 00000000
+C5D6 48E1 ÅÖ ¤¼ ¤Ã ¤·  18  7 23 ÅÍ 0 00000000
+C5D7 4941 Å× ¤¼ ¤Ä     18 10  1 Å× 0 0000000A
+C5D8 4941 ÅØ ¤¼ ¤Ä ¤¡  18 10  2 Å× 0 00000000
+C5D9 4941 ÅÙ ¤¼ ¤Ä ¤¤  18 10  5 Å× 0 00000008
+C5DA 4941 ÅÚ ¤¼ ¤Ä ¤©  18 10  9 Å× 0 00000000
+C5DB 4941 ÅÛ ¤¼ ¤Ä ¤±  18 10 17 Å× 0 00000000
+C5DC 4941 ÅÜ ¤¼ ¤Ä ¤²  18 10 19 Å× 0 00000000
+C5DD 4941 ÅÝ ¤¼ ¤Ä ¤µ  18 10 21 Å× 0 00000000
+C5DE 4941 ÅÞ ¤¼ ¤Ä ¤·  18 10 23 Å× 0 00000000
+C5DF 4961 Åß ¤¼ ¤Å     18 11  1 Åß 0 00000000
+C5E0 4961 Åà ¤¼ ¤Å ¤¤  18 11  5 Åß 0 00000000
+C5E1 4961 Åá ¤¼ ¤Å ¤¶  18 11 22 Åß 0 00000000
+C5E2 4981 Åâ ¤¼ ¤Æ     18 12  1 Åâ 0 00000000
+C5E3 4981 Åã ¤¼ ¤Æ ¤¤  18 12  5 Åâ 0 00000000
+C5E4 49A1 Åä ¤¼ ¤Ç     18 13  1 Åä 0 00000001
+C5E5 49A1 Åå ¤¼ ¤Ç ¤¡  18 13  2 Åä 0 00000000
+C5E6 49A1 Åæ ¤¼ ¤Ç ¤¤  18 13  5 Åä 0 00000000
+C5E7 49A1 Åç ¤¼ ¤Ç ¤©  18 13  9 Åä 0 00000000
+C5E8 49A1 Åè ¤¼ ¤Ç ¤±  18 13 17 Åä 0 00000000
+C5E9 49A1 Åé ¤¼ ¤Ç ¤²  18 13 19 Åä 0 00000000
+C5EA 49A1 Åê ¤¼ ¤Ç ¤µ  18 13 21 Åä 0 00000000
+C5EB 49A1 Åë ¤¼ ¤Ç ¤·  18 13 23 Åä 0 00000000
+C5EC 49A1 Åì ¤¼ ¤Ç ¤½  18 13 28 Åä 0 00000000
+C5ED 49C1 Åí ¤¼ ¤È     18 14  1 Åí 0 00000000
+C5EE 49C1 Åî ¤¼ ¤È ¤¤  18 14  5 Åí 0 00000000
+C5EF 49E1 Åï ¤¼ ¤É     18 15  1 Åï 0 00000000
+C5F0 4A41 Åð ¤¼ ¤Ê     18 18  1 Åð 0 00000000
+C5F1 4A41 Åñ ¤¼ ¤Ê ¤¤  18 18  5 Åð 0 00000000
+C5F2 4A41 Åò ¤¼ ¤Ê ¤µ  18 18 21 Åð 0 00000000
+C5F3 4A41 Åó ¤¼ ¤Ê ¤·  18 18 23 Åð 0 00000000
+C5F4 4A61 Åô ¤¼ ¤Ë     18 19  1 Åô 0 00000000
+C5F5 4A81 Åõ ¤¼ ¤Ì     18 20  1 Åõ 0 00000000
+C5F6 4A81 Åö ¤¼ ¤Ì ¤¡  18 20  2 Åõ 0 00000000
+C5F7 4A81 Å÷ ¤¼ ¤Ì ¤¤  18 20  5 Åõ 0 00000000
+C5F8 4A81 Åø ¤¼ ¤Ì ¤©  18 20  9 Åõ 0 00000000
+C5F9 4A81 Åù ¤¼ ¤Ì ¤±  18 20 17 Åõ 0 00000000
+C5FA 4A81 Åú ¤¼ ¤Ì ¤²  18 20 19 Åõ 0 00000000
+C5FB 4A81 Åû ¤¼ ¤Ì ¤µ  18 20 21 Åõ 0 00000000
+C5FC 4A81 Åü ¤¼ ¤Ì ¤·  18 20 23 Åõ 0 00000000
+C5FD 4AA1 Åý ¤¼ ¤Í     18 21  1 Åý 0 00000000
+C5FE 4AA1 Åþ ¤¼ ¤Í ¤¶  18 21 22 Åý 0 00000000
+C6A1 4AC1 Æ¡ ¤¼ ¤Î     18 22  1 Æ¡ 0 00000000
+C6A2 4AE1 Æ¢ ¤¼ ¤Ï     18 23  1 Æ¢ 0 00000000
+C6A3 4AE1 Æ£ ¤¼ ¤Ï ¤¡  18 23  2 Æ¢ 0 00000000
+C6A4 4AE1 Æ¤ ¤¼ ¤Ï ¤¤  18 23  5 Æ¢ 0 00000000
+C6A5 4AE1 Æ¥ ¤¼ ¤Ï ¤©  18 23  9 Æ¢ 0 00000000
+C6A6 4AE1 Æ¦ ¤¼ ¤Ï ¤±  18 23 17 Æ¢ 0 00000000
+C6A7 4AE1 Æ§ ¤¼ ¤Ï ¤²  18 23 19 Æ¢ 0 00000000
+C6A8 4AE1 Æ¨ ¤¼ ¤Ï ¤·  18 23 23 Æ¢ 0 00000000
+C6A9 4B41 Æ© ¤¼ ¤Ð     18 26  1 Æ© 0 00000000
+C6AA 4B41 Æª ¤¼ ¤Ð ¤¤  18 26  5 Æ© 0 00000000
+C6AB 4B41 Æ« ¤¼ ¤Ð ¤©  18 26  9 Æ© 0 00000000
+C6AC 4B41 Æ¬ ¤¼ ¤Ð ¤±  18 26 17 Æ© 0 00000000
+C6AD 4B41 Æ­ ¤¼ ¤Ð ¤·  18 26 23 Æ© 0 00000000
+C6AE 4B61 Æ® ¤¼ ¤Ñ     18 27  1 Æ® 0 00000000
+C6AF 4B61 Æ¯ ¤¼ ¤Ñ ¤¡  18 27  2 Æ® 0 00000000
+C6B0 4B61 Æ° ¤¼ ¤Ñ ¤¤  18 27  5 Æ® 0 00000000
+C6B1 4B61 Æ± ¤¼ ¤Ñ ¤§  18 27  8 Æ® 0 00000000
+C6B2 4B61 Æ² ¤¼ ¤Ñ ¤©  18 27  9 Æ® 0 00000000
+C6B3 4B61 Æ³ ¤¼ ¤Ñ ¤«  18 27 11 Æ® 0 00000000
+C6B4 4B61 Æ´ ¤¼ ¤Ñ ¤±  18 27 17 Æ® 0 00000000
+C6B5 4B61 Æµ ¤¼ ¤Ñ ¤²  18 27 19 Æ® 0 00000000
+C6B6 4B61 Æ¶ ¤¼ ¤Ñ ¤µ  18 27 21 Æ® 0 00000000
+C6B7 4B81 Æ· ¤¼ ¤Ò     18 28  1 Æ· 0 00000000
+C6B8 4B81 Æ¸ ¤¼ ¤Ò ¤¤  18 28  5 Æ· 0 00000000
+C6B9 4B81 Æ¹ ¤¼ ¤Ò ¤©  18 28  9 Æ· 0 00000000
+C6BA 4B81 Æº ¤¼ ¤Ò ¤±  18 28 17 Æ· 0 00000000
+C6BB 4B81 Æ» ¤¼ ¤Ò ¤²  18 28 19 Æ· 0 00000000
+C6BC 4BA1 Æ¼ ¤¼ ¤Ó     18 29  1 Æ¼ 0 00000000
+C6BD 4BA1 Æ½ ¤¼ ¤Ó ¤¡  18 29  2 Æ¼ 0 00000000
+C6BE 4BA1 Æ¾ ¤¼ ¤Ó ¤¤  18 29  5 Æ¼ 0 00000000
+C6BF 4BA1 Æ¿ ¤¼ ¤Ó ¤©  18 29  9 Æ¼ 0 00000000
+C6C0 4BA1 ÆÀ ¤¼ ¤Ó ¤±  18 29 17 Æ¼ 0 00000000
+C6C1 4BA1 ÆÁ ¤¼ ¤Ó ¤²  18 29 19 Æ¼ 0 00000000
+C6C2 4BA1 ÆÂ ¤¼ ¤Ó ¤µ  18 29 21 Æ¼ 0 00000000
+C6C3 4BA1 ÆÃ ¤¼ ¤Ó ¤·  18 29 23 Æ¼ 0 00000000
+C6C4 4C61 ÆÄ ¤½ ¤¿     19  3  1 ÆÄ 0 00000000
+C6C5 4C61 ÆÅ ¤½ ¤¿ ¤¡  19  3  2 ÆÄ 0 00000000
+C6C6 4C61 ÆÆ ¤½ ¤¿ ¤¢  19  3  3 ÆÄ 0 00000000
+C6C7 4C61 ÆÇ ¤½ ¤¿ ¤¤  19  3  5 ÆÄ 0 00000000
+C6C8 4C61 ÆÈ ¤½ ¤¿ ¤©  19  3  9 ÆÄ 0 00000000
+C6C9 4C61 ÆÉ ¤½ ¤¿ ¤«  19  3 11 ÆÄ 0 00000000
+C6CA 4C61 ÆÊ ¤½ ¤¿ ¤±  19  3 17 ÆÄ 0 00000000
+C6CB 4C61 ÆË ¤½ ¤¿ ¤²  19  3 19 ÆÄ 0 00000000
+C6CC 4C61 ÆÌ ¤½ ¤¿ ¤µ  19  3 21 ÆÄ 0 00000000
+C6CD 4C61 ÆÍ ¤½ ¤¿ ¤¶  19  3 22 ÆÄ 0 00000000
+C6CE 4C61 ÆÎ ¤½ ¤¿ ¤·  19  3 23 ÆÄ 0 00000000
+C6CF 4C61 ÆÏ ¤½ ¤¿ ¤¼  19  3 27 ÆÄ 0 00000000
+C6D0 4C81 ÆÐ ¤½ ¤À     19  4  1 ÆÐ 0 00000000
+C6D1 4C81 ÆÑ ¤½ ¤À ¤¡  19  4  2 ÆÐ 0 00000000
+C6D2 4C81 ÆÒ ¤½ ¤À ¤¤  19  4  5 ÆÐ 0 00000000
+C6D3 4C81 ÆÓ ¤½ ¤À ¤©  19  4  9 ÆÐ 0 00000000
+C6D4 4C81 ÆÔ ¤½ ¤À ¤±  19  4 17 ÆÐ 0 00000000
+C6D5 4C81 ÆÕ ¤½ ¤À ¤²  19  4 19 ÆÐ 0 00000000
+C6D6 4C81 ÆÖ ¤½ ¤À ¤µ  19  4 21 ÆÐ 0 00000000
+C6D7 4C81 Æ× ¤½ ¤À ¤¶  19  4 22 ÆÐ 0 00000000
+C6D8 4C81 ÆØ ¤½ ¤À ¤·  19  4 23 ÆÐ 0 00000000
+C6D9 4CA1 ÆÙ ¤½ ¤Á     19  5  1 ÆÙ 0 00000000
+C6DA 4CA1 ÆÚ ¤½ ¤Á ¤¡  19  5  2 ÆÙ 0 00000000
+C6DB 4CE1 ÆÛ ¤½ ¤Ã     19  7  1 ÆÛ 0 00000000
+C6DC 4CE1 ÆÜ ¤½ ¤Ã ¤¡  19  7  2 ÆÛ 0 00000000
+C6DD 4CE1 ÆÝ ¤½ ¤Ã ¤¤  19  7  5 ÆÛ 0 00000000
+C6DE 4CE1 ÆÞ ¤½ ¤Ã ¤©  19  7  9 ÆÛ 0 00000000
+C6DF 4CE1 Æß ¤½ ¤Ã ¤±  19  7 17 ÆÛ 0 00000000
+C6E0 4CE1 Æà ¤½ ¤Ã ¤²  19  7 19 ÆÛ 0 00000000
+C6E1 4CE1 Æá ¤½ ¤Ã ¤µ  19  7 21 ÆÛ 0 00000000
+C6E2 4CE1 Æâ ¤½ ¤Ã ¤¶  19  7 22 ÆÛ 0 00000000
+C6E3 4CE1 Æã ¤½ ¤Ã ¤·  19  7 23 ÆÛ 0 00000000
+C6E4 4D41 Æä ¤½ ¤Ä     19 10  1 Æä 0 00000000
+C6E5 4D41 Æå ¤½ ¤Ä ¤¡  19 10  2 Æä 0 00000000
+C6E6 4D41 Ææ ¤½ ¤Ä ¤¤  19 10  5 Æä 0 00000000
+C6E7 4D41 Æç ¤½ ¤Ä ¤©  19 10  9 Æä 0 00000000
+C6E8 4D41 Æè ¤½ ¤Ä ¤±  19 10 17 Æä 0 00000000
+C6E9 4D41 Æé ¤½ ¤Ä ¤²  19 10 19 Æä 0 00000000
+C6EA 4D41 Æê ¤½ ¤Ä ¤µ  19 10 21 Æä 0 00000000
+C6EB 4D41 Æë ¤½ ¤Ä ¤·  19 10 23 Æä 0 00000000
+C6EC 4D61 Æì ¤½ ¤Å     19 11  1 Æì 0 00000000
+C6ED 4D61 Æí ¤½ ¤Å ¤¤  19 11  5 Æì 0 00000000
+C6EE 4D61 Æî ¤½ ¤Å ¤©  19 11  9 Æì 0 00000000
+C6EF 4D61 Æï ¤½ ¤Å ¤±  19 11 17 Æì 0 00000000
+C6F0 4D61 Æð ¤½ ¤Å ¤²  19 11 19 Æì 0 00000000
+C6F1 4D61 Æñ ¤½ ¤Å ¤¶  19 11 22 Æì 0 00000000
+C6F2 4D61 Æò ¤½ ¤Å ¤·  19 11 23 Æì 0 00000000
+C6F3 4D81 Æó ¤½ ¤Æ     19 12  1 Æó 0 00000000
+C6F4 4D81 Æô ¤½ ¤Æ ¤©  19 12  9 Æó 0 00000000
+C6F5 4D81 Æõ ¤½ ¤Æ ¤²  19 12 19 Æó 0 00000000
+C6F6 4D81 Æö ¤½ ¤Æ ¤µ  19 12 21 Æó 0 00000000
+C6F7 4DA1 Æ÷ ¤½ ¤Ç     19 13  1 Æ÷ 0 00000000
+C6F8 4DA1 Æø ¤½ ¤Ç ¤¡  19 13  2 Æ÷ 0 00000000
+C6F9 4DA1 Æù ¤½ ¤Ç ¤¤  19 13  5 Æ÷ 0 00000000
+C6FA 4DA1 Æú ¤½ ¤Ç ¤©  19 13  9 Æ÷ 0 00000000
+C6FB 4DA1 Æû ¤½ ¤Ç ¤±  19 13 17 Æ÷ 0 00000000
+C6FC 4DA1 Æü ¤½ ¤Ç ¤²  19 13 19 Æ÷ 0 00000000
+C6FD 4DA1 Æý ¤½ ¤Ç ¤µ  19 13 21 Æ÷ 0 00000000
+C6FE 4DA1 Æþ ¤½ ¤Ç ¤·  19 13 23 Æ÷ 0 00000000
+C7A1 4DC1 Ç¡ ¤½ ¤È     19 14  1 Ç¡ 0 00000000
+C7A2 4DC1 Ç¢ ¤½ ¤È ¤·  19 14 23 Ç¡ 0 00000000
+C7A3 4E41 Ç£ ¤½ ¤Ê     19 18  1 Ç£ 0 00000000
+C7A4 4E41 Ç¤ ¤½ ¤Ê ¤¤  19 18  5 Ç£ 0 00000000
+C7A5 4E61 Ç¥ ¤½ ¤Ë     19 19  1 Ç¥ 0 00000000
+C7A6 4E61 Ç¦ ¤½ ¤Ë ¤¤  19 19  5 Ç¥ 0 00000000
+C7A7 4E61 Ç§ ¤½ ¤Ë ¤©  19 19  9 Ç¥ 0 00000000
+C7A8 4E61 Ç¨ ¤½ ¤Ë ¤²  19 19 19 Ç¥ 0 00000000
+C7A9 4E61 Ç© ¤½ ¤Ë ¤µ  19 19 21 Ç¥ 0 00000000
+C7AA 4E81 Çª ¤½ ¤Ì     19 20  1 Çª 0 00000000
+C7AB 4E81 Ç« ¤½ ¤Ì ¤¡  19 20  2 Çª 0 00000000
+C7AC 4E81 Ç¬ ¤½ ¤Ì ¤¤  19 20  5 Çª 0 00000000
+C7AD 4E81 Ç­ ¤½ ¤Ì ¤§  19 20  8 Çª 0 00000000
+C7AE 4E81 Ç® ¤½ ¤Ì ¤©  19 20  9 Çª 0 00000000
+C7AF 4E81 Ç¯ ¤½ ¤Ì ¤«  19 20 11 Çª 0 00000000
+C7B0 4E81 Ç° ¤½ ¤Ì ¤±  19 20 17 Çª 0 00000000
+C7B1 4E81 Ç± ¤½ ¤Ì ¤²  19 20 19 Çª 0 00000000
+C7B2 4E81 Ç² ¤½ ¤Ì ¤µ  19 20 21 Çª 0 00000000
+C7B3 4E81 Ç³ ¤½ ¤Ì ¤·  19 20 23 Çª 0 00000000
+C7B4 4EA1 Ç´ ¤½ ¤Í     19 21  1 Ç´ 0 00000000
+C7B5 4EA1 Çµ ¤½ ¤Í ¤·  19 21 23 Ç´ 0 00000000
+C7B6 4EE1 Ç¶ ¤½ ¤Ï     19 23  1 Ç¶ 0 00000000
+C7B7 4EE1 Ç· ¤½ ¤Ï ¤¤  19 23  5 Ç¶ 0 00000000
+C7B8 4EE1 Ç¸ ¤½ ¤Ï ¤©  19 23  9 Ç¶ 0 00000000
+C7B9 4EE1 Ç¹ ¤½ ¤Ï ¤±  19 23 17 Ç¶ 0 00000000
+C7BA 4EE1 Çº ¤½ ¤Ï ¤µ  19 23 21 Ç¶ 0 00000000
+C7BB 4F41 Ç» ¤½ ¤Ð     19 26  1 Ç» 0 00000000
+C7BC 4F41 Ç¼ ¤½ ¤Ð ¤¤  19 26  5 Ç» 0 00000000
+C7BD 4F41 Ç½ ¤½ ¤Ð ¤©  19 26  9 Ç» 0 00000000
+C7BE 4F41 Ç¾ ¤½ ¤Ð ¤±  19 26 17 Ç» 0 00000000
+C7BF 4F41 Ç¿ ¤½ ¤Ð ¤µ  19 26 21 Ç» 0 00000000
+C7C0 4F41 ÇÀ ¤½ ¤Ð ¤·  19 26 23 Ç» 0 00000000
+C7C1 4F61 ÇÁ ¤½ ¤Ñ     19 27  1 ÇÁ 0 00000000
+C7C2 4F61 ÇÂ ¤½ ¤Ñ ¤¤  19 27  5 ÇÁ 0 00000000
+C7C3 4F61 ÇÃ ¤½ ¤Ñ ¤©  19 27  9 ÇÁ 0 00000000
+C7C4 4F61 ÇÄ ¤½ ¤Ñ ¤±  19 27 17 ÇÁ 0 00000000
+C7C5 4F61 ÇÅ ¤½ ¤Ñ ¤²  19 27 19 ÇÁ 0 00000000
+C7C6 4F61 ÇÆ ¤½ ¤Ñ ¤µ  19 27 21 ÇÁ 0 00000000
+C7C7 4FA1 ÇÇ ¤½ ¤Ó     19 29  1 ÇÇ 0 00000000
+C7C8 4FA1 ÇÈ ¤½ ¤Ó ¤¡  19 29  2 ÇÇ 0 00000000
+C7C9 4FA1 ÇÉ ¤½ ¤Ó ¤¤  19 29  5 ÇÇ 0 00000000
+C7CA 4FA1 ÇÊ ¤½ ¤Ó ¤©  19 29  9 ÇÇ 0 00000000
+C7CB 4FA1 ÇË ¤½ ¤Ó ¤±  19 29 17 ÇÇ 0 00000000
+C7CC 4FA1 ÇÌ ¤½ ¤Ó ¤²  19 29 19 ÇÇ 0 00000000
+C7CD 4FA1 ÇÍ ¤½ ¤Ó ¤µ  19 29 21 ÇÇ 0 00000000
+C7CE 4FA1 ÇÎ ¤½ ¤Ó ¤·  19 29 23 ÇÇ 0 00000000
+C7CF 5061 ÇÏ ¤¾ ¤¿     20  3  1 ÇÏ 0 00000003
+C7D0 5061 ÇÐ ¤¾ ¤¿ ¤¡  20  3  2 ÇÏ 0 00000000
+C7D1 5061 ÇÑ ¤¾ ¤¿ ¤¤  20  3  5 ÇÏ 0 00000003
+C7D2 5061 ÇÒ ¤¾ ¤¿ ¤©  20  3  9 ÇÏ 0 00000000
+C7D3 5061 ÇÓ ¤¾ ¤¿ ¤®  20  3 14 ÇÏ 0 00000000
+C7D4 5061 ÇÔ ¤¾ ¤¿ ¤±  20  3 17 ÇÏ 0 00000000
+C7D5 5061 ÇÕ ¤¾ ¤¿ ¤²  20  3 19 ÇÏ 0 00000000
+C7D6 5061 ÇÖ ¤¾ ¤¿ ¤µ  20  3 21 ÇÏ 0 00000000
+C7D7 5061 Ç× ¤¾ ¤¿ ¤·  20  3 23 ÇÏ 0 00000000
+C7D8 5081 ÇØ ¤¾ ¤À     20  4  1 ÇØ 0 00000000
+C7D9 5081 ÇÙ ¤¾ ¤À ¤¡  20  4  2 ÇØ 0 00000000
+C7DA 5081 ÇÚ ¤¾ ¤À ¤¤  20  4  5 ÇØ 0 00000000
+C7DB 5081 ÇÛ ¤¾ ¤À ¤©  20  4  9 ÇØ 0 00000000
+C7DC 5081 ÇÜ ¤¾ ¤À ¤±  20  4 17 ÇØ 0 00000000
+C7DD 5081 ÇÝ ¤¾ ¤À ¤²  20  4 19 ÇØ 0 00000000
+C7DE 5081 ÇÞ ¤¾ ¤À ¤µ  20  4 21 ÇØ 0 00000000
+C7DF 5081 Çß ¤¾ ¤À ¤¶  20  4 22 ÇØ 0 00000000
+C7E0 5081 Çà ¤¾ ¤À ¤·  20  4 23 ÇØ 0 00000000
+C7E1 50A1 Çá ¤¾ ¤Á     20  5  1 Çá 0 00000000
+C7E2 50A1 Çâ ¤¾ ¤Á ¤·  20  5 23 Çá 0 00000000
+C7E3 50E1 Çã ¤¾ ¤Ã     20  7  1 Çã 0 00000000
+C7E4 50E1 Çä ¤¾ ¤Ã ¤¡  20  7  2 Çã 0 00000000
+C7E5 50E1 Çå ¤¾ ¤Ã ¤¤  20  7  5 Çã 0 00000000
+C7E6 50E1 Çæ ¤¾ ¤Ã ¤©  20  7  9 Çã 0 00000000
+C7E7 50E1 Çç ¤¾ ¤Ã ¤«  20  7 11 Çã 0 00000000
+C7E8 50E1 Çè ¤¾ ¤Ã ¤±  20  7 17 Çã 0 00000000
+C7E9 50E1 Çé ¤¾ ¤Ã ¤²  20  7 19 Çã 0 00000000
+C7EA 50E1 Çê ¤¾ ¤Ã ¤µ  20  7 21 Çã 0 00000000
+C7EB 50E1 Çë ¤¾ ¤Ã ¤·  20  7 23 Çã 0 00000000
+C7EC 5141 Çì ¤¾ ¤Ä     20 10  1 Çì 0 00000000
+C7ED 5141 Çí ¤¾ ¤Ä ¤¡  20 10  2 Çì 0 00000000
+C7EE 5141 Çî ¤¾ ¤Ä ¤¤  20 10  5 Çì 0 00000000
+C7EF 5141 Çï ¤¾ ¤Ä ¤©  20 10  9 Çì 0 00000000
+C7F0 5141 Çð ¤¾ ¤Ä ¤±  20 10 17 Çì 0 00000000
+C7F1 5141 Çñ ¤¾ ¤Ä ¤²  20 10 19 Çì 0 00000000
+C7F2 5141 Çò ¤¾ ¤Ä ¤µ  20 10 21 Çì 0 00000000
+C7F3 5141 Çó ¤¾ ¤Ä ¤·  20 10 23 Çì 0 00000000
+C7F4 5161 Çô ¤¾ ¤Å     20 11  1 Çô 0 00000000
+C7F5 5161 Çõ ¤¾ ¤Å ¤¡  20 11  2 Çô 0 00000000
+C7F6 5161 Çö ¤¾ ¤Å ¤¤  20 11  5 Çô 0 00000000
+C7F7 5161 Ç÷ ¤¾ ¤Å ¤©  20 11  9 Çô 0 00000000
+C7F8 5161 Çø ¤¾ ¤Å ¤±  20 11 17 Çô 0 00000000
+C7F9 5161 Çù ¤¾ ¤Å ¤²  20 11 19 Çô 0 00000000
+C7FA 5161 Çú ¤¾ ¤Å ¤µ  20 11 21 Çô 0 00000000
+C7FB 5161 Çû ¤¾ ¤Å ¤¶  20 11 22 Çô 0 00000000
+C7FC 5161 Çü ¤¾ ¤Å ¤·  20 11 23 Çô 0 00000000
+C7FD 5181 Çý ¤¾ ¤Æ     20 12  1 Çý 0 00000000
+C7FE 5181 Çþ ¤¾ ¤Æ ¤¤  20 12  5 Çý 0 00000000
+C8A1 5181 È¡ ¤¾ ¤Æ ¤©  20 12  9 Çý 0 00000000
+C8A2 5181 È¢ ¤¾ ¤Æ ¤²  20 12 19 Çý 0 00000000
+C8A3 51A1 È£ ¤¾ ¤Ç     20 13  1 È£ 0 00000000
+C8A4 51A1 È¤ ¤¾ ¤Ç ¤¡  20 13  2 È£ 0 00000000
+C8A5 51A1 È¥ ¤¾ ¤Ç ¤¤  20 13  5 È£ 0 00000000
+C8A6 51A1 È¦ ¤¾ ¤Ç ¤©  20 13  9 È£ 0 00000000
+C8A7 51A1 È§ ¤¾ ¤Ç ¤®  20 13 14 È£ 0 00000000
+C8A8 51A1 È¨ ¤¾ ¤Ç ¤±  20 13 17 È£ 0 00000000
+C8A9 51A1 È© ¤¾ ¤Ç ¤²  20 13 19 È£ 0 00000000
+C8AA 51A1 Èª ¤¾ ¤Ç ¤µ  20 13 21 È£ 0 00000000
+C8AB 51A1 È« ¤¾ ¤Ç ¤·  20 13 23 È£ 0 00000000
+C8AC 51A1 È¬ ¤¾ ¤Ç ¤¼  20 13 27 È£ 0 00000000
+C8AD 51C1 È­ ¤¾ ¤È     20 14  1 È­ 0 00000000
+C8AE 51C1 È® ¤¾ ¤È ¤¡  20 14  2 È­ 0 00000000
+C8AF 51C1 È¯ ¤¾ ¤È ¤¤  20 14  5 È­ 0 00000000
+C8B0 51C1 È° ¤¾ ¤È ¤©  20 14  9 È­ 0 00000000
+C8B1 51C1 È± ¤¾ ¤È ¤µ  20 14 21 È­ 0 00000000
+C8B2 51C1 È² ¤¾ ¤È ¤·  20 14 23 È­ 0 00000000
+C8B3 51E1 È³ ¤¾ ¤É     20 15  1 È³ 0 00000000
+C8B4 51E1 È´ ¤¾ ¤É ¤¡  20 15  2 È³ 0 00000000
+C8B5 51E1 Èµ ¤¾ ¤É ¤¤  20 15  5 È³ 0 00000000
+C8B6 51E1 È¶ ¤¾ ¤É ¤µ  20 15 21 È³ 0 00000000
+C8B7 51E1 È· ¤¾ ¤É ¤·  20 15 23 È³ 0 00000000
+C8B8 5241 È¸ ¤¾ ¤Ê     20 18  1 È¸ 0 00000000
+C8B9 5241 È¹ ¤¾ ¤Ê ¤¡  20 18  2 È¸ 0 00000000
+C8BA 5241 Èº ¤¾ ¤Ê ¤¤  20 18  5 È¸ 0 00000000
+C8BB 5241 È» ¤¾ ¤Ê ¤©  20 18  9 È¸ 0 00000000
+C8BC 5241 È¼ ¤¾ ¤Ê ¤²  20 18 19 È¸ 0 00000000
+C8BD 5241 È½ ¤¾ ¤Ê ¤µ  20 18 21 È¸ 0 00000000
+C8BE 5241 È¾ ¤¾ ¤Ê ¤·  20 18 23 È¸ 0 00000000
+C8BF 5261 È¿ ¤¾ ¤Ë     20 19  1 È¿ 0 00000000
+C8C0 5261 ÈÀ ¤¾ ¤Ë ¤¤  20 19  5 È¿ 0 00000000
+C8C1 5261 ÈÁ ¤¾ ¤Ë ¤©  20 19  9 È¿ 0 00000000
+C8C2 5261 ÈÂ ¤¾ ¤Ë ¤²  20 19 19 È¿ 0 00000000
+C8C3 5261 ÈÃ ¤¾ ¤Ë ¤µ  20 19 21 È¿ 0 00000000
+C8C4 5281 ÈÄ ¤¾ ¤Ì     20 20  1 ÈÄ 0 00000000
+C8C5 5281 ÈÅ ¤¾ ¤Ì ¤¡  20 20  2 ÈÄ 0 00000000
+C8C6 5281 ÈÆ ¤¾ ¤Ì ¤¤  20 20  5 ÈÄ 0 00000000
+C8C7 5281 ÈÇ ¤¾ ¤Ì ¤©  20 20  9 ÈÄ 0 00000000
+C8C8 5281 ÈÈ ¤¾ ¤Ì ¤®  20 20 14 ÈÄ 0 00000000
+C8C9 5281 ÈÉ ¤¾ ¤Ì ¤±  20 20 17 ÈÄ 0 00000000
+C8CA 5281 ÈÊ ¤¾ ¤Ì ¤µ  20 20 21 ÈÄ 0 00000000
+C8CB 5281 ÈË ¤¾ ¤Ì ¤·  20 20 23 ÈÄ 0 00000000
+C8CC 52A1 ÈÌ ¤¾ ¤Í     20 21  1 ÈÌ 0 00000000
+C8CD 52A1 ÈÍ ¤¾ ¤Í ¤¤  20 21  5 ÈÌ 0 00000000
+C8CE 52A1 ÈÎ ¤¾ ¤Í ¤©  20 21  9 ÈÌ 0 00000000
+C8CF 52A1 ÈÏ ¤¾ ¤Í ¤±  20 21 17 ÈÌ 0 00000000
+C8D0 52A1 ÈÐ ¤¾ ¤Í ¤·  20 21 23 ÈÌ 0 00000000
+C8D1 52C1 ÈÑ ¤¾ ¤Î     20 22  1 ÈÑ 0 00000000
+C8D2 52C1 ÈÒ ¤¾ ¤Î ¤¡  20 22  2 ÈÑ 0 00000000
+C8D3 52C1 ÈÓ ¤¾ ¤Î ¤¤  20 22  5 ÈÑ 0 00000000
+C8D4 52C1 ÈÔ ¤¾ ¤Î ¤©  20 22  9 ÈÑ 0 00000000
+C8D5 52C1 ÈÕ ¤¾ ¤Î ¤·  20 22 23 ÈÑ 0 00000000
+C8D6 52E1 ÈÖ ¤¾ ¤Ï     20 23  1 ÈÖ 0 00000000
+C8D7 52E1 È× ¤¾ ¤Ï ¤¡  20 23  2 ÈÖ 0 00000000
+C8D8 52E1 ÈØ ¤¾ ¤Ï ¤¤  20 23  5 ÈÖ 0 00000000
+C8D9 52E1 ÈÙ ¤¾ ¤Ï ¤©  20 23  9 ÈÖ 0 00000000
+C8DA 52E1 ÈÚ ¤¾ ¤Ï ¤±  20 23 17 ÈÖ 0 00000000
+C8DB 52E1 ÈÛ ¤¾ ¤Ï ¤²  20 23 19 ÈÖ 0 00000000
+C8DC 52E1 ÈÜ ¤¾ ¤Ï ¤µ  20 23 21 ÈÖ 0 00000000
+C8DD 52E1 ÈÝ ¤¾ ¤Ï ¤·  20 23 23 ÈÖ 0 00000000
+C8DE 5341 ÈÞ ¤¾ ¤Ð     20 26  1 ÈÞ 0 00000000
+C8DF 5341 Èß ¤¾ ¤Ð ¤¡  20 26  2 ÈÞ 0 00000000
+C8E0 5341 Èà ¤¾ ¤Ð ¤¤  20 26  5 ÈÞ 0 00000000
+C8E1 5341 Èá ¤¾ ¤Ð ¤©  20 26  9 ÈÞ 0 00000000
+C8E2 5341 Èâ ¤¾ ¤Ð ¤±  20 26 17 ÈÞ 0 00000000
+C8E3 5341 Èã ¤¾ ¤Ð ¤µ  20 26 21 ÈÞ 0 00000000
+C8E4 5341 Èä ¤¾ ¤Ð ¤·  20 26 23 ÈÞ 0 00000000
+C8E5 5361 Èå ¤¾ ¤Ñ     20 27  1 Èå 0 00000000
+C8E6 5361 Èæ ¤¾ ¤Ñ ¤¡  20 27  2 Èå 0 00000000
+C8E7 5361 Èç ¤¾ ¤Ñ ¤¤  20 27  5 Èå 0 00000000
+C8E8 5361 Èè ¤¾ ¤Ñ ¤¦  20 27  7 Èå 0 00000000
+C8E9 5361 Èé ¤¾ ¤Ñ ¤§  20 27  8 Èå 0 00000000
+C8EA 5361 Èê ¤¾ ¤Ñ ¤©  20 27  9 Èå 0 00000000
+C8EB 5361 Èë ¤¾ ¤Ñ ¤ª  20 27 10 Èå 0 00000000
+C8EC 5361 Èì ¤¾ ¤Ñ ¤±  20 27 17 Èå 0 00000000
+C8ED 5361 Èí ¤¾ ¤Ñ ¤²  20 27 19 Èå 0 00000000
+C8EE 5361 Èî ¤¾ ¤Ñ ¤µ  20 27 21 Èå 0 00000000
+C8EF 5361 Èï ¤¾ ¤Ñ ¤·  20 27 23 Èå 0 00000000
+C8F0 5361 Èð ¤¾ ¤Ñ ¤¼  20 27 27 Èå 0 00000000
+C8F1 5381 Èñ ¤¾ ¤Ò     20 28  1 Èñ 0 00000000
+C8F2 5381 Èò ¤¾ ¤Ò ¤¤  20 28  5 Èñ 0 00000000
+C8F3 5381 Èó ¤¾ ¤Ò ¤©  20 28  9 Èñ 0 00000000
+C8F4 5381 Èô ¤¾ ¤Ò ¤±  20 28 17 Èñ 0 00000000
+C8F5 5381 Èõ ¤¾ ¤Ò ¤²  20 28 19 Èñ 0 00000000
+C8F6 5381 Èö ¤¾ ¤Ò ¤·  20 28 23 Èñ 0 00000000
+C8F7 53A1 È÷ ¤¾ ¤Ó     20 29  1 È÷ 0 00000000
+C8F8 53A1 Èø ¤¾ ¤Ó ¤¡  20 29  2 È÷ 0 00000000
+C8F9 53A1 Èù ¤¾ ¤Ó ¤¤  20 29  5 È÷ 0 00000000
+C8FA 53A1 Èú ¤¾ ¤Ó ¤©  20 29  9 È÷ 0 00000000
+C8FB 53A1 Èû ¤¾ ¤Ó ¤±  20 29 17 È÷ 0 00000000
+C8FC 53A1 Èü ¤¾ ¤Ó ¤²  20 29 19 È÷ 0 00000000
+C8FD 53A1 Èý ¤¾ ¤Ó ¤µ  20 29 21 È÷ 0 00000000
+C8FE 53A1 Èþ ¤¾ ¤Ó ¤·  20 29 23 È÷ 0 00000000
+A4A1 841 ¤¡ ¤¡         2  2  1 0 00000000
+A4A2 C41 ¤¢ ¤¢         3  2  1 0 00000000
+A4A3 441 ¤£       ¤£   1  2  4 0 00000000
+A4A4 1041 ¤¤ ¤¤         4  2  1 0 00000005
+A4A5 441 ¤¥       ¤¥   1  2  6 0 00000000
+A4A6 441 ¤¦       ¤¦   1  2  7 0 00000000
+A4A7 1441 ¤§ ¤§         5  2  1 0 00000000
+A4A8 1841 ¤¨ ¤¨         6  2  1 0 00000000
+A4A9 1C41 ¤© ¤©         7  2  1 0 00000005
+A4AA 441 ¤ª       ¤ª   1  2 10 0 00000000
+A4AB 441 ¤«       ¤«   1  2 11 0 00000000
+A4AC 441 ¤¬       ¤¬   1  2 12 0 00000000
+A4AD 441 ¤­       ¤­   1  2 13 0 00000000
+A4AE 441 ¤®       ¤®   1  2 14 0 00000000
+A4AF 441 ¤¯       ¤¯   1  2 15 0 00000000
+A4B0 441 ¤°       ¤°   1  2 16 0 00000000
+A4B1 2041 ¤± ¤±         8  2  1 0 00000004
+A4B2 2441 ¤² ¤²         9  2  1 0 00000004
+A4B3 2841 ¤³ ¤³        10  2  1 0 00000000
+A4B4 441 ¤´       ¤´   1  2 20 0 00000000
+A4B5 2C41 ¤µ ¤µ        11  2  1 0 00000000
+A4B6 3041 ¤¶ ¤¶        12  2  1 0 00000000
+A4B7 3441 ¤· ¤·        13  2  1 0 00000000
+A4B8 3841 ¤¸ ¤¸        14  2  1 0 00000000
+A4B9 3C41 ¤¹ ¤¹        15  2  1 0 00000000
+A4BA 4041 ¤º ¤º        16  2  1 0 00000000
+A4BB 4441 ¤» ¤»        17  2  1 0 00000000
+A4BC 4841 ¤¼ ¤¼        18  2  1 0 00000000
+A4BD 4C41 ¤½ ¤½        19  2  1 0 00000000
+A4BE 5041 ¤¾ ¤¾        20  2  1 0 00000000
+A4BF 461 ¤¿    ¤¿      1  3  1 0 00000000
+A4C0 481 ¤À    ¤À      1  4  1 0 00000000
+A4C1 4A1 ¤Á    ¤Á      1  5  1 0 00000000
+A4C2 4C1 ¤Â    ¤Â      1  6  1 0 00000000
+A4C3 4E1 ¤Ã    ¤Ã      1  7  1 0 00000000
+A4C4 541 ¤Ä    ¤Ä      1 10  1 0 00000000
+A4C5 561 ¤Å    ¤Å      1 11  1 0 00000000
+A4C6 581 ¤Æ    ¤Æ      1 12  1 0 00000000
+A4C7 5A1 ¤Ç    ¤Ç      1 13  1 0 00000000
+A4C8 5C1 ¤È    ¤È      1 14  1 0 00000000
+A4C9 5E1 ¤É    ¤É      1 15  1 0 00000000
+A4CA 641 ¤Ê    ¤Ê      1 18  1 0 00000000
+A4CB 661 ¤Ë    ¤Ë      1 19  1 0 00000000
+A4CC 681 ¤Ì    ¤Ì      1 20  1 0 00000000
+A4CD 6A1 ¤Í    ¤Í      1 21  1 0 00000000
+A4CE 6C1 ¤Î    ¤Î      1 22  1 0 00000000
+A4CF 6E1 ¤Ï    ¤Ï      1 23  1 0 00000000
+A4D0 741 ¤Ð    ¤Ð      1 26  1 0 00000000
+A4D1 761 ¤Ñ    ¤Ñ      1 27  1 0 00000000
+A4D2 781 ¤Ò    ¤Ò      1 28  1 0 00000000
+A4D3 7A1 ¤Ó    ¤Ó      1 29  1 0 00000000

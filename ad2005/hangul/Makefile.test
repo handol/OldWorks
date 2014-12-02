@@ -1,0 +1,26 @@
+## handol@gmail.com
+CC = g++ 
+DEFS = -DNO_MSSQL
+INCS = -I../lib -I../dblib -I../netlib -I../extract -I$(ACE_ROOT)
+CFLAGS = -g -Wall $(DEFS) $(INCS)
+LFLAGS = -g -L../lib -lMylib -L../dblib -lDblib -L$(ACE_ROOT)/lib -lACE
+
+EXE = htest
+OBJ =  HanChar.o HDict.o HStem.o HGram.o \
+ hangulMain.o 
+
+SRC = $(OBJ:.o=.cpp)
+
+all: $(EXE)
+
+#$(OBJ): $(SRC)
+.cpp.o:
+	$(CC) $(CFLAGS) -c $*.cpp
+
+$(EXE): $(OBJ)
+	$(CC) -o $@ $(OBJ) $(EXT) $(LFLAGS)
+
+clean:
+	/bin/rm *.o $(EXE)
+	
+

@@ -1,0 +1,199 @@
+<HTML>
+<HEAD>
+  <TITLE>생생 예문 AnyDict Harvester</TITLE>
+</HEAD>
+
+<BODY text=#000000 vLink=#0000cc aLink=#ff0000 link=#0000cc bgColor=#ffffff>
+
+  <center>
+  <FONT color=#000000><B> AnyDict Harvester : 문서 수집기  </B></FONT>
+  </center>
+  
+  </br> </br> 
+  
+  
+  
+  <FORM name=adform action="http://127.0.0.1:9010/harvest">
+ 	  수집 대상 <INPUT maxLength=256 size=100 value="http://www.anydict.com" name=expr> <br/><br/>
+ 	  결과 바로 받기 <INPUT size=2 name="early" value=0> &nbsp; &nbsp;
+ 	  디버그 모드 <INPUT size=2 name="debug" value=0> &nbsp; &nbsp;
+ 	  <input name="" type="submit" value="요청">
+  </FORM>
+  
+  </br> </br>
+  <FORM name=adform action="http://127.0.0.1:9010/get">
+ 	  테스트: URL <INPUT maxLength=256 size=60   value="http://www.anydict.com" name=expr> &nbsp;
+ 	  <INPUT type=hidden name="debug" value=1>
+ 	  <input name="" type="submit" value="요청">
+  </FORM>
+           
+    
+   </br> </br> 
+
+<div class=Section1 style='layout-grid:18.0pt'>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-indent:-20.0pt;mso-list:l1 level2 lfo2;
+tab-stops:list 60.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:8.0pt;font-family:굴림체'>기본적으로는
+주어진<span lang=EN-US> URL (<b style='mso-bidi-font-weight:normal'>root URL</b>)</span>의
+문서 하나만 가져 온다<span lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-indent:-20.0pt;mso-list:l1 level2 lfo2;
+tab-stops:list 60.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
+font-family:굴림체'>Root URL</span><span style='font-size:8.0pt;font-family:굴림체'>의
+문서 내에 포함된<span lang=EN-US> link</span>들의 문서를 가져오기 위해서는 ‘<span lang=EN-US>-D</span>’<span
+lang=EN-US> d</span>옵션을 사용한다<span lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-indent:-20.0pt;mso-list:l1 level2 lfo2;
+tab-stops:list 60.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+style='font-size:8.0pt;font-family:굴림체'>&#8211;<span lang=EN-US>D </span><span
+class=GramE>숫자<span lang=EN-US style='font-weight:normal'> :</span></span></span></b><span
+lang=EN-US style='font-size:8.0pt;font-family:굴림체'> </span><span
+style='font-size:8.0pt;font-family:굴림체'>주어진 숫자는<span lang=EN-US> depth</span>를 의미한다<span
+lang=EN-US>. Link</span>는 몇<span lang=EN-US> depth</span>까지 따라갈 것인지 지정하는 것이다<span
+lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-indent:-20.0pt;mso-list:l1 level2 lfo2;
+tab-stops:list 60.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+style='font-size:8.0pt;font-family:굴림체'>&#8211;<span lang=EN-US>m </span>숫자</span></b><span
+lang=EN-US style='font-size:8.0pt;font-family:굴림체'>: </span><span
+style='font-size:8.0pt;font-family:굴림체'>하나의 웹 문서에서 추출하는 하위 링크의 최대 개수<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-indent:-20.0pt;mso-list:l1 level2 lfo2;
+tab-stops:list 60.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+style='font-size:8.0pt;font-family:굴림체'>&#8211;<span lang=EN-US>M </span>숫자</span></b><span
+lang=EN-US style='font-size:8.0pt;font-family:굴림체'>: </span><span
+style='font-size:8.0pt;font-family:굴림체'>한번의 문서 수집 실행에서 최대로 수집할 수 있는 문서의 최대 개수<span
+lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-indent:-20.0pt;mso-list:l3 level1 lfo4;
+tab-stops:list 60.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+style='font-size:8.0pt;font-family:굴림체'>&#8211;<span lang=EN-US>I </span><span
+class=SpellE>디렉토리목록</span></span></b><span lang=EN-US style='font-size:8.0pt;
+font-family:굴림체'>: </span><span style='font-size:8.0pt;font-family:굴림체'>기본적으로는<span
+lang=EN-US> root URL</span>에 주어진<span lang=EN-US> path </span>아래의<span
+lang=EN-US> <span class=SpellE>url</span></span>주소만 따라간다<span lang=EN-US>. </span><span
+class=SpellE>예을들어</span><span lang=EN-US> www.cnn.com/ASIA </span>인 경우<span
+lang=EN-US>, /ASIA </span>하위의 <span class=SpellE>디렉토리만</span><span lang=EN-US>
+link</span>를 따라간다<span lang=EN-US>. </span><span class=SpellE>그외</span> <span
+class=SpellE>디렉토리를</span> 포함하고자 한다면 ‘<span lang=EN-US>-I</span>’<span
+class=SpellE>로</span> 지정을 하여야 한다<span lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:80.0pt;text-indent:-20.0pt;mso-list:l5 level3 lfo6;
+tab-stops:list 80.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
+font-family:굴림체'>Include</span><span style='font-size:8.0pt;font-family:굴림체'>의 의미<span
+lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:80.0pt;text-indent:-20.0pt;mso-list:l5 level3 lfo6;
+tab-stops:list 80.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=SpellE><span class=GramE><span
+style='font-size:8.0pt;font-family:굴림체'>디렉토리목록은</span></span></span><span
+class=GramE><span lang=EN-US style='font-size:8.0pt;font-family:굴림체'><span
+style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-size:8.0pt;
+font-family:굴림체'>코마</span></span><span style='font-size:8.0pt;font-family:굴림체'>
+기호<span lang=EN-US>(</span>‘<span lang=EN-US>,</span>’<span lang=EN-US>)</span>로
+나열한다<span lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:80.0pt;text-indent:-20.0pt;mso-list:l5 level3 lfo6;
+tab-stops:list 80.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:8.0pt;font-family:굴림체'>예<span
+lang=EN-US>) -I /2005/WORLD<span class=GramE>,/</span>WORLD<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-indent:-20.0pt;mso-list:l2 level2 lfo8;
+tab-stops:list 60.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:8.0pt;font-family:굴림체'>-X </span></b><span
+class=SpellE><b style='mso-bidi-font-weight:normal'><span style='font-size:
+8.0pt;font-family:굴림체'>디렉토리목록</span></b></span><span lang=EN-US
+style='font-size:8.0pt;font-family:굴림체'>: </span><span style='font-size:8.0pt;
+font-family:굴림체'>특정 <span class=SpellE>디렉토리를</span> 제외<span lang=EN-US>(Exclude)</span>하기
+위한 옵션이다<span lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:100.0pt;text-indent:-20.0pt;mso-list:
+l2 level4 lfo8;tab-stops:list 100.0pt'><![if !supportLists]><span lang=EN-US
+style='font-size:8.0pt;font-family:굴림체;mso-bidi-font-family:굴림체'><span
+style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:8.0pt;font-family:굴림체'>예<span
+lang=EN-US>) www.cnn.com/ASIA -D 1 -X /ASIA/Japan<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:100.0pt;text-indent:-20.0pt;mso-list:
+l2 level4 lfo8;tab-stops:list 100.0pt'><![if !supportLists]><span lang=EN-US
+style='font-size:8.0pt;font-family:굴림체;mso-bidi-font-family:굴림체'><span
+style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
+font-family:굴림체'>ASIA</span><span style='font-size:8.0pt;font-family:굴림체'>내용 중<span
+lang=EN-US> Japan</span>내용은 제외하고자 하는 것<span lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-indent:-20.0pt;mso-list:l4 level1 lfo10;
+tab-stops:list 60.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:8.0pt;font-family:굴림체'>실행
+주의 사항<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:80.0pt;text-indent:-20.0pt;mso-list:l6 level3 lfo11;
+tab-stops:list 80.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
+font-family:굴림체'><a href="http://www.cnn.com/ASIA/">www.cnn.com/ASIA/</a> </span><span
+style='font-size:8.0pt;font-family:굴림체'>에서는<span lang=EN-US> ASIA</span>를 <span
+class=SpellE>디렉토리로</span> 인식하여<span lang=EN-US> D=1 </span>이상인 경우 하위 링크를 따라간다<span
+lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:80.0pt;text-indent:-20.0pt;mso-list:l6 level3 lfo11;
+tab-stops:list 80.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+8.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
+font-family:굴림체'><a href="http://www.cnn.com/ASIA">www.cnn.com/ASIA</a> </span><span
+style='font-size:8.0pt;font-family:굴림체'>에서는<span lang=EN-US> ASIA</span>를 <span
+class=SpellE>화일로</span> 인식하여 하위 링크를 따라가지 않는다<span lang=EN-US>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:8.0pt'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+
+<TABLE width="100%" align=center valign="middle">
+  <TBODY>  
+  <TR vAlign=center align=middle>
+    <TD><FONT 
+      size=-1>&copy;2002,2005 All Rights Reserved. &nbsp; 
+      <A href="http://www.inisoft.co.kr" target=new>
+      <IMG src="http://www.anydic.com/img/inisoft.jpg" border=0 valign="middle"> 
+      </A></FONT>
+  </TD></TR>
+</TBODY></TABLE>
+
+
+      
+</BODY>
+</HTML>

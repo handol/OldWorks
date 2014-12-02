@@ -1,0 +1,19 @@
+* About to connect() to anydic.com port 80
+*   Trying 211.219.22.227... * connected
+* Connected to anydic.com (211.219.22.227) port 80
+> GET / HTTP/1.1
+User-Agent: libcurl-agent/1.0
+Host: anydic.com
+Pragma: no-cache
+Accept: */*
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2005 10:05:38 GMT
+< Server: Apache/2.0.52 (Unix) mod_ssl/2.0.52 OpenSSL/0.9.7d DAV/2 SVN/1.1.1 PHP/4.3.8
+< Last-Modified: Mon, 13 Dec 2004 20:06:14 GMT
+< ETag: "b0048-fc4-d6217980"
+< Accept-Ranges: bytes
+< Content-Length: 4036
+< Content-Type: text/html; charset=EUC-KR
+* Connection #0 to host anydic.com left intact
+* Closing connection #0

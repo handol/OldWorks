@@ -1,0 +1,2731 @@
+o "/s'+선생님/nc+,/s, o 선생님/nc+./s.+"/s' o 하/pv+며/ecq o 내/m o 팔/nn+에/jca o 매달리/pv+는/exm o 아이/nc+들/xn+이/jc o 옷/nc+차림/nc+이/jc o 모두/a x 남루/nca+하/xpv+었/efp+다/ef+./s. 
+o "/s'+야/i+,/s, o 날씨/nc+가/jc o 너무/a o 화/nc+창/nc+하/xpa+구나/ef+!/s.+"/s'+하/pv+고/ecq o 그/npp+는/jx o 소리치/pv+었/efp+다/ef+./s. 
+x "/s'+한라산/nc+의/jcm x 명승은/nc o 오/pv+ㄴ/exm o 천하/nc+가/jc o 다/a o 알/pv+는/exm o 바/nb+이/jcp+ㄴ데도/ecs x 읍지/nc+를/jc o 보/pv+거나/ecq o 사람/nc+들/xn+의/jcm o 말/nc+을/jc o 들/pv+어/ecx o 보/px+면/ecs o 구경/nca+하/xpv+ㄴ/exm o 이/npd+가/jc o 아주/a o 적/pv+니/ecs+,/s, o 이/npd+는/jx o 못/a o 가/pv+는/exm o 것/nb+이/jcp+ㄴ가/ef+,/s, o 아니/pa+면/ecs o 가/pv+지/ecx o 않/px+는/exm o 것/nb+이/jcp+ㄴ가/ef+?/s.+"/s' 
+o '/s'+나/npp+는/jx o 살/pv+고/ecx o 싶/px+다/ef+./s.+'/s'+가/jc o 그/npp+의/jcm o 외치/pv+ㅁ/exn+이/jcp+었/efp+다/ef+./s. 
+o '/s'+먹/pv+다/ef+'/s'+가/jc o 바르/pa+ㄴ/exm o 대답/nc+이/jcp+다/ef+./s. 
+o '/s'+웃/pv+다/ef+'/s'+가/jc o 바르/pa+ㄴ/exm o 대답/nc+이/jcp+다/ef+./s. 
+o 1/nnn+학년/nc+도/jx o 수학/nc o 여행/nc+을/jc o 가/pv+게/ecx o 하/px+었/efp+다/ef+./s. 
+o 1/nnn o 번/nbu+부터/jx o 5/nnn x 번까지/nc+와/jj o 8/nnn o 번/nbu+부터/jx o 10/nnn o 번/nbu+까지는/jx o 아주/a o 쉽/pa+ㄴ/exm o 문제/nc+이/jcp+다/ef+./s. 
+o 100/nnn o 명/nbu+이나/jx o 모이/pv+었겠/efp+나/ef+?/s. 
+o 175.2/nnn o 이/md o 편지/nc+를/jc x 우체통/nc+에/jca o 넣/pv+어라/ef+./s. 
+o 1919/nnn+년/nbu o 3/nnn+월/nbu o 1/nnn+일/nbu+,/s, o 월요일/nct o 정오/nc+에/jca o 기/nc+미/nc o 독립/nc o 운동/nc+이/jc o 일/pv+어/ecx o 나/px+았/efp+다/ef+./s. 
+o 3/nnn+학년/nc o 2/nnn+반/nc+의/jcm x 영희/nc+와/jj o 그/md o 옆/nc o 반/nc+의/jcm x 순희/nc+는/jx x 어려서부터/nc o 달/pv+ㄴ/exm+짝/nb+이/jcp+었/efp+다/ef+./s. 
+o 3/nnn o 학년/nc o 학생/nc+들/xn+이/jc o 도서/nc+관/nc o 앞/nc o 청소/nc+를/jc o 하/pv+ㄴ다/ef+./s. 
+o 8/nnn+시/nbu+부터/jx o 일과/nc+가/jc o 시작/nca+되/xpv+ㄴ다/ef+./s. 
+o `/s`+가/px+다/ef+'/s'+가/jc x 정답/nc+이/jcp+다/ef+./s. 
+o `/s`+가/px+다/ef+'/s'+는/jx o 자동/nc+사이/nc+이/jcp+다/ef+./s. 
+o `/s`+나/npp+는/jx o 살/pv+고/ecx o 싶/px+다/ef+./s.+'/s'+가/jc o 그/npp+의/jcm o 외치/pv+ㅁ/exn+이/jcp+었/efp+다/ef+./s. 
+o `/s`+남/nq+의/jcm o 것/nb+'/s' o 추/pv+구/ecs o 말/pv+고/ecq o `/s`+우리/npp o 것/nb+'/s' o 찾/pv+라/ef+./s. 
+o `/s`+먹/pv+다/ef+'/s'+를/jc o 다르/pa+ㄴ/exm o 말/nc+로/jca o 바꾸/pv+어라/ef+./s. 
+o `/s`+빨리/a o 떠나/pv+ㅂ시다/ef+./s.+'/s'+라고/ecs o 재촉/nca+하/xpv+었/efp+다/ef+./s. 
+o `/s`+잡/pv+다/ef+'/s'+가/jc o 아니/pa+라/ecs+,/s, o `/s`+먹/pv+다/ef+'/s'+이/jcp+다/ef+./s. 
+o 가/pv+거나/ecq o 말/pv+거나/ecq o 상관없/pa+다/ef+./s. 
+o 가/nc+급/nbu+적/xn o 빨리/a o 오/pv+어라/ef+./s. 
+o 가/nc+급/nbu+적/xn o 피하/pv+어라/ef+./s. 
+o 가/pv+기/exn+는/jx x 간다마/nc+는/jx o 어디/npd+로/jca o 가/pv+ㄹ/exm o 것/nb+이/jcp+ㄴ가/ef+?/s. 
+o 가난/nc+은/jx o 결코/a o 환영/nca+하/xpv+ㄹ/exm o 것/nb+이/jc o 못/a o 되/pv+니/ecs+,/s, o 빨리/a o 잊/pv+ㄹ수록/ecs o 좋/pa+ㄴ/exm o 것/nb+이/jcp+ㄹ지도/ecs o 모르/pv+ㄴ다/ef+./s. 
+o 가난/ncs+하/xpa+ㄴ/exm o 집/nc x 제삿/nc+날/xn o 돌아오/pv+듯/ecs+./s. 
+o 가/pv+는/exm o 말/nc+이/jc o 곱/pa+아야/ecx o 오/px+는/exm o 말/nc+도/jx o 곱/pa+다/ef+./s. 
+o 가/pv+는/exm o 세월/nct+을/jc x 한탄/nc o 말고/jx x 부지런히/a o 일/nca+하/xpv+ㅂ시다/ef+./s. 
+o 가능/nca+하/xpv+면/ecs o 너/npp+와/jj o 함께/a o 가/pv+고/ecx o 싶/px+다/ef+./s. 
+o 가/pv+든지/ecq o 말/pv+든지/ecq o 마음/nc+대로/jca o 하/pv+어라/ef+./s. 
+o 가/pv+려는/exm o 이/npd+를/jc o 굳/pa+이/xa o 잡/pv+아/ecx x 무엇하겠소마/nc+는/jx o 기/nbu+나/pv+기/exn+는/jx o 이/md o 한/mn o 밤/nct+,/s, o 같이/a o 지/nb+새/nc+우려/nc o 하/pv+ㅂ니다/ef+./s. 
+o 가르치/pv+ㅁ/exn+을/jc o 펴/pv+고자/ecx o 생명/nc+을/jc o 버리/pv+ㄴ/exm o 그/npp+의/jcm o 행동/nc+은/jx x 감명/nc+을/jc o 주/pv+기/exn+에/jca o 부족/nca+하/xpv+ㅁ/exn+이/jc o 없/pa+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 가/pv+마/ef+를/jc o 잘/a o 손질/nca+하/xpv+어라/ef+./s. 
+o 가만히/a o 살짝/a o 이리/ad o 오/pv+어라/ef+./s. 
+o 가시/nc+는/jx o 걸음/nc o 걸음/nc o 놓이/pv+ㄴ/exm o 그/md o 꽃/nc+을/jc 
+o 가/pv+아야/ecx o 하/px+ㄹ/exm o 데/nb+부터/jx o 선정/nca+하/xpv+자/ef+./s. 
+o 가을/nct+이/jcp+면/ecs o 수학/nc o 여행/nc+을/jc o 가/pv+곤/ecx o 하/px+ㄴ다/ef+./s. 
+o 가을/nct o 하늘/nc+은/jx o 맑/pa+고/ecq o 푸르/pa+다/ef+./s. 
+o 가지/pv+고/ecx o 가/px+ㄹ/exm o 짐/nc+을/jc o 다/a o 싸/pa+았/efp+느냐/ef+?/s. 
+o 가/pv+ㅁ/exn+상/xn+을/jc o 적/pv+어/ecx o 두/px+다/ef+./s. 
+o 가/pv+ㅁ/exn+이/jcp+든지/ecq o 배/pv+든지/ecq o 주/px+어라/ef+./s. 
+o 값/nc+이/jc o 싸/pa+ㄴ/exm o 것/nb+도/jx o 좋/pa+습니다/ef+./s. 
+o 가/pv+았/efp+노라/ef+,/s, o 이기/pv+었/efp+노라/ef+!/s. 
+o 강/nc+물/nc+은/jx o 언제나/a o 유유/pa+히/xa o 흐르/pv+ㄴ다/ef+./s. 
+o 강/nc+물/nc+이/jc o 유유/pa+히/xa o 흐르/pv+ㄴ다/ef+./s. 
+o 강/nc+물/nc+이/jc o 흐르/pv+ㄴ다/ef+./s. 
+o 강/nc+산/nc+은/jx o 너무나/a o 아름답/pa+고/ecq x 소박/nca+하/xpv+었/efp+다/ef+./s. 
+o 강/nc+에/jca o 고기/nc+를/jc o 방류/nca+하/xpv+었/efp+다/ef+./s. 
+o 같이/a o 가/pv+시/efp+ㄹ까요/ef+?/s. 
+o 같이/a o 공부/nca+하/xpv+더/efp+ㄴ/exm o 친구/nc+가/jc o 몹시/a o 그립/pa+구나/ef+./s. 
+o 개/nc+가/jc o 다리/nc+를/jc o 다치/pv+었/efp+다/ef+./s. 
+o 개/pv+어/ecx+나/px+리/ef+가/jc o 피/pv+었/efp+다/ef+./s. 
+o 개/nc+밥/nc+의/jcm o 도토리/nc 
+o 개/nc+한테/jca o 물리/pv+었/efp+다/ef+./s. 
+o 거기/npd+이/jcp+라면/ecs o 저/npp+가/jc o 먼저/a o 가/pv+겠/efp+습니다/ef+./s. 
+o 거기/npd+서/jca o 무엇/npd+을/jc o 하/pv+느냐/ef+?/s. 
+o 거기/npd+에/jca o 가/pv+ㄹ/exm o 수/nb o 있/pa+다면/ecs o 얼마나/a o 좋/pa+ㄹ까/ef+?/s. 
+o 거기/ad o 가/pv+ㄴ/exm o 지/nb+가/jc o 벌써/a o 5/nnn+년/nbu+이/jc o 지나/pv+았/efp+다/ef+./s. 
+o 거기/ad o 가/pv+ㄴ/exm o 지/nb o 모르/pv+았/efp+다/ef+./s. 
+o 거리/nc+가/jc o 너무/a o 조용하/pa+다/ef+./s. 
+o 걷/pv+기/exn+도/jx o 잘/a o 하/pv+ㄴ다/ef+./s. 
+o 검/pa+ㄴ/exm o 빛깔/nc+의/jcm o 자동차/nc+가/jc o 많/pa+다/ef+./s. 
+o 검토/nca+하/xpv+ㄹ/exm o 시기/nc o 다르/pa+아/ef+./s. 
+o 겁/nc+을/jc o 느끼/pv+ㄴ다/ef+./s. 
+o 겁/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 이/jcp+게/ef+가/jc o 어디/npd x 삽/nc+나/jx+?/s. 
+o 겨우/a o 셋/nn+밖에/jx o 얻/pv+ㄹ/exm o 수/nb o 없/pa+었/efp+니/ef+?/s. 
+o 겨우/a o 셋/nn+을/jc o 얻/pv+어/ecx o 오/px+았/efp+다/ef+./s. 
+o 겨우/a o 셋/nn+이/jc o 그/npp+들/xn+과/jj x 겨룰/nc o 수/nb o 있/pa+겠/efp+니/ef+?/s. 
+o 겨우/a o 하나/nn+를/jc o 만들/pv+었/efp+다는/exm o 걸/pv+냐/ef+?/s. 
+o 겨우/a o 하나/nn+만/nn+을/jc o 가지/pv+어/ecx+오/px+았/efp+느냐/ef+?/s. 
+o 겨우/a o 하/pv+ㄴ/exm x 모금밖/nc+에/jca o 마시/pv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 겨울/nct o 날씨/nc+가/jc o 몹시/a o 따뜻하/pa+다/ef+./s. 
+o 결국/nc o 나무/nc+는/jx x 자라/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 결심/nc+이/jc o 서/pv+지/ecx o 않/px+아서/ecs o 우리/npp o 일/nc+에/jca o 가/nc+담/nc+하/xpa+지/ecx o 못하/px+겠/efp+다고/ecs o 하/pv+더/efp+ㄴ/exm o 그/npp+가/jc o 오히려/ajs x 우리보더/nc o 더/a o 열/nc+성적/nc+이/jcp+다/ef+./s. 
+x 경기마다/nc+의/jcm o 승리/nc+는/jx o 매우/a o 어렵/pa+다/ef+./s. 
+o 경제/nc o 발전/nc+,/s, o 우리/npp+는/jx o 이것/npd+을/jc o 하/pv+어/ecx+내/px+어야/ecs o 하/pv+ㄴ다/ef+./s. 
+o 경제/nc o 분야/nc+를/jc o 비롯하/pv+ㄴ/exm o 모든/m o 분야/nc+가/jc x 산업화/nca+되/xpv+었/efp+다/ef+./s. 
+o 경/nc+주/nbu o 지방/nc+에서/jca x 발굴/nca+되/xpv+ㄴ/exm x 금관은/nc o 셋/nn+이/jcp+다/ef+./s. 
+o 경찰관/nc o 아저씨/nc+가/jc o 학교/nc o 가/pv+는/exm o 길/nc+에서/jca o 교통/nc o 정리/nc+를/jc o 하/pv+어/ecx o 주/px+시/efp+ㅂ니다/ef+./s. 
+o 경찰관/nc o 아저씨/nc+가/jc o 학교/nc o 가/pv+는/exm o 길/nc+에서/jca o 교통/nc o 정리/nc+를/jc o 하/pv+어/ecx o 주/px+ㅂ니다/ef+./s. 
+o 경/nc+천/nc+동/nc+지도/nc x 유만부동이지/nc+,/s, o 이렇게/a o 만/nn+상/xn+을/jc o 뒤집/pv+ㄹ/exm o 법/nc+이/jc o 어디/ad o 있/pa+라고/ecs+./s. 
+o 계획/nc o 없/pa+이/xa x 행동하려느냐/nc+?/s. 
+o 고개/nc+만/jx o 들/pv+어도/ecs o 쉽/pa+게/xa o 보/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 고기/nc+가/jc o 잡히/pv+었/efp+다/ef+./s. 
+o 고기/nc+를/jc o 잡/pv+기/exn+가/jc o 어렵/pa+었/efp+다/ef+./s. 
+o 고기/nc+를/jc o 잡/pv+러/ecs o 가/px+ㄴ다/ef+./s. 
+o 고기/nc+를/jc o 잡/pv+러/ecs o 바다/nc+로/jca o 가/pv+았/efp+다/ef+./s. 
+o 고기/nc+를/jc o 잡/pv+러/ecs o 바다/nc+에/jca o 가/pv+았었/efp+다/ef+./s. 
+o 고기/nc+를/jc o 잡/pv+려고/ecs o 바다/nc+에/jca o 가/pv+았었/efp+다/ef+./s. 
+o 고래/nc+는/jx o 물고기/nc+가/jc o 아니/pa+다/ef+./s. 
+o 고맙/pa+습니다/ef+./s. 
+o 고생/nc+도/jx o 지나/pv+면/ecs o 추억/nc+이/jcp+다/ef+./s. 
+o 고생/nc o 끝/nc+에/jca x 낙/nc+이/jcp+다/ef+./s. 
+o 고양이/nc+가/jc o 개/nc+에게/jca o 물리/pv+었/efp+다/ef+./s. 
+o 고양이/nc+가/jc o 살금살금/a o 다가서/pv+ㄴ다/ef+./s. 
+o 곱/pa+ㅁ/exn+이/jc o 아니/pa+라/ecs o 예쁘/pa+ㅁ/exn+이/jcp+다/ef+./s. 
+o 곡/nc+식/nc+을/jc o 내/pv+었/efp+다/ef+./s. 
+o 곡/nc+식/nc+을/jc o 팔/pv+았/efp+다/ef+./s. 
+o 곡/nc+식/nc+이/jc o 익/pv+어/ecx o 가/px+ㄴ다/ef+./s. 
+x 곧/nc+장/xn o 남산/nq o 밑/nc+에/jca o 닿/pv+면/ecs+,/s, x 우물/nc o 위/nc+에/jca o 오래/a o 되/pv+ㄴ/exm o 은행/nc+나무/nc+가/jc o 서/pv+어/ecx o 있/px+고/ecq+,/s, o 은행/nc+나무/nc+를/jc o 향하/pv+어/ecx x 사립문/nc+이/jc o 열리/pv+었/efp+는데/ecs+,/s, o 두어/nn x 칸/nc o 초/nbu+가/pv+는/exm o 비/nc+바람/nc+을/jc o 막/pv+지/ecx o 못하/px+ㄹ/exm o 정도/nc+이/jcp+었/efp+다/ef+./s. 
+o 곧/a o 새/nc+해/nc+를/jc x 맞이/nca+하/xpv+는구나/ef+./s. 
+x 골은/nc o 깊/pa+다/ef+./s. 
+o 공부/nc+는/jx o 마치/pv+었/efp+지만/ecs o 아직/a+도/jx o 집/nc+에/jca o 가/pv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 공부/nc+들/xn o 하/pv+어라/ef+./s. 
+o 공부/nc o 안/a o 하/pv+었/efp+지/ef+?/s. 
+x 공산주의/nc+자/xn+와/jj+의/jcm x 타협/nc+이나/jx o 협상/nc+은/jx o 패/nc+배/nc+를/jc o 의미/nca+하/xpv+는/exm o 것/nb+이/jcp+다/ef+./s. 
+x 공산주의/nc+자/xn+와/jj x 타협/nc+이나/jx o 협상/nc+을/jc o 하/pv+는/exm o 것/nb+은/jx o 패/nc+배/nc+를/jc o 의미/nca+하/xpv+는/exm o 것/nb+이/jcp+다/ef+./s. 
+o 공연/nca+하/xpv+ㄴ/exm o 소리/nc o 말고/jx o 책/nc+이나/jx o 읽/pv+어라/ef+./s. 
+o 공/nc+이/jc o 잘/a o 구르/pv+는/exm o 이/jcp+구나/ef+./s. 
+o 과연/a o 그/npp+는/jx o 우리/npp+의/jcm o 영원/ncs+하/xpa+ㄴ/exm x 우/nc+상/xn+이/jcp+었/efp+다/ef+./s. 
+o 과연/a o 그분/npp+은/jx o 위/nc+대/xn+하/xpa+ㄴ/exm o 정치/nc+가/nc+이/jcp+었/efp+어요/ef+./s. 
+o 과연/a o 떠나/pv+고/ecx o 말/px+았/efp+구나/ef+./s. 
+o 과연/a o 철수/nc+가/jc o 수석/nc o 합격/nca+하/xpv+었/efp+다/ef+./s. 
+o 과일/nc+이나/jx o 과자/nc+나/jx o 주/pv+어라/ef+./s. 
+o 과자/nc+를/jc o 먹/pv+기/exn o 싫/pa+어/ecx+하/px+는/exm o 아이/nc+도/jx o 있/pa+다/ef+./s. 
+o 과자/nc+를/jc o 먹/pv+는다/ef 
+o 과자/nc+를/jc o 먹/pv+ㄴ/exm o 아이/nc+가/jc o 많/pa+다/ef+./s. 
+o 과학/nc+적/xn+으로/jca o 사/pv+고/ecx+하/px+고/ecq o 생활/nca+하/xpv+ㄴ다/ef+./s. 
+x 관형격/nc o 조사/nc+는/jx o '/s'+의/jcm+'/s' o 하나/nn+뿐/nb+이/jcp+다/ef+./s. 
+x 교과서/nc+를/jc o 동생/npp+에게/jca o 주/pv+었/efp+다/ef+./s. 
+o 교양/nc+인/nc+이/jcp+ㄴ/exm o 그분/npp+이/jc o 그렇/pad+ㄴ/exm o 행동/nc+을/jc o 하/pv+ㄹ/exm o 리/nb+가/jc o 있/pa+겠/efp+는가/ef+!/s. 
+o 교통/nc o 규칙/nc+을/jc o 위반/nca+하/xpv+는/exm o 사람/nc+이/jc o 하/pv+어/ecx+가/px+아/ecx o 가/px+ㄹ수록/ecs o 줄/pv+어/ecx+들/px+ㄴ다/ef+./s. 
+o 구름/nc+에/jca o 달/nbu o 가/pv+듯이/ecs o 가/pv+는/exm x 나그/nc+이/jcp+네/ef 
+o 구름/nc+에/jca o 달/nbu o 가/pv+듯이/ecs o 가/pv+는/exm x 나그/nc+이/jcp+네/ef+./s. 
+o 구름/nc+은/jx o 붉/pa+구나/ef+!/s. 
+o 구름/nc+이/jc o 비/nc+가/jc o 되/pv+ㄴ다/ef+./s. 
+o 구멍/nc+이/jc o 철수/nc+에게/jca x 뚫리/pv+었/efp+다/ef+./s. 
+o 구체/nc+적/xn+으로/jca o 계획/nc+을/jc o 세우/pv+어라/ef+./s. 
+o 구체/nc+적/xn+으로/jca o 설명/nca+하/xpv+어라/ef+./s. 
+o 구체/nc+적/xn o 계획/nc+이/jc o 필요/ncs+하/xpa+다/ef+./s. 
+x 국어/nc+는/jx o 형태/nc+상/xn x 교착어/nc+에/jca o 속/nc+하/xpa+ㄴ다/ef+./s. 
+x 국어/nc+와/jj o 수학/nc+을/jc o 같이/a o 공부/nca+하/xpv+라고/ecs o 하/pv+었/efp+다/ef+./s. 
+x 국어/nc+하고/jj o 수학/nc+을/jc o 공부/nca+하/xpv+라고/ecs o 하/pv+었/efp+다/ef+./s. 
+x 국운이/nc o 날/nc+로/jca x 쇠퇴/nca+하/xpv+어/ecx+지/px+었/efp+다/ef+./s. 
+x 국토/nc+는/jx o 시/nc+이/jcp+오/ecq+,/s, o 역사/nc+이/jcp+오/ecq+,/s, o 음악/nc+이/jcp+다/ef+./s. 
+o 굴/nc+욕/nc+적/xn o 대/nbu+이/jcp+ㄹ/exm o 태도/nc+를/jc o 고치/pv+라/ef+./s. 
+o 귀/nc+가/jc x 얇/pv+다/ef+./s. 
+o 귀엽/pa+ㄴ/exm o 너/npp+를/jc o 어찌/a o 두/pv+고/ecq x 떠나랴/nc+!/s. 
+o 귀/nc+중/nc+하/xpa+ㄴ/exm o 문화재/nc x 빠짐없/pa+이/xa o 등록/nca+하/xpv+자/ef+./s. 
+o 귀/nc+중/nc+하/xpa+ㄴ/exm o 문화재/nc x 빠짐없/pa+이/xa o 등록/nca+하/xpv+ㅂ시다/ef+./s. 
+o 귀하/npp+에/jca o 대하/pv+ㄴ/exm o 우리/npp+의/jcm o 견해/nc+는/jx o 일치/nca+하/xpv+고/ecx o 있/px+다/ef+./s. 
+x 귤은/nc x 탱/nc+자/xn+와/jj o 비슷/ncs+하/xpa+다/ef+./s. 
+o 그/npp+가/jc o 가/pv+겠/efp+다는/exm o 것/nb+을/jc o 알/pv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 가/pv+고/ecx o 말/px+았/efp+다/ef+./s. 
+o 그/npp+가/jc o 갇히/pv+어/ecx o 살/pv+더/efp+ㄴ/exm o 과학자/nc x 갈릴레이/nc+와/jj o 만나/pv+ㄴ/exm o 것/nb+도/jx o 이/md o 때/nct+이/jcp+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 거짓말/nc+을/jc o 하/pv+ㄴ/exm o 흔적/nc+이/jc o 조금도/a o 없/pa+다/ef+./s. 
+o 그/npp+가/jc o 고생/nca+하/xpv+는/exm o 것/nb+이/jc o 안/nc+스럽/xpa+다/ef+./s. 
+o 그/npp+가/jc o 그렇게/a o 가/pv+다니/ef+./s. 
+o 그/npp+가/jc x 낌새/nc+를/jc o 채/pv+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 나/npp+를/jc o 더/a o 좋/pa+ㄴ/exm o 것/nb+을/jc o 주/pv+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 나/npp+를/jc x 미워/nca+하/xpv+ㄴ/exm o 것/nb+이/jc o 아니/pa+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 나/npp+에게/jca o 더/a o 좋/pa+ㄴ/exm o 것/nb+을/jc o 주/pv+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 나/npp+에게/jca o 좋/pa+ㄴ/exm o 선물/nc+을/jc o 주/pv+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 내일/nct+이/jcp+면/ecs o 오/pv+겠/efp+다/ef+./s. 
+o 그/npp+가/jc x 노벨/nc+상/xn+을/jc o 타/pv+게/ecx o 되/pv+었/efp+다는/exm o 것/nb+이/jc o 밝히/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 눈치/nc+를/jc o 채/pv+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 대구/nq+를/jc o 떠나/pv+았/efp+다/ef+./s. 
+o 그/npp+가/jc o 대구/nq+에서/jca o 떠나/pv+았/efp+다/ef+./s. 
+o 그/npp+가/jc o 드디어/a o 얼굴/nc+에/jca o 미소/nc+를/jc o 띠/pv+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 떠나/pv+ㄴ/exm o 줄/nb o 알/pv+았/efp+다/ef+./s. 
+o 그/npp+가/jc o 반성/nca+하/xpv+ㄴ/exm o 흔적/nc+이/jc o 없/pa+다/ef+./s. 
+o 그/npp+가/jc o 부산/nq+에서/jca o 일/nc+을/jc o 하/pv+지/ecx o 않/px+고/ecq o 서울/nq+에서/jca o 일/nc+을/jc o 하/pv+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 사고/nc+를/jc o 당하/pv+ㄴ/exm o 것/nb+이/jc o 불쌍/ncs+하/xpa+다/ef+./s. 
+o 그/npp+가/jc o 서울/nq o 지리/nc+에/jca o 밝/pa+다/ef+./s. 
+o 그/npp+가/jc o 시키/pv+는/exm o 대/nc+로는/jca o 안/a+하/pv+겠/efp+다/ef+./s. 
+o 그/npp+가/jc o 시키/pv+는/exm o 대/nc+로/jca o 안/a+하/pv+겠/efp+다/ef+./s. 
+o 그/npp+가/jc o 안전/ncs+하/xpa+게/xa o 돌아오/pv+았/efp+기/exn+가/jc o 다행/nc+이/jcp+다/ef+./s. 
+o 그/npp+가/jc o 안전/ncs+하/xpa+게/xa o 돌아오/pv+았/efp+ㅁ/exn+이/jc o 다행/nc+이/jcp+다/ef+./s. 
+o 그/npp+가/jc o 어제/nct o 귀/nc+국/nbu+하/pv+ㄴ/exm o 사실/nc+을/jc o 모르/pv+았/efp+는가/ef+?/s. 
+o 그/npp+가/jc o 어제/nct o 떠나/pv+았/efp+니/ecs o 오늘/nct+쯤/xn+은/jx o 착수/nca+하/xpv+었/efp+ㄹ거야/ef+./s. 
+o 그/npp+가/jc o 여기/npd+에/jca o 정착/nc+하/xpa+ㄴ/exm o 것/nb+은/jx o 봄/nct+이/jc x 지나서이/pv+었/efp+다/ef+./s. 
+o 그/npp+가/jc x 오직/a o 기억/nca+하/xpv+었더/efp+ㄴ/exm o 말/nc+은/jx o `/s`+아니/pa+다/ef+'/s'+이/jcp+었/efp+다/ef+./s. 
+o 그/npp+가/jc x 완쾌/nca+되/xpv+ㄴ/exm o 것/nb+이/jc o 다행/ncs+스럽/xpa+다/ef+./s. 
+o 그/npp+가/jc x 용모가/a x 단정/nca+하/xpv+ㄴ/exm o 것/nb+과는/jj o 달리/a o 품/nc+행/nc+은/jx o 바르/pa+지/ecx o 못하/px+다/ef+./s. 
+o 그/npp+가/jc o 읽/pv+더/efp+ㄴ/exm o 책/nc+은/jx o 위/nc+인/nc+전/nct+이/jcp+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 잘못/nc+을/jc o 저지르/pv+ㄴ/exm o 것/nb+이/jc o 알리/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 잘못/nc+을/jc o 저지르/pv+었/efp+다는/exm o 것/nb+이/jc o 알리/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 그/npp+가/jc x 정직/nca+하/xpv+다는/exm o 것/nb+이/jc o 알리/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 그/npp+가/jc x 죄/nc+를/jc o 짓/pv+었/efp+다는/exm o 것/nb+이/jc o 입증/nca+되/xpv+었/efp+다/ef+./s. 
+o 그/npp+가/jc x 진정으/nc+로/jca o 우리/npp+를/jc o 사랑/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+가/jc o 집/nc+에/jca o 들어서/pv+자/ecs o 비/nc+가/jc o 오/pv+기/exn o 시작/nca+하/xpv+었/efp+다/ef+./s. 
+o 그것/npd+은/jx+,/s, o 글쎄/i+,/s, o 내/m x 형편으론/nc o 어렵/pa+ㄴ데/ef+./s. 
+o 그것/npd+은/jx+,/s, o 글쎄/i+,/s, o 누구/npp+가/jc o 하/pv+ㄴ/exm o 짓/nc+이/jcp+ㄹ까/ef+?/s. 
+o 그것/npd+은/jx+,/s, o 글쎄/i+,/s, o 우리/npp+가/jc o 나서/pv+ㄹ/exm x 문제라고/nc+는/jx o 생각/nca+하/xpv+지/ecx o 않/px+는데요/ef+./s. 
+o 그것/npd+은/jx+,/s, o 글쎄/i+./s. 
+o 그것/npd+을/jc o 어떻게/a o 믿/pv+니/ecs+?/s. 
+o 그것/npd+만이/jc o 최선/nc+의/jcm o 길/nc+이/jcp+다/ef+./s. 
+o 그것/npd+만/jx o 이루/pv+어/ecx o 놓/px+고/ecx o 가/px+어라/ef+./s. 
+o 그것/npd+은/jx o 결국/nc o 마찬가지/nc+가/jc o 아니/pa+ㅂ니다/ef+./s. 
+o 그것/npd+은/jx o 구체/nc+적/xn+이/jc o 아니/pa+다/ef+./s. 
+o 그것/npd+은/jx o 땅/nc x 짚고/nc x 헤엄치기/nc+이/jcp+다/ef+./s. 
+o 그것/npd+은/jx x 미움이/nc o 아니/pa+ㄴ/exm o 사랑/nc+이/jcp+었/efp+다/ef+./s. 
+o 그것/npd+은/jx o 불법/nc o 살/nc+이/jcp+ㄴ/exm o 행위/nc+이/jcp+다/ef+./s. 
+o 그것/npd+은/jx o 사실/nc+대로/jca+의/jcm o 보고/nc+이/jcp+었/efp+다/ef+./s. 
+o 그것/npd+은/jx o 아주/a o 새/m x 차로/nc+이/jcp+구나/ef+./s. 
+o 그것/npd+은/jx o 저/npp+가/jc o 읽/pv+더/efp+ㄴ/exm o 책/nc+이/jcp+ㅂ니다/ef+./s. 
+o 그것/npd+은/jx o 저/npp+가/jc o 읽/pv+었더/efp+ㄴ/exm o 책/nc+이/jcp+ㅂ니다/ef+./s. 
+o 그것/npd+은/jx o 하나/nn o 아니/pa+ㄴ/exm o 둘/nn+이/jcp+다/ef+./s. 
+o 그것/npd+을/jc o 그/md o 집/nc+에/jca o 주/pv+었/efp+다/ef+./s. 
+o 그것/npd+을/jc x 누이/nc+에게/jca o 주/pv+었/efp+다/ef+./s. 
+o 그것/npd+을/jc o 동생/npp+한테/jca o 주/pv+었/efp+지요/ef+./s. 
+o 그것/npd+을/jc o 묻/pv+지/ecx o 말/px+아라/ef+./s. 
+o 그것/npd+이/jc o 내/m o 잘못/nc+이/jcp+ㅁ/exn+은/jx o 확실하/pa+다/ef+./s. 
+o 그것/npd+이/jc o 네/npp+가/jc o 가지/pv+고/ecq x 핑어/nca+하/xpv+더/efp+ㄴ/exm x 장난감이로/nc+이/jcp+구나/ef+!/s. 
+o 그것/npd+이/jc o 무슨/md o 책/nc+이/jcp+ㅂ니까/ef+?/s. 
+o 그것/npd+이/jc o 정말/nc+이/jcp+냐/ef+?/s. 
+o 그것/npd o 하나/nn o 해결/nca+하/xpv+지/ecx o 못하/px+ㄹ까/ef+?/s. 
+o 그것/npd+이/jc o 무슨/md x 짓이더람/nc+?/s. 
+o 그것/npd+이/jc o 정말/nc+이/jcp+냐/ef+,/s, o 응/i+?/s. 
+o 그까짓/m x 값없/nc+는/jx o 물건/nc+을/jc o 왜/a o 그리/ad o 소중/ncs+하/xpa+게/xa x 간직/nca+하/xpv+나/ef+?/s. 
+o 그녀/npp+가/jc o 가까이/nc o 다가오/pv+았/efp+다/ef+./s. 
+o 그녀/npp+가/jc o 나/npp+를/jc o 더/a o 좋/pa+ㄴ/exm o 것/nb+을/jc o 주/pv+었/efp+다/ef+./s. 
+o 그녀/npp+가/jc o 울/pv+ㄴ/exm o 때문/nb+이/jcp+다/ef+./s. 
+o 그녀/npp+가/jc o 울/pv+었/efp+기/exn o 때문에/a o 모두/nc+가/jc x 우울/nca+하/xpv+었/efp+다/ef+./s. 
+o 그녀/npp+는/jx o 오늘/nct o 따르/pv+아/ecx o 아름답/pa+ㅁ/exn+이/jc x 돋보이/pv+었/efp+다/ef+./s. 
+o 그녀/npp+는/jx o 온/m+종/nbu+이/jcp+ㄹ/exm o 책/nc+을/jc o 읽/pv+었/efp+다/ef+./s. 
+o 그녀/npp+도/jx o 지금/at o 의자/nc+에/jca o 앉/pv+았/efp+다/ef+./s. 
+o 그녀/npp+의/jcm o 아이/nc+들/xn+에/jca o 대하/pv+ㄴ/exm x 극진/ncs+하/xpa+ㄴ/exm o 사랑/nc 
+o 그/npp+는/jx o 가끔/a o 빨갛/pa+ㄴ/exm o 옷/nc+을/jc o 입/pv+는다/ef+./s. 
+o 그/npp+는/jx o 가난/nc+으로/jca x 학업/nc+를/jc o 중단/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 가/pv+아/ecx o 버리/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 가/pv+았/efp+나/ecs+,/s, o 그/npp+의/jcm x 예술은/nc o 살/pv+아/ecx o 있/px+다/ef+./s. 
+o 그/npp+는/jx o 가/pv+았/efp+지만/ecs+,/s, o 그/npp+의/jcm x 예술은/nc o 살/pv+아/ecx o 있/px+다/ef+./s. 
+o 그/npp+는/jx o 거기/npd+가/jc o 그렇게/a o 변하/pv+ㄹ/exm o 줄/nb o 모르/pv+았/efp+다고/ecs x 탄복/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 곧/a+자/pv+ㄹ/exm o 남/nq+을/jc o 웃기/pv+곤/ecx o 하/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 그녀/npp+를/jc o 보/pv+자/ecs x 발갛/pa+게/xa o 얼굴/nc+이/jc o 붉/pa+어/ecx+지/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 그/md o 일/nc+로/jca o 계속/at o 고민/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 그/md o 일/nc+에/jca o 대하/pv+어/ecx o 모르/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 기/nc+어이/nc o 되돌/pv+아/ecx+가/px+고/ecx o 말/px+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 나/npp+를/jc o 못/a o 떠나/pv+게/xa o 말리/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 나무/nc+로/jca o 책상/nc+을/jc o 만들/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 나/npp+에게/jca o 철수/nc+가/jc o 다치/pv+ㄴ/exm o 것/nb+을/jc o 알/pv+느냐고/ecs o 묻/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 날씨/nc+가/jc o 너무나/a o 덥/pa+다고/ecs o 소리치/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 내/m o 곁/nc+을/jc o 떠나/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 내/m o 인생/nc+의/jcm o 등/nc+불/nc+이/jcp+다/ef+./s. 
+o 그/npp+는/jx o 너무/a+도/jx o 고/nq+지식/nc+하/xpa+ㄴ/exm o 사람/nc+이/jcp+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 너무/a o 빨리/a o 지치/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 노래/nc+를/jc o 잘/a o 부르/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 눈/nc+이/jc o 높/pa+다/ef+./s. 
+o 그/npp+는/jx o 눈치/nc+가/jc o 없/pa+다/ef+./s. 
+o 그/npp+는/jx o 눈치/nc+도/jx o 없/pa+이/xa x 덤벙/a+대/pv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 늘/pv+ㄹ/exm o 의자/nc+에/jca o 앉/pv+았었/efp+다/ef+./s. 
+o 그/npp+는/jx o 늘/pv+ㄹ/exm o 저물/pv+어야/ecs x 돌아오것다/nc+./s. 
+o 그/npp+는/jx o 들판/nc+으로/jca o 나가/pv+아/ecx o 버리/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 뛰/pv+ㄹ/exm o 듯/nb+이/jc o 기쁘/pa+어/ecx+하/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 많이/a+도/jx o 먹/pv+더/efp+구나/ef+!/s. 
+o 그/npp+는/jx o 매우/a o 빨리/a o 달리/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 매우/a o 빨리/a o 뛰/pv+어/ecx o 가/px+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 매우/a o 인간/nc+적/xn+이/jcp+다/ef+./s. 
+o 그/npp+는/jx o 매일/a o 같이/a o 눕/pv+어/ecx o 있/px+다/ef+./s. 
+o 그/npp+는/jx o 매일/nct o 8/nnn o 시/nbu+에/jca o 학교/nc+를/jc o 가/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 못/a o 오/pv+느냐/ef+?/s. 
+o 그/npp+는/jx o 못/a o 오/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 못/a o 오/pv+았/efp+구나/ef+!/s. 
+o 그/npp+는/jx o 물/nc o 한/mn x 컵/nc o 달라/pv+고/ecq o 애원/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 백/nn o 원/nbu+짜리/xn+만/jx o 모으/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 부산/nq+에/jca o 도착/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 빨리/a o 뛰/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 사과/nc+를/jc x 좋하/nca+하/xpv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 사과/nc+를/jc o 퍽/a o 좋/pa+아/ecx+하/px+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 사과/nc+만을/jc o 좋/pa+아/ecx+하/px+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 산/nc+으로/jca o 가/pv+아서/ecs+,/s, o 다래/nq+랑/jj x 머루/nc+랑/jj o 먹/pv+고/ecx o 살/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 서울/nq+을/jc o 지나/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx x 선머슴아이/nc+처럼/jca o 장난/nc+이/jc o 심/ncs+하/xpa+다/ef+./s. 
+o 그/npp+는/jx o 아주/a o 부자/nc+가/jc o 되/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 아주/a o 부자/nc+이/jcp+다/ef+./s. 
+o 그/npp+는/jx o 아직/a o 안/a o 일/pv+어/ecx+나/px+았/efp+습니다/ef+./s. 
+o 그/npp+는/jx o 앉/pv+ㄴ/exm o 자리/nc+에서/jca o 세/mn o 그릇/nc+을/jc o 먹/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 어제/nct o 가/pv+겠/efp+더라/ef+./s. 
+o 그/npp+는/jx o 어제/nct o 가/pv+더/efp+라/ef+./s. 
+o 그/npp+는/jx o 어제/nct x 감투/nc+를/jc o 쓰/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 어제/nct o 가/pv+았/efp+더라/ef+./s. 
+o 그/npp+는/jx o 어제/nct o 떠나/pv+았/efp+다고/ecs x 합디/nc+이/jcp+다/ef+./s. 
+o 그/npp+는/jx o 어제/nct o 오늘/nct o 비/nc+가/jc o 오/pv+겠/efp+다고/ecs o 하/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 어제/nct o 혼자/npp o 가/pv+더/efp+라/ef+./s. 
+o 그/npp+는/jx o 어제/nct o 혼자/npp o 가/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 어제/nct o `/s`+내일/nct o 비/nc+가/jc o 오/pv+겠/efp+소/ef+./s.+'/s'+라고/ecs o 하/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 언제나/a x 게을러빠져/nc x 늑/nc+장/xn+이/jcp+다/ef+./s. 
+o 그/npp+는/jx o 언제나/a o 떠들/pv+어/ecx o 대/px+면서/ecs o 잘/a+나/pv+ㄴ/exm o 체하/pa+니/ecs+,/s, o 우리/npp+는/jx o 견디/pv+어/ecx o 내/px+느라/ecs o 죽/pv+ㄹ/exm o 뻔하/pa+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 여행/nc+을/jc o 떠나/pv+지는/ecx o 못하/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 열/nc+을/jc o 배우/pv+면/ecs o 백/nn+을/jc o 알/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 영어/nc+와/jj x 독일어/nc+와/jj x 프랑스어/nc+를/jc o 하/pv+ㄹ/exm o 줄/nb o 알/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 영어/nq+,/s, x 독일어/nc+,/s, x 프랑스어/nc+를/jc o 하/pv+ㄹ/exm o 줄/nb o 알/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 영원히/a o 우리/npp o 곁/nc+을/jc o 떠나/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx x 영희/nc+의/jcm o 집/nc+을/jc x 찾느라/pv+고/ecx o 오/px+ㄴ/exm o 마을/nc+을/jc o 하루/at o 종/nbu+일/nn o 헤매/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 오늘/nct o 공부/nca+하/xpv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 오줌/nc+을/jc o 싸/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 오/pv+지/ecx o 못하/px+느냐/ef+?/s. 
+o 그/npp+는/jx o 오/pv+지/ecx o 못하/px+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 오/pv+지/ecx o 못하/px+었/efp+구나/ef+!/s. 
+o 그/npp+는/jx o 이것/npd+을/jc x 광주/nc+에서/jca o 보내/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 이/npd+와/jj o 같이/a o 말/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 이/md x 산골짜기/nc+에서/jca o 태어나/pv+았/efp+고/ecq+,/s, o 평생/nc o 동안/nb o 이/jc o 고장/nc+에서만/jca o 살/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 이/md x 산골짜기/nc+에서/jca o 태어나/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 조금/a o 뒤/nc+에/jca o 오/pv+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 조용하/pa+게/xa o 걸/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 조용히/a o 걸/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 지금/at o 놀/pv+러/ecs o 오/px+ㄴ다/ef+./s. 
+o 그/npp+는/jx o 착하/pa+ㄴ/exm o 마음/nc+을/jc o 가지/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 천재/nc+가/jc o 아니/pa+다/ef+./s. 
+o 그/npp+는/jx o 천천히/a o 걸/pv+어/ecx o 가/px+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 천천히/a o 걸/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 철수/nc+가/jc o 아주/a o 성실/ncs+하/xpa+다고/ecs x 칭찬/nca+하/xpv+더/efp+군/ef+./s. 
+o 그/npp+는/jx o 철수/nc+를/jc o 만나/pv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 철수/nc+를/jc x 사정없/pa+이/xa x 때리/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o 키/nc+가/jc o 크/pa+지/ecx o 아니/a+하/pv+다/ef+./s. 
+o 그/npp+는/jx o 타고나/pv+ㄴ/exm o 성격/nc+이/jc x 쾌활/nca+하/xpv+고/ecq o 명랑/ncs+하/xpa+다/ef+./s. 
+o 그/npp+는/jx o 퍽/a o 이/md+지적/nc+이/jcp+다/ef+./s. 
+o 그/npp+는/jx o 평생/nc o 동안/nb o 이/jc o 고장/nc+에서만/jca o 살/pv+았/efp+다/ef+./s. 
+o 그/npp+는/jx o 학생/nc+이/jcp+다/ef+./s. 
+o 그/npp+는/jx o `/s`+물/nc o 한/mn x 컵/nc o 주/pv+시/efp+ㅂ시오/ef+./s.+'/s'+라고/ecs o 애원/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o `/s`+아/i+,/s, o 날씨/nc+가/jc o 너무나/a o 덥/pa+구나/ef+!/s.+'/s'+하/pv+고/ecx o 소리치/pv+었/efp+다/ef+./s. 
+o 그/npp+는/jx o `/s`+여기/npd+가/jc o 이렇게/a o 변하/pv+ㄹ/exm o 줄/nb o 모르/pv+았/efp+어/ef+./s.+'/s'+라고/ecs x 탄복/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+도/jx o 성공/nca+하/xpv+게/ecx o 되/pv+었/efp+다/ef+./s. 
+o 그/npp+도/jx o 점차/a o 나/pv+아/ecx+지/px+리다/ef+./s. 
+o 그/npp+도/jx o 점차/a o 나/pv+아/ecx+지/px+ㄹ/exm o 것/nb+이/jcp+ㅂ니다/ef+./s. 
+o 그/npp+들/xn+은/jx o 결코/a o 죽음/nc+을/jc o 두렵/pa+어/ecx+하/px+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 그/npp+들/xn+은/jx x 굶주린/nc o 이리/nc o 떼/nc+처럼/jca o 갖/pv+ㄴ/exm o 만/nb+행/nc+을/jc o 저지르/pv+었/efp+다/ef+./s. 
+o 그/npp+들/xn+은/jx o 길/pa+지/ecx o 아니/a+하/pv+ㄴ/exm o 목숨/nc+을/jc o 살/pv+는가/ef o 싶/pa+이/xa o 살/pv+았/efp+며/ecq+,/s, o 그/npp+들/xn+의/jcm o 그림자/nc+는/jx x 천고/nc+에/jca o 사라지/pv+지/ecx o 않/px+는/exm o 것/nb+이/jcp+다/ef+./s. 
+o 그/npp+들/xn+은/jx o 나/npp+를/jc o 은/nc+인/nc+이/jcp+라/ecs o 부르/pv+었/efp+다/ef+./s. 
+o 그/npp+들/xn+은/jx o 다/a o 못/a o 오/pv+았/efp+다/ef+./s. 
+o 그/npp+들/xn+은/jx o 무한/ncs+하/xpa+ㄴ/exm x 행복/nc+을/jc o 추구/nca+하/xpv+고/ecx o 있/px+는/exm o 것/nb+이/jcp+다/ef+./s. 
+o 그/npp+들/xn+은/jx o 밤/nc+낮/nct o 노래/nc+만/jx o 부르/pv+고/ecx o 지내/pv+ㄴ다/ef+./s. 
+o 그/npp+들/xn+은/jx o 불/nc+굴/nc+의/jcm x 투지/nc+로/jca x 왜경/nc+과/jj o 싸우/pv+었/efp+다/ef+./s. 
+o 그/npp+들/xn+은/jx o 즐겁/pa+게/xa o 노래/nc+를/jc o 부르/pv+고/ecx o 있/px+다/ef+./s. 
+o 그/npp+들/xn+은/jx o 지금/at o 어디/ad o 있/pa+습니까/ef+?/s. 
+o 그/npp+들/xn+은/jx o 촛불/nc+을/jc o 밝히/pv+어/ecx o 두/px+었/efp+다/ef+./s. 
+o 그/npp+들/xn+의/jcm o 눈/nc+에/jca o 무엇/npd+이/jc o 타오르/pv+고/ecx o 있/px+는가/ef+?/s. 
+o 그/npp+들/xn+이/jc o 정말/nc o 그/md o 일/nc+을/jc o 하/pv+어/ecx o 내/px+느냐/ef+가/jc o 관심/nc+거리/nc+이/jcp+었/efp+다/ef+./s. 
+o 그래/i+,/s, o 잘/a+도/jx o 네/npp+가/jc o 하/pv+었겠/efp+다/ef+./s. 
+o 그래/i+,/s, o 적/pa+다/ef+./s. 
+o 그러나/ajs o 개/nc+는/jx o 이/md+성적/nc o 동물/nc+이/jc o 아니/pa+다/ef+./s. 
+o 그러나/ajs o 그렇/pad+다고/ecs o 버리/px+ㄹ/exm o 너/npp+는/jx o 아니/pa+겠/efp+지/ef+,/s, o 설마/a+./s. 
+o 그러나/ajs o 그/npp+의/jcm o 마음/nc o 속/nc+에는/jca o 아직/a+도/jx o 겨울/nct+이/jc o 남/pa+아/ecx o 있/px+었/efp+다/ef+./s. 
+o 그러나/ajs o 기쁘/pa+지/ecx o 않/px+다/ef+./s. 
+o 그러나/ajs o 나/npp+는/jx o 굳/pa+이/xa o 떠나/pv+았/efp+다/ef+./s. 
+o 그러나/ajs x 라디오/nc+에서/jca o 흐르/pv+어/ecx x 나왔건/nc o 옆방/nc+에서/jca o 들리/pv+어/ecx x 왔건/nc o 그렇/pad+ㄴ/exm o 것/nb+을/jc o 따/pv+아/ecx+지/px+자는/exm o 것/nb+이/jc o 아니/pa+니까/ecs o 아무래도/a o 좋/pa+다/ef+./s. 
+o 그러나/ajs x 소/nc+는/jx o 코/nc+가/jc o 길/pv+지/ecx o 않/px+다/ef+./s. 
+o 그러나/ajs o 아무/npd+도/jx o 그것/npd+을/jc o 믿/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 그러나/ajs o 젊/pa+ㄴ/exm o 날/nc+의/jcm o 추억/nc+은/jx o 멀/pa+어/ecx+지/px+어만/ecx o 가/px+았/efp+다/ef+./s. 
+o 그러나/ajs x 중국어/nc+는/jx x 교착어/nc+에/jca o 속/nc+하/xpa+지/ecx o 않/px+는다/ef+./s. 
+o 그러면/ajs o 민족/nc o 문화/nc+의/jcm o 전통/nc+을/jc o 말/nca+하/xpv+는/exm o 것/nb+은/jx o 반드시/a x 보수/nc+적/xn+이/jcp+라는/exm x 멍에/nc+를/jc x 메어야/a o 하/pv+는가/ef+./s. 
+o 그런데/ajs o 애/nc+들/xn+이/jc o 떠들/pv+ㄴ다/ef+./s. 
+o 그런데/ajs o 언제/npd o 귀/nc+국/nbu+하/pv+셨/efp+나요/ef+?/s. 
+o 그렇/pad+ㄴ/exm o 간단/ncs+하/xpa+ㄴ/exm o 계산/nc+도/jx o 못/a o 하/pv+면서/ecs o 이/md o 문제/nc+를/jc o 풀/pv+ㄹ/exm o 수/nb o 있/pa+ㄹ까/ef+?/s. 
+o 그렇/pad+ㄴ/exm o 간단/ncs+하/xpa+ㄴ/exm o 계산/nc+도/jx o 안/a o 하/pv+면서/ecs o 이/md o 문제/nc+를/jc o 풀/pv+ㄹ/exm o 수/nb o 있/pa+ㄹ까/ef+?/s. 
+o 그렇/pad+ㄴ/exm o 것/nb+은/jx x 날짐승도/a o 먹/pv+지/ecx x 않느다/nc+./s. 
+o 그렇/pad+ㄴ/exm o 곳/nc+에는/jca o 가/pv+지/ecx o 않/px+는다/ef+./s. 
+o 그렇/pad+ㄴ/exm o 문제/nc o 못/a o 풀/pv+ㄹ/exm o 사람/nc+이/jc o 어디/ad o 있/pa+겠/efp+나/ef+?/s. 
+o 그렇/pad+ㄴ/exm o 일/nc+을/jc o 하/pv+어서는/ecs o 알/pv+ㄴ/exm x 되느니라/nc+./s. 
+o 그렇/pad+ㄴ/exm o 일/nc+을/jc o 하/pv+어서는/ecs o 안/a o 되/pv+ㄴ다/ef+./s. 
+o 그렇/pad+ㄴ/exm o 일/nc+이/jc o 자주/a o 일/pv+어/ecx+나서/px+는/exm o 안/nc o 되/pv+ㄴ다/ef+./s. 
+o 그렇/pad+ㄴ/exm o 탓/nc+이/jcp+ㄴ지/ecs x 늦잠을/nc o 자/xn+이/jcp+다/ef+./s. 
+o 그렇/pad+게만/xa o 되/pv+ㄴ다면/ecs o 얼마나/a o 좋/pa+ㄹ까/ef+?/s. 
+o 그렇게/a o 당신/npp o 뜻/nc+대/xn+로만/jca o 되/pv+겠/efp+오/ef+?/s. 
+o 그렇게/a o 애/nc+를/jc o 쓰/pv+어서/ecs o 그/npp+가/jc o 있/pa+는/exm o 곳/nc+을/jc o 알/pv+아/ecx x 내고서도/nc o 왜/a o 아직/a o 그/npp+를/jc o 만나/pv+지/ecx o 않/px+느냐/ef+?/s. 
+o 그렇게/a o 하/pv+다니/ef+?/s. 
+o 그렇/pad+지/ef+!/s. 
+x 그루/nc+만/jx o 남/pa+ㄴ/exm o 나무/nc+가/jc o 오래/pa+ㄴ/exm x 풍/nc+상/xn+을/jc o 말/nca+하/xpv+어/ecx o 주/px+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 그/npp+를/jc o 믿/pv+려/ecx o 하/px+ㄴ다/ef+./s. 
+o 그/npp+를/jc o 행복/nca+하/xpv+게/xa o 만들/pv+었/efp+다/ef+./s. 
+o 그리고/ajs x 대망/nc+의/jcm x 계절이/nc+이/jcp+다/ef+./s. 
+o 그리고/ajs x 떡/nc+을/jc o 먹/pv+어라/ef+./s. 
+o 그리고/ajs o 바라/pv+더/efp+ㄴ/exm o 숲/nc+에/jca o 이르/pv+었/efp+다/ef+./s. 
+o 그리고/ajs o 봄/nct+이/jc o 익/pv+어/ecx+가/px+ㄴ다/ef+./s. 
+o 그리고/ajs o 어머니/nc+를/jc x 얼싸/nc o 안/pv+았/efp+다/ef+./s. 
+o 그리/pv+더/efp+ㄴ/exm o 형/npp+제/nc o 자매/npp+를/jc o 만나/pv+았/efp+니/ecs o 얼마나/a o 반갑/pa+ㄹ까/ef+!/s. 
+x 그리도/nc o 한/mn+번/nbu o 오/pv+지/ecx o 못하/px+느냐/ef+?/s. 
+o 그리/pv+면/ecs o 뒤/nc+에/jca o 따르/pv+아/ecx o 가/px+마/ef+./s. 
+o 그립/pa+ㄴ/exm x 자취/nc o 묻/pv+어도/ecs o 알/nc o 이/jc o 없/pa+고/ecq+,/s, o 벌/nc+건/nc x 뫼/nc+,/s, o 검/pa+ㄴ/exm o 바위/nc+,/s, o 파랗/pa+ㄴ/exm o 물/nc+,/s, o 하얗/pa+ㄴ/exm o 모래/nc+,/s, o 맑/pa+고도/ecq o 곱/pa+ㄴ/exm o 그/md o 모양/nc+,/s, o 눈/nc+에/jca o 모이/pv+어/ecx o 어리/pa+ㄴ다/ef+./s. 
+o 그립/pa+ㅁ/exn+이/jc o 이리/nc+도/jx x 간절/nca+하/xpv+ㄹ까/ef+?/s. 
+o 그립/pa+어/ecx o 하/px+는/exm+데/nb+도/jx o 한/mn+번/nbu o 만나/pv+고는/ecq o 못/a o 만나/pv+게/xa o 되/pv+기/exn+도/jx o 하/pv+고/ecq+,/s, x 일생/nc+을/jc o 못/a o 잊/pv+면서도/ecs o 아니/a o 만나/pv+고/ecx o 살/pv+기/exn+도/jx o 하/pv+ㄴ다/ef+./s. 
+o 그리/ad o 급/ncs+하/xpa+지/ecx o 않/px+습니다/ef+./s. 
+o 그리/ad o 말고/jx o 내/m o 말/nc+을/jc o 들/pv+어라/ef+./s. 
+o 그리/ad o 말고/jx o 내/m o 말/nc+을/jc o 들/pv+어/ecx o 보/px+아라/ef+./s. 
+o 그림/nc+이/jc o 실/nc+물/nc+과/jj o 똑같/pa+군요/ef+./s. 
+o 그/npp+보다/jca o 더/a o 기쁘/pa+고/ecq o 반갑/pa+ㄴ/exm o 것/nb+은/jx o 나/npp+를/jc o 지도/nca+하/xpv+어/ecx o 주/px+시/efp+ㄴ/exm o 최/nq o 선생님/nc+께서/jc x 칭찬/nc+과/jj x 격려/nc+의/jcm x 글/nc+을/jc o 보내/pv+어/ecx o 주/px+시/efp+ㄴ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 그/npp+보다/jca o 더/a o 기쁘/pa+고/ecq o 반갑/pa+ㄴ/exm o 것/nb+은/jx o 나/npp+를/jc o 지도/nca+하/xpv+어/ecx o 주/px+시/efp+ㄴ/exm o 최/nq o 선생님/nc+으로부터/jca x 칭찬/nc+과/jj x 격려/nc+의/jcm x 글/nc+이/jc o 오/pv+ㄴ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 그분/npp+도/jx o 의지/nc+가/jc x 굳센/nc o 어른/nc+이/jcp+었/efp+습니다/ef+./s. 
+o 그분/npp+도/jx o 이/md o 고장/nc+을/jc o 떠나/pv+아/ecx o 버리/px+었/efp+다/ef+./s. 
+o 그분/npp+은/jx o 그저/a+께/jca o 진주/nq+에/jca o 가/pv+았었/efp+습니다/ef+./s. 
+o 그분/npp+은/jx o 당/nc+대/xn o 호/nb+인/nc+이/jcp+더라/ef+./s. 
+o 그분/npp+은/jx o 당신/npp o 일/nc+에만/jca o 몰두/nca+하/xpv+고/ecx o 계시/px+ㅂ니다/ef+./s. 
+o 그분/npp+은/jx o 벌써/a o 떠나/pv+셨/efp+어요/ef+./s. 
+o 그분/npp+은/jx o 벌써/a o 떠나/pv+셨/efp+어/ef+./s. 
+o 그분/npp+은/jx o 비교/nc+적/xn o 살리/pv+ㅁ/exn+이/jc o 넉넉하/pa+시/efp+ㄴ/exm o 편/nb+이/jcp+다/ef+./s. 
+o 그분/npp+은/jx x 생전/nc+에/jca o 당신/npp o 딸/nc+만/jx o 사랑/nca+하/xpv+셨/efp+다/ef+./s. 
+o 그분/npp+은/jx o 시계/nc+가/jc o 없/pa+시/efp+ㅂ니다/ef+./s. 
+o 그분/npp+은/jx o 아직/a+도/jx o 귀/nc+가/jc o 밝/pa+시/efp+ㅂ니다/ef+./s. 
+o 그분/npp+은/jx o 자동차/nc+가/jc o 없/pa+시/efp+ㅂ니다/ef+./s. 
+o 그분/npp+은/jx o 정말/nc o 위/nc+대/xn+하/xpa+시/efp+ㄴ/exm o 분/nb+이/jcp+ㅂ니다/ef+./s. 
+o 그분/npp+은/jx o 정말/nc o 친절/ncs+하/xpa+ㄴ/exm o 분/nb+이/jcp+더/efp+군요/ef+./s. 
+o 그분/npp+은/jx o 참/m o 호/nb+인/nc+이/jcp+더라/ef+./s. 
+o 그분/npp+을/jc o 다시/a o 뵈/pv+ㄴ/exm o 것/nb+은/jx o 5/nnn+년/nbu o 전/nct o 불국사/nq x 대웅전/nc x 앞에서/nc+이/jcp+었/efp+다/ef+./s. 
+o 그분/npp+을/jc o 다시/a o 뵈/pv+ㄴ/exm o 것/nb+은/jx o 5/nnn+년/nbu o 전/nct o 불국사/nq x 대웅전/nc x 앞에서/nc+이/jcp+었/efp+다/ef+./s. 
+o 그분/npp+을/jc o 뵈/pv+ㄴ/exm o 것/nb+은/jx x 부산에서가/nc o 아니/pa+고/ecq x 광주에서였습니/nc+이/jcp+다/ef+./s. 
+o 그분/npp+을/jc o 한/mn o 번/nbu+도/jx o 못/a o 뵈/pv+었/efp+습니다/ef+./s. 
+o 그분/npp+이/jc x 노벨/nc+상/xn+을/jc o 타/pv+게/ecx o 되/pv+었/efp+다는/exm o 소문/nc+이/jc o 있/pa+다/ef+./s. 
+o 그분/npp+이/jc o 두/mn o 살/nbu o 되/pv+ㄴ/exm x 따님이/nc o 있/pa+시/efp+다/ef+./s. 
+o 그분/npp+이/jc x 따님밖/nc+에/jca o 없/pa+시/efp+지/ef+?/s. 
+o 그분/npp+이/jc o 딸/nc+밖에/jx o 없/pa+시/efp+지/ef+?/s. 
+o 그/npp+에게는/jca o 겨우/a o 말/nc o 한/mn o 마디/nc+를/jc x 건넸을/nc o 뿐/nb+이/jcp+다/ef+./s. 
+o 그/npp+에게는/jca o 짧/pa+ㄴ/exm o 말/nc o 한/mn o 마디/nc+를/jc x 건넸을/nc o 뿐/nb+이/jcp+다/ef+./s. 
+o 그/npp+와/jj o 손/nc+을/jc o 끊/pv+겠/efp+다/ef+./s. 
+o 그/npp+의/jcm x 뒷모습이/nc o 나/npp+에게/jca x 언뜻/a o 보이/pv+었/efp+ㄹ/exm o 뿐/nb+이/jcp+다/ef+./s. 
+o 그/npp+의/jcm x 마중/nc+을/jc o 받/pv+며/ecq o 무사히/a o 도착/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/npp+의/jcm o 소설/nc+을/jc o 재미/nc+가/jc o 있/pa+어서/ecs o 많/pa+ㄴ/exm o 사람/nc+들/xn+에게/jca x 읽힌다/nc+./s. 
+o 그/npp+의/jcm o 오/nn+해/nc+가/jc x 광수/nc+에/jca o 의하/pv+어/ecx o 비로소/a o 풀/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 그/npp+의/jcm o 처지/nc+는/jx o 너무나/a o 애처롭/pa+다/ef+./s. 
+o 그/npp+의/jcm o 형편/nc+이/jc o 활짝/a o 피/pv+었/efp+다/ef+./s. 
+o 그/npp+이/jcp+는/exm o 발/nc+이/jc o 넓/pa+다/ef+./s. 
+o 그/npp+처럼/jca o 유능/ncs+하/xpa+ㄴ/exm o 사람/nc+이/jc o 못/a o 하/pv+ㄹ/exm o 일/nc+이/jc o 있/pa+겠/efp+니/ef+?/s. 
+o 그/npp+처럼/jca o 유능/ncs+하/xpa+ㄴ/exm o 사람/nc+이/jc o 안/a o 하/pv+ㄹ/exm o 일/nc+이/jc o 있/pa+겠/efp+니/ef+?/s. 
+x 그/nca+하/xpv+고도/ecs o 네/npp+가/jc o 가/nc+길/nc o 원하/pv+느냐/ef+?/s. 
+o 그/md o 곳/nc+에는/jca o 가/pv+지/ecx o 말/px+아라/ef+./s. 
+o 그/md o 곳/nc+에서는/jca o 헤엄/nc+을/jc o 치/pv+ㄹ/exm o 수/nb+가/jc o 없/pa+습니다/ef+./s. 
+o 그/md o 곳/nc o 사람/nc+들/xn+이/jc o 살리/pv+ㅁ/exn+이/jc o 넉넉하/pa+지/ecx o 않/px+ㄴ데도/ecs o 우리/npp+를/jc o 늘/pv+ㄹ/exm o 돕/pv+아/ecx o 주/px+었/efp+다/ef+./s. 
+o 그/md o 과일/nc+은/jx o 정말/nc o 먹음직하/pa+다/ef+./s. 
+o 그/md o 꽃/nc+이/jc o 매우/a o 아름답/pa+다/ef+./s. 
+o 그/md o 나무/nc+는/jx o 이/md o 사람/nc+이/jc o 심/pv+었/efp+다/ef+./s. 
+o 그/md o 낙엽/nc+이/jc o 빛깔/nc+이/jc o 곱/pa+다/ef+./s. 
+o 그/md o 날/nct+은/jx o 날씨/nc+가/jc o 좋/pa+지/ecx o 않/px+더/efp+군요/ef+./s. 
+o 그/md o 날/nct+,/s, o 우리/npp o 애/nc+국가/nc+가/jc x 라디오/nc+에서/jca o 흐르/pv+어/ecx o 나오/px+았/efp+는지/ecs+,/s, o 옆방/nc+에서/jca o 들리/pv+어/ecx o 오/px+았/efp+는지/ecs+,/s, o 그것/npd+은/jx o 분명하/pa+지/ecx o 않/px+다/ef+./s. 
+o 그/md o 남편/nc+은/jx o 그러나/ajs o 6.25/nnn o 때/nct o 죽/pv+었/efp+다고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 그/md o 동안/nb o 정말/nc o 보/pv+고/ecx o 싶/px+었/efp+다/ef+./s. 
+o 그/md o 때/nct+는/jx o 그것/npd+이/jc o 싫/pa+기/exn+도/jx o 하/pv+고/ecq x 밉기도/nc o 하/pv+더니/ecs+,/s, o 지금/at o 오/pv+아서는/ecs o 그/md o 때/nct o 그러하/pad+ㄴ/exm o 것/nb+이/jc x 도리어/a o 우리/npp+를/jc o 무관/nca+하/xpv+게/ecx x 정답/pa+게/xa o 만들/pv+었/efp+다/ef+./s. 
+o 그/md o 때문에/a o 성공/nca+하/xpv+게/ecx o 되/pv+었/efp+다/ef+./s. 
+o 그/md o 때/nct o 가/jc o 보/pv+ㄴ/exm o 곳/nc+을/jc o 다시/a o 찾/pv+았/efp+다/ef+./s. 
+o 그/md x 못지않/pa+게/xa o 이/npd+도/jx o 예쁘/pa+다/ef+./s. 
+o 그/md o 방/nc+면/nbu+의/jcm x 서/nc+적/xn o 중/nc+에서/jca o 우선/nc o 적당하/pa+다고/ecs o 생각/nca+되/xpv+는/exm o 것/nb+을/jc o 내용/nc+과/jj o 차례/nc o 등/nc+에/jca o 의하/pv+어/ecx o 선택/nca+하/xpv+어서/ecs o 읽/pv+어/ecx o 보/px+ㄹ/exm o 일/nc+이/jcp+다/ef+./s. 
+o 그/md o 분/nb+은/jx o 젊/pa+었/efp+ㄹ/exm o 적/nb+에/jca o 아주/a o 건강/ncs+하/xpa+었었/efp+다/ef+./s. 
+o 그/md o 사건/nc+은/jx o 너/npp+에서/jca o 비롯되/pv+었/efp+다/ef+./s. 
+o 그/md o 사람/nc+들/xn+의/jcm o 호/nb+의/nc+를/jc o 언제/npd+까지나/jx o 잊/pv+지/ecx o 않/px+겠/efp+다고/ecs o 몇/mn o 번/nbu+이/jcp+고/ecq o 속/nc+으로/jca o 다짐/nca+하/xpv+었/efp+다/ef+./s. 
+o 그/md o 사람/nc+은/jx x 슬기로운/nc o 데/nb+가/jc o 퍽/a o 많/pa+다/ef+./s. 
+o 그/md o 사람/nc+이/jc o 네/npp+가/jc o 보/pv+기/exn+에는/jca o 어떻/pad+더/efp+냐/ef+?/s. 
+o 그/md o 사람/nc+이/jc o 떠나/pv+ㄴ/exm o 줄/nb+을/jc o 알/pv+았/efp+다/ef+./s. 
+o 그/md o 사람/nc+쯤/xn+은/jx o 문제/nc o 없/pa+다/ef+./s. 
+o 그/md o 사람/nc o 무슨/md o 책/nc o 읽/pv+었/efp+나/ef+?/s. 
+o 그/md o 성/nc+벽/nc+이/jc o 높/pa+다/ef+./s. 
+o 그/md o 아이/nc+가/jc x 무럭무럭/a o 크/pa+ㄴ다/ef+./s. 
+o 그/md o 아이/nc+는/jx o 컴퓨터/nc+이/jcp+야/ef+./s. 
+o 그/md o 아이/nc+를/jc o 좀/a x 복종/ncs+하/xpa+게/xa o 못/a o 하/pv+느냐/ef+?/s. 
+o 그/md o 아이/nc+의/jcm o 키/nc+는/jx o 크/pa+다/ef+./s. 
+o 그/md o 애/nc+는/jx o 꼭/a o 아버지/nc+를/jc o 닮/pv+았/efp+다/ef+./s. 
+o 그/md o 어렵/pa+ㄴ/exm o 일/nc+을/jc o 선생님/nc+께서/jc o 직접/a o 처리/nca+하/xpv+셨/efp+습니다/ef+./s. 
+o 그/md o 어렵/pa+ㄴ/exm o 일/nc+을/jc o 선생님/nc+께서/jc o 직접/a x 처리하시었습니/nc+이/jcp+다/ef+./s. 
+o 그/md o 어른/nc o 당신/npp+밖에/jx o 모르/pv+시/efp+지/ef+./s. 
+o 그/md o 어른/nc o 당신/npp o 자신/npp+밖에/jx o 모르/pv+시/efp+지/ef+./s. 
+o 그/md o 영화/nc+는/jx o 나/npp+도/jx o 보/pv+고/ecx o 싶/px+다/ef+./s. 
+o 그/md o 음식/nc+은/jx o 입/nc+에/jca o 대/pv+지도/ecx o 않/px+았/efp+다/ef+./s. 
+o 그/md o 이야기/nc+는/jx o 이미/a o 모두/a o 알/pv+고/ecx o 있/px+어/ef+./s. 
+o 그/md o 이야기/nc+를/jc o 말/nca+하/xpv+어/ecx o 주/px+ㄴ/exm o 사람/nc+이/jc o 있/pa+었/efp+다/ef+./s. 
+o 그/md o 이야기/nc+를/jc o 말/nca+하/xpv+어/ecx o 주/px+ㄹ/exm o 사람/nc+이/jc o 있/pa+었/efp+다/ef+./s. 
+o 그/md o 일/nc+에/jca o 왜/a x 참견입니까/nc+?/s. 
+o 그/md o 일/nc+은/jx o 기/nc+어이/nc o 이루/pv+어야/ecx o 하/px+ㄴ다/ef+./s. 
+o 그/md o 일/nc+은/jx o 내/nc+가/jc o 하/pv+겠/efp+다/ef+./s. 
+o 그/md o 일/nc+은/jx o 내/nc+가/jc o 하/pv+리다/ef+./s. 
+o 그/md o 일/nc+은/jx x 소인/nc+이/jc o 하/pv+었/efp+ㅂ니다/ef+./s. 
+o 그/md o 일/nc+은/jx o 아무/npd+도/jx o 모르/pv+ㄹ/exm o 것/nb+이/jcp+ㅂ니다/ef+./s. 
+o 그/md o 일/nc+은/jx o 잘/a o 되/pv+어/ecx o 가/px+ㄴ다/ef+./s. 
+o 그/md o 장소/nc+에는/jca o 결코/a o 가/pv+지/ecx o 않/px+겠/efp+다/ef+./s. 
+o 그/md o 중요하/pa+ㄴ/exm o 목적/nc+은/jx o 우리/npp+의/jcm o 사상/nc+을/jc o 상대/nc+자/xn+에게/jca o 전달/nca+하/xpv+는/exm o 데/nb o 있/pa+다/ef+./s. 
+o 그/md o 집/nc o 바로/a o 뒤/nc+가/jc o 저/npp+의/jcm o 집/nc+이/jcp+ㅂ니다/ef+./s. 
+o 그/md o 쪽/nc+으로/jca o 가/pv+면/ecs o 안/a o 되/pv+ㄴ다/ef+./s. 
+o 그/md o 책/nc+만은/jx o 보/pv+지/ecx o 말/px+게/ef+./s. 
+o 그/md o 책/nc+은/jx o 도서/nc+관/nc+에서/jca o 가지/pv+어/ecx o 오/px+았/efp+다/ef+./s. 
+o 그/md o 책/nc+은/jx x 영희에게/nc+서/jca o 가지/pv+어/ecx o 오/px+았/efp+다/ef+./s. 
+o 그/md o 책/nc+은/jx x 영희한테/nc+서/jca o 가지/pv+어/ecx o 오/px+았/efp+다/ef+./s. 
+o 그/md x 학생더러/nc o 가지/pv+어/ecx+오/px+라고/ecs o 하/pv+어라/ef+./s. 
+o 그/npp+는/jx x 열흘/nc+이나/jx o 지나/pv+았겠/efp+지/ef+?/s. 
+o 그/npp+는/jx o 열/nn o 달/nbu o 동안/nb+을/jc o 책/nc+과/jj x 씨름/nca+하/xpv+었/efp+다/ef+./s. 
+o 글쎄요/i+,/s, o 저/npp+도/jx o 잘/a o 모르/pv+겠/efp+ㅂ니다/ef+./s. 
+x 글/nc+씨/xn+가/jc o 잘/a o 쓰/pv+어/ecx o 지/px+ㄴ다/ef+./s. 
+x 글/nc+씨/xn+를/jc o 잘/a o 쓰/pv+려고/ecx o 하/px+는데/ecs+,/s, o 왜/a o 그렇/pad+ㄴ지/ecs o 잘/a o 쓰/pv+어/ecx+지/px+지/ecx o 않/px+는다/ef+./s. 
+x 글/nc+을/jc o 쓰/pv+ㄴ다는/exm o 것/nb+은/jx o 아무/npd+에게도/jca o 피해/nc+를/jc o 주/pv+지/ecx o 않/px+고/ecx o 하/px+ㄹ/exm o 수/nb o 있/pa+는/exm o 일/nc+,/s, o 그것/npd+은/jx o 즐겁/pa+ㄴ/exm o 작업/nc+이/jcp+다/ef+./s. 
+x 글/nc+을/jc o 쓰/pv+ㄴ다는/exm o 것/nb+,/s, o 그것/npd+은/jx o 자신/npp+에게/jca o 즐겁/pa+ㄴ/exm o 작업/nc+이/jcp+어야/ecs o 하/pv+ㄴ다/ef+./s. 
+x 금강산/nc+의/jcm x 비로봉은/nc o 오/nn+대/nc+산/nc+의/jcm x 비로봉/nc+보다/jca x 웅/nc+장/xn+하/xpa+다/ef+./s. 
+o 기/nc+가/jc o 죽/pv+는다/ef+./s. 
+o 기계/nc+가/jc o 물/nc+을/jc o 얼/pv+ㅁ/exn+으로/jca o 만들/pv+었/efp+다/ef+./s. 
+o 기다리/pv+더/efp+ㄴ/exm o 봄/nct+이/jc o 드디어/a o 오/pv+았/efp+도다/ef+./s. 
+o 기분/nc+이/jc o 상/nc+해/nc o 나무/nc+를/jc x 팼다/nc+./s. 
+o 기/nc+어이/nc o 하/pv+어/ecx o 내/px+고야/ecs o 말/px+겠/efp+다/ef+./s. 
+o 기차/nc+가/jc o 지금/at o 도착/nca+하/xpv+었/efp+습니다/ef+./s. 
+o 길동/nq+아/jcv+,/s, o 아버지/nc+께서/jc o 부르/pv+시/efp+ㄴ다/ef+./s. 
+o 길/nc+을/jc o 내/pv+었/efp+다/ef+./s. 
+o 길/nc+을/jc o 넓히/pv+었/efp+다/ef+./s. 
+o 길/nc+을/jc o 만들/pv+었/efp+다/ef+./s. 
+o 길/nc+이/jc o 넓/pa+다/ef+./s. 
+x 김영후/nc o 선생님/nc+이/jc o 곧/a x 결혼하신/nc+대/xn+./s. 
+o 김/nq o 군/xn+과/jj x 자넬랑은/nc o 집/nc+에서/jca o 기다리/pv+게/ef+./s. 
+o 김/nq x 군서꺼/nc+는/jx o 모두/a o 어디/ad o 가/pv+았/efp+지/ef+?/s. 
+o 김/nq x 서방/nc+,/s, o 내/m o 딸/nc+을/jc o 귀/nc+애/nc+하/xpa+어/ecx o 주/px+게/ef+./s. 
+o 김/nq o 선생님/nc+은/jx o 무섭/pa+다/ef+./s. 
+o 김/nq o 선생님/nc+은/jx x 호랑이/nc+이/jcp+다/ef+./s. 
+o 김/nq o 선생님/nc+은/jx x 호랑이/nc+의/jcm o 역할/nc+을/jc o 맡/pv+았/efp+다/ef+./s. 
+o 깊/pa+ㄴ/exm x 골짜기/nc+와/jj o 넓/pa+ㄴ/exm o 들/nb+이/jc o 대/nbu+조/nn+적/xn+이/jcp+다/ef+./s. 
+o 깊이/a o 생각/nca+하/xpv+어/ecx o 보/px+는/exm o 것/nb+이/jc o 중요하/pa+다/ef+./s. 
+o 까마귀/nc o 나/pv+니/ecs o 배/pv+어/ecx o 떨/pv+어/ecx+지/px+ㄴ다/ef+./s. 
+o 까마귀/nc o 날/pv+자/ecs o 배/nbu o 떨/pv+어/ecx+지/px+ㄴ다/ef+./s. 
+o 까마득하/pa+ㄴ/exm o 날/nct+에/jca o 하늘/nc+이/jc o 처음/nct o 열리/pv+고/ecq o 어디/npd x 닭/nc o 울/pv+는/exm o 소리/nc x 들렸으랴/nc+./s. 
+o 까맣/pa+게/xa o 타/pv+ㄴ/exm o 고기/nc+는/jx o 건강/nc+에/jca o 나쁘/pa+다/ef+./s. 
+x 깎아지른/nc o 듯하/px+ㄴ/exm o 형상/nc+이/jcp+었/efp+다/ef+./s. 
+o 깜짝/a+이/jcp+야/ef+!/s. 
+o 꼭/a o 가/pv+겠/efp+다고/ecs x 다짐했것다/nc+./s. 
+o 꼭/a o 당신/npp+을/jc o 만나/pv+아야/ecx o 하/px+겠/efp+오/ef+./s. 
+o 꼼짝/nca+하/xpv+지/ecx o 말/px+고/ecq o 여기/npd+에/jca o 있/pa+어라/ef+./s. 
+o 꽃/nc+같이/jca o 곱/pa+더/efp+ㄴ/exm o 얼굴/nc+이/jcp+었/efp+는데/ef+./s. 
+o 꽃/nc+도/jx o 나비/nc+도/jx o 춤/nc+을/jc o 추/pv+ㄴ다/ef+./s. 
+x 꽃망울/pa+이/xa o 다섯/nn+이/jc o 나오/pv+았/efp+다/ef+./s. 
+o 꽃/nc+은/jx o 어이/nc+하/xpa+어/ecx o 피/pv+면서/ecs o 지/px+는가/ef+./s. 
+o 꽃/nc+이/jc o 많이/a o 피/pv+었/efp+다/ef+./s. 
+o 꽃/nc+이/jc o 붉/pa+겠/efp+다/ef+./s. 
+o 꽃/nc+이/jc o 붉/pa+다/ef+./s. 
+o 꽃/nc+이/jc o 붉/pa+었/efp+다/ef+./s. 
+o 꽃/nc+이/jc o 아름답/pa+게/xa o 피/pv+었/efp+다/ef+./s. 
+o 꽃/nc+이/jc o 아름답/pa+지/ecx o 아니/a+하/pv+다/ef+./s. 
+o 꽃/nc+이/jc o 안/a o 아름답/pa+다/ef+./s. 
+o 꽃/nc+이/jc x 영희/nc+에게/jca x 꺾이/pv+었/efp+다/ef+./s. 
+o 꽃/nc+이/jc o 피/pv+고/ecq o 새/nc+가/jc o 울/pv+ㄴ다/ef+./s. 
+o 꽃/nc+이/jc o 피/pv+네/ef+./s. 
+o 꽃/nc+이/jc o 피/pv+었/efp+다/ef+./s. 
+o 꽃/nc+이/jc o 피/pv+오/ef+./s. 
+o 꽃/nc+이/jc o 피/pv+ㄴ다/ef+./s. 
+o 꽃/nc+이/jc o 피/pv+ㄴ다/ef+../sy 
+o 꽃/nc+이/jc o 피/pv+ㅂ니다/ef+./s. 
+o 꽃/nc+이/jc o 활짝/a o 피/pv+었/efp+다/ef+./s. 
+x 꾸물거리지/nc o 말고/jx o 빨리/a o 뛰/pv+어라/ef+./s. 
+o 끓어오르/pv+는/exm o 분노/nc+를/jc o 참/pv+지/ecx o 못하/px+고/ecq o 그만/a o 주먹/nc+을/jc o 휘두르/pv+었/efp+다/ef+./s. 
+o 끝내/a o 그/md o 사실/nc+도/jx o 잊히/pv+어/ecx+지/px+고/ecx o 말/px+았/efp+다/ef+./s. 
+o 끝내/a x 영희도/nc o 울/pv+었/efp+다/ef+./s. 
+o 나가/pv+지/ecx o 말/px+시/efp+어요/ef+./s. 
+x 나곧/nc o 아니/pa+면/ecs o 누구/npp+가/jc o 이/md o 일/nc+을/jc x 하랴/nc+./s. 
+x 나그/nc+네/xn+가/jc+,/s, o 구름/nc+에/jca o 달/nbu o 가/pv+듯이/ecs+,/s, o 가/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 결코/a o 그렇/pad+ㄴ/exm o 짓/nc+은/jx o 하/pv+지/ecx o 않/px+는다/ef+./s. 
+o 나/npp+는/jx o 계속/at o 책/nc+을/jc o 읽/pv+고/ecx o 있/px+다/ef+./s. 
+o 나/npp+는/jx o 과일/nc+이/jc o 더/a o 좋/pa+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+가/jc o 그리/pv+ㄴ/exm o 것/nb+보다/jca o 더/a o 잘/a o 그리/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+가/jc o 노래/nca+하/xpv+는/exm o 것/nb+을/jc o 들/pv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+가/jc o 떠나/pv+는/exm o 것/nb+을/jc o 보/pv+고/ecx o 울/pv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+가/jc o 어디/npd+를/jc o 가/pv+았/efp+는지/ecs o 모르/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 그/npp+가/jc o 음악/nc+가/nc+이/jcp+ㅁ/exn+을/jc o 어제/nct+서야/jx o 알/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+가/jc o 합격/nca+하/xpv+ㄴ/exm o 사실/nc+을/jc o 알/pv+고/ecx o 있/px+다/ef+./s. 
+o 나/npp+는/jx o 그녀/npp+를/jc o 만나/pv+러/ecs o 학교/nc+에/jca o 가/pv+았었/efp+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+를/jc o 무척/a o 만나/pv+고/ecx o 싶/px+었/efp+지만/ecs o 못/a o 만나/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+를/jc o 무척/a o 만나/pv+고/ecx o 싶/px+었/efp+지만/ecs o 안/a o 만나/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+와/jj o 같/pa+ㄴ/exm o 놀이/nc+에는/jca o 안/a o 가/pv+겠/efp+다/ef+./s. 
+o 나/npp+는/jx o 그/npp+의/jcm x 뒷모습을/nc x 언뜻/nc o 보/pv+았/efp+ㄹ/exm o 뿐/nb+이/jcp+다/ef+./s. 
+o 나/npp+는/jx o 그/md o 나/npp+를/jc o 퍽/a x 고단/nca+하/xpv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 꼭/a o 너/npp+와/jj o 사귀/pv+겠/efp+다/ef+./s. 
+o 나/npp+는/jx o 내/nc+가/jc o 그/npp+에게/jca o 이/md o 책/nc+을/jc o 빌리/pv+어/ecx o 주/px+ㄴ/exm o 기억/nc+이/jc o 없/pa+다/ef+./s. 
+o 나/npp+는/jx o 내일/nct o 가/pv+겠/efp+다/ef+./s. 
+o 나/npp+는/jx o 내일/nct o 떠나/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 내일/nct o 밤/nc+차/nc+로/jca o 떠나/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 내일/nct o 시험/nc o 있/pa+어/ef+./s. 
+o 나/npp+는/jx o 너/npp+만을/jc o 생각/nca+하/xpv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 네/npp+가/jc o 무척/a+이나/jx o 좋/pa+다/ef+./s. 
+o 나/npp+는/jx o 네/npp+가/jc o 왜/a o 웃/pv+는/exm+지/nb+를/jc o 모르/pv+겠/efp+다/ef+./s. 
+o 나/npp+는/jx o 다리/nc+가/jc o 아프/pa+다/ef+./s. 
+o 나/npp+는/jx o 도서/nc+관/nc+으로/jca o 가/pv+겠/efp+다/ef+./s. 
+o 나/npp+는/jx o 도서/nc+관/nc+으로/jca o 가/pv+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 나/npp+는/jx o 매일/a o 일찍/a o 일/pv+어/ecx+나/px+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 매일/a o 학교/nc+에/jca o 가/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 물/nc+을/jc o 마시/pv+고/ecx o 싶/px+다/ef+./s. 
+o 나/npp+는/jx o 물/nc+이/jc o 마시/pv+고/ecx o 싶/px+다/ef+./s. 
+o 나/npp+는/jx x 바보가/nc o 아니야/i+./s. 
+o 나/npp+는/jx o 반/nc+상/nc+회/nbu+에/jca o 참석/nca+하/xpv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 밥/nc+을/jc o 먹/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 사과/nc+가/jc o 좋/pa+다/ef+./s. 
+o 나/npp+는/jx o 사과/nc+를/jc o 먹/pv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 사과/nc+를/jc o 좋/pa+아/ecx+하/px+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 새/nc+가/jc o 숲/nc+을/jc o 찾/pv+아/ecx x 깃/nc+들/xn+이/jcp+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 새/nc+를/jc o 잡/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 새/m o 책/nc+을/jc o 사/pv+고/ecx o 싶/px+었/efp+다/ef+./s. 
+o 나/npp+는/jx x 솔잎을/nc x 질겅질겅/nc o 씹/pv+어/ecx o 보/px+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 아직/a o 그/npp+와/jj o 만나/pv+ㄹ/exm o 결심/nc+을/jc o 하/pv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 앉/pv+아서/ecs o 책/nc+을/jc o 보/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 어제/nct o 가/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 어제/nct o 극장/nc+에/jca o 가/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 어제/nct o 단/mn+편/nbu o 소설/nc+을/jc o 읽/pv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 어제/nct o 단/mn+편/nbu o 소설/nc o 두/mn o 편/nbu+을/jc o 읽/pv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 어제/nct o 상/nc+경/nc+하/xpa+었/efp+ㅁ/exn+을/jc o 그/npp+에게/jca o 알리/pv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 어제/nct o 여섯/nn o 시/nbu+에/jca o 일/pv+어/ecx+나/px+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 언제나/a o 일곱/nn o 시/nbu+이/jcp+면/ecs o 학교/nc+에/jca o 가/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx x 영철이/nc+를/jc o 때/nc+리/nb+지는/exm o 않/px+았/efp+다/ef+./s. 
+o 나/npp+는/jx x 영철이/nc+를/jc o 때/nc+리/nb+이/jcp+지/ef o 않/px+았/efp+다/ef+./s. 
+o 나/npp+는/jx x 영철이/nc+를/jc o 안/a x 때리/pv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 오늘/nct o 철수/nc+를/jc o 만나/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 오늘/nct o 철수/nc+와/jj o 만나/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx x 왕이로소이/nc+이/jcp+다/ef+./s. 
+o 나/npp+는/jx o 왜/a o 그렇/pad+ㄴ/exm o 일/nc+이/jc o 일/pv+어/ecx+나/px+았/efp+는/exm+지/nb+를/jc o 알/pv+ㄹ/exm o 수/nb o 없/pa+다/ef+./s. 
+o 나/npp+는/jx o 음악/nc+을/jc o 듣/pv+고/ecx o 싶/px+다/ef+./s. 
+o 나/npp+는/jx o 음악/nc+이/jc o 듣/pv+고/ecx o 싶/px+다/ef+./s. 
+o 나/npp+는/jx o 잔디/nc+를/jc o 짓밟/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 젊/pa+었/efp+니/ecs o 돌/nc+인/nc+들/xn x 무거우랴/nc+?/s. 
+o 나/npp+는/jx o 지금/at o 가/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 지금/at x 글/nc+을/jc o 쓰/pv+고/ecx o 있/px+다/ef+./s. 
+o 나/npp+는/jx o 집/nc+에/jca o 가/pv+기/exn+가/jc o 싫/pa+다/ef+./s. 
+o 나/npp+는/jx x 차근차근/nca+하/xpv+ㄴ/exm o 성/nc+품/nc+을/jc o 좋/pa+아/ecx+하/px+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 차마/a o 그/md o 말/nc+을/jc x 딛으려/nc o 아니/a+하/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+가/jc o 노래/nca+하/xpv+ㅁ/exn+을/jc o 들/pv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+가/jc o 유능/ncs+하/xpa+ㄴ/exm x 일꾼이라/nc+는/jx o 인상/nc+을/jc o 받/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+가/jc o 좋/pa+다/ef 
+o 나/npp+는/jx o 철수/nc+가/jc o 합격/nca+하/xpv+리라고/ecs o 믿/pv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+를/jc o 때/nc+리/nb+지는/exm o 않/px+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+를/jc o 좋/pa+아/ecx+하/px+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+와/jj x 순이/nc+를/jc o 둘/nn o 다/a o 만나/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+와/jj x 순이/nc+를/jc o 만나/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+와/jj o 함께/a x 순이/nc+를/jc o 만나/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+의/jcm o 말/nc+이/jc o 옳/pa+다고/ecs o 생각/nca+하/xpv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 철수/nc+의/jcm o 말/nc+이/jc o 옳/pa+다고/ecs o 하/pv+는/exm o 의견/nc+을/jc o 제시/nca+하/xpv+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 팔/nn+을/jc o 다치/pv+ㄴ/exm o 형/npp+에게/jca o 구두/nc+를/jc x 신기/pv+어/ecx o 주/px+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 피/nc+리/nb+를/jc o 불/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 학교/nc+를/jc o 다니/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 학생/nc+들/xn+에게/jca o 따로/a x 독일어/nc+를/jc o 가르치/pv+어/ecx o 주/px+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 학생/nc+이/jc o 아니/pa+다/ef+./s. 
+o 나/npp+는/jx o 허/a+는/jx x 양/nc+말/xn+을/jc o 벗/pv+어/ecx o 버리/px+었/efp+다/ef+./s. 
+o 나/npp+는/jx o 현재/nct+의/jcm x 진의/nc+는/jx x 한갓/nc o 현재/nct+에만/jca x 얽매임/nc+으로써/jca o 살리/pv+어/ecx+지/px+는/exm o 것/nb+이/jc o 아니/pa+라고/ecs o 굳/pa+게/xa o 믿/pv+는다/ef+./s. 
+o 나/npp+는/jx o 현재/nct+의/jcm x 진의/nc+는/jx x 한갓/nc o 현재/nct+에만/jca x 얽매임/nc+으로써/jca o 살리/pv+어/ecx+지/px+는/exm o 것/nb+이/jc o 아니/pa+라는/exm o 것/nb+을/jc o 굳/pa+게/xa o 믿/pv+는다/ef+./s. 
+o 나/npp+는/jx o 현재/nct+의/jcm x 진의/nc+는/jx x 한갓/nc o 현재/nct+에만/jca x 얽매임/nc+으로써/jca o 살리/pv+어/ecx+지/px+는/exm o 것/nb+이/jc o 아니/pa+ㅁ/exn+을/jc o 굳/pa+게/xa o 믿/pv+는다/ef+./s. 
+o 나/npp+도/jx o 가/pv+겠/efp+다/ef+./s. 
+o 나/npp+도/jx o 고향/nc+으로/jca o 가/pv+고/ecx o 싶/px+다/ef+./s. 
+o 나/npp+도/jx o 그것/npd+을/jc x 먹어/nc+는/jx o 보/pv+았/efp+습니다/ef+./s. 
+o 나/npp+도/jx o 그것/npd+쯤/xn+은/jx o 하/pv+겠/efp+다/ef+./s. 
+o 나/npp+도/jx o 그/npp+를/jc o 알/pv+고/ecx o 있/px+다/ef+./s. 
+o 나/npp+도/jx o 그분/npp+들/xn+처럼/jca o 살/pv+아/ecx+가/px+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 나/npp+도/jx o 그/md o 문제/nc+는/jx o 풀/pv+겠/efp+다/ef+./s. 
+o 나/npp+도/jx o 그/md o 문제/nc+를/jc o 풀/pv+어/ecx o 보/px+았/efp+다/ef+./s. 
+o 나/npp+도/jx o 그/md o 문제/nc+를/jc o 풀/pv+어/ecx o 보/px+았/efp+습니다/ef+./s. 
+o 나/npp+도/jx o 그/md o 사람/nc+만큼/jca o 뛰/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 나/npp+도/jx o 그/md o 일/nc+에/jca o 대하/pv+어서는/ecs o 어쩔/m o 수/nb+가/jc o 없/pa+었/efp+다/ef+./s. 
+o 나/npp+도/jx o 그/md o 정도/nc+는/jx o 먹/pv+겠/efp+더라/ef+./s. 
+o 나/npp+도/jx o 그/md o 정도/nc+의/jcm o 문제/nc+는/jx o 풀/pv+겠/efp+다/ef+./s. 
+o 나/npp+도/jx o 극장/nc+에/jca o 가/pv+았/efp+다/ef+./s. 
+o 나/npp+도/jx o 네/npp+가/jc o 차츰/a o 좋아지/pv+겠/efp+지/ef+./s. 
+o 나/npp+도/jx o 설악/nq+산/nc+에/jca o 가/pv+고/ecx o 싶/px+다/ef+./s. 
+o 나/npp+도/jx o 어쩔/m o 수/nb+가/jc o 없/pa+다/ef+./s. 
+o 나/npp+도/jx o 열심히/a o 뛰/pv+고/ecx o 싶/px+다/ef+./s. 
+o 나/npp+도/jx o 자네/npp+를/jc o 따르/pv+아/ecx x 감세/nc+./s. 
+o 나/npp+도/jx o 지치/pv+ㄹ/exm o 만큼/nb+은/jx o 지치/pv+었/efp+다/ef+./s. 
+o 나/npp+도/jx o 지치/pv+ㄹ/exm o 만큼/nb o 지치/pv+었/efp+다/ef+./s. 
+o 나/npp+도/jx x 찬성이오/nc+./s. 
+o 나/npp+도/jx o 철수/nc+를/jc o 따르/pv+아/ecx o 가/px+고/ecx o 싶/px+다/ef+./s. 
+o 나/npp+도/jx o 한/mn o 마디/nc o 하/pv+자/ef+./s. 
+o 나무/nc+가/jc o 높/pa+다/ef+./s. 
+o 나무/nc+가/jc x 무럭무럭/nc x 자란다/nc+./s. 
+x 나무꾼이/nc o 화/nc+가/jc o 나/pv+ㄴ/exm o 벌/nc o 떼/nc+한테/jca o 마구/a x 쏘이/pv+었/efp+다/ef+./s. 
+o 나무/nc+로/jca o 집/nc+을/jc o 짓/pv+는다/ef+./s. 
+o 나무/nc+를/jc o 심/pv+고/ecx o 있/px+습니다/ef+./s. 
+o 나무/nc+를/jc o 심/pv+는다/ef+./s. 
+o 나무/nc+에서/jca o 사과/nc+가/jc o 떨/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 나무/nc+에/jca o 물/nc+을/jc o 주/pv+다/ef+./s. 
+o 나무/nc o 세/mn x 그루가/nc o 고향/nc o 마을/nc+을/jc o 지키/pv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 나무/nc+,/s, o 풀/pv+ㄹ/exm o 들/pv+ㄴ/exm o 식/nc+물/nc+이/jcp+다/ef+./s. 
+x 나뭇잎이/nc o 빨갛/pa+게/xa o 물들/pv+ㄴ다/ef+./s. 
+x 나뭇잎이/nc o 소리/nc+도/jx o 없/pa+이/xa o 하/pv+ㄴ/exm o 잎/nc+,/s, o 두/mn o 잎/nc o 떨/pv+어/ecx+지/px+ㄴ다/ef+./s. 
+x 나뭇잎이/nc o 한/mn+장/nbu o 빨개지/pv+고/ecx o 있/px+다/ef+./s. 
+o 나/pv+아/ecx+보/px+고/ecx o 가/px+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 나비/nc+를/jc o 잡/pv+게/ecx o 하/px+어라/ef+./s. 
+o 나비/nc+를/jc o 잡/pv+고/ecx o 있/px+어라/ef+./s. 
+o 나비/nc+를/jc o 잡/pv+기/exn+가/jc o 힘들/pv+었/efp+다/ef+./s. 
+o 나비/nc+를/jc o 잡/pv+기/exn+는/jx o 쉽/pa+었/efp+다/ef+./s. 
+o 나비/nc+를/jc x 잡느라고/nc o 약속/nc+을/jc o 잊/pv+었/efp+다/ef+./s. 
+o 나비/nc+를/jc o 잡/pv+아/ecx o 오/px+어라/ef+./s. 
+o 나비/nc+를/jc o 잡/pv+지/ecx o 말/px+아라/ef+./s. 
+o 나비/nc+이/jcp+야/ef+,/s, x 청산/nc o 가/pv+자/ef+./s. 
+o 나/npp+에게/jca o 달/pv+오/ef+./s. 
+o 나/npp+에게/jca x 다짐했것다/nc+./s. 
+o 나/npp+에게/jca o 다르/pa+아/ef+./s. 
+o 나/npp+에게/jca o 주/pv+게/ef+./s. 
+o 나/npp+에게/jca o 주/pv+시/efp+오/ef+./s. 
+o 나/npp+에게/jca o 주/pv+시/efp+ㅂ시오/ef+./s. 
+o 나/npp+에게/jca o 주/pv+어요/ef+./s. 
+o 나/npp+에게/jca o 필요/ncs+하/xpa+ㄴ/exm o 것/nb+은/jx x 빵이/nc+이/jcp+다/ef+./s. 
+o 나/npp+에게/jca o 필요/ncs+하/xpa+ㄴ/exm o 것/nb+은/jx o 선생님/nc+이/jcp+다/ef+./s. 
+o 나/npp+에게/jca o 필요/ncs+하/xpa+ㄴ/exm o 것/nb+은/jx o 이것/npd+이/jcp+다/ef+./s. 
+o 나/npp+에게/jca o 필요/ncs+하/xpa+ㄴ/exm o 것/nb+은/jx o 학생/nc+이/jcp+다/ef+./s. 
+o 나/npp+와/jj o 같이/a o 놀/pv+는/exm o 것/nb+이/jc o 어때/i+?/s. 
+o 나/npp+의/jcm o 성공/nc+은/jx o 그녀/npp+의/jcm x 덕택이/nc+이/jcp+다/ef+./s. 
+o 나/npp+의/jcm o 연구/nc+도/jx o 거의/a o 완성/nca+되/xpv+어/ecx o 가/px+았/efp+다/ef+./s. 
+o 나/npp+의/jcm o 조/nn+부모/nc+께서는/jc o 나/npp+를/jc o 백/nn+날/xn o 동안/nb+,/s, o 사람/nc+에게도/jca+,/s, o 해/nc+에도/jca+,/s, o 달/nc+에도/jca+,/s, o 보이/pv+지/ecx o 않/px+시/efp+고/ecq o 당신/npp+들/xn+의/jcm o 방안/nc+에서/jca o 무릎/nc+에다/jca o 놓/pv+고/ecx o 키우/pv+셨/efp+다/ef o 하/pv+ㄴ다/ef+./s. 
+o 나이/nc+를/jc o 먹/pv+는다/ef+./s. 
+o 나/npp+하고/jj o 같이/a o 놀/pv+는/exm o 것/nb+이/jc o 어때/i+?/s. 
+o 나/npp o 보/pv+기/exn+가/jc x 역겨우/pv+어/ecx o 가/px+시/efp+는/exm o 이/jcp+ㅁ/exn+./s. 
+o 나/npp o 보/pv+기/exn+가/jc x 역겨우/pv+어/ecx o 가/px+시/efp+ㄹ/exm o 때/nct+에는/jca 
+o 나/npp o 보/pv+기/exn+가/jc x 역겨우/pv+어/ecx o 가/px+시/efp+ㄹ/exm o 때/nct+에는/jca o 죽/pv+어도/ecs o 아니/a o 눈물/nc x 흘리우리/nc+이/jcp+다/ef+./s. 
+o 나/npp o 오늘/nct o 집/nc+에/jca o 있/pa+는다/ef+./s. 
+o 나/npp+,/s, o (/s`+3/nnn+)/s'+번/nbu o 문제/nc o 아직/a o 못/a o 풀/pv+었/efp+다/ef+./s. 
+o 낙엽/nc+이/jc o 바람/nc+에/jca o 날리/pv+ㄴ다/ef+./s. 
+o 나/npp+는/jx o 그/md o 때/nct o 그/md o 사람/nc+이/jc o 거기/ad o 있/pa+는/exm o 줄/nb o 모르/pv+았/efp+다/ef+./s. 
+o 나/npp+는/jx o 하/pv+지/ecx o 않/px+았/efp+어/ef+./s. 
+o 날/nct+마다/jx o 울/pv+어/ecx o 대/px+ㄴ다/ef+./s. 
+o 날씨/nc+가/jc o 너무/a o 화/nc+창/nc+하/xpa+다고/ecs o 그/npp+는/jx o 소리치/pv+었/efp+다/ef+./s. 
+o 날씨/nc+가/jc o 덥/pa+니까/ecs o 식당/nc+에/jca o 가/pv+어라/ef+./s. 
+o 날씨/nc+가/jc o 덥/pa+다/ef+./s. 
+o 날씨/nc+가/jc o 덥/pa+지/ecx o 않/px+구나/ef+!/s. 
+o 날씨/nc+가/jc o 덥/pa+지/ecx o 않/px+느냐/ef+?/s. 
+o 날씨/nc+가/jc o 덥/pa+지/ecx o 않/px+다/ef+./s. 
+o 날씨/nc+가/jc o 맑/pa+게/xa o 개/pv+었/efp+구나/ef+./s. 
+o 날씨/nc+가/jc o 매우/a o 차/pa+다/ef+./s. 
+o 날씨/nc+가/jc o 보/pv+ㅁ/exn+이/jc o 오/pv+니/ecs o 따뜻하/pa+다/ef+./s. 
+o 날씨/nc+가/jc o 안/a o 덥/pa+구나/ef+!/s. 
+o 날씨/nc+가/jc o 안/a o 덥/pa+느냐/ef+?/s. 
+o 날씨/nc+가/jc o 안/a o 덥/pa+다/ef+./s. 
+o 날씨/nc+가/jc o 이렇게/a o 춥/pa+ㄴ데/ecs+,/s, o 굳/pa+이/xa o 길/nc+을/jc o 떠나/pv+시/efp+렵니까/ef+?/s. 
+o 날씨/nc+가/jc o 참/i o 좋/pa+군요/ef+!/s. 
+o 날씨/nc+조차/jx o 길/nc+을/jc o 막/pv+고/ecx o 있/px+다/ef+./s. 
+o 날/nc+이/jc o 개/pv+어/ecx o 상쾌/ncs+하/xpa+다/ef+./s. 
+o 날/nc+이/jc o 점점/a o 어둡/pa+어/ecx o 오/px+ㄴ다/ef+./s. 
+o 나/npp+를/jc o 사랑/nca+하/xpv+시/efp+는/exm o 우리/npp o 아빠/nc 
+x 남부끄러운/nc o 일/nc+은/jx o 하/pv+지/ecx o 말/px+라/ef+./s. 
+x 남북/nc o 대표/nc o 회의/nc x 수락/nca+하/xpv+라/ef+./s. 
+o 남/nq+이/jc x 본받/pv+ㄹ/exm o 수/nb o 있/pa+는/exm o 행동/nc+을/jc o 하/pv+어야/ecx o 하/px+ㄴ다/ef+./s. 
+o 남쪽/nc+에는/jca x 평야가/nc o 많/pa+며/ecq+,/s, o 북쪽/nc+에는/jca o 산/nc+이/jc o 많/pa+다/ef+./s. 
+o 남/nq+해/nc+로/jca o 가/pv+는/exm o 바다/nc+에/jca o 길/pa+ㄴ/exm o 다리/nc+가/jc o 놓이/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 낮/nct+과/jj o 같이/a x 휘영청/nc o 밝/pa+ㄴ/exm o 달/nc+밤/nct+이/jcp+었/efp+다/ef+./s. 
+o 낯설/pa+ㄴ/exm o 사람/nc o 같/pa+지/ecx+가/px+아/ecx o 않/px+아요/ef+./s. 
+x 낯이/nc o 뜨겁/pa+다/ef+./s. 
+x 낯이/nc o 밝/pa+다/ef+./s. 
+x 낯이/nc o 붉/pa+다/ef+./s. 
+o 내/nc+가/jc o 너/npp+에게/jca o 무엇/npd+을/jc o 하/pv+어/ecx o 주/px+기/exn+를/jc o 원하/pv+느냐/ef+?/s. 
+o 내/nc+가/jc o 너희/npp+한테/jca o 돈/nc+을/jc o 빼앗/pv+기/exn+이/jcp+겠/efp+느냐/ef+?/s. 
+o 내/nc+가/jc o 때/nc+리/nb+ㄴ/exm o 것/nb+은/jx x 영철이가/nc o 아니/pa+다/ef+./s. 
+o 내/nc+가/jc o 알/pv+고/ecx o 있/px+는데/ecs+,/s, x 자넨/nc+들/xn o 모르/pv+겠/efp+나/ef+?/s. 
+o 내/nc+가/jc x 영철이르/pv+ㄹ/exm o 때/nc+리/nb+ㄴ/exm o 것/nb+이/jc o 아니/pa+다/ef+./s. 
+o 내/nc+가/jc o 오늘/nct+은/jx o 공부/nc+를/jc o 못/a o 하/pv+었/efp+다/ef+./s. 
+o 내/nc+가/jc o 이것/npd+만을/jc o 너/npp+에게/jca o 주/pv+겠/efp+다/ef+./s. 
+o 내/nc+가/jc o 읽/pv+는/exm o 책/nc+은/jx o 동화책/nc+이/jcp+다/ef+./s. 
+o 내/nc+가/jc o 읽/pv+어야/ecs o 하/pv+ㄹ/exm o 책/nc+은/jx o 무엇/npd+이/jcp+ㅂ니까/ef+?/s. 
+o 내/nc+가/jc o 읽/pv+ㄴ/exm o 책/nc+은/jx o 동화책/nc+이/jcp+다/ef+./s. 
+o 내/nc+가/jc o 읽/pv+ㄹ/exm o 책/nc+은/jx o 동화책/nc+이/jcp+다/ef+./s. 
+o 내/nc+가/jc o 잡/pv+ㄴ/exm o 고기/nc+는/jx x 월척이/pv+었/efp+다/ef+./s. 
+o 내/nc+가/jc o 철수/nc+는/jx o 만나/pv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 내/nc+가/jc o 철수/nc+를/jc o 만나/pv+지는/ecx o 못하/px+었/efp+다/ef+./s. 
+o 내/nc+가/jc o 철수/nc+를/jc o 만나/pv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 내/nc+가/jc o 철수/nc+를/jc o 못/a o 만나/pv+았/efp+다/ef+./s. 
+o 내/nc+가/jc o 친구/nc+를/jc o 만나/pv+러/ecs o 종로/nq+에/jca o 가/pv+았었/efp+다/ef+./s. 
+o 내리/pv+ㅂ시다/ef+./s. 
+o 내일/nct+도/jx o 눈/nc+이/jc o 오/pv+겠/efp+다/ef+./s. 
+o 내일/nct+도/jx o 비/nc+가/jc o 오/pv+겠/efp+다/ef+./s. 
+o 내일/nct+에는/jca o 꼭/a o 가/pv+겠/efp+다/ef+./s. 
+o 내일/nct+에는/jca o 어떤/md o 일/nc+이/jc o 있/pa+어도/ecs o 만/nn+남/nc+세/nc+./s. 
+o 내일/nct+은/jx o 꼭/a o 가/pv+겠/efp+다/ef+./s. 
+o 내일/nct+은/jx o 비/nc+가/jc o 오/pv+겠/efp+다/ef+./s. 
+o 내일/nct+은/jx o 비/nc+가/jc o 오/pv+겠/efp+습니다/ef+./s. 
+o 내일/nct+은/jx o 비/nc+가/jc o 오/pv+지/ecx o 말/px+았/efp+면/ecs o 좋/pa+겠/efp+다/ef+./s. 
+o 내일/nct+은/jx o 비/nc+가/jc o 오/pv+지/ecx o 않/px+겠/efp+다/ef+./s. 
+o 내일/nct+은/jx o 비/nc+가/jc o 오/pv+지/ecx o 않/px+았/efp+면/ecs o 좋/pa+겠/efp+다/ef+./s. 
+o 내일/nct+은/jx o 비/nc+가/jc o 오/pv+ㄹ/exm o 것/nb+이/jcp+ㅂ니다/ef+./s. 
+o 내일/nct+은/jx o 철수/nc+의/jcm x 생일/nc+날/xn+이/jcp+다/ef+./s. 
+o 내일/nct+은/jx o 틀림없이/a o 가리/pv+다/ef+./s. 
+o 내일/nct+은/jx o 틀림없이/a o 비/nc+가/jc o 오/pv+ㄹ/exm o 것/nb o 같/pa+군/ef+!/s. 
+o 내일/nct+은/jx o 6/nnn o 시/nbu+부터/jx o 일/nc+을/jc o 시작/nca+하/xpv+겠/efp+다/ef+./s. 
+o 내일/nct+을/jc o 비/nc+가/jc o 오/pv+ㄹ/exm o 것/nb+이/jcp+ㅂ니다/ef+./s. 
+o 내일/nct+을/jc o 틀림없이/a o 비/nc+가/jc o 오/pv+겠/efp+다/ef+./s. 
+o 내일/nct+이/jcp+면/ecs o 그/npp+도/jx o 스무/mn o 살/nbu+이/jc o 되/pv+겠/efp+다/ef+./s. 
+o 내일/nct+이/jcp+면/ecs o 그/npp+도/jx o 2/nnn+학년/nc+이/jc o 되/pv+겠/efp+다/ef+./s. 
+o 내일/nct+이/jc o 며칠/nc+이/jcp+ㄴ가/ef+?/s. 
+o 내일/nct+쯤/xn+은/jx o 비/nc+가/jc x 오렷다/nc+./s. 
+o 내일/nct+쯤/xn+은/jx o 비/nc+가/jc x 오리/pv+었/efp+다/ef+./s. 
+o 내일/nct o 가/pv+겠/efp+다/ef+./s. 
+o 내일/nct o 다시/a o 만나/pv+ㅂ시다/ef+./s. 
+o 내일/nct o 새벽/nct+에/jca o 나/npp+를/jc o 좀/a o 깨우/pv+어라/ef+./s. 
+o 내일/nct o 시험/nc+이/jcp+라면서/ecs+,/s, o 잘/a+들/pv+ㄹ/exm o 놀/pv+는구나/ef+./s. 
+o 내일/nct o 우리/npp o 다시/a o 만나/pv+ㅂ시다/ef+./s. 
+o 내일/nct o 하/pv+시/efp+어요/ef+./s. 
+o 내일/nct o 혹은/ajw o 모레/nct o 가/pv+자/ef+./s. 
+o 내/m o 나/npp+이/jc o 벌써/a o 열/nn+아홉/nn x 살이렷다/nc+./s. 
+o 내/m x 생일/nc o 선물/nc+을/jc o 선생님/nc+께서/jc o 보내/pv+셨/efp+다/ef+./s. 
+o 내/m o 한/mn o 목/nc+,/s, o 어디/npd+라도/jx o 못/a o 가/pv+겠/efp+느냐/ef+?/s. 
+o 내/m o 한/mn o 몸/nc+,/s, o 어디/npd+라도/jx o 못/a o 가/pv+겠/efp+느냐/ef+?/s. 
+o 너/npp+까지도/jx o 그/md o 일/nc+에/jca o 가/nc+담/nc+하/xpa+었/efp+다는/exm o 걸/pv+냐/ef+?/s. 
+o 너/npp+는/jx o 감/pv+기/exn+가/jc o 들/pv+ㄴ/exm o 것/nb+이/jc o 아니/pa+냐/ef+./s. 
+o 너/npp+는/jx o 거기/npd+서/jca o 무엇/npd+을/jc o 하/pv+느냐/ef+?/s. 
+o 너/npp+는/jx o 나/npp+보다/jca o 크/pa+다/ef+./s. 
+o 너/npp+는/jx o 나/npp+의/jcm o 꿈/nc+이/jcp+다/ef+./s. 
+o 너/npp+는/jx o 누구/npp+랑/jj o 함께/a o 있/pa+었/efp+느냐/ef+?/s. 
+o 너/npp+는/jx o 누구/npp+와/jj o 함께/a o 있/pa+었/efp+느냐/ef+?/s. 
+o 너/npp+는/jx o 누구/npp+하고/jj o 함께/a o 있/pa+었/efp+느냐/ef+?/s. 
+o 너/npp+는/jx o 모르/pv+아도/ecs o 나/npp+는/jx o 매우/a o 덥/pa+더라/ef+./s. 
+o 너/npp+는/jx o 무슨/md o 책/nc+을/jc o 읽/pv+었/efp+니/ef+?/s. 
+o 너/npp+는/jx o 무엇/npd+을/jc o 하/pv+느냐/ef+?/s. 
+o 너/npp+는/jx x 생각부터가/nc x 빗나갔다/nc+./s. 
+o 너/npp+는/jx o 어디/npd+로/jca o 놀/pv+러/ecs o 가/pv+겠/efp+느냐/ef+?/s. 
+o 너/npp+는/jx o 지금/at o 무엇/npd+을/jc o 하/pv+느냐/ef+?/s. 
+o 너/npp+는/jx o 지금/at o 어디/ad o 있/pa+느냐/ef+?/s. 
+o 너/npp+는/jx o 집/nc+에/jca o 가/pv+지/ecx o 말/px+아라/ef+./s. 
+o 너/npp+는/jx o 책/nc+도/jx o 없/pa+느냐/ef+?/s. 
+o 너/npp+도/jx o 가/pv+고/ecq o 나/npp+도/jx o 가/pv+아야지/ef+./s. 
+o 너/npp+도/jx o 그/npp+와/jj o 같이/a x 행동하려느냐/nc+?/s. 
+o 너/npp+도/jx o 떠나/pv+겠/efp+느냐/ef+?/s. 
+o 너/npp+도/jx o 지금/at o 떠나/pv+겠/efp+느냐/ef+?/s. 
+o 너/npp+도/jx o 한/mn+번/nbu o 읽/pv+어/ecx o 보/px+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 너/npp+도/jx o 한/mn+번/nbu o 읽/pv+어/ecx x 보려무/nc+이/jcp+나/ef+./s. 
+o 너/npp+도/jx o 한/mn+번/nbu o 읽/pv+어/ecx x 보렴/nc+./s. 
+o 너/npp+도/jx o 함께/a o 꽃/nc+구경/nc+이나/jx x 떠나렴/nc+./s. 
+o 너/npp+를/jc o 만나/pv+아/ecx x 자못/nc o 기쁘/pa+다/ef+./s. 
+o 너/npp+마저/jx o 가/pv+려고/ecx+?/s. 
+o 너/npp+만/jx o 못/a o 하/pv+ㄴ/exm o 사람/nc+도/jx o 많/pa+다/ef+./s. 
+o 너무나/a o 성/nc+스럽/xpa+ㄴ/exm o 자/nbu+태/pv+다/ef+./s. 
+o 너무나/a o 현실/nc+적/xn+이/jcp+다/ef+./s. 
+o 너무/a+도/jx o 아름답/pa+어라/ef+./s. 
+o 너무/a+들/pv+ㄹ/exm o 열/pv+시/efp+ㅁ/exn+이/jcp+다/ef+./s. 
+o 너무/a o 아름답/pa+ㄴ/exm o 꽃/nc+들/xn+만/jx o 재/nc+배/nc+하/xpa+는군요/ef+./s. 
+o 너무/a o 오래/a o 지나/pv+았/efp+네요/ef+!/s. 
+o 너무/a o 일찍/a o 도착/nca+하/xpv+었/efp+군요/ef+./s. 
+o 너무/a o 허/a+는/jx o 책/nc+이/jcp+라고/ecs o 버리/pv+지/ecx o 말/px+아라/ef+./s. 
+o 너/npp+밖에는/jx o 믿/pv+ㄹ/exm o 사람/nc+이/jc o 없/pa+다/ef+./s. 
+o 너/npp+부터/jx o 먼저/a o 가/pv+어라/ef+./s. 
+x 너야/nc+말/xn+로/jca o 이/md o 나라/nc+의/jcm o 진정/nca+하/xpv+ㄴ/exm x 동량재/nc+이/jcp+다/ef+./s. 
+o 너/npp+에게는/jca o 이/md o 일/nc+이/jc o 힘/nc+에/jca x 벅찰/nc o 것/nb+이/jcp+다/ef+./s. 
+o 너/npp+에게도/jca o 이/md o 이/npd+을/jc o 맡기/pv+ㄹ/exm o 참/nc+이/jcp+었/efp+다/ef+./s. 
+o 너/npp+에게도/jca o 하/pv+나/ecs x 주랴/nc+?/s. 
+o 너/npp+에게로/jca o 가/pv+는/exm o 우편물/nc+이/jcp+다/ef+./s. 
+o 너/npp+에게/jca o 이/md o 사과/nc+도/jx o 주/pv+ㄹ까/ef+?/s. 
+o 너/npp+와는/jj o 달리/a o 그/npp+가/jc o 현명하/pa+었/efp+다/ef+./s. 
+o 너/npp+와/jj o 같이/a o 일/nca+하/xpv+ㄹ/exm o 마음/nc+이/jc o 없/pa+다/ef+./s. 
+o 너/npp+와/jj o 내/nc+가/jc o 부산/nq+에서/jca o 만나/pv+았더/efp+ㄴ/exm o 그/md o 사람/nc+을/jc o 찾/pv+아야/ecx o 하/px+어/ef+./s. 
+o 너/npp+와/jj o 더/a+불/pv+어/ecx o 우리/npp+는/jx o 한/mn o 배/nbu+를/jc o 타/pv+고/ecx o 있/px+는/exm o 셈/nc+이/jcp+다/ef+./s. 
+o 너/npp+와/jj o 마찬가지/nc+로/jca o 나/npp+도/jx x 격었다/nc+./s. 
+o 너/npp+의/jcm o 성공/nc+을/jc o 기쁘/pa+어/ecx+하/px+ㄴ다/ef+./s. 
+o 너/npp+의/jcm x 신용/nc+만/jx o 믿/pv+고/ecq o 이/md o 일/nc+을/jc o 맡기/pv+겠/efp+다/ef+./s. 
+o 너/npp+의/jcm o 아버지/nc o 돌아오/pv+셨/efp+니/ef+?/s. 
+o 너/npp+의/jcm o 아버지/nc o 돌아오/pv+았/efp+니/ef+?/s. 
+o 너/npp+의/jcm o 옷/nc+은/jx o 아름답/pa+다/ef+./s. 
+x 너한테/nc+로/jca o 가/pv+는/exm o 우편물/nc+이/jcp+다/ef+./s. 
+o 너/npp+한테/jca x 장난감/nc o 하나/nn o 못/a o 사주/pv+ㄹ까/ef+?/s. 
+o 너/npp+한테/jca x 장난감/nc o 하나/nn o 못/a o 사/pv+아/ecx o 주/px+ㄹ까/ef+?/s. 
+o 너희/npp+는/jx o 문/nc+을/jc+,/s, o 바람/nc+이/jc o 잘/a o 통하/pv+게/ecx+,/s, o 열/pv+어라/ef+./s. 
+o 너희/npp+들/xn+은/jx o 빨리/a x 물러가거라/nc+./s. 
+o 너희/npp+들/xn+은/jx o 빨리/a x 물러가라/pv+고/ecx o 하/px+ㄴ다/ef+./s. 
+o 너희/npp+들/xn+은/jx o 어디/npd+까지/jx o 가/pv+지/ef+?/s. 
+o 너희/npp+들/xn+은/jx o 여기/npd x 잠자코/nc o 앉/pv+아/ecx o 있/px+어라/ef+./s. 
+o 너희/npp+들/xn+은/jx o 지금/at o 무슨/md o 책/nc+을/jc o 읽/pv+고/ecx o 있/px+느냐/ef+?/s. 
+o 너희/npp+들/xn o 둘/nn+이/nn+서/jca x 무엇/nca+하/xpv+느냐/ef+?/s. 
+o 너희/npp+들/xn o 빨리/a o 물/nc o 뜨/pv+어/ecx o 오/px+어라/ef+./s. 
+o 너/npp o 무슨/md o 책/nc o 읽/pv+었/efp+니/ef+?/s. 
+o 너/npp o 어디/npd+를/jc o 가/pv+니/ecs+?/s. 
+o 너/npp o 이제/at o 공부/nc+는/jx o 다/a o 하/pv+었/efp+다/ef+./s. 
+o 너/npp o 이제/at o 학교/nc+에는/jca o 다/a o 가/pv+았/efp+다/ef+./s. 
+o 너/npp+,/s, o 공부/nca+하/xpv+니/ecs+?/s. 
+o 너/npp+,/s, o 공부/nc o 안/a o 하/pv+니/ecs+?/s. 
+o 너/npp+,/s, o 안/a o 자/pv+니/ecs+?/s. 
+o 너/npp+,/s, o 어디/npd+에/jca o 가/pv+니/ecs+?/s. 
+o 너/npp+,/s, o 자/pv+니/ecs+?/s. 
+o 너/npp+는/jx x 이걸/a o 알/pv+고/ecx o 있/px+어야/ecs o 하/pv+어/ecx+./s. 
+o 너/npp+는/jx o 중학생/nc+,/s, o 나/npp+는/jx o 고/nq+등/nc+학생/nc+이/jcp+다/ef+./s. 
+o 너/npp+는/jx o 지금/at o 어디/npd o 가/jc+?/s. 
+o 넓/pa+ㄴ/exm x 밭에/nc+는/jx o 보/pv+리/ef+가/jc x 누렇/pa+게/xa o 익/pv+어/ecx+가/px+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 넓/pa+ㄴ/exm x 잎사귀/nc+에/jca x 빗방울/pa+이/xa o 듣/pv+는다/ef+./s. 
+o 네/npp+가/jc o 가/pv+겠/efp+느냐/ef+?/s. 
+o 네/npp+가/jc o 가/pv+고/ecx o 나/px+면/ecs o 나/npp+는/jx o 외롭/pa+겠/efp+지/ef+./s. 
+o 네/npp+가/jc o 가지/pv+어/ecx o 오/px+아야/ecs o 하/pv+ㄹ/exm o 것/nb+이/jc o 많/pa+다/ef+./s. 
+o 네/npp+가/jc o 간/nc+다/nc+기/nc+만/jx o 하/pv+면/ecs o 얼마나/a o 좋/pa+ㄹ까/ef+?/s. 
+o 네/npp+가/jc o 가/pv+았더/efp+ㄴ/exm+들/nb o 이런/md o 일/nc+은/jx o 없/pa+었/efp+지/ef+./s. 
+o 네/npp+가/jc o 그것/npd+을/jc o 하/pv+어도/ecs o 좋/pa+다/ef+./s. 
+o 네/npp+가/jc o 그렇게/a o 하/pv+는/exm x 터/nc+에/jca o 나/pv+ㄴ/exm+들/nb x 어쩌겠니/nc+?/s. 
+o 네/npp+가/jc o 그/md o 애/nc+를/jc x 때려라/nc+./s. 
+o 네/npp+가/jc o 깜짝/a o 놀라/pv+ㄹ/exm o 일/nc+이/jc o 생기/pv+었/efp+다/ef+./s. 
+o 네/npp+가/jc o 나/npp+를/jc x 믿었것다/nc+./s. 
+o 네/npp+가/jc o 먼저/a o 가/pv+겠/efp+는가/ef+?/s. 
+o 네/npp+가/jc x 바보/nc+는/jx o 아니/pa+다/ef+./s. 
+o 네/npp+가/jc o 벌써/a o 고/nq+등/nc o 학생/nc+이/jc o 되/pv+는구나/ef+!/s. 
+o 네/npp+가/jc o 성공/nca+하/xpv+어/ecx o 기쁘/pa+다/ef+./s. 
+o 네/npp+가/jc o 아주/a o 기쁘/pa+어/ecx+하/px+ㄹ/exm o 일/nc+이/jc o 생기/pv+었/efp+다/ef+./s. 
+o 네/npp+가/jc o 아주/a o 새/m o 사람/nc+이/jc o 되/pv+었/efp+구나/ef+./s. 
+o 네/npp+가/jc o 어디/npd+를/jc o 가/pv+든/ecq o 상관없/pa+다/ef+./s. 
+o 네/npp+가/jc o 오/pv+지/ecx o 말/px+고/ecq o 그대로/a o 있/pa+었/efp+면/ecs o 하/pv+었/efp+다/ef+./s. 
+o 네/npp+가/jc o 오/pv+지/ecx o 않/px+고/ecq o 그대로/a o 있/pa+었/efp+면/ecs o 하/pv+었/efp+다/ef+./s. 
+o 네/npp+가/jc o 원하/pv+ㄴ다면/ecs o 기꺼이/a o 동행/nca+하/xpv+마/ef+./s. 
+o 네/npp+가/jc o 이/md o 사전/nc+을/jc o 가지/pv+어/ecx+가/px+았/efp+지/ef+?/s. 
+o 네/npp+가/jc o 하/pv+고/ecx o 싶/px+ㄴ/exm o 대/nc+로/jca x 하려무/nc+이/jcp+나/ef+./s. 
+o 네/npp+가/jc o 하/pv+는/exm o 대/nc+로/jca o 따르/pv+아/ecx o 하/px+겠/efp+다/ef+./s. 
+o 네/i x 꼬락서니가/nc x 과히/nc o 보/pv+ㄹ/exm o 만하/px+었/efp+다/ef+./s. 
+o 네/i x 덕택으/nc+로/jca o 시험/nc+에/jca o 무사히/a o 합격/nca+하/xpv+었/efp+다/ef+./s. 
+o 네/i o 소원/nc o 하나/nn+쯤/xn o 못/a o 들/pv+어/ecx x 주랴/nc+./s. 
+o 네/i o 속/nc+생각/nc+을/jc o 감추/pv+려고/ecx+말/px+ㄴ/exm o 하/pv+지/ecx o 말/px+고/ecq o 모두/a o 말/nca+하/xpv+어라/ef+./s. 
+o 노래/nc+들/xn o 부르/pv+며/ecq+,/s, o 함께/a o 춤/nc+도/jx o 추/pv+자/ef+./s. 
+o 노래/nca+하/xpv+며/ecq o 춤추/pv+ㄴ다/ef+./s. 
+x 노량/nc+에서/jca o 왜/a+이/jcp+군/ef+을/jc x 무찔렀던/nc x 충무공은/nc o 끝내/a x 전사/nca+하/xpv+고야/ecs o 말/px+았/efp+다/ef+./s. 
+o 노력/nc+은/jx o 하/pv+었/efp+지마는/ecs o 실패/nca+하/xpv+었/efp+다/ef+./s. 
+o 노력/nc o 또는/ajw o 인/nc+내/nc+가/jc o 필요/ncs+하/xpa+다/ef+./s. 
+o 놀/pv+러/ecs o 가/pv+지/ecx o 말/px+고/ecq o 바로/a o 집/nc+에/jca o 가/pv+자/ef+./s. 
+o 놀/pv+러/ecs o 가/pv+지/ecx o 말/px+고/ecq o 바로/a o 집/nc+에/jca o 오/pv+어라/ef+./s. 
+x 농부/nc+는/jx o 비/nc+가/jc o 오/pv+기/exn+만을/jc o 기다리/pv+ㄴ다/ef+./s. 
+o 높이/a+도/jx o 뛰/pv+ㄴ다/ef+./s. 
+o 누구/npp+가/jc x 순이/nc+를/jc x 때리/pv+었/efp+지/ef+?/s. 
+o 누구/npp+가/jc o 시험/nc+에/jca o 합격/nca+하/xpv+느냐/ef+가/jc o 문제/nc+이/jcp+었/efp+다/ef+./s. 
+o 누구/npp+가/jc o 오/pv+았/efp+느냐/ef+?/s. 
+o 누구/npp+가/jc o 오/pv+았/efp+다/ef+./s. 
+o 누구/npp+나/jx o 제/md o 잘못/nc+은/jx o 감추/pv+려/ecx+하/px+ㄴ다/ef+./s. 
+o 누구/npp+나/jx o 한국/nq o 국민/nc+이/jc o 매우/a x 부지런/nca+하/xpv+다는/exm o 것/nb+을/jc o 잘/a o 알/pv+고/ecx o 있/px+다/ef+./s. 
+o 누구/npp+이/jcp+더/efp+ㄴ가/ef+,/s, o 어/i+,/s, o 생각/nc+이/jc o 안/a o 나/npp+이/jcp+네/ef+./s. 
+o 누구/npp+이/jcp+든지/ecq o 제/md o 자식/nc+은/jx o 귀엽/pa+어/ecx+하/px+ㄴ다/ef+./s. 
+o 누구/npp+를/jc o 가/pv+게/ecx o 하/px+느냐/ef+?/s. 
+o 누구/npp+와/jj o 함께/a o 그렇/pad+ㄴ/exm o 곳/nc+에/jca o 가/pv+았/efp+니/ef+?/s. 
+o 누구/npp+의/jcm o 얼굴/nc+이/jc o 먼저/a x 떠로르냐/nc+?/s. 
+o 누구/npp+의/jcm o 얼굴/nc+이/jc o 먼저/a o 떠오르/pv+느냐/ef+?/s. 
+o 누구/npp+의/jcm o 짓/nc+이/jcp+었/efp+지/ef+?/s. 
+o 누나/npp+가/jc o 내/m o 옷/nc+에/jca x 단추/nc+를/jc o 달/pv+았/efp+다/ef+./s. 
+o 누나/npp+가/jc x 인형/nc+에게/jca o 옷/nc+을/jc x 입히/pv+었/efp+다/ef+./s. 
+o 눕/pv+어서/ecs o 치/pv+ㅁ/exn x 뱉기/nc+./s. 
+x 눈깜짝/nca+하/xpv+ㄹ/exm o 새/m o 주먹/nc+이/jc o 날/pv+아/ecx o 오/px+았/efp+다/ef+./s. 
+o 눈물/nc+이/jc o 비/nc o 오/pv+듯이/ecs o 마구/a x 흘러내린다/nc+./s. 
+o 눈물/nc+이/jc o 비/nc o 오/pv+듯이/ecs o 흐르/pv+ㄴ다/ef+./s. 
+o 눈/nc+을/jc o 감/pv+았/efp+다/ef+./s. 
+o 눈/nc+이/jc o 내리/pv+ㄴ다/ef+./s. 
+x 뉘라/nc+서/jca o 이/md o 일/nc+을/jc x 감당하리오/nc+./s. 
+o 늘어지/pv+게/xa o 한/nc+잠/nc o 자/pv+면/ecs o 좋/pa+겠/efp+다/ef+./s. 
+o 늘/pv+ㄹ/exm o 의자/nc+에/jca o 앉/pv+아/ecx o 계시/px+ㅂ니다/ef+./s. 
+o 늘/pv+ㄹ/exm o 저물/pv+어야/ecs x 돌아오것다/nc+./s. 
+o 늙/pv+ㄴ/exm o 것/nb+도/jx o 서럽/pa+ㄴ데/ecs+,/s, o 짐/nc+조차/jx o 지/px+었/efp+ㄹ까/ef+?/s. 
+o 다르/pa+ㄴ/exm o 분/nb+들/xn+도/jx o 그렇게/a o 생각/nca+하/xpv+고/ecx o 있/px+ㅂ니다/ef+./s. 
+o 다르/pa+ㄴ/exm o 의견/nc+이/jc o 있/pa+시/efp+ㄴ/exm o 분/nb+은/jx o 안/a o 계시/pv+ㅂ니까/ef+?/s. 
+o 다섯/nn o 시/nbu+에/jca o 오/pv+어라/ef+./s. 
+o 다음/npd+에는/jca o 우리/npp o 학교/nc+에서도/jca o 우승/nc+을/jc o 하/pv+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 다음/npd+에/jca o 또/a o 들르/pv+겠/efp+습니다/ef+./s. 
+o 다음/npd+에/jca o 또/a o 들르/pv+겠/efp+어요/ef+./s. 
+o 다음/npd+에/jca o 또/a o 들르/pv+겠/efp+ㅂ니다/ef+./s. 
+o 다음/npd+에/jca o 오/pv+시/efp+ㅂ시오/ef+./s. 
+o 다음/npd o 물음/nc+에/jca o 알맞/pa+는/exm x 답/nc+의/jcm o 기/nc+호/nb+를/jc o 고르/pv+라/ef+./s. 
+o 다음/npd o 차례/nc+는/jx o 너/npp+이/jcp+다/ef+./s. 
+o 다/nc+정도/nc o 병/nc+이/jcp+ㄴ/exm x 양/ncs+하/xpa+어/ecs o 잠/nc o 못/a o 들/pv+어/ecx o 하/px+ㄴ다/ef+./s. 
+o 다치/pv+ㄴ/exm o 데/nb+가/jc o 있/pa+는가/ef o 찾아보/pv+자/ef+./s. 
+o 다행/ncs+스럽/xpa+게/xa+도/jx o 그/npp+가/jc o 성공/nca+하/xpv+었/efp+다/ef+./s. 
+o 다행/ncs+스럽/xpa+게/xa+도/jx o 그/npp+가/jc x 완쾌/nca+되/xpv+었/efp+다/ef+./s. 
+o 다행/ncs+스럽/xpa+게/xa+도/jx o 그/npp+가/jc x 완쾌/nca+하/xpv+었/efp+다/ef+./s. 
+o 다행/ncs+스럽/xpa+게/xa+도/jx x 영수가/nc o 반/mn+장/nbu+이/jc o 되/pv+었/efp+다/ef+./s. 
+o 다행/ncs+스럽/xpa+게/xa o 그/npp+가/jc x 완쾌/nca+되/xpv+었/efp+다/ef+./s. 
+o 다행/ncs+스럽/xpa+게/xa x 영수가/nc o 반/mn+장/nbu+이/jc o 되/pv+었/efp+다/ef+./s. 
+x 단옷/nc+날/xn o 그네/npp+를/jc o 뛰/pv+ㄴ다/ef+./s. 
+o 단/mn+편/nbu o 소설/nc+은/jx o 길이/nc+가/jc o 짧/pa+ㄴ/exm o 대신/nc+,/s, o 거기/npd+에는/jca o 장/nbu+펴/pv+ㄴ/exm o 소설/nc+이/jc o 제공/nca+하/xpv+ㄹ/exm o 수/nb o 없/pa+는/exm o 통/nc+일/nbu+되/pv+ㄴ/exm o 인상/nc+이/jc o 주/pv+어/ecx+지/px+어야/ecs o 하/pv+ㄴ다/ef+./s. 
+x 단풍/nc+에/jca o 물들/pv+ㄴ/exm o 산/nc+이/jc o 온통/a x 발갛다/nc+./s. 
+x 단풍으/nc+로/jca o 오/pv+ㄴ/exm o 산/nc+이/jc x 발갛/pa+게/xa o 물들/pv+었/efp+다/ef+./s. 
+x 단풍이/nc x 들었네그려/nc+./s. 
+x 단풍/nc+이/jc o 들/pv+었/efp+어요/ef+./s. 
+o 단/mn o 한/mn o 사람/nc+이/jc o 그/npp+는/jx o 열/nn o 달/nbu+을/jc o 견디/pv+었/efp+다/ef+./s. 
+o 달/pv+기/exn+가/jc x 꿀고/pv+아/ecx o 같/pa+다/ef+./s. 
+o 달/nc+도/jx x 밝것다/nc+./s. 
+o 달/nc+이/jc o 밝/pa+다/ef+./s. 
+o 달/pv+지도/ecx o 쓰/pv+지도/ecx o 않/px+다/ef+./s. 
+o 달/nc o 밝/pa+ㄴ/exm o 밤/nct+이/jcp+면/ecs o 고향/nc+에/jca o 대하/pv+ㄴ/exm o 그립/pa+ㅁ/exn+이/jc x 사무친다/nc+./s. 
+x 닭/nc+과/jj o 오/nn+리/nb+가/jc x 노닙니/pv+다/ef+./s. 
+o 담배/nc+를/jc o 먹/pv+는다/ef+./s. 
+o 담배/nc+를/jc o 피우/pv+ㄴ다/ef+./s. 
+o 담배/nc+를/jc o 피/pv+ㄴ다/ef+./s. 
+o 담/nc+을/jc o 맞추/pv+었/efp+다/ef+./s. 
+o 당신/npp+도/jx o 지금/at o 떠나/pv+겠/efp+오/ef+?/s. 
+o 당신/npp+도/jx o 지금/at o 떠나/pv+오/ef+?/s. 
+o 당신/npp+도/jx o 한/mn+번/nbu o 읽/pv+어/ecx x 보구려/nc+./s. 
+o 당신/npp+만이/jc o 나/npp+에게/jca o 꼭/a o 빌리/pv+어/ecx o 주/px+ㄹ/exm o 수/nb o 있/pa+었더/efp+ㄴ/exm o 것/nb+은/jx o 아니/pa+고/ecq+,/s, x 능히/nc o 만/jx x 냥/nc+을/jc o 지니/pv+ㄴ/exm x 사람치고/nc+는/jx o 누구/npp+나/jx o 다/a o 주/pv+었/efp+ㄹ/exm o 것/nb+이/jcp+오/ef+./s. 
+o 당신/npp+은/jx o 이제/at o 무엇/npd+을/jc o 하/pv+시겠/efp+ㅂ니까/ef+?/s. 
+o 당신/npp+이/jc o 내/m o 말/nc+을/jc o 믿/pv+지/ecx o 못하/px+겠/efp+면/ecs o 당신/npp+의/jcm o 열/nc o 손가락/nc+을/jc o 깨물/pv+어/ecx o 보/px+시/efp+ㅂ시오/ef+./s. 
+o 당신/npp o 말/nc+이/jc o 정말/nc o 옳/pa+소/ef+./s. 
+o 당신/npp o 지금/at o 어디/npd+로/jca o 가/pv+나요/ef+?/s. 
+o 대가/nc+를/jc o 받/pv+기/exn o 위하/pv+어서가/ecs o 아니/pa+다/ef+./s. 
+o 대하/pv+ㄴ/exm x 민국/nc o 만/nn+세/nbu+!/s. 
+x 댁/nc+에/jca o 가/pv+시/efp+ㅂ니까/ef+?/s. 
+x 댁/nc+에/jca o 정/nc+원/nbu+사/nn+가/jc o 있/pa+시/efp+죠/ef+?/s. 
+o 덥/pa+어서/ecs o 못/a o 견디/pv+겠/efp+네/ef+./s. 
+o 덥/pa+어서/ecs o 못/a o 견디/pv+겠/efp+다/ef+./s. 
+o 덥/pa+어서/ecs o 못/a o 견디/pv+겠/efp+소/ef+./s. 
+o 덥/pa+어서/ecs o 못/a o 견디/pv+겠/efp+습니다/ef+./s. 
+o 더위/nc+를/jc o 먹/pv+는다/ef+./s. 
+o 더/a o 빨리/a o 걸/pv+어라/ef+./s. 
+o 더/a o 빨리/a o 달리/pv+ㄹ까요/ef+?/s. 
+o 더/a o 크/pa+ㄴ/exm x 행복/nc+을/jc o 위하/pv+어/ecx o 고난/nc+도/jx x 수난도/a x 감수/nca+하/xpv+는/exm o 것/nb+이/jcp+ㅁ/exn+은/jx o 두말/nca+하/xpv+ㄹ/exm o 필요/nc+가/jc o 없/pa+다/ef+./s. 
+o 덕/nc+기/nc+는/jx x 조부/nc+의/jcm x 꾸지람이/nc o 다르/pa+ㄴ/exm+데/nb+로/jca x 옮아/nc+간/xn o 틈/nc+을/jc o 타/pv+아서/ecs o 사랑/nc+으로/jca o 빠지/pv+어/ecx o 나오/px+았/efp+다/ef+./s. 
+x 덕수궁/nc+은/jx o 누구/npp+에게나/jca o 다/a o 개방/nca+되/xpv+어/ecx o 있/px+다/ef+./s. 
+o 덕/nc+-/s-+언어/nc+-/s-+용모/i+-/s-+공/nc+을/jc o 갖추/pv+라/ef+./s. 
+o 도둑/nc+이/jcp+야/ef+!/s. 
+o 도둑/nc+이/jc o 경찰/nc+에게/jca o 발/nc+목/nc+을/jc o 잡히/pv+었/efp+다/ef+./s. 
+o 도둑/nc+이/jc o 경찰/nc+에게/jca o 잡히/pv+었/efp+다/ef+./s. 
+o 도둑/nc+이/jc o 순/nc+경/nc+에게/jca o 잡히/pv+었/efp+다/ef+./s. 
+x 도랑이/nc o 산/nc+에서/jca o 구르/pv+어/ecx o 내리/pv+ㄴ/exm o 돌/nc+에/jca o 막히/pv+었/efp+다/ef+./s. 
+o 도서/nc+관/nc+에는/jca o 학생/nc+들/xn+이/jc o 많/pa+더라/ef+./s. 
+o 도서/nc+관/nc+은/jx o 공부/nc+를/jc o 하/pv+는/exm o 학생/nc+들/xn+로/jca o 가득/nca+하/xpv+었/efp+다/ef+./s. 
+o 도서/nc+관/nc+은/jx o 공부/nca+하/xpv+는/exm o 학생/nc+들/xn+로/jca o 가득/nca+하/xpv+었/efp+다/ef+./s. 
+o 도서/nc+관/nc+은/jx o 책/nc+을/jc o 읽/pv+는/exm o 학생/nc+들/xn+로/jca x 붐비/pv+었/efp+다/ef+./s. 
+o 도서/nc+관/nc+은/jx o 학생/nc+들/xn+로/jca o 가득/nca+하/xpv+었/efp+다/ef+./s. 
+o 독일/nq o 국민/nc+에게/jca o 고함/nc+./s. 
+x 독충/nc o 같/pa+ㄴ/exm o 간첩/nc+을/jc o 잡/pv+라/ef+./s. 
+o 돈/nc+을/jc o 내/pv+었/efp+다/ef+./s. 
+o 돈/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 돈/nc+을/jc o 쓰/pv+ㄴ/exm+들/nb o 얼마나/a x 쓰랴/nc+./s. 
+o 돈/nc+을/jc x 출/nc+자/xn+하/xpa+었/efp+다/ef+./s. 
+o 돈/nc+을/jc o 횡령/nca+하/xpv+ㄴ다/ef+./s. 
+o 돈/nc o 없/pa+이/xa o 가/pv+려고/ecx o 하/px+니/ef+?/s. 
+o 돌/nc+로/jca o 칼/nc+을/jc o 만들/pv+었/efp+다/ef+./s. 
+o 돌/pv+아/ecx+가/px+ㄹ/exm o 일/nc+을/jc o 생각/nca+하/xpv+시/efp+오/ef+./s. 
+o 돌아오/pv+시/efp+ㄹ/exm o 때/nct+까지/jx o 기다리/pv+는/exm o 게/jca o 좋/pa+지요/ef+./s. 
+o 돌아오/pv+시/efp+ㄹ/exm o 때/nct+까지/jx o 기다리/pv+는/exm o 게/jca o 좋/pa+지/ef+./s. 
+o 동물/nc+의/jcm x 생태/nc 
+o 동생/npp+에게서/jca o 선물/nc+을/jc o 받/pv+았/efp+다/ef+./s. 
+o 동생/npp+에게/jca o 물/nc+을/jc o 주/pv+다/ef+./s. 
+o 동생/npp+은/jx o 방안/nc+에/jca o 있/pa+다/ef+./s. 
+o 동생/npp+은/jx o 제주도/nq+에/jca o 있/pa+습니다/ef+./s. 
+o 동생/npp+을/jc o 데리/pv+어/ecx o 오/px+았/efp+다/ef+./s. 
+o 동생/npp+을/jc o 데리/pv+고/ecx o 가/px+어라/ef+./s. 
+o 동생/npp+을/jc o 업/pv+고/ecq o 밖/nc+에/jca o 나가/pv+았/efp+더니/ecs o 아무/npd+도/jx o 없/pa+었/efp+다/ef+./s. 
+o 동생/npp+이/jc o 어머니/nc+께/jca o 옷/nc+을/jc o 입/pv+시/efp+게/ecx o 하/px+었/efp+다/ef+./s. 
+x 동생한테/nc+서/jca o 선물/nc+을/jc o 받/pv+았/efp+네/ef+./s. 
+o 동/nq+쪽/nc o 하늘/nc+이/jc x 불그레/nca+하/xpv+다/ef+./s. 
+o 되/pv+도록/ecs o 빨리/a o 귀/nc+국/nbu+하/pv+어라/ef+./s. 
+x 된/nc+장/xn x 찌개/nc o 냄새/nc+가/jc o 참/i o 좋/pa+다/ef+./s. 
+o 두어/nn+이/jcp+라/ecs+,/s, o 묻/pv+어/ecx x 무엇하리오/nc+?/s. 
+o 두/mn o 나라/nc+가/jc o 망하/pv+었/efp+다/ef+./s. 
+o 두/mn o 학생/nc+이/jc o 오/pv+ㄴ다/ef+./s. 
+o 둘/nn+에/jca o 둘/nn+을/jc o 더하/pv+면/ecs o 넷/nn+이/jcp+다/ef+./s. 
+o 둘/nn+이/nn+서/jca o 그/md o 일/nc+을/jc o 다/a o 마무리/nca+하/xpv+었/efp+다/ef+./s. 
+o 둘/nn+이/jc x 합심/nca+하/xpv+면/ecs o 더/a o 수/mn+월/nbu+하/pv+다/ef+./s. 
+x 뒷산/nc+의/jcm o 꽃나무/nc+를/jc x 캐/nc+서/jca x 뜰/nc+에/jca o 심/pv+었/efp+다/ef+./s. 
+x 뒷집/nc o 고양이/nc+가/jc o 쥐/nc+를/jc o 잘/a o 잡/pv+는다/ef+./s. 
+o 드디어/a o 그/npp+가/jc o 도착/nca+하/xpv+었/efp+다/ef+./s. 
+o 드디어/a o 그/npp+는/jx o 오늘/nct o 떠나/pv+았/efp+어/ef+./s. 
+o 드디어/a o 보/pv+ㅁ/exn+은/jx o 오/pv+았/efp+도다/ef+./s. 
+o 드디어/a o 보/pv+ㅁ/exn+이/jc o 돌아오/pv+았/efp+다/ef+./s. 
+o 드디어/a o 세/mn o 시/nbu+쯤/xn o 하/pv+어서/ecs x 말끔히/a o 씻/pv+기/exn+는/jx o 하늘/nc o 밑/nc+에/jca o 오/pv+ㄴ/exm o 산/nc+이/jc o 비/nc+에/jca o 젖/pv+고/ecq o 햇빛/nc+을/jc o 받/pv+아/ecx o 눈부시/pa+게/xa o 반짝이/pv+ㄹ/exm o 때/nct+이/jcp+었/efp+습니다/ef+./s. 
+o 드디어/a o 위기/nc+를/jc o 견디/pv+어/ecx o 내/px+었/efp+다/ef+./s. 
+o 들/xn+이/jc o 넓/pa+ㄴ/exm o 곳/nc+을/jc o 찾/pv+아/ecx o 주/px+오/ef+./s. 
+o 등/nc+불/nc+을/jc o 밝히/pv+었/efp+다/ef+./s. 
+o 따뜻하/pa+ㄴ/exm o 봄/nct+이/jc o 오/pv+니/ecs+,/s, o 꽃/nc+이/jc o 피/pv+었/efp+다/ef+./s. 
+o 따뜻하/pa+ㄴ/exm o 봄/nct+이/jc o 오/pv+았/efp+다/ef+./s. 
+o 떠나/pv+지만/ecs o 말/pv+아/ecx o 달/px+오/ef+./s. 
+o 떠들/pv+는/exm o 통/nc+에/jca o 정신/nc+을/jc o 차리/pv+ㄹ/exm o 수/nb+가/jc o 없/pa+었/efp+다/ef+./s. 
+x 떡/nc+에/jca o 과일/nc+에/jca o 없/pa+는/exm o 게/jca o 없/pa+다/ef+./s. 
+x 떡판에선/nc o 김/nc+이/jc x 무럭무럭/a o 오르/pv+았/efp+고/ecq+,/s, o 우리/npp+는/jx x 군침/nc+이/jc o 돌/pv+았/efp+다/ef+./s. 
+o 또/a o 하/pv+ㄴ/exm x 망울/pa+이/xa o 나오/pv+았/efp+다/ef+./s. 
+o 또/a o 한/mn o 번/nbu o 읽/pv+어/ecx o 보/px+아라/ef+./s. 
+o 뚱뚱하/pa+ㄴ/exm o 여자/nc+와/jj o 남자/nc+가/jc o 오/pv+았/efp+다/ef+./s. 
+x 마개/nc+를/jc o 꼭/a o 막/pv+아/ecx o 두/px+어라/ef+./s. 
+x 마고/pa+자는/exm o 방/nc+한/nc+용/nc+이/jc o 아니요/i o 모양/nc+새/nc+이/jcp+다/ef+./s. 
+o 마구/a o 먹/pv+어/ecx o 대/pv+지/ecx o 말/px+아라/ef+./s. 
+x 마님/nc+,/s, x 그러지/a o 마시/pv+고/ecq x 쇤/nc+네/xn o 말씀/nc+을/jc o 들/pv+ㅂ시오/ef+./s. 
+x 마님/nc+,/s, x 그러지/a o 마시/pv+고/ecq x 쇤/nc+네/xn o 말/nc+을/jc o 들/pv+시/efp+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 마당/nc+이/jc o 넓/pa+다/ef+./s. 
+o 마을/nc+을/jc o 내리/pv+어다/ecx+보/px+면서/ecs o 추억/nc+에/jca o 잠기/pv+곤/ecx o 하/px+었/efp+다/ef+./s. 
+o 마을/nc o 사람/nc+들/xn+이/jc o 길/nc+을/jc+,/s, o 차/nc+가/jc o 다니/pv+ㄹ/exm o 수/nb o 있/pa+도록/ecs+,/s, o 넓히/pv+었/efp+다/ef+./s. 
+o 마을/nc o 어귀/nc+에는/jca x 국기가/nc x 높다랗/pa+게/xa o 걸리/pv+어/ecx o 있/px+었/efp+다/ef+./s. 
+o 마음/nc+에/jca o 들/pv+지는/ecx o 않/px+았/efp+다/ef+./s. 
+o 마음/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 마음/nc+을/jc x 품는다/nc+./s. 
+o 마주/a o 보/pv+는/exm o 눈길/nc+에서/jca x 우정이/nc x 싹텄다/nc+./s. 
+o 만/nn+세/nbu+!/s. 
+o 만/nn+세/nbu+!/s. o 만/nn+세/nbu+!/s. 
+o 만/nn+적/xn+이/jc o 중/nc+이/jc x 되기까지/nc+의/jcm o 이야기/nc+는/jx o 대/nc+개/nc o 기록/nc+과/jj o 같/pa+다/ef+./s. 
+o 말단/nc o 직원/nc+들/xn+도/jx x 해고/nca+되/xpv+었/efp+다/ef+./s. 
+o 말/nc+을/jc o 타/pv+ㄴ/exm o 사람/nc o 둘/nn+이/jc o 서로/a o 말/nc+을/jc o 주/pv+고/ecx o 받/pv+며/ecq o 가/px+ㄴ다/ef+./s. 
+o 말/nc+의/jcm o 의미/nc+는/jx o 내용/nc+이/jcp+요/ef+,/s, o 음성/nc+은/jx o 형식/nc+이/jcp+다/ef+./s. 
+o 말/nc+이/jc o 많/pa+다/ef+./s. 
+o 말/nca+하/xpv+기/exn+보다/jca o 쓰/pv+기/exn+가/jc o 더/a o 어렵/pa+다/ef+./s. 
+o 말/nca+하/xpv+ㄹ/exm o 나위/nb+도/jx o 없/pa+이/xa o 가을/nct+은/jx x 풍성/nca+하/xpv+ㄴ/exm x 계절이/nc+이/jcp+다/ef+./s. 
+o 맑/pa+ㄴ/exm o 물/nc+이/jc o 흐르/pv+ㄴ다/ef+./s. 
+o 매/nc+를/jc x 때리/pv+었/efp+다/ef+./s. 
+o 매번/a o 마찬가지/nc+의/jcm o 결과/nc+를/jc o 보이/pv+었/efp+다/ef+./s. 
+o 매우/a o 춥/pa+다고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 매/nc+화/nc+는/jx o 향기/nc+가/jc o 높/pa+기/exn+로/jca o 유명/ncs+하/xpa+다/ef+./s. 
+o 매/nc+화/nc+는/jx x 향기롭기/nc+로/jca o 유명/ncs+하/xpa+다/ef+./s. 
+o 매/nc+화/nc+의/jcm o 자랑/nc+은/jx o 향기/nc+가/jc o 맑/pa+ㅁ/exn+이/jc o 아니/pa+다/ef+./s. 
+o 맨/m+발/nbu+로/jca o 들어오/pv+지/ecx o 말/px+시/efp+오/ef+./s. 
+o 먹/pv+게/ecx o 되/pv+었/efp+다/ef+./s. 
+o 먹/pv+게/ecx o 하/px+었/efp+다/ef+./s. 
+o 먹/pv+고/ecx o 있/px+는/exm o 중/nb+이/jcp+다/ef+./s. 
+o 먹/pv+고/ecx o 있/px+다/ef+./s. 
+o 먹/pv+고/ecx o 자/pv+고/ecq o 마음껏/a o 즐기/pv+었/efp+다/ef+./s. 
+o 먹/pv+고/ecq o 지/nb+새/nc+는/jx o 며칠/nc+이/jcp+었/efp+다/ef+./s. 
+o 먹/pv+는/exm o 것/nb+이/jcp+라면/ecs o 무엇/npd+이/jcp+든지/ecq o 좋/pa+다/ef+./s. 
+x 먹을/nc+게/jca+./s. 
+o 먹/pv+ㄹ/exm o 만큼/nb o 살/pv+게/ecx o 되/pv+면/ecs o 지난/nc+날/xn+의/jcm o 가난/nc+을/jc o 잊/pv+어/ecx+버리/px+는/exm o 것/nb+이/jc o 인/nc+지상/nc+정/nc+이/jcp+ㄴ가/ef o 보/px+다/ef+./s. 
+o 먹/pv+지/ecx o 못하/px+ㄴ다/ef+./s. 
+o 먼저/a o 가/pv+어라/ef+./s. 
+o 먼지/nc+를/jc o 떨/pv+다/ef+./s. 
+x 멋쟁/nc+이/jc o 되/pv+려면/ecs o 이렇게/a o 입/pv+라/ef+./s. 
+o 명절/nct+이/jc o 되/pv+면/ecs o 상/nc+가/nc+는/jx o 경기/nc+를/jc o 띠/pv+고/ecq+,/s, o 교통/nc o 기/nc+관/nc+은/jx o 초/nbu+만/nn+원/nbu+을/jc o 이루/pv+ㄴ다/ef+./s. 
+x 모가지가/nc o 길/pa+어서/ecs o 슬프/pa+ㄴ/exm x 짐승이/nc+이/jcp+어/ef+!/s. 
+o 모두/nc+가/jc o 살/pv+자는/exm o 일/nc o 아니/pa+겠/efp+오/ef+?/s. 
+o 모두/nc+가/jc o 이기/pv+고/ecx o 돌아오/pv+라/ef+./s. 
+o 모두/a o 잣/nc+나무/nc o 열/nc x 그루/nc+를/jc o 심/pv+었/efp+다/ef+./s. 
+o 모든/m o 사람/nc+이/jc o 다/a o 오/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 모든/m o 일/nc+은/jx x 첫술/nc+에/jca o 배/nbu+부르/pv+ㄹ/exm o 수/nb+가/jc o 없/pa+다/ef+./s. 
+o 모든/m o 일/nc+을/jc o 이루/pv+어/ecx o 놓/px+고/ecx o 보/px+면/ecs o 마음/nc+이/jc o 상쾌/ncs+하/xpa+다/ef+./s. 
+o 모든/m o 학생/nc+은/jx o 운동/nc+장/xn+에/jca o 모이/pv+라는/exm x 게시/nc+가/jc x 나붙/pv+었/efp+다/ef+./s. 
+o 모르/pv+기/exn+는/jx o 하/pv+어도/ecs o 그/md o 사람/nc+은/jx o 참여/nca+하/xpv+지/ecx o 않/px+ㄹ/exm x 거야/nc+./s. 
+o 모양/nc+이/jc o 많이/a o 다르/pa+ㅁ/exn+을/jc o 알/pv+았/efp+다/ef+./s. 
+x 모/nc o 인사/nc+께서/jc x 말씁/nca+하/xpv+셨/efp+다/ef+./s. 
+o 목표/nc+에/jca o 계획/nc+을/jc o 세우/pv+라/ef+./s. 
+o 못/a o 하/pv+겠/efp+다/ef+./s. 
+x 묘목/nc o 전/nc+시/nc+는/jx o 동/nc o 시험/nc+장/xn+에서/jca o 열리/pv+ㄴ다/ef+./s. 
+o 무슨/md o 일/nc+이/jc o 일/pv+어/ecx+나/px+았/efp+어요/ef+?/s. 
+o 무슨/md o 일/nc+이/jc o 있/pa+었/efp+나요/ef+?/s. 
+o 무얼/nc o 하/pv+려고/ecs o 집/nc+을/jc o 나서/pv+니/ecs+?/s. 
+o 무엇/npd+보다도/jca o 중요하/pa+ㄴ/exm o 것/nb+이/jc o 인간/nc+이/jc o 문/nq+명의/nc o 이/jcp+기/exn+를/jc o 사용/nca+하/xpv+ㄹ/exm o 때/nct+에/jca o 그것/npd+을/jc o 인간/nc o 자신/nc+을/jc o 위하/pv+어/ecx x 지혜/nc o 있/pa+게/xa o 사용/nca+하/xpv+어야/ecs o 하/pv+ㄴ다는/exm o 것/nb+이/jcp+다/ef+./s. 
+o 무엇/npd+보다도/jca o 중요하/pa+ㄴ/exm o 것/nb+이/jc o 인간/nc+이/jc o 문/nq+명의/nc o 이/jcp+기/exn+를/jc o 사용/nca+하/xpv+ㄹ/exm o 때/nct+에/jca o 그것/npd+이/jc o 인간/nc o 자신/nc+을/jc o 위하/pv+어/ecx x 지혜/nc o 있/pa+게/xa o 사용/nca+되/xpv+어야/ecs o 하/pv+ㄴ다는/exm o 것/nb+이/jcp+다/ef+./s. 
+o 무엇/npd+을/jc o 하/pv+시겠/efp+ㅂ니까/ef+?/s. 
+o 무엇/npd+을/jc o 하/pv+시/efp+ㅂ니까/ef+?/s. 
+o 문/nq+을/jc o 바람/nc+이/jc o 잘/a o 통하/pv+게/ecx o 활짝/a o 열/pv+어라/ef+./s. 
+o 문/nq+이/jc o 닫/pv+아/ecx+지/px+ㄴ다/ef+./s. 
+o 문/nq o 밖에/jx o 아주/a o 새/m o 차/nc+가/jc o 한/mn+대/nbu o 서/jca o 있/pa+다/ef+./s. 
+o 문/nq o 안/nc+에/jca o 막/nc o 들어서/pv+려고/ecx o 하/px+는데/ecs+,/s, o 문/nc+이/jc o 바람/nc+에/jca o 저절로/a o 닫히/pv+어서/ecs o 못/a o 들어가/pv+았/efp+다/ef+./s. 
+o 물가/nc+가/jc o 내리/pv+었/efp+다/ef+./s. 
+o 물가/nc+가/jc o 떨/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 물가/nc+가/jc o 뛰/pv+었/efp+다/ef+./s. 
+o 물/nc+도/jx o 맑/pa+며/ecq o 하늘/nc+도/jx o 높/pa+다/ef+./s. 
+o 물론/a o 네/npp+가/jc o 옳/pa+다/ef+./s. 
+o 물/nc+은/jx o 희/pa+고/ecq o 길/pa+구나/ef+!/s. 
+o 물/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 물/nc+이/jc o 많이/a o 흐르/pv+ㄴ다/ef+./s. 
+o 물/nc+이/jc o 맑/pa+ㄴ데/ecs o 고기/nc+는/jx o 없/pa+다/ef+./s. 
+o 물/nc+이/jc o 얼/pv+ㅁ/exn+도/jx o 되/pv+ㄴ다/ef+./s. 
+o 물/nc+이/jc o 얼/pv+ㅁ/exn+으로/jca o 변하/pv+었/efp+다/ef+./s. 
+o 물/nc+이/jc o 얼/pv+ㅁ/exn+이/jc o 되/pv+었/efp+다/ef+./s. 
+o 물/nc+이/jc o 얼/pv+ㅁ/exn+이/jc o 되/pv+ㄴ다/ef+./s. 
+o 미래/nct+의/jcm o 인류/nc+는/jx o 바로/a o 20/nnn o 세기/nbu+를/jc o 비판/nc+하/xpa+게/xa o 되/pv+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 미래/nct+의/jcm o 인류/nc+는/jx o 이/md o 20/nnn o 세기/nbu+를/jc o 비판/nc+하/xpa+게/xa o 되/pv+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 민족/nc+성/nc+에는/jca o 기본/nc+적/xn+이/jcp+ㄴ/exm o 것/nb+과/jj x 파생/nc+적/xn+이/jcp+ㄴ/exm o 것/nb+의/jcm o 두/mn o 가지/nbu+가/jc o 있/pa+다/ef+./s. 
+o 민족/nc+성/nc+은/jx o 기본/nc+적/xn+이/jcp+ㄴ/exm o 것/nb+과/jj x 파생/nc+적/xn+이/jcp+ㄴ/exm o 것/nb+의/jcm o 두/mn o 가지/nbu+로/jca x 성립/nca+되/xpv+ㄴ다/ef+./s. 
+o 믿/pv+는/exm o 사람/nc+을/jc o 의심/nca+하/xpv+지/ecx o 말/px+아라/ef+./s. 
+x 밀턴은/nc o 더욱/a x 견문/nc+을/jc o 넓히/pv+고자/ecx x 이탈리아/nc o 여행/nc+을/jc o 떠나/pv+았/efp+다/ef+./s. 
+x 바깥이/nc o 춥/pa+습니까/ef+?/s. 
+x 바둑이가/nc o 마당/nc+에서/jca o 놀/pv+고/ecx o 있/px+다/ef+./s. 
+x 바라옵건데/nc+,/s, o 길이/nc+길/nc+이/jc x 만수무강하옵소/nc+서/jca+./s. 
+o 바람/nc+아/jcv o 불/pv+어라/ef+./s. 
+o 바람/nc+에/jca o 나무/nc+가/jc o 쓰러지/pv+고/ecx o 말/px+았/efp+다/ef+./s. 
+o 바람/nc+은/jx o 달/nc+과/jj o 다르/pa+아/ecx x 쏘삭쏘삭/nc x 알랑거린다/nc+./s. 
+o 바람/nc+이/jc o 몹시/a o 불/pv+ㄴ다/ef+./s. 
+o 바람/nc+이/jc o 불/pv+는/exm o 날/nct+은/jx x 낚시질/nc+을/jc o 하/pv+기/exn+가/jc o 아주/a o 힘들/pv+었/efp+다/ef+./s. 
+o 바람/nc+이/jc o 불/pv+니까/ecs o 날씨/nc+가/jc o 더/a o 차/pa+다/ef+./s. 
+o 바람/nc+이/jc o 불/pv+ㄴ다/ef+./s. 
+o 바람/nc+이/jc o 불/pv+면서/ecs o 비/nc+가/jc o 내리/pv+ㄴ다/ef+./s. 
+o 바람/nc+이/jc o 불/pv+어/ecx o 눈/nc+에/jca o 눈/nc+이/jc o 들어가/pv+니/ecs o 눈/nc+을/jc o 뜨/pv+ㄹ/exm o 수/nb+가/jc o 없/pa+어요/ef+./s. 
+o 바람/nc+이/jc x 순조롭/pa+게/xa o 불/pv+ㄴ다/ef+./s. 
+o 바람/nc+이/jc o 잘/a o 통하/pv+게/xa o 문/nc+을/jc o 활짝/a o 열/pv+어라/ef+./s. 
+o 바람/nc o 불/pv+는/exm o 소리/nc+를/jc o 들/pv+니/ecs+,/s, o 이/nn+이/nn+지/nb+ㄹ/exm o 듯/nb o 말/nc o 듯/nb o 하/pv+ㄴ/exm o 피/nc+리/nb o 소리/nc+가/jc o 귓가/nc+에/jca o 오/pv+아/ecx o 닿/pv+는다/ef+./s. 
+o 바로/a o 그거/npd+이/jcp+다/ef+./s. 
+o 바로/a o 여기/ad o 있/pa+었/efp+구나/ef+!/s. 
+o 바로/a o 옆/nc+이/jc o 우리/npp o 학교/nc+이/jcp+ㅂ니다/ef+./s. 
+o 바위/nc+에/jca o 앉/pv+아/ecx o 쉬/pv+었/efp+다/ef+./s. 
+o 박/nq o 선생님/nc+은/jx o 요즈음/a o 매우/a o 바쁘/pa+시/efp+다/ef+./s. 
+o 밖/nc+이/jc o 잘/a o 보이/pv+게/xa o 창문/nc+을/jc o 열/pv+어라/ef+./s. 
+o 반갑/pa+습니다/ef+./s. 
+o 반드시/a o 네/npp+게/jca o 보내/pv+마/ef+./s. 
+o 반/mn+장/nbu o 선거/nc+에서/jca o 철수/nc+가/jc x 영호/nc+에게/jca o 밀리/pv+었/efp+다/ef+./s. 
+x 받아주시옵소/nc+서/jca+./s. 
+o 발/nc+을/jc o 끊/pv+다/ef+./s. 
+o 발/nc+을/jc o 내리/pv+지/ecx o 말/px+아라/ef+./s. 
+o 발/nc+을/jc o 다치/pv+다/ef+./s. 
+o 발/nc+이/jc o 넓/pa+다/ef+./s. 
+o 발/nc+이/jc o 닳/pv+도록/ecs o 찾/pv+아/ecx o 다니/pv+었/efp+다/ef+./s. 
+o 발/nc+이/jc o 맞/pv+다/ef+./s. 
+o 발/nc+이/jc o 빠르/pa+다/ef+./s. 
+o 발/nc+이/jc o 아프/pa+니/ecs o 우선/nc o 아프/pa+ㄴ/exm o 데/nb+를/jc o 찾아보/pv+자/ef+./s. 
+o 발/nc o 벗/pv+고/ecx o 나서/px+다/ef+./s. 
+o 밤/nc+눈/nc+이/jc o 밝/pa+ㄴ/exm o 고양이/nc+는/jx o 밤/nct+에도/jca o 쥐/nc+를/jc o 잡/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 밤/nct+에/jca o 밤/nct+을/jc x 구워/nc o 먹/pv+며/ecq o 늦/pv+도록/ecs o 얘기/nc+를/jc o 하/pv+었/efp+다/ef+./s. 
+o 밤/nct o 늦/pv+게/ecx+,/s, o 시골/nc+에/jca o 계시/pv+ㄴ/exm x 삼촌/nc+이/jc o 오/pv+셨/efp+다/ef+./s. 
+o 밤/nct o 하늘/nc+에/jca o 전등/nc+까지/jx o 켜지/pv+어/ecx o 있/px+었/efp+다/ef+./s. 
+o 밥/nc+도/jx o 먹/pv+었/efp+습니다/ef+./s. 
+o 밥/nc+을/jc o 먹/pv+겠/efp+다/ef+./s. 
+o 밥/nc+을/jc o 먹/pv+고/ecx o 있/px+다/ef+./s. 
+o 밥/nc+을/jc o 먹/pv+고/ecq o 잠/nc+을/jc o 자/pv+고/ecq o 마음껏/a o 즐기/pv+었/efp+다/ef+./s. 
+o 밥/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 밥/nc+을/jc o 먹/pv+다/ef+./s. 
+o 밥/nc+을/jc o 먹/pv+어라/ef+./s. 
+o 밥/nc+을/jc o 먹/pv+었/efp+다/ef+./s. 
+o 밥/nc+을/jc o 먹이/nc+이/jcp+다/ef+./s. 
+o 밥/nc+을/jc x 삼킨다/nc+./s. 
+o 밥/nc+을/jc o 안/a o 먹/pv+고/ecx o 있/px+다/ef+./s. 
+o 밥/nc+이/jc o 너무/a o 적/pa+지/ef+?/s. 
+o 밥/nc o 먹/pv+었/efp+니/ef+?/s. 
+o 방안/nc+을/jc o 차/pa+게/xa o 만들/pv+어라/ef+./s. 
+o 방/nc+이/jc o 덥/pa+습니다/ef+./s. 
+o 방/nc+이/jc o 춥/pa+ㄴ데요/ef+./s. 
+o 방학/nc+이/jc o 되/pv+기/exn+만/jx o 하/pv+면/ecs o 여행/nc+을/jc o 떠나/pv+겠/efp+다/ef+./s. 
+o 방학/nc o 그/npp+가/jc o 부산/nq+에서/jca o 일/nc+을/jc o 하/pv+지/ecx o 않/px+고/ecx o 놀/pv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 방학/nc o 동안/nb o 집/nc+에서/jca o 놀/pv+지/ecx o 말/px+고/ecq o 공부/nc+를/jc o 열심히/a o 하/pv+어라/ef+./s. 
+o 방학/nc o 동안/nb o 집/nc+에서/jca o 놀/pv+지/ecx o 말/px+고/ecq o 밖/nc+에서/jca o 놀/pv+아라/ef+./s.+1/nnn 
+o 방/nc o 안/nc+에서는/jca o 조용히/a o 지내/pv+어야/ecx o 하/px+ㄴ다/ef+./s. 
+o 배/nc+가/jc o 뜨/pv+어/ecx o 있/px+다/ef+./s. 
+o 배/nc+가/jc o 아프/pa+다/ef+./s. 
+o 배/nc+를/jc o 먹/pv+었/efp+다/ef+./s. 
+o 배/nc+를/jc o 불리/pv+었/efp+다/ef+./s. 
+o 배/nc+보다/jca x 배꼽/pa+이/xa o 더/a o 크/pa+다/ef+./s. 
+o 배/nc+에/jca o 물/nc+이/jc o 많이/a o 차/pv+았/efp+다/ef+./s. 
+o 벌레/nc+를/jc o 잡/pv+아다/ecx+가/px+아/ecx o 새/m+장/nbu o 속/nc+의/jcm o 새/nc+에게/jca o 먹이/nc+이/jcp+려고/ecs o 하/pv+었/efp+나/ecs+,/s, o 웬일/nc+이/jcp+ㄴ지/ecs o 먹/pv+려고/ecx o 하/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 벌써/a o 날/nc+이/jc o 밝/pa+는다/ef+./s. 
+o 벌써/a o 설날/nct+이/jc o 다가오/pv+았/efp+구나/ef+!/s. 
+o 벌써/a o 저희/npp+가/jc o 들어가/pv+ㄹ/exm o 차례/nc+가/jc o 되/pv+었/efp+습니다/ef+./s. 
+o 벌써/a o 휴지/nc+통/nc+에/jca o 버리/pv+었/efp+다/ef+./s. 
+x 범이/nc x 포수/nc+에게/jca o 잡히/pv+었/efp+다/ef+./s. 
+x 범이/nc x 포수/nc+에게/jca o 잡히/pv+었/efp+다/ef+./s. 
+x 범이/nc x 포수/nc+한테/jca o 잡히/pv+었/efp+다/ef+./s. 
+o 범인/nc+은/jx o 바로/a o 이/nn o 놈/nbu+이/jcp+다/ef+./s. 
+o 벼랑/nc+에서/jca o 바윗돌/nc+이/jc o 데굴데굴/a o 구르/pv+어/ecx o 떨/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 벽/nc+에/jca o 못/a+을/jc o 박/pv+았/efp+다/ef+./s. 
+o 벽/nc+에/jca o 못/a+이/jc o 박히/pv+었/efp+다/ef+./s. 
+x 변변치/nc o 못하/px+ㄴ/exm o 물/nc+건/nbu+이/nn+오/nn+나/jx o 정/nq+으로/jca o 보내/pv+어/ecx x 드리오니/nc x 받아주시옵소/nc+서/jca+./s. 
+x 변변치/nc o 못하/px+ㄴ/exm x 물건이옵니/nc+이/jcp+다/ef+./s. 
+o 병/nc+에/jca o 걸리/pv+ㄴ다/ef+./s. 
+o 병/nc+에/jca o 시달리/pv+더/efp+ㄴ/exm o 그/npp+가/jc x 완쾌/nca+되/xpv+었/efp+다/ef+./s. 
+o 병/nc+화/nc+는/jx x 부옇/pa+게/xa o 먼지/nc+가/jc o 앉/pv+ㄴ/exm x 외투/nc o 주머니/nc+에/jca o 두/mn o 손/nc+을/jc o 찌르/pv+ㄴ/exm o 채/nb o 딱/a o 버티/pv+고/ecx o 서/pv+어서/ecs o 이렇게/a x 비꼬/nc+는/jx x 수작/nc+을/jc o 하/pv+고서는/ecs x 껄껄/a o 웃/pv+어/ecx o 버리/px+ㄴ다/ef+./s. 
+o 보고/nc+문/nc+은/jx x 장황/ncs+하/xpa+게/xa o 길/pa+ㄴ/exm o 것/nb+보다/jca x 요점/nc+적/xn+이/jcp+면서/ecs x 간결/nca+하/xpv+ㄴ/exm o 것/nb+이/jc o 좋/pa+다/ef+./s. 
+o 보다/a o 높이/a o 뛰/pv+어라/ef+./s. 
+o 보/pv+라/ef+!/s. o 동해/nc o 바다/nc+에/jca o 떠오르/pv+는/exm o 저/npp o 태양/nq+을/jc+./s. 
+o 보/pv+라/ecs+,/s, o 저/npp o 장엄하/pa+ㄴ/exm o 모습/nc+을/jc+./s. 
+o 보름이/nq+이/jcp+라/ecs o 달/nc+도/jx o 밝/pa+구나/ef+!/s. 
+x 보배가/nc o 먼지/nc+에/jca o 묻히/pv+어/ecx+있/px+다/ef+./s. 
+x 보슬비가/nc o 소리/nc+도/jx o 없/pa+이/xa o 내리/pv+ㄴ다/ef+./s. 
+o 보/pv+아야/ecs o 그렇/pad+고/ecs o 그렇/pad+지/ef+./s. 
+o 본/md+관/nc o 서쪽/nc o 숲/nc o 사이/nc+에/jca o 있/pa+는/exm o 나/npp+의/jcm o 자리/nc+를/jc o 찾/pv+아/ecx o 올라가/pv+ㄴ다/ef+./s. 
+o 본인/npp+은/jx o 귀/nc o 회사/nc+의/jcm o 발전/nc+을/jc o 축하/nca+하/xpv+ㅂ니다/ef+./s. 
+o 본/md o 건/nc+은/jx o 귀하/npp+의/jcm x 재량/nc+에/jca o 맡기/pv+ㅂ니다/ef+./s. 
+o 봄/nct+은/jx o 생명/nc o 있/pa+는/exm o 만/nb+물/nc+에/jca x 다사로운/nc o 입/nc+김/nc+을/jc o 불/pv+어/ecx o 주/px+며/ecq+,/s, o 삶/nc+의/jcm o 기능/nc+을/jc o 다시/a o 회복/nca+하/xpv+게/ecx o 하/pv+어/ecx o 주/px+고/ecq+,/s, o 보다/a x 풍성/nca+하/xpv+ㄴ/exm o 생활/nc+의/jcm x 영위/nc+를/jc o 촉구/nca+하/xpv+는/exm o 철/nct+이/jcp+다/ef+./s. 
+o 봄/nct+이/jcp+다/ef+./s. 
+o 봄/nct+이/jcp+라/ecs o 꽃/nc+이/jc o 활짝/a o 피/pv+었/efp+다/ef+./s. 
+o 봄/nct+이/jcp+라/ecs o 모두/nc+들/xn o 꽃/nc+구경/nc+하/xpa+러/ecs o 떠나/pv+았/efp+다/ef+./s. 
+o 봄/nct+이/jc o 되/pv+니까/ecs o 꽃/nc+이/jc o 피/pv+ㄴ다/ef+./s. 
+o 봄/nct+이/jc o 되/pv+면/ecs o 꽃/nc+이/jc o 피/pv+고/ecq o 새/nc+가/jc o 울/pv+ㄴ다/ef+./s. 
+o 봄/nct+이/jc o 되/pv+면/ecs o 꽃/nc+이/jc o 피/pv+ㄴ다/ef+./s. 
+o 봄/nct+이/jc o 되/pv+어서/ecs o 꽃/nc+이/jc o 피/pv+ㄴ다/ef+./s. 
+o 봄/nct+이/jc o 오/pv+니/ecs o 날씨/nc+가/jc o 따뜻하/pa+다/ef+./s. 
+o 봄/nct+이/jc o 오/pv+면/ecs o 꽃/nc+이/jc o 피/pv+ㄴ다/ef+./s. 
+o 봄/nct+처럼/jca o 항상/a x 부지런/nca+하/xpv+어라/ef+./s. 
+o 봄/nct+,/s, o 이/npd+는/jx o 우리/npp o 모두/nc+의/jcm x 계절이/nc+이/jcp+다/ef+./s. 
+o 부르/pv+다가/ecq o 내/nc+가/jc o 죽/pv+ㄹ/exm x 이름이/nc+이/jcp+어/ef+!/s. 
+x 부슬비가/nc x 부슬부슬/nc o 내리/pv+ㄴ다/ef+./s. 
+x 북소리가/nc o `/s`+둥둥/a+!/s.+'/s'+하/pv+고/ecx o 울리/pv+었/efp+다/ef+./s. 
+x 북/nc o 소리/nc+가/jc o "/s'+둥둥/a+!/s.+"/s'+하/pv+고/ecx o 울리/pv+었/efp+다/ef+./s. 
+x 분단/nca+되/xpv+ㄴ/exm o 조국/nc+이/jc o 통/nc+일/nbu+되/pv+는/exm o 것/nb+이/jc o 마땅하/pa+다/ef+./s. 
+o 불쌍/ncs+하/xpa+게/xa+도/jx o 그/npp+가/jc o 사고/nc+를/jc o 당하/pv+었/efp+다/ef+./s. 
+o 불쌍/ncs+하/xpa+게/xa o 그/npp+가/jc o 사고/nc+를/jc o 당하/pv+었/efp+다/ef+./s. 
+o 불/nc+이/jcp+야/ef+!/s. 
+o 불/nc+이/jc o 죽/pv+는다/ef+./s. 
+o 불/nc o 좀/a o 때/pv+어/ecx o 주/px+시/efp+어요/ef+./s. 
+o 불/nc+!/s. 
+o 불/nc+,/s, o 불/nc+,/s, o 불/nc+,/s, o 불/nc+조심/nc+!/s. 
+o 붓/pv+이/xa o 오래/a o 되/pv+어/ecx o 낡/pa+아서/ecs x 글/nc+씨/xn+가/jc o 잘/a o 쓰/pv+어/ecx+지/px+지/ecx o 않/px+는다/ef+./s. 
+o 비/nc+가/jc o 그치/pv+거든/ecs x 떠나려느냐/nc+?/s. 
+o 비/nc+가/jc o 내리/pv+면서/ecs o 또/a o 눈/nc+이/jc o 내리/pv+었/efp+다/ef+./s. 
+o 비/nc+가/jc o 소리/nc+도/jx o 없/pa+이/xa o 내리/pv+ㄴ다/ef+./s. 
+o 비/nc+가/jc o 오/pv+네/ef+./s. 
+o 비/nc+가/jc o 오/pv+는데/ecs x 우산은/nc o 없/pa+다/ef+./s. 
+o 비/nc+가/jc o 오/pv+는데/ecs+,/s, o 어디/npd+로/jca o 가/pv+시/efp+오/ef+?/s. 
+o 비/nc+가/jc o 오/pv+는/exm o 통/nc+에/jca o 아무/md o 일/nc+도/jx o 못/a o 하/pv+었/efp+다/ef+./s. 
+o 비/nc+가/jc o 오/pv+면/ecs o 크/pa+ㄴ/exm o 일/nc+이/jcp+다/ef+./s. 
+o 비/nc+가/jc o 오/pv+지/ecx o 말/px+기/exn+를/jc o 바라/pv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 비/nc+가/jc o 오/pv+지/ecx o 않/px+기/exn+를/jc o 바라/pv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 비/nc+가/jc o 오/pv+ㅂ니까/ef+?/s. 
+o 비/nc+가/jc o 오/pv+아서/ecs o 길/nc+이/jc o 질/pa+다/ef+./s. 
+o 비교/nc+적/xn o 잘/a o 되/pv+ㄴ/exm o 계획/nc+이/jcp+다/ef+./s. 
+o 비교/nc+적/xn o 평온하/pa+다/ef+./s. 
+x 비는커녕/nc o 구름/nc+도/jx o 끼/pv+지/ecx o 않/px+겠/efp+다/ef+./s. 
+o 비로소/a o 나/npp+도/jx o 그/md o 일/nc+에/jca o 착수/nca+하/xpv+게/ecx o 되/pv+었/efp+다/ef+./s. 
+o 비/nc+에/jca o 바람/nc+까지/jx o 몰아치/pv+ㄴ다/ef+./s. 
+o 비행기/nc+가/jc o 하늘/nc+에/jca o 뜨/pv+어/ecx o 있/px+다/ef+./s. 
+x 빗방울/pa+이/xa o 떨/pv+어/ecx+지/px+는/exm o 소리/nc+에/jca o 잠/nc+이/jc o 깨/pv+었/efp+다/ef+./s. 
+x 빗방울/nc o 떨/pv+어/ecx+지/px+는/exm o 소리/nc+에/jca o 잠/nc+이/jc o 깨/pv+었/efp+다/ef+./s. 
+x 빠르기/nc+의/jcm o 정도/nc+를/jc o 모르/pv+겠/efp+다/ef+./s. 
+o 빨리/a+도/jx o 뛰/pv+ㄴ다/ef+./s. 
+o 빨리/a x 가렷다/nc+./s. 
+o 빨리/a o 가/nc+세/nc+./s. 
+o 빨리/a o 가/pv+시/efp+지요/ef+./s. 
+o 빨리/a o 가/nc+자/xn+이/jcp+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 빨리/a o 가/pv+자/ef+./s. 
+o 빨리/a o 가/pv+지/ecx o 못하/px+겠/efp+느냐/ef+?/s. 
+o 빨리/a o 가/pv+ㄹ까요/ef+,/s, o 천천히/a o 가/pv+ㄹ까요/ef+?/s. 
+o 빨리/a o 가/pv+ㅂ시다/ef+./s. 
+o 빨리/a o 가/pv+았더/efp+라면/ecs o 기차/nc+를/jc o 타/pv+았/efp+ㄹ/exm x 텐데/nc+./s. 
+o 빨리/a x 다녀왔구려/nc+!/s. 
+o 빨리/a o 도서/nc+관/nc+에/jca o 가/pv+자/ef+./s. 
+o 빨리/a o 떠나/pv+자고/ecs o 재촉/nca+하/xpv+었/efp+다/ef+./s. 
+o 빨리/a o 문/nc+을/jc o 못/a o 닫/pv+겠/efp+느냐/ef+?/s. 
+o 빨리/a o 물/nc+들/xn o 뜨/pv+어/ecx o 오/px+어라/ef+./s. 
+o 빨리/a o 인/nc+도로/nc o 나오/pv+시/efp+오/ef+./s. 
+o 빨리/a o 철수/nc+를/jc o 데리/pv+고/ecx o 가/px+자/ef+./s. 
+x 빵이냐/nc o 자유/nc+이/jcp+냐/ef+가/jc o 우리/npp+의/jcm o 당면/nc o 과제/nc+이/jcp+다/ef+./s. 
+x 뽕나무/nc x 밭/pa+이/xa o 바다/nc+로/jca o 변하/pv+었/efp+다/ef+./s. 
+o 사과/nc+를/jc o 하나/nn+만/nn o 먹/pv+지/ecx o 않/px+고/ecx o 남기/pv+어/ecx o 두/px+었/efp+다/ef+./s. 
+o 사과/nc+를/jc o 하나/nn+만/nn o 먹/pv+지/ecx o 않/px+고/ecq o 둘/nn+을/jc o 먹/pv+었/efp+다/ef+./s. 
+o 사과/nc+와/jj o 과자/nc+를/jc o 사/pv+아/ecx o 오/px+았/efp+다/ef+./s. 
+o 사과/nc o 및/ajw o 과자/nc+를/jc o 사/pv+아/ecx o 오/px+았/efp+다/ef+./s. 
+o 사과/nc o 하나/nn+를/jc o 먹/pv+었/efp+다/ef+./s. 
+o 사과/nc o 한/mn o 개/nbu+로/jca o 시장/nc+기/nc+를/jc o 면/nca+하/xpv+었/efp+다/ef+./s. 
+o 사람/nc+들/xn+은/jx o 어찌/a o 그렇/pad+ㄴ/exm o 일/nc+을/jc x 쉽사리/a o 하/pv+ㄹ/exm o 수/nb o 있/pa+ㄹ까/ef+?/s. 
+o 사람/nc+들/xn+은/jx x 체험을/nc o 바탕/nc+으로/jca o 살/pv+아/ecx+가/px+ㄴ다/ef+./s. 
+o 사람/nc+들/xn+이/jc o 많/pa+ㄴ/exm o 도시/nc+를/jc o 다니/pv+어/ecx o 보/px+면/ecs o 재미/nc o 있/pa+는/exm o 일/nc+이/jc o 많/pa+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 사람/nc+들/xn+이/jc o 많이/a o 모이/pv+어/ecx o 있/px+다/ef+./s. 
+o 사람/nc+들/xn+이/jc o 물건/nc+을/jc x 사느라고/nc o 저렇게/a o 줄/nb+을/jc o 서/pv+었/efp+ㅂ니다/ef+./s. 
+o 사람/nc+들/xn+이/jc o 성/nc+벽/nc+을/jc o 높이/pv+었/efp+다/ef+./s. 
+o 사람/nc+은/jx o 가/pv+다/ecs x 장난삼아/nc o 칼/nc+로/jca o 제/md o 이름/nc+을/jc o 세/nbu+기/pv+어/ecx o 보/px+고/ecq+,/s, o 흔히/a o 자기/npp o 소용/nc o 닿/pv+는/exm o 대/nc+로/jca o 가지/nc+를/jc o 치/pv+어/ecx o 가/px+고/ecq o 송두리째/a x 베/pv+어/ecx o 가/pv+곤/ecx o 하/px+ㄴ다/ef+./s. 
+o 사람/nc+은/jx o 누구/npp+나/jx o 죽/pv+는다/ef+./s. 
+o 사람/nc+은/jx o 만/nn+물/nc+의/jcm x 영/nc+장/xn+이/jcp+다/ef+./s. 
+o 사람/nc+은/jx o 스스로/npp+를/jc o 알/pv+아야/ecx+하/px+ㄴ다/ef+./s. 
+o 사람/nc+은/jx o 이/md+성/nc+을/jc o 가지/pv+ㄴ/exm o 동물/nc+이/jcp+다/ef+./s. 
+o 사람/nc+은/jx o 이/md+성적/nc o 동물/nc+이/jcp+다/ef+./s. 
+o 사람/nc+은/jx x 체험/nc+,/s, o 사고/nc+,/s, o 지식/nc o 들/xn+을/jc o 활용/nca+하/xpv+면서/ecs o 살/pv+아/ecx+가/px+ㄴ다/ef+./s. 
+o 사람/nc+은/jx o `/s`+생각/nca+하/xpv+는/exm o 힘/nc+'/s'+을/jc o 가지/pv+었/efp+다/ef+./s. 
+o 사람/nc+을/jc o 움직이/pv+라/ef+./s. 
+o 사랑/nc+에/jca o 취하/pv+어/ecx o 흘리/pv+어/ecx o 듣/pv+는/exm o 사람/nc+의/jcm o 귀/nc+에/jca+,/s, o 그/npp+들/xn+은/jx o 온갖/m o 비밀/nc+을/jc o 쏟/pv+기/exn+도/jx o 하/pv+ㄴ다/ef+./s. 
+x 사슴/pa+이/xa x 포수/nc+에게/jca o 쫓기/pv+ㄴ다/ef+./s. 
+o 산골짝/nc+마다/jx o 눈/nc+이/jc o 쌓이/pv+었/efp+다/ef+./s. 
+o 산/nc+마다/jx x 단풍/nc+이/jc o 들/pv+었/efp+다/ef+./s. 
+x 산봉우리가/nc o 희/pa+ㄴ/exm o 눈/nc+에/jca o 덮이/pv+었/efp+구나/ef+!/s. 
+o 산/nc+에는/jca o 꽃/nc+이/jc o 피/pv+네/ef+,/s, o 꽃/nc+이/jc o 피/pv+네/ef+./s. 
+o 산/nc+에서/jca o 구르/pv+어/ecx o 내리/pv+ㄴ/exm o 돌/nc+이/jc x 도랑/nc+을/jc o 막/pv+았/efp+다/ef+./s. 
+o 산/nc+에/jca o 나무/nc+를/jc o 하/pv+러/ecs o 가/px+ㄴ다/ef+./s. 
+o 산/nc+은/jx o 높/pa+고/ecq o 물/nc+은/jx o 맑/pa+다/ef+./s. 
+o 산/nc+은/jx o 높/pa+고/ecq o 하늘/nc+은/jx o 푸르/pa+다/ef+./s. 
+o 산/nc+은/jx o 높/pa+고/ecq+,/s, x 골은/nc o 깊/pa+다/ef+./s. 
+o 산/nc+은/jx o 높/pa+고/ecq+,/s, o 물/nc+은/jx o 깊/pa+다/ef+./s. 
+o 산/nc+은/jx o 높/pa+다/ef+./s. 
+o 산/nc+은/jx o 푸르/pa+나/ecs o 시냇물/nc+은/jx o 맑/pa+지/ecx o 못하/px+군/ef+./s. 
+o 산/nc+을/jc x 발갛/pa+게/xa o 물들이/pv+ㄴ/exm o 것/nb+은/jx x 단풍이/nc+이/jcp+다/ef+./s. 
+o 산/nc+이/jc o 바다/nc+로/jca o 변하/pv+었/efp+다/ef+./s. 
+o 산/nc+이/jc o 하늘/nc+을/jc o 찌르/pv+ㄹ/exm o 듯/nb+이/jc o 높이/a o 솟/pv+아/ecx o 있/px+다/ef+./s. 
+o 살/pv+ㄴ/exm o 그림자/nc+가/jc o 소리/nc+도/jx o 없/pa+이/xa o 다가오/pv+ㄴ다/ef+./s. 
+o 살/pv+ㄴ/exm o 그림자/nc+가/jc o 소리/nc o 없/pa+이/xa o 다가오/pv+ㄴ다/ef+./s. 
+o 살짝/a o 가만히/a o 이리/ad o 오/pv+어라/ef+./s. 
+o 삼/nn+국/nbu+유/nn+사/nn+는/jx x 설화책이/nc+이/jcp+다/ef+./s. 
+x 삿/nc+대/xn+도/jx o 없/pa+이/xa o 가/pv+기/exn+도/jx o 잘/a+도/jx o 가/pv+ㄴ다/ef+./s. 
+o 상수/nc+는/jx o 여섯/nn o 살/nbu o 때/nct o 일/nc+이/jcp+어/ecs x 선사/nc+의/jcm o 제자/nc+가/jc o 되/pv+었/efp+다/ef+./s. 
+o 새/nc+가/jc o 공중/nc+에서/jca o 나/pv+ㄴ다/ef+./s. 
+o 새/nc+가/jc o 공중/nc+을/jc o 나/pv+ㄴ다/ef+./s. 
+o 새/nc+가/jc o 높이/a o 나/pv+ㄴ다/ef+./s. 
+o 새/nc+가/jc o 높이/a o 날/pv+아/ecx+가/px+ㄴ다/ef+./s. 
+o 새/nc+가/jc o 아주/a o 높이/a o 날/pv+아/ecx+가/px+ㄴ다/ef+./s. 
+o 새/nc+가/jc o 집/nc+을/jc o 짓/pv+는다/ef+./s. 
+o 새/nc+가/jc o 하늘/nc+을/jc o 나/pv+ㄴ다/ef+./s. 
+o 새/nc+는/jx x 꽁지가/nc o 있/pa+다/ef+./s. 
+o 새롭/pa+ㄴ/exm o 사실/nc+이/jc o 그/npp+에/jca o 의하/pv+어/ecx o 밝히/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 새롭/pa+ㄴ/exm o 얼굴/nc+을/jc o 찾/pv+습니다/ef+./s. 
+o 새롭/pa+ㄴ/exm x 터널/pa+이/xa o 저/md o 산/nc+에/jca x 뚫리/pv+었/efp+다/ef+./s. 
+o 새/nc+집/nc+을/jc o 사/pv+았/efp+다/ef+./s. 
+o 새/m o 옷/nc+을/jc o 입/pv+었/efp+다/ef+./s. 
+o 새/m o 옷/nc+을/jc o 짓/pv+시/efp+곤/ecx o 하/px+셨/efp+지요/ef+./s. 
+o 새/m o 책/nc+으로/jca o 바꾸/pv+어/ecx o 주/px+시/efp+오/ef+./s. 
+o 새/m o 책/nc+을/jc o 가지/pv+어/ecx+오/px+았/efp+다/ef+./s. 
+x 색깔/pa+이/xa o 죽/pv+는다/ef+./s. 
+o 새/pv+ㅁ/exn+이/jc o 깊/pa+어야/ecs o 물/nc+이/jc o 맑/pa+다/ef+./s. 
+o 생각/nca+하/xpv+는/exm o 것/nb+이/jc o 퍽/a o 이/md+지적/nc+이/jcp+다/ef+./s. 
+x 생존/nc+자/xn+는/jx o 한/mn o 명/nbu+도/jx o 없/pa+었/efp+다/ef+./s. 
+x 생존/nc+자/xn+는/jx o 한/mn o 사람/nc+도/jx o 없/pa+었/efp+다/ef+./s. 
+o 서랍/nc+에/jca o 연필/nc+을/jc o 넣/pv+었/efp+다/ef+./s. 
+o 서럽/pa+다/ef+,/s, o 돌/pv+아/ecx+가/px+는/exm o 기/nc+는/jx o 들/xn o 끝/nc+에/jca o 나/npp+는/jx x 떠돌며/a o 울/pv+며/ecq o 생각/nca+하/xpv+ㄴ다/ef+,/s, o 그대/npp+를/jc+./s. 
+o 서로/a o 마주/a o 앉/pv+아/ecx o 이야기/nc+를/jc o 나누/pv+었/efp+다/ef+./s. 
+o 서/pv+리/ef+가/jc o 내리/pv+면/ecs x 나뭇잎이/nc o 붉/pa+게/xa o 물들/pv+ㄴ다/ef+./s. 
+o 서/pv+리/ef+가/jc o 내리/pv+면/ecs x 나뭇잎이/nc o 빨갛/pa+게/xa o 물들/pv+ㄴ다/ef+./s. 
+o 서/pv+리/ef+가/jc o 내리/pv+ㄴ다/ef+./s. 
+o 서울/nq+과/jj o 부산/nq+은/jx o 인/nc+구/nc+가/jc o 많/pa+다/ef+./s. 
+o 서울/nq+로/jca o 바로/a o 가/pv+지/ecx o 말/px+고/ecq o 이/md o 근처/nc+에/jca o 살/pv+는/exm o 친구/nc o 집/nc+에/jca o 잠깐/nct o 들리/pv+었/efp+다/ef o 가/px+게/ef+./s. 
+o 서울/nq+에는/jca o 대문/nc+들/xn+이/jc o 많/pa+다/ef+./s. 
+o 서울/nq+에/jca o 동생/npp o 하나/nn+가/jc o 있/pa+ㅂ니다/ef+./s. 
+x 서윤규/nc o 씨/xn+가/jc o 제일/nc o 눈/nc+에/jca o 들/pv+ㄴ다/ef+./s. 
+x 서점/nc+에서/jca o 사/pv+았/efp+다/ef+./s. 
+o 석/nc+가/nc+는/jx o 무엇/npd+을/jc o 위하/pv+어/ecx x 설산/nc+에서/jca o 고/nq+행/nc+을/jc o 하/pv+었/efp+며/ecq+,/s, x 예수/nc+는/jx o 무엇/npd+을/jc o 위하/pv+어/ecx x 황야/nc+에서/jca o 방황/nc+하/xpa+었/efp+며/ecq+,/s, o 공/nn+자/nbu+는/jx o 무엇/npd+을/jc o 위하/pv+어/ecx o 천하/nc+를/jc x 철환/nca+하/xpv+었/efp+는가/ef+?/s. 
+o 선/nc+반/nc+에/jca o 그릇/nc+이/jc x 맣이/a x 얹히/pv+어/ecx o 있/px+었/efp+다/ef+./s. 
+o 선생님/nc+께서는/jc x 낮잠/nc+을/jc o 주무시/pv+ㄴ다/ef+./s. 
+x 선생님께서도/nc x 안녕하시옵지요/nc+?/s. 
+o 선생님/nc+께서/jc o 먼저/a o 가/pv+시/efp+지요/ef+?/s. 
+o 선생님/nc+께서/jc o 부르/pv+셨/efp+다/ef+./s. 
+o 선생님/nc+께서/jc o 우리/npp o 어머니/nc+께/jca o 옷/nc+을/jc o 입/pv+시/efp+게/ef x 하시었다/nc+./s. 
+o 선생님/nc+께서/jc o 원/nbu+고르/pv+ㄹ/exm o 쓰/pv+고/ecx o 계시/px+ㄴ다/ef+./s. 
+o 선생님/nc+께/jca x 꾸중을/nc x 듣고/nc+서/jca o 숙제/nc+를/jc o 하/pv+었/efp+다/ef+./s. 
+o 선생님/nc+께/jca o 말씀/nc o 좀/a o 드리/pv+어/ecx o 주/px+시/efp+ㄹ래요/ef+?/s. 
+o 선생님/nc+도/jx o 떠나/pv+시겠/efp+습니까/ef+?/s. 
+o 선생님/nc+도/jx o 지금/at o 떠나/pv+시겠/efp+습니까/ef+?/s. 
+o 선생님/nc+은/jx o 감/pv+기/exn+가/jc o 들/pv+셨/efp+다/ef+./s. 
+o 선생님/nc+은/jx x 누굴/nc o 더/a o 사랑/nca+하/xpv+시/efp+ㄹ까/ef+?/s. 
+o 선생님/nc+은/jx x 댁/nc+에서/jca x 정류/nc+장/xn+이/jc o 멀/pa+시/efp+어서/ecs o 불편/ncs+하/xpa+시겠/efp+지요/ef+./s. 
+o 선생님/nc+은/jx x 따님이/nc o 있/pa+시/efp+다/ef+./s. 
+o 선생님/nc+은/jx o 밥/nc+도/jx o 짓/pv+어/ecx o 보/px+셨/efp+다고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 선생님/nc+은/jx o 아들/nc+이/jc o 하/pv+나/ecs o 있/pa+습니다/ef+./s. 
+o 선생님/nc+은/jx x 윤복이/nc+를/jc o 훌륭하/pa+다고/ecs x 칭찬/nca+하/xpv+셨/efp+다/ef+./s. 
+o 선생님/nc+은/jx o 이제/at o 무엇/npd+을/jc o 하/pv+시겠/efp+ㅂ니까/ef+?/s. 
+o 선생님/nc+은/jx o 자동차/nc+가/jc o 없/pa+시/efp+ㅂ니다/ef+./s. 
+o 선생님/nc+을/jc o 만나/pv+아서/ecs o 정말/nc o 기쁘/pa+어요/ef+?/s. 
+o 선생님/nc+이/jc x 영호/nc+에게/jca o 동화책/nc+을/jc x 읽히/pv+었/efp+다/ef+./s. 
+o 선생님/nc+이/jc o 철수/nc+에게/jca o 책/nc+을/jc x 읽히/pv+었/efp+다/ef+./s. 
+o 선생님/nc x 댁은/nc o 어디/npd+이/jcp+시/efp+ㅂ니까/ef+?/s. 
+o 선생님/nc o 하/pv+시/efp+는/exm o 일/nc+이/jc o 잘/a o 되/pv+시/efp+어야/ecs o 하/pv+겠/efp+습니다/ef+./s. 
+o 선생님/nc+,/s, o 바다/nc+가/jc o 보이/pv+시/efp+ㅂ니까/ef+?/s. 
+o 선생님/nc+,/s, x 선생님께서도/nc o 그/md o 이야기/nc+를/jc o 좋/pa+아/ecx+하/px+시/efp+는군요/ef+./s. 
+o 선생님/nc+,/s, o 오래/a+가/pv+ㄴ/exm+만/nb+이/jcp+ㅂ니다/ef+./s. 
+o 선생님/nc+,/s, x 외투가/nc o 무겁/pa+시/efp+죠/ef+?/s. 
+o 선생님/nc+,/s, o 제/md o 말씀/nc o 좀/a o 들/pv+어/ecx o 보/px+시/efp+ㅂ시오/ef+./s. 
+x 선죽교/nc o 다리/nc+에는/jca o 아직/a+도/jx x 충절/nc+이/jc o 살/pv+아/ecx o 있/px+다/ef+./s. 
+o 선/nc+화/nc+와/jj o 은/nc+주/nbu+가/jc o 만나/pv+았/efp+다/ef+./s. 
+o 서/pv+ㄴ/exm o 채/nb+로/jca o 강/nc+의/nc+를/jc o 들/pv+었/efp+다/ef+./s. 
+o 설날/nct+이/jcp+라고/ecs x 윷/nc+을/jc o 놀/pv+ㄴ다/ef+./s. 
+o 설마/a o 거짓말/nc+이야/jx x 하겠는냐/nc+?/s. 
+o 설마/a o 그/npp+가/jc o 하/pv+었/efp+ㄹ/exm o 리/nb+가/jc o 있/pa+겠/efp+나/ef+?/s. 
+o 설마/a o 그/npp+도/jx o 그렇/pad+었/efp+ㄹ까/ef+./s. 
+o 설마/a+,/s, o 그/npp+가/jc o 우리/npp+의/jcm o 기대/nc+를/jc o 저버리/pv+겠/efp+느냐/ef+?/s. 
+o 설악/nq+산/nc+에는/jca o 벌써/a x 단풍/nc+이/jc o 물들/pv+었겠/efp+다/ef+./s. 
+o 설악/nq+산/nc o 비/nc+선/nc+대/xn 
+o 설악/nq+이/jc x 어디메오/nc+?/s. 
+x 설탕은/nc o 맛/nc+이/jc o 달/pv+다/ef+./s. 
+o 섬/nc o 주위/nc+에는/jca o 옛날/nct+의/jcm o 파도/nc+의/jcm x 자취/nc+가/jc o 새기/pv+어/ecx+지/px+어/ecx o 있/px+는/exm o 바위/nc+가/jc o 널리/pv+어/ecx o 있/px+다/ef+./s. 
+o 성과/nc+가/jc x 크셨겠지요/nc+?/s. 
+o 세상/nc+은/jx o 하/pv+ㄴ/exm o 크/pa+ㄴ/exm o 도시/nc+./s. o 너/npp+는/jx o 이/md o 도시/nc+의/jcm o 한/mn o 시민/nc+으로/jca o 이때/npd+까지/jx o 살/pv+아/ecx o 오/px+았/efp+다/ef+./s. 
+o 세상/nc o 사람/nc+들/xn+이/jc o 철수/nc+가/jc o 어리석/pa+ㅁ/exn+을/jc o 비웃/pv+지/ecx o 않/px+ㄹ까/ef+?/s. 
+o 세상/nc o 사람/nc+들/xn+이/jc o 철수/nc+의/jcm o 어리석/pa+ㅁ/exn+을/jc o 비웃/pv+지/ecx o 않/px+ㄹ까/ef+?/s. 
+o 세월/nct+은/jx o 빨리/a+도/jx x 지나가는구려/nc+!/s. 
+o 세월/nct+은/jx o 정말/nc x 물흐르듯/nc o 지나가/pv+ㄴ다/ef+./s. 
+o 세월/nct+이/jc o 물/nc+의/jcm o 흐름/nc+과/jj o 같/pa+다/ef+./s. 
+o 세월/nct+이/jc o 빨리/a+도/jx o 가/pv+는구나/ef+!/s. 
+o 세월/nct+이/jc o 흐름/nc+이/jc o 네/mn o 탓/nc+이/jcp+겠/efp+느냐/ef+?/s. 
+o 세종/nq o 대/nc+왕/nc+은/jx o 여러/mn o 임금/nc o 중/nc+에서/jca o 가장/a o 학문/nc+을/jc o 사랑/nca+하/xpv+시/efp+ㄴ/exm x 군주이/nc+이/jcp+셨/efp+다/ef+./s. 
+o 세종/nq o 대/nc+왕/nc+은/jx o 여러/mn o 임금/nc o 중/nc+에서/jca o 가장/a o 학문/nc+을/jc o 사랑/nca+하/xpv+ㄴ/exm x 군주/nc+이/jcp+었/efp+다/ef+./s. 
+o 이/jcp+소/ef+가/jc o 무겁/pa+ㄴ/exm o 짐/nc+을/jc o 끌/pv+고/ecx o 있/px+다/ef+./s. 
+o 소녀/nc+는/jx o 빨갛/pa+ㄴ/exm o 옷/nc+을/jc o 입/pv+었었/efp+다/ef+./s. 
+o 소녀/nc+의/jcm o 그림자/nc+가/jc o 뵈/pv+지/ecx o 않/px+는/exm o 날/nc+이/jc o 계속/nca+되/xpv+ㄹ수록/ecs o 소년/nc+의/jcm o 가슴/nc o 한/mn o 구석/nc+에는/jca o 어디/npd+이/jcp+ㄴ가/ef o 허전/ncs+하/xpa+ㅁ/exn+이/jc o 자리잡/pv+는/exm o 것/nb+이/jcp+었/efp+다/ef+./s. 
+o 소년/nc+은/jx o 나라/nc+의/jcm x 보배/nc+이/jcp+다/ef+./s. 
+x 소/nc+는/jx o 꼬리/nc+가/jc o 길/pa+다/ef+./s. 
+o 이/jcp+소/ef+를/jc o 몰/pv+고/ecq o 고개/nc+를/jc o 넘어가/pv+는/exm o 한/mn o 사람/nc+이/jc o 있/pa+었/efp+다/ef+./s. 
+o 소리/nc+도/jx o 없/pa+이/xa o 비/nc+가/jc o 내리/pv+ㄴ다/ef+./s. 
+o 소리/nc+를/jc o 높이/pv+었/efp+다/ef+./s. 
+o 소리/nc o 없/pa+이/xa o 내리/pv+더/efp+ㄴ/exm o 비/nc+가/jc o 그치/pv+었/efp+다/ef+./s. 
+x 소변/nc+을/jc o 보/pv+ㄴ다/ef+./s. 
+x 소변이/nc o 마렵/pa+다/ef+./s. 
+o 손님/nc+이/jc o 다/a o 안/a o 오/pv+았/efp+다/ef+./s. 
+o 손님/nc+이/jc o 다/a o 오/pv+지는/ecx o 않/px+았/efp+다/ef+./s. 
+o 손님/nc+이/jc o 다/a o 오/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 손님/nc+이/jc o 많이/a o 오/pv+셨/efp+다/ef+./s. 
+o 손님/nc+이/jc o 오/pv+기/exn+는/jx o 오/pv+았/efp+는데/ecs+,/s, o 다/a o 오/pv+ㄴ/exm o 것/nb+은/jx o 아니/pa+다/ef+./s. 
+o 손님/nc+이/jc o 오/pv+ㄴ/exm o 사람/nc+이/jc o 하나/nn+도/jx o 없/pa+다/ef+./s. 
+o 손/nc+에/jca o 먼지/nc+가/jc o 묻/pv+었/efp+다/ef+./s. 
+o 손/nc+에/jca o 먼지/nc+를/jc o 묻히/pv+었/efp+다/ef+./s. 
+o 손/nc+을/jc o 내/pv+었/efp+다/ef+./s. 
+o 손/nc+을/jc o 물/nc+로/jca o 씻/pv+어라/ef+./s. 
+o 손/nc+을/jc o 창밖/nc+으로/jca o 내/pv+었/efp+다/ef+./s. 
+o 손/nc+이/jc o 모자라/pv+ㄴ다/ef+./s. 
+o 손/nc o 좀/a o 보/pv+아야/ecx o 되/pv+어/ecx+./s. 
+x 솔아/i+,/s, o 너/npp+는/jx o 어찌/a x 눈서리/nc+를/jc o 모르/pv+느냐/ef+?/s. 
+x 솔은/nc o 내/nc+가/jc o 피우/pv+는/exm o 담배/nc+이/jcp+다/ef+./s. 
+x 수남이가/nc x 영철이/nc+와/jj o 들/xn+에/jca o 나가/pv+았/efp+다/ef+./s. 
+o 수/mn+박/nbu x 겉/nc x 핥기/nc+./s. 
+o 수/nc+해/nc+로/jca o 논밭/nc+이/jc o 물/nc+바다/nc+로/jca o 변하/pv+었/efp+다/ef+./s. 
+o 수/nc+해/nc o 지역/nc+은/jx x 여기서부터입니/nc+이/jcp+다/ef+./s. 
+o 순/nc+경이/nc o 도둑/nc+을/jc o 잡/pv+았/efp+다/ef+./s. 
+x 순이가/nc o 과자/nc+를/jc o 먹/pv+는다/ef+./s. 
+x 순이가/nc o 나/npp+를/jc o 손/nc+을/jc o 잡/pv+아/ecx o 끌/pv+ㄴ다/ef+./s. 
+x 순이가/nc o 너/npp+에게/jca o 무엇/npd+을/jc o 주/pv+더/efp+냐/ef+?/s. 
+x 순이/nc+가/jc o 울/pv+ㄴ다/ef+./s. 
+x 순이가/nc o 자기/npp o 집/nc x 바둑이가/nc o 새끼/nc+를/jc o 여러/mn o 마리/nbu x 낳았다/nc+이/jcp+고/ecq o 말/nca+하/xpv+었/efp+다/ef+./s. 
+x 순이가/nc o 철수/nc+를/jc o 손/nc+을/jc o 잡/pv+았/efp+다/ef+./s. 
+o 순/nc+이/jcp+는/exm o 노래/nc+도/jx o 잘/a o 부르/pv+ㅂ니다/ef+./s. 
+o 순/nc+이/jcp+는/exm o 아주/a o 새/m o 옷/nc+을/jc o 입/pv+고/ecx o 오/px+았/efp+다/ef+./s. 
+o 순/nc+이/jcp+는/exm o 자기/npp+가/jc o 가/pv+겠/efp+다고/ecs o 말/nca+하/xpv+었/efp+다/ef+./s. 
+o 순/nc+이/jcp+야/ef+,/s, o 그렇/pad+ㄴ/exm o 말/nc o 하/pv+면/ecs o 못/a o 쓰/pv+ㄴ다/ef+./s. 
+x 순희가/nc o 오늘/nct o 학교/nc+에/jca o 안/a o 오/pv+았/efp+니까/ecs o 고향/nc+에/jca o 가/pv+ㄴ/exm o 것/nb+이/jc o 틀림없/pa+다/ef+./s. 
+x 순희/nc+는/jx x 국어/nc+,/s, o 영어/nq o 공부/nc+를/jc o 하/pv+었/efp+다/ef+./s. 
+x 순희/nc+는/jx o `/s`+저/npp+가/jc o 가/pv+겠/efp+습니다/ef+./s.+'/s'+라고/ecs o 말/nca+하/xpv+었/efp+다/ef+./s. 
+x 순희/nc+와/jj x 영희/nc+는/jx o 서로/a x 부딪치/pv+었/efp+다/ef+./s. 
+o 수/nc+는/jx o 우리/npp+말/nc+은/jx o 얼마나/a o 되/pv+ㅂ니까/ef+?/s. 
+o 술/nc+을/jc o 마시/pv+ㄴ다/ef+./s. 
+o 술/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 숲/nc o 속/nc+에는/jca x 꾀꼴이가/nc x 지저귄다/nc+./s. 
+x 스님께서/nc o "/s'+너/npp+도/jx o 어제/nct o 크/pa+ㄴ/exm x 절/nc o 구경/nc+을/jc o 하/pv+었/efp+느냐/ef+?/s.+"/s'+하/pv+고/ecx o 묻/pv+시/efp+ㄴ다/ef+./s. 
+o 슬프/pa+고/ecq+,/s, o 즐겁/pa+고/ecq+,/s, o 인생/nc+은/jx x 새옹지마/nc+./s. 
+o 슬프/pa+ㅁ/exn+을/jc o 이기/pv+지/ecx o 못하/px+어/ecs o 울음/nc+을/jc o 터뜨리/pv+었/efp+습니다/ef+./s. 
+o 승리/nc+는/jx x 군인에게/nc+로/jca o 돌/pv+아/ecx+가/px+았/efp+다/ef+./s. 
+o 승리/nc+는/jx o 청구/nc+는/jx o 편/nc+으로/jca o 돌/pv+아/ecx+가/px+았/efp+다/ef+./s. 
+o 승리/nc+는/jx o 하/pv+었/efp+다/ecx+말/px+는/exm o 썩/a o 좋/pa+ㄴ/exm o 성적/nc+은/jx o 아니/pa+다/ef+./s. 
+o 시/nc+가/jc o 이렇게/a o 아름답/pa+ㄴ/exm o 줄/nb+은/jx o 미처/a o 모르/pv+았/efp+다/ef+./s. 
+o 시간/nct+을/jc x 늦추/pv+었/efp+다/ef+./s. 
+o 시간/nct+이/jc o 늦/pv+었/efp+니/ecs o 어서/a o 떠나/pv+ㅂ시다/ef+./s. 
+o 시간/nct+이/jc o 다/a o 되/pv+었/efp+구나/ef+./s. 
+o 시간/nct+이/jc o 허락/nca+되/xpv+는/exm o 대/nc+로/jca o 그리/pv+어/ecx o 보/px+도록/ecs o 하/pv+겠/efp+다/ef+./s. 
+o 시간/nct o 여유/nc+가/jc o 있/pa+습니다/ef+./s. 
+o 시계/nc+가/jc o 죽/pv+는다/ef+./s. 
+o 시골/nc o 사람/nc 
+o 시냇물/nc+을/jc o 하/pv+ㄴ/exm x 모금/nc o 마시/pv+고/ecq+,/s, o 다시/a o 걸음/nc+을/jc o 재촉/nca+하/xpv+어/ecs o 드디어/a o 외/nc+가/nc+에/jca o 이르/pv+었/efp+다/ef+./s. 
+o 시/nc+를/jc o 짓/pv+었/efp+다/ef+./s. 
+o 시뻘겋/pa+ㄴ/exm o 해/nc+가/jc x 불쑥/a o 솟/pv+았/efp+다/ef+./s. 
+x 시청/nc o 앞/nc+까지/jx o 가/pv+ㅂ시다/ef+./s. 
+x 시험삼아/nc o 벌/pv+ㄴ/exm+번/nb o 하/pv+어/ecx o 보/px+아요/ef+./s. 
+x 시험삼아/nc o 한/mn+번/nbu o 하/pv+어/ecx o 보/px+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+x 시험삼아/nc o 한/mn+번/nbu o 하/pv+어/ecx o 보/px+아요/ef+./s. 
+x 시험삼아/nc o 한/mn+번/nbu o 하/pv+어/ecx o 보/px+아/ef+./s. 
+o 시험/nc+을/jc o 위/nc+해/nc+서보/nc+이/jcp+다/ef o 교양/nc+을/jc x 위해서/pv+다/ef+./s. 
+o 식사/nc+하/xpa+시/efp+어요/ef+?/s. 
+o 식사/nc o 안/a o 하/pv+시/efp+어요/ef+?/s. 
+o 신문/nc+,/s, o 잡지/nc+,/s, o 영화/nc+는/jx o 대/nc+중/nc o 전달/nc+의/jcm o 매/nc+체/nb+이/jcp+다/ef+./s. 
+x 신사답지/nc o 못하/px+군요/ef+./s. 
+o 신호/nc+는/jx o 살리/pv+ㅁ/exn+에/jca o 깨/pv+어/ecx+가/px+아/ecx o 쏟아지/pv+지요/ef+?/s. 
+o 신화/nc+는/jx x 영웅/nc+의/jcm o 일/nc+대기/nc+이/jcp+다/ef+./s. 
+o 실력/nc+이/jc o 오르/pv+ㄹ/exm o 때/nct+까지/jx o 노력/nca+하/xpv+어라/ef+./s. 
+o 실로/a+,/s, o 우리/npp+는/jx x 대망/nc+의/jcm o 시대/nc+에/jca o 살/pv+고/ecx o 있/px+다/ef+./s. 
+o 십/nn o 년/nbu+간/xn x 쌓아/nc o 오/pv+ㄴ/exm o 공/nc+적/xn+이/jc o 있/pa+다/ef+./s. 
+o 십/nn o 년/nbu o 동안/nb o 기다리/pv+ㄴ/exm x 보람이/nc o 있/pa+었/efp+다/ef+./s. 
+o 십/nn o 리/nb+를/jc o 가/pv+았/efp+다/ef+./s. 
+o 싸/pa+ㄴ/exm o 것/nb+도/jx o 좋/pa+습니다/ef+./s. 
+o 쌀/nc+을/jc o 서/pv+어/ecx o 말/nc o 팔/pv+아/ecx o 오/px+았/efp+다/ef+./s. 
+o 쌀/nc+을/jc o 주식/nc+으로/jca o 하/pv+는/exm o 민족/nc+도/jx o 상당히/a o 많/pa+다/ef+./s. 
+o 쌀/nc o 한/mn o 말/nc+에/jca o 얼마/nc+이/jcp+지요/ef+?/s. 
+o 쏘/pv+아/ecx o 놓/px+ㄴ/exm o 살/nbu+이/jcp+고/ecq x 엎질러/nc o 놓/pv+ㄴ/exm o 물/nc+이/jcp+다/ef+./s. 
+o 쓰러지/pv+ㄴ/exm o 사람/nc+을/jc o 일으키/pv+었/efp+다/ef+./s. 
+x 쓰레기/nc+를/jc o 땅/nc+에/jca o 묻/pv+었/efp+다/ef+./s. 
+x 쓰레기/nc+를/jc o 치우/pv+어/ecx o 버리/px+고/ecx o 오/px+았/efp+다/ef+./s. 
+x 씩/nc+씩/xn+하/xpa+ㄴ/exm o 젊은이/nc+가/jc o 되/pv+자/ef+./s. 
+x 아가야/i+,/s, x 맘마/a o 먹/pv+자/ef+./s. 
+x 아가야/i+,/s, o 밥/nc o 먹/pv+자/ef+./s. 
+x 아기가/nc o 과자/nc+를/jc o 먹/pv+겠/efp+다/ef+./s. 
+x 아기가/nc o 과자/nc+를/jc o 먹/pv+느냐/ef+?/s. 
+x 아기가/nc o 과자/nc+를/jc o 먹/pv+는구나/ef+!/s. 
+x 아기가/nc o 과자/nc+를/jc o 먹/pv+는다/ef+./s. 
+x 아기가/nc o 과자/nc+를/jc o 먹/pv+었/efp+다/ef+./s. 
+x 아기가/nc o 방/nc+실/nc+방/nc+실/xn o 웃/pv+는다/ef+./s. 
+x 아기/nc+가/jc o 울/pv+ㄴ다/ef+./s. 
+x 아기/nc+를/jc x 앉히/pv+었/efp+다/ef+./s. 
+x 아기야/i+,/s, o 과자/nc+를/jc o 먹/pv+어라/ef+./s. 
+x 아기야/i+,/s, o 과자/nc+를/jc o 먹/pv+자/ef+./s. 
+o 아까/nct o 어떤/md o 분/nb+이/jc o 찾/pv+아/ecx+오/px+셨더/efp+군요/ef+./s. 
+o 아까/nct o 어떤/md o 분/nb+이/jc o 찾/pv+아/ecx+오/px+셨더/efp+군/ef+./s. 
+o 알/pv+는/exm o 체/nb+를/jc o 하/pv+ㄴ다/ef+./s. 
+o 알/pv+는/exm o 체하/pa+ㄴ다/ef+./s. 
+o 아니야/i+,/s, o 내/nc+가/jc o 가지/pv+어/ecx+가/px+지/ecx o 않/px+았/efp+어/ef+./s. 
+o 아니/pa+오/ef+,/s, o 꼭/a o 실/nc+물/nc o 같/pa+아요/ef+./s. 
+o 아니/pa+오/ef+,/s, o 살/pv+ㄴ/exm+호/nb o 같/pa+지/ecx o 않/px+ㄴ데요/ef+./s. 
+o 아니/pa+오/ef+,/s, o 실/nc+물/nc o 같/pa+지/ecx o 않/px+ㄴ데요/ef+./s. 
+o 아니/pa+오/ef+,/s, o 아직/a o 가/pv+지/ecx o 않/px+았/efp+습니다/ef+./s. 
+o 아니/pa+오/ef+,/s, o 오/pv+지/ecx o 않/px+았/efp+어요/ef+./s. 
+o 아니/pa+오/ef+,/s, o 오/pv+았/efp+어요/ef+./s. 
+o 아니/a o 가/pv+고/ecq o 어이/nc o 하/pv+리/ef+./s. 
+o 아니/i+,/s, o 그것/npd+이/jc o 더/a o 좋/pa+아/ef+./s. 
+o 아들/nc+이/jc o 의사/nc+이/jcp+ㄴ/exm o 그분/npp+이/jc o 돌아오/pv+았/efp+다/ef+./s. 
+o 아름답/pa+ㄴ/exm o 그녀/npp+도/jx o 결국/nc+은/jx o 세상/nc+을/jc o 떠나/pv+고/ecx o 말/px+았/efp+다/ef+./s. 
+o 아름답/pa+ㄴ/exm o 꽃/nc+이/jc o 많이/a o 피/pv+었/efp+다/ef+./s. 
+o 아름답/pa+ㄴ/exm o 꽃/nc+이/jcp+ㄴ데/ecs o 향기/nc+가/jc o 없/pa+다/ef+./s. 
+o 아름답/pa+ㄴ/exm o 옷/nc+이/jcp+다/ef+./s. 
+o 아름답/pa+게/xa o 피/pv+었/efp+다/ef+./s. 
+o 아름답/pa+게/xa o 피/pv+ㄴ/exm x 진달래가/nc o 너무나/a o 화사/ncs+하/xpa+다/ef+./s. 
+o 아무/npd+도/jx o 그/npp+를/jc x 얕보/pv+지/ecx o 않/px+았/efp+습니다/ef+./s. 
+o 아무/npd+라도/jx o 가/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 아무/npd+라도/jx o 응시/nca+하/xpv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 아무리/a o 보/pv+아도/ecs o 누구/npp+이/jcp+ㄴ지/ecs o 모르/pv+았/efp+다/ef+./s. 
+o 아무리/a o 보/pv+아도/ecs o 마음/nc+에/jca o 들/pv+지/ecx+가/px+아/ecx o 않/px+는군요/ef+./s. 
+o 아무리/ajs o 애/nc+를/jc o 쓰/pv+어도/ecs x 복받쳐/nc o 오르/pv+는/exm o 슬프/pa+ㅁ/exn+이/jc o 가라앉/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 아무/md o 대/nc+안/nc o 없/pa+이/xa o 반대/nc+는/jx o 하/pv+지/ecx o 말/px+라/ef+./s. 
+o 아무/md o 책/nc+이나/jx o 사/pv+겠/efp+습니다/ef+./s. 
+x 아버님께서/nc+는/jx o 너/npp+를/jc o 사랑/nca+하/xpv+셨/efp+다/ef+./s. 
+x 아버님/nc o 말씀/nc+이/jcp+다/ef+./s. 
+o 아버지/nc+가/jc o 오늘/nct o 5/nnn+시/nbu o 비행기/nc+로/jca o 오/pv+시/efp+ㄴ다는/exm o 연락/nc+을/jc o 받/pv+았/efp+다/ef+./s. 
+o 아버지/nc+가/jc o 할아버지/nc+께/jca x 뭔/nc+가/jc o 드리/pv+었/efp+습니다/ef+./s. 
+o 아버지/nc+가/jc o 할아버지/nc+께/jca x 뭔/nc+가/jc o 드리/pv+었/efp+ㅂ니다/ef+./s. 
+o 아버지/nc+께서는/jc x 조끼/nc+를/jc o 입/pv+셨/efp+다/ef+./s. 
+o 아버지/nc+께서는/jc x 조끼르/pv+ㄹ/exm x 입으시었다/nc+./s. 
+o 아버지/nc+께서/jc o 마당/nc+을/jc o 넓히/pv+시/efp+ㄴ다/ef+./s. 
+o 아버지/nc+께서/jc o 사과/nc+를/jc x 잡수신/pv+다/ef+./s. 
+o 아버지/nc+께서/jc o 오/pv+셨/efp+다/ef+./s. 
+o 아버지/nc+께서/jc x 오시었다/nc+./s. 
+o 아버지/nc+는/jx o 수염/nc+이/jc o 없/pa+시/efp+ㅂ니다/ef+./s. 
+o 아버지/nc o 오/pv+셨/efp+다/ef+./s. 
+o 아버지/nc+,/s, o 둘째/nn o 형/npp+이/jc o 오늘/nct o 서울/nq+에/jca o 도착/nc+한/nc+대/xn+이/jcp+오/ef+./s. 
+x 아범은/nc o 아직/a o 잠/nc+을/jc o 자/pv+고/ecx o 있/px+느냐/ef+?/s. 
+o 아빠/nc+도/jx o 같이/a o 가/pv+시/efp+ㄴ다/ef+,/s, o 걱정/nc o 이/jcp+마/ef+./s. 
+x 아뿔사/i+,/s, x 깜박/a o 잊/pv+었/efp+구나/ef+!/s. 
+o 아아/i+,/s, o 배/nc+가/jc x 고프/nc+이/jcp+다/ef+./s. 
+o 아이/nc+가/jc x 낮잠/nc+을/jc o 자/pv+ㄴ다/ef+./s. 
+o 아이/nc+가/jc o 사과/nc+를/jc o 먹/pv+는다/ef+./s. 
+o 아이/nc+가/jc x 엎치락뒤치락/a o 하/pv+ㄴ다/ef+./s. 
+o 아이/nc+가/jc x 윷/nc+을/jc o 놀/pv+ㄴ다/ef+./s. 
+o 아이/nc+가/jc o 잘/a o 자/pv+ㄴ다/ef+./s. 
+o 아이고/i+,/s, o 춥/pa+어라/ef+!/s. 
+o 아이고/i+,/s, o 춥/pa+어/ef+!/s. 
+o 아이/nc+들/xn+에게/jca o 나비/nc+를/jc o 잡/pv+게/ecx o 하/px+어라/ef+./s. 
+o 아이/nc+들/xn+에게/jca o 눈/nc+을/jc o 감/pv+기/exn+이/jcp+고/ecq o 실/nc+을/jc o 감/pv+게/ecx o 하/px+었/efp+더니/ecs o 그/npp o 실/xn+이/jc o 잘/a o 감/pv+기/exn+이/jcp+지/ef o 않/px+는다/ef+./s. 
+o 아이/nc+들/xn+이/jc o 강/nc+에서/jca o 수영/nc+을/jc o 하/pv+ㄴ다/ef+./s. 
+o 아이/nc+들/xn+이/jc o 얼/pv+ㅁ/exn+을/jc o 녹이/pv+ㄴ다/ef+./s. 
+o 아이/nc+들/xn+이/jc x 윷/nc+을/jc o 놀/pv+ㄴ다/ef+./s. 
+o 아이/nc+들/xn+이/jc o 즐겁/pa+게/xa o 놀/pv+ㄴ다/ef+./s. 
+o 아이/nc o 참/i+,/s, o 나쁘/pa+ㄴ/exm o 어른/nc+일/nbu+세/nn+./s. 
+o 아저씨/nc+는/jx o 아주/a o 셈/nc+이/jc o 바르/pa+ㄴ/exm o 사람/nc+이/jcp+다/ef+./s. 
+o 아저씨/nc+,/s, o 내일/nct o 또/a o 뵙/pv+겠/efp+ㅂ니다/ef+./s. 
+o 아주/a o 새/m o 차/nc+가/jc o 한/mn o 대/nbu o 서/jca o 있/pa+다/ef+./s. 
+o 아주/a o 속/nc+이/jc x 단단/nca+하/xpv+ㄴ/exm o 사람/nc+이/jcp+ㄴ가/ef o 보/px+ㅂ니다/ef+./s. 
+o 아주/a o 허/a+는/jx o 물건/nc+을/jc o 내/pv+어/ecx+놓/px+고/ecx o 팔/pv+고/ecx o 있/px+었/efp+다/ef+./s. 
+o 아주/a o 훌륭하/pa+ㄴ/exm x 예술은/nc o 침묵/nc+의/jcm o 깊이/a+에서/jca o 드러나/pv+는/exm o 지/px+ㄴ/exm+리/nb+가/jc o 담기/pv+어/ecx o 있/px+어야/ecs o 하/pv+ㄴ다/ef+./s. 
+o 아직/a+도/jx o 꽃/nc+이/jc o 피/pv+어/ecx o 있/px+지/ecx o 않/px+다/ef+./s. 
+o 아직/a+도/jx o 꽃/nc+이/jc o 피/pv+지/ecx o 않/px+는다/ef+./s. 
+o 아직은/a o 가/pv+ㄹ/exm o 수/nb o 없/pa+습니다/ef+./s. 
+o 아직은/a o 대답/nca+하/xpv+ㄹ/exm o 수/nb o 없/pa+습니다/ef+./s. 
+o 아직/a o 밥/nc+을/jc o 반/mn o 그릇/nc+밖에/jx o 먹/pv+지/ecx o 못하/px+었/efp+소/ef+./s. 
+o 아차/i+,/s, o 내/nc+가/jc o 책/nc+을/jc o 차/nc+에/jca o 두/pv+고/ecx o 내리/pv+었/efp+구나/ef+./s. 
+o 아침/nct+을/jc o 먹/pv+는/exm o 듯/nb o 말/px+는/exm o 듯/nb o 하/pv+었/efp+다/ef+./s. 
+o 아침/nct+이/jcp+면/ecs o 산/nc+새/nc+가/jc x 정답/pa+게/xa x 우짖곤/nc o 하/pv+ㅂ니다/ef+./s. 
+o 아침/nct o 이슬/nc+을/jc x 머금은/nc o 꽃잎/nc+들/xn+이/jc x 방긋/a o 웃/pv+며/ecq o 속삭이/pv+네/ef+./s. 
+o 아침/nct o 이슬/nc+이/jc o 가만히/a o 속삭이/pv+ㅂ니다/ef+./s. 
+o 아프/pa+아서/ecs o 수/nbu+업/pv+ㄹ/exm o 쉬/pv+었/efp+다/ef+./s. 
+x 아하/i+,/s, o 내/m o 사랑/nc+,/s, o 내/m o 희망/nc+아/jcv+,/s, o 세상/nc+에/jca o 이렇/pad+ㄹ/exm o 법/nc+이/jc o ....../sy o ./s. 
+o 아/i+,/s, o 아름답/pa+ㄴ/exm o 인생/nc+이/jcp+어라/ef+./s. 
+o 안개/nc+가/jc o 잣/nc+나무/nc+에서/jca o 피/pv+어/ecx o 오르/pv+ㄴ다/ef+./s. 
+o 안녕히/a x 가시옵소/nc+서/jca+./s. 
+o 안녕히/a o 계세요/i+./s. 
+o 안녕히/a o 계시/pv+ㅂ시오/ef+./s. 
+o 안/a o 가/pv+겠/efp+다/ef+./s. 
+o 안/a o 춥/pa+니/ef+?/s. 
+o 알/pv+고는/ecx o 있/px+다/ecx+말/px+는/exm o 더/a o 이상/nc o 말/nca+하/xpv+고/ecx o 싶/px+지/ecx o 않/px+다/ef+./s. 
+o 알/pv+고/ecq x 했겠읍니까마/nc+는/jx+,/s, o 어쨌든/a o 잘못되/pv+었/efp+습니다/ef+./s. 
+o 알/pv+기/exn+는/jx o 안/pv+다/ecx+말/px+는/exm o 말/nca+하/xpv+ㄹ/exm o 수/nb o 없/pa+다/ef+./s. 
+o 알맞/pa+ㄴ/exm x 답/nc+의/jcm o 기/nc+호/nb+를/jc o 고르/pv+라/ef+./s. 
+o 앞/nc+발/nc+이/jc o 짧/pa+ㄴ/exm x 토끼가/nc x 뜀질/nc+을/jc o 잘/a o 하/pv+는/exm x 까닭/nc+을/jc o 알/pv+겠/efp+지/ef+?/s. 
+x 앞서거니/nc x 뒤서거니/nc o 서로/a o 다투/pv+었/efp+다/ef+./s. 
+o 앞/nc+으로/jca o 어찌/a+하/pv+ㄹ/exm o 것/nb+이/jcp+ㄴ가/ef+가/jc o 걱정/nc+이/jcp+다/ef+./s. 
+o 앞/nc+으로/jca o 읽/pv+어야/ecs o 하/pv+ㄹ/exm o 책/nc+이/jc o 무엇/npd+이/jcp+ㄴ지/ecs o 생각/nca+하/xpv+어/ecx o 보/px+았/efp+다/ef+./s. 
+o 앞/nc+으로/jca o 읽/pv+ㄹ/exm o 책/nc+이/jc o 몇/mn x 권/nc+이나/jx o 되/pv+느냐/ef+?/s. 
+o 애/nc+이/jcp+고/ecq+,/s, o 이것/npd+이/jc o 웬/m o 말/nc+이/jcp+냐/ef+,/s, o 응/i+?/s. 
+x 액체/nc+는/jx o 물/nc+만이/jc o 아니/pa+다/ef+./s. 
+x 야구/nc+는/jx o 꼬마/nc+들/xn+도/jx o 좋/pa+아/ecx+하/px+ㄴ다/ef+./s. 
+o 약/nc+이/jcp+라면/ecs o 그것/npd+이라도/jx o 가지/pv+어/ecx o 가/px+아야지/ef+./s. 
+x 양귀비꽃/nc+보다/jca o 더/a o 붉/pa+ㄴ/exm o 그/md o 마음/nc o 흐르/pv+어라/ef+./s. 
+o 얘/npp+,/s, o 너/npp+,/s, o 이름/nc+이/jc o 무엇/npd+이/jcp+니/ef+?/s. 
+o 어느/md o 분/nb+이/jc o 오/pv+아/ecx o 계시/px+ㅂ니까/ef+?/s. 
+o 어느/md o 쪽/nc+을/jc o 보/pv+더라도/ecs o 마찬가지/nc+이/jcp+다/ef+./s. 
+o 어디/npd+가/jc o 더/a o 좋/pa+아요/ef+?/s. 
+o 어디/npd+가/jc o 더/a o 좋/pa+아/ef+?/s. 
+o 어디/npd+로/jca o 가/pv+겠/efp+느냐/ef+?/s. 
+o 어디/npd+로/jca o 가/pv+시겠/efp+ㅂ니까/ef+?/s. 
+o 어디/npd+로/jca o 가/pv+시/efp+ㅂ니까/ef+?/s. 
+o 어디/npd+에/jca o 가/pv+아도/ecs o 인/nc+산/nc+인/nc+해/nc+이/jcp+었/efp+다/ef+./s. 
+o 어디/npd+에/jca o 가/pv+시/efp+ㅂ니까/ef+?/s. 
+o 어디/ad o 가/pv+니/ecs+?/s. 
+o 어디/ad o 가/pv+시/efp+어요/ef+?/s. 
+o 어디/npd o 가지/nbu o 말고/jx o 나/npp+와/jj o 같이/a o 있/pa+자/ef+./s. 
+x 어딜/nc o 가/pv+려고/ecx+?/s. 
+o 어떤/md o 사람/nc+이/jc o 이/md o 근처/nc+에서/jca o 아이/nc+를/jc o 보/pv+았/efp+느냐고/ecs o 나/npp+에게/jca o 묻/pv+었/efp+다/ef+./s. 
+o 어떤/md o 청년/nc+이/jc o `/s`+이/md o 근처/nc+에/jca o 혹시/a x 절/pa+이/xa o 있/pa+습니까/ef+?/s.+'/s'+라고/ecs o 묻/pv+었/efp+다/ef+./s. 
+o 어떻게/a o 살/pv+느냐/ef+가/jc o 당면/nc o 문제/nc+이/jcp+다/ef+./s. 
+o 어렵/pa+ㄴ/exm o 문제/nc+가/jc o 창/nc+수/nc+에/jca o 의하/pv+어/ecx o 풀리/pv+었/efp+다/ef+./s. 
+o 어렵/pa+ㄹ/exm o 때/nct x 형님/nc+을/jc o 돕/pv+아/ecx o 드리/px+었/efp+다/ef+./s. 
+o 어른/nc+을/jc o 공/nc+경/nc+하고/jj o 어린이/nc+를/jc o 돌보/pv+는/exm o 미/nc+덕/nc+이/jc o 오래/pa+도록/ecs o 지키/pv+어/ecx+지/px+어야/ecs o 하/pv+ㄴ다/ef+./s. 
+x 어린아이가/nc o 과자/nc+를/jc o 먹/pv+겠/efp+다/ef+./s. 
+x 어린아이가/nc o 과자/nc+를/jc o 먹/pv+는다/ef+./s. 
+x 어린아이가/nc o 과자/nc+를/jc o 먹/pv+었/efp+다/ef+./s. 
+x 어린아이가/nc o 그렇/pad+ㄴ/exm o 일/nc+을/jc o 하/pv+기/exn+가/jc o 쉽/pa+지/ecx o 않/px+다/ef+./s. 
+x 어린아이가/nc o 책/nc+을/jc o 잘/a+도/jx o 읽/pv+는구나/ef+!/s. 
+o 어린이/nc+가/jc o 잠/nc+을/jc o 자/pv+ㄴ다/ef+./s. 
+o 어머나/i+!/s. 
+o 어머나/i+,/s, o 네/npp+가/jc o 아주/a o 새/m o 사람/nc+이/jc o 되/pv+었/efp+구나/ef+!/s. 
+o 어머나/i+,/s, o 시장/nc+에/jca o 벌이/pv+어/ecx o 놓/px+ㄴ/exm o 걸/pv+ㄹ/exm x 모조리/nc+?/s. 
+o 어머니/nc+가/jc o 동생/npp+과/jj o 함께/a o 가/pv+셨/efp+습니다/ef+./s. 
+o 어머니/nc+가/jc o 동생/npp+에게/jca o 색/nc+동/nc+옷/nc+을/jc o 입/pv+게/ecx o 하/px+셨/efp+다/ef+./s. 
+o 어머니/nc+가/jc o 동생/npp+에게/jca o 색/nc+동/nc+옷/nc+을/jc x 입히/pv+셨/efp+다/ef+./s. 
+o 어머니/nc+가/jc o 아이/nc+에게/jca o 밥/nc+을/jc o 먹이/nc+이/jcp+시/efp+ㄴ다/ef+./s. 
+o 어머니/nc+가/jc o 아이/nc+에게/jca o 옷/nc+을/jc o 빨리/a o 입/pv+게/ecx o 하/px+었/efp+다/ef+./s. 
+o 어머니/nc+가/jc o 아이/nc+에게/jca o 옷/nc+을/jc o 빨리/a x 입히/pv+었/efp+다/ef+./s. 
+o 어머니/nc+가/jc o 아이/nc+에게/jca o 옷/nc+을/jc o 입/pv+게/ecx o 하/pv+어/ecx o 보/px+았/efp+다/ef+./s. 
+o 어머니/nc+가/jc o 아이/nc+에게/jca o 옷/nc+을/jc o 입/pv+어/ecx o 보/px+게/ecx o 하/px+었/efp+다/ef+./s. 
+o 어머니/nc+가/jc o 아이/nc+에게/jca o 옷/nc+을/jc x 입히/pv+어/ecx o 보/px+았/efp+다/ef+./s. 
+o 어머니/nc+가/jc o 철수/nc+에게/jca o 동생/nc+한테/jca o 옷/nc+을/jc x 입히/pv+게/ecx o 하/px+었/efp+다/ef+./s. 
+o 어머니/nc+께서는/jc o 설날/nct+이/jc o 가깝/pa+어/ecx o 오/px+면/ecs x 으례/nc o 새/m o 옷/nc+을/jc o 짓/pv+시/efp+곤/ecx o 하/px+셨/efp+다/ef+./s. 
+o 어머니/nc+께서/jc o 나/npp+에게/jca o 용/nc+돈/nc+을/jc o 천/nn o 원/nbu+을/jc o 주/pv+셨/efp+어요/ef+./s. 
+o 어머니/nc+께서/jc o 나/npp+에게/jca o 용/nc+돈/nc o 천/nn o 원/nbu+을/jc o 주/pv+셨/efp+어요/ef+./s. 
+o 어머니/nc+께서/jc o 동생/npp+에게/jca o 약/pa+ㄹ/exm o 먹이/nc+이/jcp+셨/efp+다/ef+./s. 
+o 어머니/nc+께서/jc o 아이/nc+에게/jca o 옷/nc+을/jc o 입/pv+게/xa x 하시었다/nc+./s. 
+o 어머니/nc+께서/jc o 아이/nc+에게/jca o 옷/nc+을/jc x 입히시었다/nc+./s. 
+o 어머니/nc+께서/jc o "/s'+철수/nc+이/jcp+야/ef+!/s.+"/s'+하/pv+고/ecx o 부르/pv+시/efp+ㄴ다/ef+./s. 
+o 어머니/nc+께/jca x 여쭈/pv+어/ecx o 보/pv+고/ecx o 나/px+아서/ecs o 대답/nca+하/xpv+겠/efp+습니다/ef+./s. 
+o 어머니/nc+는/jx o 그/md x 솥/nc+에서/jca o 그/md o 많/pa+ㄴ/exm o 감/pv+자/ef+를/jc o 삶/nc+아/jcv o 내/px+셨/efp+다/ef+./s. 
+o 어머니/nc+는/jx o 부엌/nc+에서/jca o 밥/nc+을/jc o 짓/pv+시/efp+고/ecq o 계시/pv+ㄴ다/ef+./s. 
+o 어머니/nc+는/jx o 새벽/nct+에/jca o 늘/pv+ㄹ/exm o 기/nc+도/nbu+를/jc o 하/pv+셨/efp+다/ef+./s. 
+o 어머니/nc+는/jx o 지나/pv+ㄴ/exm o 겨울/nct+에/jca o 입/pv+더/efp+ㄴ/exm o 옷/nc+을/jc o 꺼내/pv+어/ecx o 손질/nca+하/xpv+셨/efp+다/ef+./s. 
+o 어머니/nc+의/jcm o 사진/nc+을/jc o 가지/pv+어다/ecx o 달/px+오/ef+./s. 
+o 어머니/nc+,/s, o 선생님/nc+께서/jc o 오/pv+시/efp+ㅂ니다/ef+./s. 
+o 어머니/nc+는/jx o 저/npp+는/jx o 조금도/a o 귀엽/pa+어/ecx+하/px+지/ecx o 않/px+시/efp+면서/ecs+....../sy o ./s. 
+x 어머님은/nc o 방안/nc+에/jca o 계시/pv+ㄴ다/ef+./s. 
+x 어머님은/nc o 여기/npd+에/jca o 안/a o 계시/pv+ㄴ다/ef+./s. 
+x 어머님/nc+,/s, o 나/npp+는/jx o 별/nc o 하나/nn+에/jca o 아름답/pa+ㄴ/exm o 말/nc o 한/mn o 마디/nc+씩/xn o 부르/pv+어/ecx o 보/px+ㅂ니다/ef+./s. 
+x 어버이가/nc o 자식/nc o 생각/nca+하/xpv+는/exm o 마음/nc 
+x 어버이/nc+의/jcm o 자식/nc o 생각/nca+하/xpv+는/exm o 마음/nc 
+o 어서/a+들/pv+ㄹ/exm o 오/px+어라/ef+./s. 
+o 어서/a o 가/pv+어라/ef+./s. 
+o 어서/a o 가/pv+게/ef+./s. 
+o 어서/a o 가/pv+아서/ecs o 반/nc o 친구/nc+들/xn+에게/jca o 이/md o 소식/nc+을/jc o 전하/pv+어야지/ef+./s. 
+o 어서/a o 가/pv+시/efp+어요/ef+./s. 
+o 어서/a o 가/nc+세/nc+./s. 
+o 어서/a o 가/pv+시/efp+ㅂ시오/ef+./s. 
+o 어서/a o 가/pv+아요/ef+./s. 
+o 어서/a o 가/pv+자/ef+./s. 
+o 어서/a o 가/pv+ㅂ시다/ef+./s. 
+o 어서/a o 나오/pv+아서/ecs o 가방/nc o 받/pv+아라/ef+./s. 
+o 어서/a o 먹/pv+어라/ef+./s. 
+o 어서/a o 문/nc o 열/pv+어라/ef+./s. 
+o 어서/a o 여기/npd+를/jc o 뜨/pv+ㅂ시다/ef+./s. 
+o 어서/a o 오/pv+오/ef+./s. 
+o 어제/nct+는/jx o 감/pv+기/exn+로/jca x 결석/nca+하/xpv+었/efp+습니다/ef+./s. 
+o 어제/nct+는/jx o 고기/nc+를/jc o 잡/pv+았었/efp+다/ef+./s. 
+o 어제/nct+는/jx o 너무/a o 아프/pa+아서/ecs o 학교/nc+에/jca o 못/a o 가/pv+았/efp+어요/ef+./s. 
+o 어제/nct+는/jx o 도서/nc+관/nc+에서/jca o 공부/nca+하/xpv+었었/efp+다/ef+./s. 
+o 어제/nct+는/jx o 머리/nc+가/jc o 아프/pa+아서/ecs x 결석/nca+하/xpv+었/efp+습니다/ef+./s. 
+o 어제/nct+는/jx o 어디/npd+에/jca o 가/pv+았/efp+다/ef o 오/px+았/efp+느냐/ef+?/s. 
+o 어제/nct+는/jx x 작은형/nc+과/jj o 함께/a o 박물관/nc+에/jca o 가/pv+았/efp+다/ef+./s. 
+o 어제/nct+는/jx o 종/nbu+이/jcp+ㄹ/exm o 집/nc+에/jca o 있/pa+었/efp+다/ef+./s. 
+o 어제/nct+는/jx o 학교/nc+에/jca o 안/a o 가/pv+았/efp+다/ef+./s. 
+o 어제/nct+도/jx o 누구/npp+가/jc o 가/pv+았/efp+어/ef+?/s. 
+o 어제/nct+도/jx o 애/nc+들/xn+이/jc o 가/pv+았/efp+어/ef+./s. 
+o 어제/nct+이/jcp+오/ecq+,/s, o 제가/nc+이/jcp+오/ecq+,/s, x 이것을요/nc+,/s, o 선생님/nc+께/jca o 드리/pv+려고요/ef+,/s, o 오/pv+았었/efp+어요/ef+./s. 
+o 어제/nct o 가/jc o 보/pv+ㄴ/exm o 곳/nc+은/jx o 정말/nc x 절경/nc+이/jcp+었/efp+다/ef+./s. 
+o 어제/nct o 내/nc+가/jc o 책/nc+을/jc o 살/pv+ㄴ/exm x 서점/nc+은/jx o 저/md o 쪽/nc+에/jca o 있/pa+다/ef+./s. 
+o 어제/nct o 눈/nc+이/jc o 오/pv+았/efp+다/ef+./s. 
+o 어제/nct x 순이가/nc x 왔/nc+대/xn+./s. 
+o 어제/nct o 책/nc+을/jc o 읽/pv+는/exm o 그/npp+를/jc o 보/pv+았/efp+다/ef+./s. 
+o 어제/nct o 철수/nc+가/jc x 순이/nc+를/jc o 만나/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 어제/nct x 퇴원했답니/nc+이/jcp+다/ef+./s. 
+o 어제/nct o 하/pv+다/ef o 만/nn o 일/nbu+을/jc o 오늘/nct o 계속/nca+하/xpv+어서/ecs o 하/pv+었/efp+다/ef+./s. 
+o 어제/nct o 회의/nc o 때/nct+,/s, o 우리/npp+가/jc o 방학/nc o 동안/nb+에/jca x 자작시/nc x 낭독회/nc+를/jc o 하/pv+자는/exm o 제/md+안/nc+이/jc o 있/pa+었/efp+다/ef+./s. 
+o 어젯밤/nct+에는/jca o 눈/nc+이/jc o 많이/a o 내리/pv+었/efp+다/ef+./s. 
+o 어쩌면/a o 네/mn o 생각/nc+이/jc o 나/npp+하고/jj o 같/pa+ㄹ까/ef+?/s. 
+o 어찌/a o 그만/a o 떠나/pv+았/efp+ㄹ까/ef+?/s. 
+x 어허/i+,/s, o 그/md o 일/nc o 잘/a o 되/pv+었/efp+다/ef+./s. 
+x 어허/i+,/s, o 세월/nct+은/jx o 유/nn+수/nbu+와/jj x 같다더니/nc+./s. 
+o 언어/nc+에/jca o 있/pa+어서/ecs o 소리/nc+와/jj o 의미/nc+의/jcm o 관계/nc+는/jx x 필연성이/nc o 없/pa+고/ecq o 그/md o 사회/nc+적/xn o 약속/nc+에/jca o 의하/pv+어/ecx o 임의/nc+적/xn+으로/jca o 이루/pv+어/ecx+지/px+ㄴ다/ef+./s. 
+o 언어/nc o 및/ajw o 문/nq+자/xn+는/jx o 사람/nc+만이/jc o 가지/pv+고/ecx o 있/px+다/ef+./s. 
+o 언제나/a o 굽히/pv+지/ecx o 말/px+고/ecq x 꿋꿋/ncs+하/xpa+게/xa o 살/pv+아라/ef+./s. 
+o 언제/ad o 가/pv+느냐/ef+가/jc o 궁금/nca+하/xpv+다/ef+./s. 
+o 얼굴/nc+에/jca x 먹칠/nc+을/jc o 하/pv+ㄴ다/ef+./s. 
+o 얼굴/nc+이/jc o 길/pa+다/ef+./s. 
+o 얼굴/nc+이/jc o 늙/pv+었/efp+다/ef+./s. 
+o 얼굴/nc+이/jc x 둥글/pv+다/ef+./s. 
+o 얼굴/nc+이/jc o 뜨겁/pa+다/ef+./s. 
+o 얼굴/nc+이/jc o 밝/pa+다/ef+./s. 
+o 얼굴/nc+이/jc o 붉/pa+다/ef+./s. 
+o 얼굴/nc+이/jc o 크/pa+다/ef+./s. 
+o 얼마/nc o 전/nct+까지도/jx x 농부/nc+들/xn+에게/jca o 겨울/nct+은/jx o 놀/pv+는/exm x 계절/nc+이/jcp+었/efp+다/ef+./s. 
+o 얼/nc+씨/xn+이/jcp+구/ecs o 좋/pa+다/ef+!/s. 
+o 얼/pv+ㅁ/exn+을/jc o 녹이/pv+었/efp+다/ef+./s. 
+o 얼/pv+ㅁ/exn+이/jc o 녹/pv+는다/ef+./s. 
+o 얼/pv+ㅁ/exn+이/jc o 물/nc+이/jc o 되/pv+었/efp+다/ef+./s. 
+x 엊그제/nc o 철수/nc+는/jx o 극장/nc+에/jca o 가/pv+았었/efp+다/ef+./s. 
+x 에그/i+,/s, o 무섭/pa+어/ef+!/s. 
+o 여기/npd+가/jc o 바로/a o 당신네/npp o 조국/nc+이/jcp+다/ef+./s. 
+o 여기/npd+가/jc o 바로/a x 무릉도원이/nc+이/jcp+구나/ef+!/s. 
+o 여기/npd+가/jc o 어디/npd+이/jcp+냐/ef+?/s. 
+o 여기/npd+가/jc o 창/nc+경/nc+원/nbu+이/jcp+다/ef+./s. 
+o 여기/npd+는/jx o 자유/nc+의/jcm o 땅/nc+./s. 
+o 여기/npd+들/xn x 잠자코/nc o 앉/pv+아/ecx o 있/px+어라/ef+./s. 
+x 여기서부터가/nc o 서울/nq+이/jcp+ㅂ니다/ef+./s. 
+o 여기/npd+에/jca o 같이/a o 있/pa+자/ef+./s. 
+o 여기/npd+에/jca o 붙이/pv+ㄴ/exm o 그림/nc+을/jc o 누구/npp+가/jc o 떼/pv+었/efp+나/ef+?/s. 
+o 여기/npd+에/jca o 앉/pv+아/ecx o 기다리/pv+어라/ef+./s. 
+o 여기/npd+에/jca o 있/pa+어라/ef+./s. 
+o 여기/npd+에/jca o 좀/a o 계시/pv+겠/efp+어요/ef+?/s. 
+o 여기/npd+에/jca o 좀/a o 계시/pv+ㅂ시오/ef+./s. 
+o 여기/npd+에/jca o 좀/a x 있습시/nc+이/jcp+다/ef+./s. 
+o 여기/ad o 앉/pv+아라/ef+./s. 
+o 여기/ad o 앉/pv+았더/efp+ㄴ/exm o 사람/nc+은/jx o 누구/npp+이/jcp+냐/ef+?/s. 
+o 여기/ad o 얹/pv+어/ecx o 놓/px+시/efp+어요/ef+./s. 
+o 여기/ad o 얹/pv+어/ecx o 두/px+시/efp+어요/ef+./s. 
+o 여러/mn+분/nbu+들/xn+은/jx o 너무/a x 그러지/nc+들/xn o 마시/pv+오/ef+./s. 
+x 여름에/nc+는/jx o 얼/pv+ㅁ/exn+이/jc o 많이/a o 팔리/pv+ㄴ다/ef+./s. 
+x 여보/nc+이/jcp+게/ef+!/s. 
+x 여보/nc+이/jcp+게/ef+,/s, o 방/nc+에/jca o 들어오/pv+게/ef+./s. 
+x 여성/nc o 자매/npp o 두/mn o 분/nbu+이/jc o 오/pv+았/efp+어요/ef+./s. 
+x 역전/nc o 앞/nc+에서/jca o 만나/pv+자/ef+./s. 
+o 연기/nc+는/jx o 몸/nc+에/jca o 배/pv+어서/ecs x 옷자락/nc+과/jj o 손등/nc+에서도/jca o 냄새/nc+가/jc o 나/pv+ㄴ다/ef+./s. 
+o 연필/nc+이나/jx x 펜을/nc o 이/jcp+다오/ef+./s. 
+o 연필/nc o 또는/ajw o 공/nc+책/nc+을/jc o 사/pv+아야/ecx o 하/px+었/efp+다/ef+./s. 
+o 연필/nc o 또는/ajw x 펜을/nc o 이/jcp+다오/ef+./s. 
+o 열/nn+매/nc+는/jx o 가을/nct+에/jca o 맺/pv+는다/ef+./s. 
+o 열심히/a o 공부/nca+하/xpv+마/ef+./s. 
+o 열심히/a o 공부/nca+하/xpv+자/ef+./s. 
+o 열심히/a o 공부/nca+하/xpv+ㄴ/exm x 보람으/nc+로/jca o 시험/nc+에/jca o 합격/nca+하/xpv+었/efp+다/ef+./s. 
+o 열심히/a o 공부/nca+하/xpv+ㅁ/exn+은/jx o 학생/nc+의/jcm o 의무/nc+이/jcp+다/ef+./s. 
+o 열심히/a o 공부/nca+하/xpv+어라/ef+./s. 
+o 열심히/a o 나/npp+는/jx o 일/nca+하/xpv+ㄴ다/ef+./s. 
+o 열심히/a o 뛰/pv+고/ecx o 나서/pv+어/ecx o 쉬/pv+었/efp+다/ef+./s. 
+o 열심히/a o 읽/pv+지/ecx+말/px+는/exm o 뜻/nc+은/jx o 모르/pv+겠/efp+다/ef+./s. 
+o 열/nn o 사람/nc+이/jc o 백/nn o 말/nc+을/jc o 하/pv+ㄴ다/ef+./s. 
+o 열/nn o 시/nbu+만/jx o 되/pv+면/ecs o 자기/npp+로/jca o 하/pv+었/efp+다/ef+./s. 
+x 영국/nc+의/jcm o 서울/nq+은/jx o 런던/nq+이/jcp+다/ef+./s. 
+x 영미/nc+네/xn+는/jx o 우리/npp o 마을/nc+에서/jca o 가장/a o 부자/nc+이/jcp+다/ef+./s. 
+o 영/a+밀/pv+는/exm o 걸음/nc+이/jc o 빠르/pa+다/ef+./s. 
+x 영미야/i+,/s, o 이리/ad o 좀/a o 오/pv+어라/ef+./s. 
+x 영수가/nc x 꾸중/nc+을/jc o 들/pv+었/efp+다/ef+./s. 
+x 영수가/nc o 반/mn+장/nbu+이/jc o 되/pv+ㄴ/exm o 것/nb+이/jc o 다행/ncs+스럽/xpa+다/ef+./s. 
+x 영수가/nc x 오직/nc x 축구/nc+만/jx o 하/pv+ㄴ다/ef+./s. 
+x 영수가/nc o 축/a+굴/pv+는/exm o 하/px+ㄴ다/ef+./s. 
+x 영수가/nc x 축구/nc+만/jx o 하/pv+ㄴ다/ef+./s. 
+x 영수/nc+는/jx o 입/nc+을/jc o 다물/pv+었/efp+다/ef+./s. 
+x 영수/nc+는/jx x 축구/nc+만/jx o 하/pv+ㄴ다/ef+./s. 
+x 영숙이가/nc x 인순이/nc+의/jcm o 책/nc+을/jc o 가지/pv+고/ecx o 있/px+더/efp+라/ef+./s. 
+x 영숙이가/nc o 인/nc+순/nc+이/jc o 책/nc+을/jc o 가지/pv+고/ecx o 있/px+더/efp+라/ef+./s. 
+x 영숙이까지/nc o 울/pv+었/efp+다/ef+./s. 
+o 영/a+숙이/pv+는/exm o 무얼/nc o 하/pv+더/efp+냐/ef+?/s. 
+o 영/a+숙이/pv+는/exm o 어제/nct o 떠나/pv+아/ecx o 버리/px+었/efp+다/ef+./s. 
+o 영/a+숙이/pv+는/exm o 어제/nct o 떠나/pv+았/efp+다/ef+./s. 
+o 영/a+숙이/pv+는/exm o 어제/nct o 청소/nca+하/xpv+시/efp+는/exm o 어머니/nc+를/jc o 돕/pv+아/ecx o 드리/px+었/efp+다/ef+./s. 
+o 영/a+숙이/pv+는/exm o 청소/nca+하/xpv+시/efp+는/exm o 어머니/nc+를/jc o 돕/pv+아/ecx o 드리/px+었/efp+다/ef+./s. 
+x 영숙이마저/nc o 울/pv+었/efp+다/ef+./s. 
+x 영숙이조차/nc o 울/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 영원히/a o 잊/pv+지/ecx o 않/px+ㄹ/exm o 사람/nc+./s. 
+x 영이가/nc x 영수/nc+에게/jca o 사실/nc+을/jc o 말/nca+하/xpv+었/efp+다/ef+./s. 
+x 영이가/nc x 영수/nc+에게/jca o 책/nc+을/jc o 받/pv+았/efp+다/ef+./s. 
+x 영이가/nc x 영수/nc+에게/jca o 책/nc+을/jc o 주/pv+었/efp+다/ef+./s. 
+x 영이가/nc o 이번/npd o 시험/nc+에/jca o 일/nn+등/nbu o 하/pv+었/efp+어/ef+./s. 
+x 영이가/nc o 철수/nc+를/jc o 손/nc+을/jc x 잡아끈다/nc+./s. 
+x 영이가/i+./s. 
+o 영/a+이/jcp+는/exm o 언제나/a o 성실/ncs+하/xpa+고/ecq x 결석도/nc o 하/pv+지/ecx o 않/px+는/exm o 아이/nc+이/jcp+야/ef+./s. 
+o 영/a+이/jc o 안/a o 오/pv+았/efp+니/ef+?/s. 
+o 영/a+이/jc o 오/pv+았/efp+니/ef+?/s. 
+x 영철아/i+,/s, o 이리/ad o 좀/a o 오/pv+어라/ef+./s. 
+x 영철이/nc+를/jc o 때/nc+리/nb+ㄴ/exm o 것/nb+은/jx o 내/nc+가/jc o 아니/pa+다/ef+./s. 
+x 영호가/nc o 동화책/nc+을/jc o 읽/pv+었/efp+다/ef+./s. 
+x 영호/nc+는/jx o 부산/nq+에/jca o 살/pv+ㄴ다/ef+./s. 
+o 영화/nc+가/jc x 재미없/pv+군요/ef+./s. 
+x 영희가/nc x 항아리/nc+에/jca o 물/nc+을/jc o 가득/a o 채우/pv+었/efp+다/ef+./s. 
+x 영희/nc+는/jx o 배구/nc+와/jj x 탁구/nc+를/jc o 잘/a o 하/pv+ㄴ다/ef+./s. 
+x 영희/nc+는/jx o 사과/nc+를/jc+,/s, o 순/nc+철/nct+이/jcp+는/exm o 배/nc+를/jc o 사/pv+았/efp+다/ef+./s. 
+x 영희/nc+는/jx o 오늘/nct o 종/nbu+이/jcp+ㄹ/exm o 공부/nc o 안/a o 하/pv+었/efp+지/ef+?/s. 
+x 영희/nc+는/jx o 책/nc+을/jc+,/s, x 순희/nc+는/jx o 연필/nc+을/jc o 사/pv+았/efp+다/ef+./s. 
+x 영희/nc+는/jx o 철수/nc+의/jcm o 인품/nc+이/jc o 원만하/pa+ㅁ/exn+을/jc o 알/pv+았/efp+다/ef+./s. 
+x 영희도/nc o 오/pv+았/efp+어/ef+?/s. 
+x 영희야/i+,/s, o 덥/pa+ㄴ데/ecs o 창문/nc o 좀/a o 열/pv+어라/ef+./s. 
+x 영희야/i+,/s, o 선생님/nc+께서/jc o 부르/pv+시/efp+ㄴ다/ef+./s. 
+x 영희에게/nc+는/jx o 김/nq o 교수/nc+가/jc o 두렵/pa+다/ef+./s. 
+x 영희/nc+에게/jca o 김/nq o 교수/nc+가/jc o 두렵/pa+다/ef+./s. 
+x 영희/nc+와/jj o 순/nc+이/jcp+는/exm o 아주/a o 닮/pv+았/efp+다/ef+./s. 
+x 영희/nc+와/jj o 순/nc+이/jcp+는/exm o 집/nc+으로/jca o 가/pv+았/efp+다/ef+./s. 
+x 예가/nc o 바로/a x 설악이라/nc+로/jca+./s. 
+o 예쁘/pa+고/ecq+,/s, x 진달래/nc+는/jx o 아름답/pa+다/ef+./s. 
+o 예쁘/pa+ㄴ/exm o 개/nbu+나/pv+리/ef+가/jc o 많이/a+도/jx o 피/pv+었/efp+다/ef+./s. 
+o 예쁘/pa+ㄴ/exm o 꽃잎/nc+이/jc o 시/nbu+들/pv+어/ecx o 버리/px+었/efp+다/ef+./s. 
+o 예/i+,/s, o 꼭/a o 실/nc+물/nc o 같/pa+아요/ef+./s. 
+o 예/i+,/s, o 실/nc+물/nc o 같/pa+지/ecx o 않/px+ㄴ데요/ef+./s. 
+o 예/i+,/s, o 안/a o 오/pv+았/efp+어요/ef+./s. 
+o 예/i+,/s, o 오/pv+았/efp+어요/ef+./s. 
+o 예/i+,/s, o 정말/nc o 살/pv+ㄴ/exm+호/nb o 같/pa+아요/ef+./s. 
+o 예/i+./s. 
+o 옛날/nct o 옛날/nct+에/jca x 갑돌이라/nc+는/jx o 사람/nc+이/jc o 있/pa+었/efp+다/ef+./s. 
+o 오/pv+기/exn+는/jx o 오/pv+려니와/ecs+,/s, o 글쎄/i o 어떻/pad+ㄹ까/ef+?/s. 
+o 오/nn+이/jcp+냐/ef+,/s, o 나/npp+도/jx o 너/npp+를/jc o 따르/pv+아/ecx+가/px+마/ef+./s. 
+o 오/nn+이/jcp+냐/ef+,/s, o 나/npp+도/jx o 너/npp+를/jc o 따르/pv+아/ecx o 가/px+마/ef+./s. 
+o 오/nn+는/jx o 길/nc+에서/jca o 우연히/a o 고향/nc o 친구/nc+를/jc o 만나/pv+았/efp+다/ef+./s. 
+o 오늘/nct+도/jx o 바람/nc+은/jx o 잠자/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 오늘/nct+도/jx o 하늘/nc+은/jx o 맑/pa+ㄹ/exm o 줄/nb+을/jc o 모르/pv+ㄴ다/ef+./s. 
+o 오늘/nct+은/jx o 고기/nc+가/jc o 잘/a o 잡히/pv+ㄴ다/ef+./s. 
+o 오늘/nct+은/jx o 그/npp+도/jx o 오/pv+겠/efp+지/ef+./s. 
+o 오늘/nct+은/jx o 기차/nc+를/jc o 놓치/pv+었/efp+습니다/ef+./s. 
+o 오늘/nct+은/jx o 나/npp o 공부/nc o 못/a o 하/pv+어/ecx+./s. 
+o 오늘/nct+은/jx x 날싸기/nc o 아주/a o 맑/pa+다/ef+./s. 
+o 오늘/nct+은/jx o 날씨/nc+가/jc o 맑/pa+다/ef+./s. 
+o 오늘/nct+은/jx o 날씨/nc+가/jc o 매우/a o 차/pa+다/ef+./s. 
+o 오늘/nct+은/jx o 날씨/nc+가/jc o 매우/a x 청명/nca+하/xpv+다/ef+./s. 
+o 오늘/nct+은/jx o 날씨/nc+가/jc o 몹시/a+도/jx o 나쁘/pa+다/ef+./s. 
+o 오늘/nct+은/jx o 날씨/nc+가/jc o 아주/a o 맑/pa+다/ef+./s. 
+o 오늘/nct+은/jx o 날씨/nc+가/jc o 좋/pa+다/ef+./s. 
+o 오늘/nct+은/jx o 날씨/nc+가/jc o 참/i o 좋/pa+군/ef+./s. 
+o 오늘/nct+은/jx o 달/nc+도/jx x 밝네그려/nc+./s. 
+o 오늘/nct+은/jx o 달/nc+도/jx x 밝습니다그려/nc+./s. 
+o 오늘/nct+은/jx o 달/nc+도/jx o 잠/nc o 밝/pa+구먼/ef+!/s. 
+o 오늘/nct+은/jx o 달/nc+도/jx o 참/m o 밝/pa+구나/ef+!/s. 
+o 오늘/nct+은/jx o 달/nc+도/jx o 참/m x 밝구려/nc+!/s. 
+o 오늘/nct+은/jx o 달/nc+도/jx o 참/m o 밝/pa+구먼/ef+!/s. 
+o 오늘/nct+은/jx o 달/nc+도/jx o 참/m x 밝습니다그려/nc+!/s. 
+o 오늘/nct+은/jx o 달/nc+이/jc o 매우/a o 밝/pa+다고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 오늘/nct+은/jx o 달/nc+이/jc o 매우/a o 밝/pa+다/ef+./s. 
+o 오늘/nct+은/jx o 달/nc+이/jc x 밝습니다그려/nc+./s. 
+o 오늘/nct+은/jx o 덥/pa+지/ecx o 아니/a+하/pv+다/ef+./s. 
+o 오늘/nct+은/jx o 바람/nc+도/jx o 심/ncs+하/xpa+게/xa o 불/pv+는구나/ef+!/s. 
+o 오늘/nct+은/jx o 밥/nc+이/jc o 잘/a x 먹힌다/nc+./s. 
+o 오늘/nct+은/jx o 배/nc+가/jc o 몹시/a x 고프/nc+이/jcp+다/ef+./s. 
+o 오늘/nct+은/jx o 비/nc+가/jc o 내리/pv+다/ef+./s. 
+o 오늘/nct+은/jx o 온/m+종/nbu+이/jcp+ㄹ/exm o 공부/nc+만/jx o 하/pv+었/efp+다/ef+./s. 
+o 오늘/nct+은/jx o 한/mn o 사람/nc+도/jx o 빠지/pv+ㅁ/exn+이/jc o 없/pa+이/xa o 다/a o 오/pv+았/efp+는데/ef+....../sy o ./s. 
+o 오늘/nct x 새신랑/nc+이/jc o 오/pv+는/exm o 날/nct+이/jcp+래/ef+./s. 
+o 오늘/nct o 시작/nca+하/xpv+었/efp+어요/ef+./s. 
+o 오늘/nct x 야외/nc+로/jca o 놀/pv+러/ecs o 가/pv+면/ecs o 좋/pa+겠/efp+다/ef+./s. 
+o 오늘/nct x 야외/nc+로/jca o 놀/pv+러/ecs o 가/px+ㅂ시다/ef+./s. 
+o 오늘/nct o 열/nn+차/nbu+는/jx o 떠나/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 오늘/nct o 철수/nc+는/jx o 학교/nc+에/jca o 가/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 오래/a+도/jx o 기다리/pv+었/efp+다/ef+./s. 
+o 오랜만/nct+에/jca o 멀/pa+ㄴ/exm o 길/nc+을/jc o 걸/pv+어/ecx o 보/px+았/efp+다/ef+./s. 
+o 오래/pa+ㄴ/exm o 역사/nc o 오늘/nct+에/jca o 빛나/pv+라/ef+!/s. 
+x 오로지/nc o 최선/nc+을/jc o 다하/pv+ㄹ/exm o 따르/pv+ㅁ/exn+이/jcp+다/ef+./s. 
+o 오/nn+리/nb+와/jj x 닭/nc+을/jc o 기르/pv+ㅂ니다/ef+./s. 
+x 오버코트/nc+는/jx o 안/a o 입/pv+겠/efp+어요/ef+./s. 
+o 오줌/nc+이/jc o 마렵/pa+다/ef+./s. 
+x 오직/nc o 생명/nc+만이/jc x 존귀/nca+하/xpv+다/ef+./s. 
+o 오후/nct+에는/jca o 비/nc+가/jc x 오렷다/nc+./s. 
+o 온갖/m o 새/nc+들/xn+이/jc o 모두/a o 다르/pa+ㄴ/exm o 모습/nc+으로/jca o 날/pv+아/ecx o 가/px+고/ecx o 있/px+다/ef+./s. 
+o 온도/nc+가/jc o 높/pa+다/ef+./s. 
+o 온/m+종/nbu+이/jcp+ㄹ/exm o 해변/nc+가/nc+를/jc x 거닐/pv+었/efp+다/ef+./s. 
+o 온/m o 마을/nc+이/jc o 폭풍/nc+에/jca x 휩쓸리/pv+었/efp+다/ef+./s. 
+o 온/m o 천하/nc+의/jcm x 축구/nc o 애/nc+호/nb+가/nc+이/jcp+어/ef+,/s, o 이/md o 한/mn+판/nbu+의/jcm o 승부/nc+를/jc o 구경/nca+하/xpv+시/efp+라/ef+./s. 
+o 올림픽/nq+이/jc o 서울/nq+에서/jca x 개최/nca+되/xpv+었/efp+다/ef+./s. 
+x 올바른/nc o 생각/nc+도/jx o 아니/pa+다/ef+./s. 
+o 올해/nct+는/jx x 늦더위가/nc x 기승/nc+을/jc o 부리/pv+는구나/ef+!/s. 
+o 올해/nct o 겨울/nct+은/jx o 너무/a+도/jx o 춥/pa+다/ef+./s. 
+o 오/pv+ㄹ/exm o 겨울/nct+은/jx o 춥/pa+지만/ecs o 말/px+아라/ef+./s. 
+o 옳/pa+소/ef+!/s. 
+o 옳/pa+지/ef+,/s, o 이렇게/a o 하/pv+면/ecs o 잘/a o 되/pv+겠/efp+다/ef+./s. 
+o 옷/nc+에/jca x 흙/nc+이/jc o 묻/pv+었/efp+다/ef+./s. 
+o 옷/nc+을/jc o 입/pv+ㄴ/exm o 채/nb o 물/nc o 속/nc+에/jca o 뛰/pv+어/ecx+들/px+다니/ef+!/s. 
+o 옷/nc+을/jc o 입/pv+ㄴ/exm o 채/nb o 물/nc o 속/nc+에/jca o 뛰/pv+어/ecx o 들/px+다니/ef+!/s. 
+o 옷/nc+을/jc x 입히/pv+었/efp+다/ef+./s. 
+o 옷/nc+의/jcm o 풀/pv+기/exn+가/jc o 죽/pv+는다/ef+./s. 
+o 옷/nc+이/jc o 꼭/a o 맞/pv+시/efp+네요/ef+./s. 
+o 오/pv+았/efp+노라/ef+,/s, o 그리고/ajs o 성공/nca+하/xpv+었/efp+노라/ef+./s. 
+o 오/pv+았/efp+도다/ef+,/s, o 오/pv+았/efp+도다/ef+./s. 
+o 왜/a+들/pv+ㄹ/exm o 이리/nc o 소란/nc+스럽/xpa+느냐/ef+?/s. 
+o 왜/a o 그렇/pad+었/efp+ㄹ까/ef+?/s. 
+o 왜/a o 그렇게/a x 숙녀답/pv+지/ecx o 않/px+ㄴ/exm o 일/nc+을/jc o 하/pv+었/efp+ㄹ까/ef+?/s. 
+o 왜/a x 꾸물거리/pv+시/efp+오/ef+?/s. 
+o 왜/a o 나/npp+를/jc o 못/a o 먹/pv+어/ecx x 야단이냐/nc+?/s. 
+o 왜/a o 아이/nc+들/xn+에게/jca o 그렇/pad+ㄴ/exm o 책/nc+을/jc x 읽히/pv+시/efp+ㅂ니까/ef+?/s. 
+o 요구/nca+하/xpv+었/efp+다/ef+./s. 
+o 요새/nc+는/jx o 선생님/nc+께서/jc o 손/nc+수/nb o 지/px+ㄴ/exm+지/nb+를/jc o 하/pv+어/ecx x 잡수신/pv+다고/ecs o 하/pv+었/efp+다/ef+./s. 
+o 요즈음/nct+은/jx o 벌/nbu+이/nn+가/jc x 시원치/nc o 않/px+다/ef+./s. 
+o 요즘/nct+은/jx o 비/nc+가/jc o 자주/a o 오/pv+ㄴ다/ef+./s. 
+o 욕/nc+을/jc o 듣/pv+는다/ef+./s. 
+o 욕/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 우리/npp+가/jc o 기대/nca+하/xpv+ㄴ/exm o 것/nb+과/jj o 같이/a o 성공/nca+하/xpv+었/efp+다/ef+./s. 
+o 우리/npp+가/jc o 당부/nca+하/xpv+ㅁ/exn+을/jc o 절대로/a o 잊/pv+지/ecx o 말/px+오/ef+./s. 
+o 우리/npp+가/jc o 믿/pv+ㄹ/exm o 것/nb+은/jx x 오직/nc o 실력/nc+뿐/nb+이/jcp+다/ef+./s. 
+o 우리/npp+가/jc o 생활/nca+하/xpv+는/exm o 데/nb+는/jx o 실질/nc+적/xn o 지식/nc+이/jc o 더/a o 필요/ncs+하/xpa+다/ef+./s. 
+o 우리/npp+가/jc o 예상/nca+하/xpv+었더/efp+ㄴ/exm o 것/nb+과/jj o 같이/a+,/s, o 그/npp+가/jc o 시험/nc+에/jca o 합격/nca+하/xpv+었/efp+다/ef+./s. 
+o 우리/npp+가/jc o 옷/nc+에/jca x 흙/nc+을/jc o 묻히/pv+었/efp+다/ef+./s. 
+o 우리/npp+가/jc o 찾/pv+아/ecx+가/px+ㄴ다는/exm o 말/nc+을/jc o 하/pv+지/ecx o 말/px+아라/ef+./s. 
+o 우리/npp+는/jx o 강/nc+에서/jca o 수영/nc+을/jc o 하/pv+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 거기/npd+에서/jca o 박물관/nc+도/jx o 구경/nca+하/xpv+었/efp+습니다/ef+./s. 
+o 우리/npp+는/jx o 거기/npd+에서/jca o 해/nc+운/nc+대로/jca o 구경/nca+하/xpv+었/efp+습니다/ef+./s. 
+o 우리/npp+는/jx o 그/npp+를/jc o 천재/nc+이/jcp+라고/ecs x 일컬었다/nc+./s. 
+o 우리/npp+는/jx o 그/npp+를/jc o 천재/nc+로/jca x 여기/pv+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 그분/npp+에게/jca o 오늘/nct o 모임/nc+에/jca o 꼭/a o 참석/nca+하/xpv+시/efp+라고/ecs o 부탁/nca+하/xpv+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 그/md o 곳/nc+에/jca o 다시/a+는/jx o 가/pv+지/ecx o 말/px+자고/ecs o 약속/nca+하/xpv+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 기/nc+어이/nc o 그/md o 일/nc+을/jc o 하/pv+어/ecx+내/px+었/efp+어요/ef+./s. 
+o 우리/npp+는/jx o 너희/npp+들/xn+과/jj o 의견/nc+이/jc o 다르/pa+다/ef+./s. 
+o 우리/npp+는/jx o 높이/nc+가/jc o 해/nc+발/nc x 1000/nnn+미터/nc+나/jx o 되/pv+는/exm x 험/ncs+하/xpa+ㄴ/exm o 고개/nc+를/jc o 무겁/pa+ㄴ/exm o 짐/nc+을/jc o 지/pv+고/ecx o 쫓기/pv+듯이/ecs o 넘어가/pv+아야/ecx o 하/px+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 둘/nn+이/nn+서/jca o 가/pv+고/ecq o 너희/npp+는/jx o 셋/nn+이/nn+서/jca o 가/pv+았/efp+다/ef+./s. 
+o 우리/npp+는/jx o 모두/a o 그/npp+가/jc o 무사히/a o 돌아오/pv+기/exn+를/jc o 바라/pv+았/efp+다/ef+./s. 
+o 우리/npp+는/jx o 못/a+나/pv+았/efp+구나/ef+,/s, o 기막히/pv+ㄴ/exm x 바보로/nc+이/jcp+구나/ef+./s. 
+o 우리/npp+는/jx o 무엇/npd+이/jc o 필요/ncs+하/xpa+ㄴ/exm o 것/nb+이/jcp+ㄴ가/ef+를/jc o 알/pv+ㄴ다/ef+./s. 
+o 우리/npp+는/jx o 바람/nc+이/jc o 잘/a o 통하/pv+도록/ecs o 창/nc+을/jc o 활짝/a o 열/pv+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 배/nc o 한/mn o 척/nbu+을/jc o 빌리/pv+어서/ecs o 아이/nc+들/xn+을/jc o 하나씩/nc o 건/nc+네/xn+이/jcp+다/ef o 주/px+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 사실/nc+을/jc o 알/pv+았/efp+다/ef+./s. 
+o 우리/npp+는/jx o 서로/a o 사랑/nca+하/xpv+며/ecq o 살/pv+아야/ecx o 하/px+ㄴ다/ef+./s. 
+o 우리/npp+는/jx o 세계/nc+의/jcm o 시민/nc+이/jcp+기/exn+에/jca o 앞서/pv+어/ecx o 한국/nq o 사람/nc+으로/jca o 태어나/pv+았/efp+다/ef+./s. 
+o 우리/npp+는/jx o 열심히/a o 공부/nca+하/xpv+고/ecx o 있/px+는/exm o 것/nb+이/jcp+다/ef+./s. 
+o 우리/npp+는/jx o 오른쪽/nc o 길/nc+이/jc o 바다/nc+로/jca o 통하/pv+는/exm o 길/nc+이/jcp+라고/ecs o 판단/nca+하/xpv+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 이제/at+서야/jx o 그/npp+가/jc x 진정으/nc+로/jca o 우리/npp+를/jc o 사랑/nca+하/xpv+었/efp+ㅁ/exn+을/jc o 깨닫/pv+았/efp+다/ef+./s. 
+o 우리/npp+는/jx o 이제/at+서야/jx o 깨닫/pv+았/efp+다/ef+./s. 
+o 우리/npp+는/jx o 자유/nc+도/jx o 원하/pv+ㄴ다/ef+./s. 
+o 우리/npp+는/jx o 잘/a o 익/pv+ㄴ/exm o 수/mn+박/nbu+을/jc o 따/pv+아서/ecs x 냇물/nc+에/jca x 띄우/pv+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 장래/nc+의/jcm o 세종/nq+대/nc+왕/nc+들/xn+을/jc o 애타/pv+게/xa o 기다리/pv+ㄴ다/ef+./s. 
+o 우리/npp+는/jx o 철수/nc+가/jc o 귀/nc+국/nbu+하/pv+었/efp+다는/exm o 사실/nc+을/jc o 알/pv+았/efp+다/ef+./s. 
+o 우리/npp+는/jx o 최선/nc+을/jc o 다하/pv+었/efp+ㄹ/exm o 뿐/nb+만/jx o 아니/pa+라/ecs+,/s, o 운/nc+도/jx o 따르/pv+았/efp+다/ef+./s. 
+o 우리/npp+는/jx o 하루/at o 먹/pv+ㄹ/exm x 양식/pa+이/xa o 없/pa+었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 학교/nc+도/jx o 가/pv+았었/efp+다/ef+./s. 
+o 우리/npp+는/jx o 학교/nc+에/jca o 가/pv+지/ecx o 말/px+자/ef+./s. 
+o 우리/npp+는/jx o 하/pv+어야/ecs o 하/pv+ㄹ/exm o 바/nb+가/jc o 많/pa+다/ef+./s. 
+o 우리/npp+도/jx o 같이/a o 수학/nc o 여행/nc+을/jc o 가/pv+고자/ecx o 하/px+ㅂ니다/ef+./s. 
+o 우리/npp+도/jx o 수학/nc o 여행/nc+을/jc o 가/pv+게/ecx o 되/pv+었/efp+다/ef+./s. 
+o 우리/npp+도/jx o 자유/nc+를/jc o 원하/pv+ㄴ다/ef+./s. 
+o 우리/npp+에게는/jca x 오직/nc x 배움뿐/nc+이/jcp+다/ef+./s. 
+o 우리/npp+에게/jca o 길/nc+을/jc o 가르치/pv+어/ecx o 주/px+ㄴ/exm o 사람/nc+을/jc o 다시/a o 만나/pv+았/efp+다/ef+./s. 
+o 우리/npp+의/jcm o 당면/nc o 문제/nc+는/jx o 언제/npd+부터/jx o 작업/nc+을/jc x 시작하느냐이/pv+다/ef+./s. 
+o 우리/npp+의/jcm x 불교/nc o 사상/nc+에/jca x 독창성이/nc o 있/pa+었/efp+다는/exm o 것/nb+은/jx o 잘/a o 알리/pv+어/ecx+지/px+ㄴ/exm o 사실/nc+이/jcp+다/ef+./s. 
+o 우리/npp+의/jcm x 불교/nc o 사상/nc+에/jca x 독창성이/nc o 있/pa+었/efp+ㅁ/exn+은/jx o 잘/a o 알리/pv+어/ecx+지/px+ㄴ/exm o 사실/nc+이/jcp+다/ef+./s. 
+o 우리/npp+의/jcm o 선/nc+인/nc+들/xn+은/jx o 세계/nc+적/xn+으로/jca o 자랑/nca+하/xpv+ㄹ/exm o 만하/px+ㄴ/exm x 공예/nc o 문화/nc+를/jc o 이룩/nca+하/xpv+었/efp+다/ef+./s. 
+o 우리/npp+의/jcm x 청춘/nc+이/jc o 가장/a o 많이/a x 품고/nc o 있/pa+는/exm o 이상/nc+./s. 
+o 우리/npp o 나라/nc 
+o 우리/npp o 나라/nc+에서/jca o 올림픽/nq+이/jc o 주최/nca+되/xpv+ㅂ니다/ef+./s. 
+o 우리/npp o 나라/nc o 현/nc+대사/nc+에서/jca+의/jcm o 그/npp+의/jcm o 위치/nc+는/jx o 대단하/pa+다/ef+./s. 
+o 우리/npp o 나라/nc o 현/nc+대사/nc+에서/jca+의/jcm o 이상/nc+의/jcm o 위치/nc+는/jx o 대단하/pa+다/ef+./s. 
+o 우리/npp o 다시/a o 내일/nct o 만나/pv+ㅂ시다/ef+./s. 
+o 우리/npp o 모두/a o 너/npp+를/jc o 기다리/pv+었/efp+다/ef+./s. 
+o 우리/npp o 모두/a o 힘/nc+을/jc o 뭉치/pv+어/ecx o 살/pv+기/exn o 좋/pa+ㄴ/exm o 고장/nc+을/jc o 건설/nc+하/xpa+ㅂ시다/ef+./s. 
+o 우리/npp o 모두/a o 힘/nc+을/jc o 합치/pv+어/ecx o 살/pv+기/exn o 좋/pa+ㄴ/exm o 나라/nc+를/jc o 건설/nc+하/xpa+ㅂ시다/ef+./s. 
+o 우리/npp o 반/nc+의/jcm o 순/nc+이/jcp+는/exm o 매우/a o 친절/ncs+하/xpa+다/ef+./s. 
+o 우리/npp o 사업/nc+은/jx o 성공/nc+적/xn+이/jcp+다/ef+./s. 
+o 우리/npp o 아버지/nc o 이름/nc+까지/jx o 다/a o 알/pv+아요/ef+./s. 
+o 우리/npp o 얘기/nc+나/jx x 하세/nc+./s. 
+o 우리/npp o 얘기/nc o 좀/a o 하/pv+자/ef+./s. 
+o 우리/npp o 얘기/nc o 좀/a o 하/pv+어/ecx o 보/px+지/ecx o 않/px+겠/efp+니/ef+?/s. 
+o 우리/npp o 오늘/nct o 영화/nc o 보/pv+러/ecs o 가/px+자/ef+./s. 
+o 우리/npp o 집/nc+에서/jca o 놀/pv+자/ef+./s. 
+o 우리/npp o 집/nc+의/jcm o 백/nn+자/nbu+는/jx o 조선/nq o 시대/nc o 후/nc+기/nc+의/jcm o 것/nb+이/jcp+ㅂ니다/ef+./s. 
+o 우리/npp o 편/nc+이/jc o 승리/nca+하/xpv+었/efp+ㅁ/exn+이/jc o 분명하/pa+다/ef+./s. 
+o 우리/npp o 학교/nc+가/jc o 일/nn+등/nbu+으로/jca o 입/nc+선/nc+./s. 
+o 우리/npp o 학교/nc+에서/jca o 승리/nca+하/xpv+었/efp+다/ef+./s. 
+o 우리/npp o 학교/nc+에서/jca o 우승/nca+하/xpv+었/efp+습니다/ef+./s. 
+o 우리/npp o 회사/nc+에서/jca o 우승/nca+하/xpv+었/efp+다/ef+./s. 
+o 우선/nc o 거기/npd o 앉/pv+아/ecx+말/px+ㄴ/exm o 보/px+아라/ef+./s. 
+o 우선/nc o 그것/npd+이라도/jx o 먹/pv+지/ecx o 않/px+겠/efp+니/ef+?/s. 
+o 우선/nc o 넓/pa+이/xa+부터/jx o 계산/nca+하/xpv+어/ecx o 보/px+아라/ef+./s. 
+o 우선/nc o 마시/pv+어/ecx o 보/px+기/exn+나/jx o 하/pv+어라/ef+./s. 
+o 우선/nc o 먹/pv+어/ef+를/jc o 보/pv+아라/ef+./s. 
+o 우선/nc o 앉/pv+아/ecx+들/px+ㄹ/exm o 있/pa+어라/ef+./s. 
+o 우선/nc o 크기/nc+부터/jx o 말씀/nca+하/xpv+시/efp+어요/ef+./s. 
+o 운동/nc+장/xn+이/jc o 넓/pa+다/ef+./s. 
+o 운동/nc+장/xn+이/jc o 넓/pa+지/ecx o 못하/px+구나/ef+!/s. 
+o 운동/nc+장/xn+이/jc o 넓/pa+지/ecx o 못하/px+다/ef+./s. 
+o 운동/nc+장/xn+이/jc o 별로/a o 넓/pa+지/ecx o 못하/px+다/ef+./s. 
+o 웃어른/nc+을/jc o 공/nc+경/nc+하/xpa+어야/ecs o 하/pv+ㄴ다/ef+./s. 
+o 원/nc+시/nbu+이/jcp+ㄴ/exm+들/nb+은/jx x 돌로써/nc o 칼/nc+을/jc o 만들/pv+었/efp+다/ef+./s. 
+o 원/nc+시/nbu+이/jcp+ㄴ/exm+들/nb+은/jx o 돌/nc+로/jca o 칼/nc+을/jc o 만들/pv+었/efp+다/ef+./s. 
+o 위/nc+대/xn+하/xpa+ㄴ/exm o 음성/nc+들/xn+이/jc o 조용히/a+,/s, o 그러나/ajs x 간절히/nc o 우리/npp+를/jc o 부르/pv+고/ecx o 있/px+다/ef+./s. 
+o 위/nc+에서/jca o 우리/npp+는/jx+,/s, x 도덕/nc+적/xn+이/jcp+ㄴ/exm o 인간/nc+으로서/jca o 성장/nca+하/xpv+ㄹ/exm o 수/nb o 있/pa+는/exm o 가능성/nc+이/jcp+라는/exm x 막연/ncs+하/xpa+ㄴ/exm o 표현/nc+을/jc o 사용/nca+하/xpv+었/efp+다/ef+./s. 
+o 위/nc+인/nc+전/nct+을/jc x 읽고/nc+서/jca x 독후감/nc+을/jc o 쓰/pv+었/efp+다/ef+./s. 
+o 유/nn+수/nb+란/exm o 물/nc+의/jcm o 흐름/nc+이/jcp+다/ef+./s. 
+o 응/i+,/s, o 마침/a o 잘/a o 만나/pv+았/efp+군요/ef+!/s. 
+o 응/i+,/s, o 마침/a o 잘/a o 만나/pv+았/efp+군/ef+!/s. 
+o 의견/nc+을/jc o 내/pv+었/efp+다/ef+./s. 
+o 의견/nc+을/jc o 제/md+기/nc+하/xpa+었/efp+다/ef+./s. 
+o 의사/nc o 선생님/nc+은/jx o 먼저/a o 한참/nc o 동안/nb x 진찰/nc+을/jc o 하/pv+더니/ecs o 약/nc x 처방/nc+을/jc o 하/pv+어/ecx o 주/px+었/efp+습니다/ef+./s. 
+o 의사/nc o 선생님/nc+은/jx o 먼저/a o 한참/nc o 동안/nb x 진찰/nc+을/jc o 하/pv+시/efp+더니/ecs o 약/nc x 처방/nc+을/jc o 하/pv+어/ecx o 주/px+셨/efp+습니다/ef+./s. 
+o 의사/nc o 선생님/nc+이/jc o 병/nc+이/jc o 나/pv+ㄴ/exm o 사람/nc+에게/jca o 병/nc+에/jca o 들/pv+ㄴ/exm o 약/nc+을/jc o 주/pv+ㅂ니다/ef+./s. 
+o 의/nc+외/nc+로/jca o 철수/nc+가/jc o 시험/nc+에/jca o 떨/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+x 이걸/nc o 누구/npp o 주/pv+ㄹ까/ef+?/s. 
+o 이것/npd+과/jj o 저것/npd+은/jx o 매우/a o 다르/pa+다/ef+./s. 
+o 이것/npd+들/xn+은/jx x 문학/nc+의/jcm x 재료가/nc o 아니/pa+다/ef+./s. 
+o 이것/npd+마저/jx o 하/pv+어라/ef+./s. 
+o 이것/npd+만이/jc o 최선/nc+의/jcm o 길/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 그것/npd+과는/jj o 다르/pa+ㄴ/exm o 용건/nc+이/jcp+ㅂ니다/ef+./s. 
+o 이것/npd+은/jx o 그것/npd+과/jj x 마찬가집니/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 꽃/nc+이/jcp+고/ecq+,/s, o 저것/npd+은/jx o 사과/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 돌/nc+다리/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 사과/nc+가/jc o 아니/pa+겠/efp+지/ef+?/s. 
+o 이것/npd+은/jx o 사과/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 아주/a o 새/m o 것/nb+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 아주/a o 허/a+는/jx o 책/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 어머니/nc+의/jcm o 사진/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 연필/nc+이/jcp+네/ef+./s. 
+o 이것/npd+은/jx o 연필/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 연필/nc+이/jcp+오/ef+./s. 
+o 이것/npd+은/jx o 연필/nc+이/jcp+ㅂ니다/ef+./s. 
+o 이것/npd+은/jx o 의자/nc+가/jc x 아니로/nc+이/jcp+군/ef+!/s. 
+o 이것/npd+은/jx o 이야기/nc+책/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 책/nc+이/jcp+다/ef+./s. 
+o 이것/npd+은/jx o 책/nc+이/jcp+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 이것/npd+은/jx x 책이로구먼/nc+!/s. 
+o 이것/npd+은/jx o 책/nc+이/jc o 아니/pa+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 이것/npd+은/jx o 책/nc+이/jcp+ㅂ니다/ef+./s. 
+o 이것/npd+을/jc o 같이/a o 들/pv+어요/ef+./s. 
+o 이것/npd+을/jc o 그/npp+에게/jca o 주/pv+어라/ef+./s. 
+o 이것/npd+을/jc o 너/npp+에게/jca o 주/pv+마/ef+./s. 
+o 이것/npd+을/jc o 너/npp+의/jcm o 아버지/nc+께/jca o 갖/pv+다/ecx o 드리/px+어라/ef+./s. 
+o 이것/npd+을/jc o 네/npp+가/jc o 먹/pv+었/efp+지/ecx o 않/px+니/ef+?/s. 
+o 이것/npd+을/jc o 누구/npp+에게/jca o 주/pv+ㄹ까/ef+?/s. 
+o 이것/npd+을/jc o 누구/npp+한테/jca o 주/pv+ㄹ까/ef+?/s. 
+o 이것/npd+을/jc o 들/pv+어/ecx o 보/px+아라/ef+./s. 
+o 이것/npd+을/jc o 망치/nc+로/jca x 두들겨/nc o 만들/pv+었/efp+다/ef+./s. 
+o 이것/npd+을/jc o 할아버지/nc+께/jca o 드리/pv+어라/ef+./s. 
+o 이것/npd+을/jc x 형님이/nc x 아버님/nc+께/jca o 드리/pv+었/efp+습니다/ef+./s. 
+o 이것/npd+이/jc o 꽃/nc+이라도/jx o 향기/nc+는/jx o 없/pa+었/efp+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 이것/npd+이/jc o 꽃/nc+이/jcp+라면/ecs o 얼마나/a x 향기로울까/nc+?/s. 
+o 이것/npd+이/jc x 능금인가/a o 보/pv+다/ef+./s. 
+o 이것/npd+이/jc o 새/m o 신인/nc+가/jc+,/s, o 허/a+는/jx o 신인/nc+가/jc+?/s. 
+o 이것/npd+쯤/xn+은/jx o 나/npp+도/jx o 하/pv+ㄹ/exm o 수/nb o 있/pa+겠/efp+다/ef+./s. 
+o 이기/pv+고/ecx o 돌아오/pv+라/ecs+,/s, o 우리/npp+의/jcm o 선수/nc+들/xn+./s. 
+o 이놈/npp+!/s. 
+o 이/npd+는/jx o 더/a+하/pv+ㄹ/exm o 나위/nb o 없/pa+는/exm o 아픔/nc+이/jcp+다/ef+./s. 
+o 이/npd+는/jx o 실로/a o 놀랍/pa+ㄴ/exm o 일/nc+이/jcp+다/ef+./s. 
+o 이/npd+도/jx o 저/npp+도/jx o 아니/pa+면/ecs o 무엇/npd+이/jcp+ㄴ가/ef+?/s. 
+o 이/npd+들/xn+은/jx o 그/npp+들/xn+과/jj o 동창/nc+이/jcp+다/ef+./s. 
+o 이러하/pad+ㄴ/exm o 창의/nc+는/jx o 곧/a o 소설/nc+의/jcm x 싹이라고/nc o 하/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 이런/md o 간부/nc+는/jx o 사표/nc+를/jc o 쓰/pv+라/ef+./s. 
+o 이런/md o 대문/nc+은/jx o 처음/nct o 보/pv+ㄴ다/ef+./s. 
+o 이런/md o 시간/nct+에/jca x 어딜/nc o 가/pv+니/ecs+?/s. 
+o 이런/md o 일/nc+은/jx o 산/nc+과/jj o 들/xn+에서/jca o 흔히/a o 보/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 이런/md o 일/nc+은/jx o 학생/nc+들/xn+에게서/jca o 흔히/a o 보/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 이런/md o 피해/nc+가/jc o 너/npp+만은/jx o 아니/pa+다/ef+./s. 
+o 이런/md+!/s. 
+o 이리/nc+로/jca o 가/pv+면/ecs o 남대문/nc+이/jcp+다/ef+./s. 
+o 이리/ad o 오/pv+아서/ecs o 자세히/a o 이야기/nc+나/jx o 하/pv+ㅂ시다/ef+./s. 
+o 이미/a o 봄/nct+이/jcp+구나/ef+./s. 
+o 이번/npd+에도/jca o 우리/npp o 학교/nc+에서/jca o 우승/nc+을/jc o 하/pv+었/efp+다/ef+./s. 
+o 이번/npd o 만큼/nb+은/jx o 네/npp+가/jc o 가/pv+ㄹ/exm o 줄/nb+로/jca o 알/pv+았/efp+다/ef+./s. 
+o 이번/npd o 방학/nc+에는/jca o 지리/nc+산/nc+으로/jca o 가/pv+기/exn+로/jca o 하/pv+었/efp+다/ef+./s. 
+o 이번/npd x 여름/nc o 방학/nc+은/jx o 8/nnn+월/nbu o 20/nnn+일까지/nbu+이/jcp+ㅁ/exn+./s. 
+o 이상/nc+은/jx x 청춘/nc+의/jcm o 특징/nc+이/jcp+다/ef+./s. 
+o 이/md+성/nc+은/jx x 투명/nca+하/xpv+되/ecs x 얼음/nc+과/jj o 같/pa+며/ecq+,/s, x 지혜/nc+는/jx o 날카롭/pa+나/ecs x 갑/nc o 속/nc+에/jca o 들/pv+ㄴ/exm o 칼/nc+이/jcp+다/ef+./s. 
+o 이슬/nc o 젖/pv+ㄴ/exm x 눈망울/nc+에/jca o 햇살/nc+이/jc o 빛나/pv+ㄴ다/ef+./s. 
+o 이야기/nc+를/jc x 정답/pv+게/ecx o 주/pv+고/ecx+받/px+았/efp+다/ef+./s. 
+o 이/npd+이/jcp+는/exm x 그이/nc+와/jj o 매우/a x 친/nca+하/xpv+다/ef+./s. 
+o 이익/nc+을/jc o 남기/pv+었/efp+다/ef+./s. 
+o 이제/at+는/jx o 너/npp+밖에/jx o 이/md o 일/nc+을/jc o 하/pv+ㄹ/exm o 수/nb o 있/pa+는/exm o 사람/nc+은/jx o 없/pa+다/ef+./s. 
+o 이제/at+는/jx o 생각/nca+하/xpv+기/exn+조차/jx o 싫/pa+어/ecx+지/px+었/efp+다/ef+./s. 
+o 이제/at o 막/nc o 그/npp+가/jc o 도착/nca+하/xpv+었/efp+다/ef+./s. 
+o 이제/at o 우리/npp+는/jx+,/s, o 이/md x 막연/ncs+하/xpa+ㄴ/exm o 표현/nc+이/jc o 의미/nca+하/xpv+는/exm o 바/nb+에/jca o 대하/pv+어/ecx x 좀더/nc o 분명하/pa+ㄴ/exm o 설명/nc+을/jc x 하려야/a o 하/pv+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 이제/at o 참/pv+ㄹ/exm o 만큼/nb o 참/pv+았/efp+소/ef+./s. 
+o 이제/at+는/jx o 그만/a+하/pv+어/ecx o 두/px+어라/ef+./s. 
+o 이제/at+는/jx o 아무/npd+도/jx o 없/pa+구나/ef+!/s. 
+o 이/md+지적/nc o 사고/nc+를/jc o 즐기/pv+ㄴ다/ef+./s. 
+o 이/md o 고장/nc+에는/jca o 가난/ncs+하/xpa+ㄴ/exm o 사람/nc+들/xn+이/jc o 많/pa+다/ef+./s. 
+o 이/md o 곳/nc+에/jca o 오/pv+ㄴ/exm o 지/nb+가/jc o 벌써/a o 하/pv+ㄴ/exm o 해/nc+가/jc o 가깝/pa+어/ecx o 오/px+ㄴ다/ef+./s. 
+o 이/md o 곳/nc+에/jca o 오/pv+ㄴ/exm o 지/nb+도/jx o 벌써/a o 하/pv+ㄴ/exm o 해/nc+가/jc o 가깝/pa+어/ecx o 오/px+ㄴ다/ef+./s. 
+o 이/md o 곳/nc+에/jca o 오/pv+ㄴ/exm o 지/nb o 벌써/a o 하/pv+ㄴ/exm o 해/nc+가/jc o 가깝/pa+어/ecx o 오/px+ㄴ다/ef+./s. 
+o 이/md o 곳/nc+의/jcm o 기/nc+후/nct+는/jx o 농사/nc+에/jca x 적합/nca+하/xpv+다/ef+./s. 
+o 이/md o 곳/nc+의/jcm o 기/nc+후/nct+는/jx o 인/nbu+삼/nn+이/jc x 자라기/nc+에/jca x 적합/nca+하/xpv+다/ef+./s. 
+o 이/md o 과일/nc+은/jx o 사과/nc+와/jj o 다르/pa+다/ef+./s. 
+o 이/npd o 이/jcp+군/ef+,/s, o 이리/ad o 오/pv+아서/ecs o 앉/pv+게/ef+./s. 
+o 이/npd o 이/jcp+군/ef+,/s, o 이리/ad o 오/pv+아서/ecs o 앉/pv+아/ecx+./s. 
+o 이/md o 그림/nc+은/jx o 실/nc+물/nc+과/jj o 똑같/pa+군요/ef+./s. 
+o 이/md o 그림/nc+이/jc o 실/nc+물/nc+과/jj o 똑같/pa+군요/ef+./s. 
+o 이/md o 그림/nc+,/s, o 실/nc+물/nc o 같/pa+지/ecx o 않/px+니/ef+?/s. 
+o 이/md o 꽃나무/nc+는/jx o 옮기/pv+지/ecx o 말/px+고/ecq o 그대로/a o 심/pv+어/ecx o 두/px+시/efp+어요/ef+./s. 
+o 이/md o 꽃/nc+은/jx o 붉/pa+기/exn+도/jx o 하/pv+이/xa+!/s. 
+o 이/md o 꽃/nc+은/jx o 역시/a o 아름답/pa+다/ef+./s. 
+o 이/md o 꽃/nc+이/jc o 아름답/pa+지/ecx o 않/px+다/ef+./s. 
+o 이/md o 도시/nc+에는/jca o 박물관/nc+이/jc o 있/pa+다/ef+./s. 
+o 이/md o 도시/nc+에는/jca o 크/pa+ㄴ/exm o 박물관/nc+이/jc o 있/pa+다/ef+./s. 
+o 이/md o 말/nc+을/jc o 오해/nca+하/xpv+지/ecx o 말/px+아/ef+./s. 
+o 이/md o 문제/nc+를/jc o 부모님/nc+과/jj x 의논/nca+하/xpv+어라/ef+./s. 
+o 이/md o 사건/nc+은/jx o 당사자/nc+끼리/xn o 해결/nca+하/xpv+시/efp+ㅂ시오/ef+./s. 
+o 이/md o 사과/nc o 누구/npp o 주/pv+ㄹ까/ef+?/s. 
+o 이/md o 사실/nc+은/jx o 놀랍/pa+ㄴ/exm o 일/nc+이/jcp+다/ef+./s. 
+o 이/md o 세상/nc+은/jx o 고/nq+해/nc+이/jcp+다/ef+./s. 
+o 이/md x 소나무/nc o 꼭/a o 살/pv+ㄴ/exm+호/nb o 같/pa+지/ecx o 않/px+니/ef+?/s. 
+o 이/md o 아이/nc+가/jc o 제/md o 아버지/nc+한테/jca o 그것/npd+을/jc o 갖/pv+다/ecx o 주/px+었/efp+ㄹ까/ef+?/s. 
+o 이/md o 아이/nc+는/jx o 입/nc+이/jc o 짧/pa+아요/ef+./s. 
+o 이/md o 운동/nc+은/jx o 마침내/a o 국민/nc+들/xn+의/jcm x 호응/nc+을/jc o 받/pv+았/efp+다/ef+./s. 
+o 이/md o 일/nc+은/jx x 너에게/nc+만/jx o 알리/pv+어/ecx o 주/px+겠/efp+다/ef+./s. 
+o 이/md o 일/nc+은/jx x 땅짚고/nc x 헤엄치기/nc+이/jcp+다/ef+./s. 
+o 이/md o 일/nc+은/jx o 얘/npp+가/jc o 하/pv+었/efp+다/ef+./s. 
+o 이/md o 짐/nc+은/jx o 왜/a o 철수/nc+에게/jca o 지/pv+게/ecx o 하/px+는가/ef+?/s. 
+o 이/md o 짐/nc+은/jx o 철수/nc+가/jc o 지/pv+었/efp+다/ef+./s. 
+o 이/md o 짐/nc+은/jx o 철수/nc+가/jc o 지/pv+게/ecx o 하/px+ㅂ시다/ef+./s. 
+o 이/md o 짐/nc+은/jx o 철수/nc+를/jc o 지/pv+게/ecx o 하/px+었/efp+다/ef+./s. 
+o 이/md o 책/nc+은/jx o 너/npp+한테/jca o 주/pv+겠/efp+다/ef+./s. 
+o 이/md o 책/nc+은/jx o 누구/npp+가/jc o 가지/pv+었더/efp+ㄴ/exm o 거지/nc+,/s, o 응/i+?/s. 
+o 이/md o 책/nc+은/jx o 중학교/nc o 때/nct o 읽/pv+었더/efp+ㄴ/exm o 기억/nc+이/jc o 나/pv+ㄴ다/ef+./s. 
+o 이/md o 책/nc+을/jc x 너에게/nc+만/jx o 보이/pv+겠/efp+다/ef+./s. 
+o 이/md o 책/nc+을/jc o 읽/pv+어라/ef+./s. 
+o 이/md o 책/nc+을/jc o 철수/nc+에게/jca o 주/pv+어라/ef+./s. 
+o 이/md o 책/nc+이/jc x 글/nc+씨/xn+가/jc o 너무/a x 잘다/nc+./s. 
+o 이/md o 편지/nc+를/jc x 우체통/nc+에/jca o 넣/pv+어라/ef+./s. 
+o 이/md o 학교/nc+에서는/jca o 많/pa+ㄴ/exm o 주시/nc+경/nc+들/xn+을/jc o 기르/pv+어/ecx+내/px+었/efp+다/ef+./s. 
+o 이/md o 형/npp+,/s, o 당신/npp+의/jcm x 안부가/nc o 걱정/nc+이/jcp+오/ef+./s. 
+o 인간/nc+은/jx o 사회/nc+적/xn o 동물/nc+이/jcp+다/ef+./s. 
+o 인간/nc+은/jx x 원래/nc o 사회/nc+적/xn o 동물/nc+이/jcp+다/ef+./s. 
+o 인상/nc+이/jc o 참/nc+하/xpa+ㄴ/exm o 것/nb+과는/jj o 달리/a x 포악/nca+하/xpv+다/ef+./s. 
+o 인생/nc+은/jx o 짧/pa+고/ecq+,/s, x 예술은/nc o 길/pa+다/ef+./s. 
+o 인생/nc+,/s, o 나/npp+는/jx o 이것/npd+을/jc o 잘/a o 모르/pv+ㄴ다/ef+./s. 
+o 이/jcp+ㄴ/exm+수/nb+가/jc o 반/mn+장/nbu+으로서/jca o 운영/nc+회/nbu+에/jca o 참석/nca+하/xpv+었/efp+다/ef+./s. 
+o 이/jcp+ㄴ/exm+수/nb+가/jc o 반/mn+장/nbu+으로/jca o 운영/nc+회/nbu+에/jca o 참석/nca+하/xpv+었/efp+다/ef+./s. 
+o 이/jcp+ㄴ/exm+수/nb+가/jc o 언제/ad x 퇴원/nca+하/xpv+었/efp+나요/ef+?/s. 
+o 이/jcp+ㄴ/exm+수/nb+는/jx o 어제/nct x 퇴원했답니/nc+이/jcp+다/ef+./s. 
+o 이/jcp+ㄴ/exm+수/nb+는/jx o 오늘/nct+도/jx o 동/nc+대문/nc+에서/jca o 지하/nc+철/nct+을/jc o 타/pv+았/efp+습니다/ef+./s. 
+o 이/jcp+ㄴ/exm+수/nb+는/jx o 요즈음/a o 밤/nc+낮/nct x 문학/nc x 서/nc+적/xn+을/jc x 탐독/nca+하/xpv+고/ecx o 있/px+다/ef+./s. 
+o 이/jcp+ㄴ/exm+수/nb+도/jx o 그/md o 곳/nc+에/jca o 머무르/pv+게/ecx o 되/pv+었/efp+다/ef+./s. 
+o 인/nbu+숙이/pv+는/exm o 얼굴/nc+이/jc o 빨개지/pv+어서/ecs o 달아나/pv+아/ecx o 버리/px+었/efp+다/ef+./s. 
+o 일/nc+본인/nc+은/jx o 빨리/a o 귀/nc+국/nbu+하/pv+라/ef+./s. 
+o 일/nc+본인/nc+은/jx o 빨리/a x 물러가라/nc+./s. 
+o 일요일/nct+이/jcp+면/ecs o 등/nc+산/nc+을/jc o 하/pv+곤/ecx o 하/px+ㄴ다/ef+./s. 
+o 일/nc+의/jcm x 낌새가/nc o 나쁘/pa+다/ef+./s. 
+o 일/nc+이/jc o 잘/a o 되/pv+어/ecx o 가/px+ㅂ니다/ef+./s. 
+o 일찍/a o 일/pv+어/ecx+나/px+아야/ecx o 하/px+ㄴ다/ef+./s. 
+o 읽/pv+ㄹ/exm o 책/nc+이/jc o 없/pa+었/efp+다/ef+./s. 
+x 임이/nc+이/jcp+어/ef+,/s, x 진정/nc x 떠나시나이까/nc+?/s. 
+o 입/nc+을/jc o 다물/pv+었/efp+다/ef+./s. 
+o 입/nc+이/jc o 닳/pv+게/xa x 타일렀다/nc+./s. 
+o 입/nc+이/jc o 닳/pv+도록/ecs x 타일렀다/nc+./s. 
+o 있/pa+잖아/ef+,/s, o 너/npp o 지금/at o 바쁘/pa+니/ef+?/s. 
+o 자기/npp o 일/nc+에/jca o 성실/ncs+하/xpa+자/ef+./s. 
+o 자/npp+나/jx o 깨/pv+나/ecs o 불/nc+조심/nc+./s. 
+o 자네/npp+가/jc o 떠나/pv+ㄹ/exm o 날/nct+은/jx o 언제/npd+이/jcp+ㄴ가/ef+?/s. 
+o 자네/npp+가/jc o 이/md o 사람/nc+의/jcm x 스승이셨구/nc+는/jx+./s. 
+x 자네까지/nc+와/jj o 내/nc+가/jc o 뽑히/pv+었/efp+다/ef+./s. 
+o 자네/npp+는/jx o 그것/npd+보다/jca o 이것/npd+을/jc o 읽/pv+게/ef+./s. 
+o 자네/npp+는/jx o 시간/nct+이/jc o 얼마나/a o 귀/nc+중/nc+하/xpa+ㄴ/exm o 것/nb+이/jcp+ㄴ가/ef+를/jc o 생각/nca+하/xpv+어/ecx o 보/px+ㄴ/exm o 일/nc+이/jc o 있/pa+는가/ef+?/s. 
+o 자네/npp+는/jx o 어디/npd+로/jca o 가/pv+는/exm o 길/nc+이/jcp+ㄴ가/ef+?/s. 
+o 자네/npp+도/jx o 지금/at o 떠나/pv+겠/efp+는가/ef+?/s. 
+o 자네/npp+도/jx o 한/mn+번/nbu o 읽/pv+어/ecx o 보/px+게/ecx 
+o 자네/npp+를/jc o 보/pv+니/ecs o 매우/a o 기쁘/pa+이/xa+./s. 
+o 자네/npp o 지금/at o 어디/npd+로/jca o 가/pv+나/ef+?/s. 
+o 자네/npp o 지금/at o 어디/npd+로/jca o 가/pv+는가/ef+?/s. 
+o 자네/npp o 지금/at+,/s, o 어디/npd+로/jca o 가/pv+나/ef+?/s. 
+o 자/npp+는/jx o 아이/nc+를/jc o 왜/a o 깨우/pv+느냐/ef+?/s. 
+o 자동차/nc+가/jc o 빨리/a o 달리/pv+ㄴ다/ef+./s. 
+o 자동차/nc+가/jc o 저절로/a o 움직이/pv+ㄴ다/ef+./s. 
+o 자동차/nc+에/jca o 무엇/npd+이/jc x 실리/pv+었/efp+는가/ef o 보/px+다/ef+./s. 
+o 자리/nc+를/jc o 비우/pv+었/efp+다/ef+./s. 
+o 자/npp+아/jcv+,/s, o 우리/npp+도/jx o 일어서/pv+ㄹ까/ef+?/s. 
+o 자유/nc+가/jc o 아니/pa+면/ecs o 죽음/nc+을/jc o 다르/pa+아/ef+./s. 
+o 자/i+,/s, x 노인께선/a o 일/pv+어/ecx+나/px+ㅂ시오/ef+./s. 
+o 작년/nct+에는/jca o 가족/nc+과/jj o 같이/a o 제주도/nq+에/jca o 가/pv+았었/efp+다/ef+./s. 
+o 작년/nct+에/jca o 삼/nn+남/nc o 지방/nc+에서/jca o 홍/nq+수/nc+가/jc o 나/pv+았었/efp+다/ef+./s. 
+o 작업복/nc+을/jc o 튼튼하/pa+고/ecq+,/s, o 입/pv+기/exn+에/jca o 편/ncs+하/xpa+면서/ecs o 비싸/pa+지/ecx o 않/px+ㄴ/exm o 것/nb+으로/jca o 고치/pv+어야/ecx o 하/px+ㄴ다/ef+./s. 
+o 작업복/nc+이/jc o 튼튼하/pa+고/ecq+,/s, o 입/pv+기/exn+에/jca o 편/ncs+하/xpa+면서/ecs+,/s, o 비싸/pa+지/ecx o 않/px+ㄴ/exm o 것/nb+으로/jca o 고치/pv+어/ecx+지/px+어야/ecs o 하/pv+ㄴ다/ef+./s. 
+x 작은아버지도/nc x 연세가/nc o 많/pa+시/efp+다/ef+./s. 
+o 잘/a+도/jx x 먹네그려/nc+!/s. 
+o 잘/a o 들/pv+어/ecx o 주/px+시/efp+기/exn o 바라/pv+ㅂ니다/ef+./s. 
+o 잘/a o 하/pv+었/efp+다/ef+./s. 
+o 잠시/at+도/jx o 쉬/pv+어/ecx o 보/px+ㄴ/exm o 적/nb+이/jc o 없/pa+다/ef+./s. 
+o 잠/nc o 좋/pa+ㄴ/exm o 책/nc+일/nbu+세/nn+,/s, o 한번/nn o 읽/pv+어/ecx o 보/px+게/ef+./s. 
+o 잡/pv+기/exn+가/jc o 힘들/pv+었/efp+다고/ecs o 말/nca+하/xpv+었/efp+다/ef+./s. 
+o 장기/nc+의/jcm o 차/nc+가/jc o 죽/pv+는다/ef+./s. 
+x 장난감/nc+을/jc o 만들/pv+어/ecx o 주/px+었/efp+다/ef+./s. 
+o 장미/nc+가/jc o 빨갛/pa+다/ef+./s. 
+o 장미꽃/nc+이/jc o 붉/pa+다/ef+./s. 
+o 장비/nc o 하나/nn o 없/pa+이/xa o 등/nc+산/nc o 가/pv+니/ecs+?/s. 
+o 저것/npd+이/jc o 바로/a o 꽃/nc+이/jcp+다/ef+./s. 
+o 저것/npd+이/jc o 우리/npp o 학교/nc+이/jcp+다/ef+./s. 
+o 저기/npd+가/jc o 바로/a o 남대문/nc+이/jcp+다/ef+./s. 
+o 저기/npd+에/jca o 멋지/pa+ㄴ/exm o 그림/nc+이/jc o 있/pa+구나/ef+!/s. 
+o 저기/ad o 가/pv+시/efp+는/exm o 분/nb+이/jc o 저/npp+의/jcm o 선생님/nc+이/jcp+시/efp+ㅂ니다/ef+./s. 
+o 저기/ad o 보이/pv+는/exm o 것/nb+은/jx o 너/npp+의/jcm o 집/nc+이/jc o 아니/pa+다/ef+./s. 
+o 저기/ad o 보이/pv+는/exm o 초/nc+가/nc+집/nc o 있/pa+죠/ef+./s. 
+o 저기/ad+,/s, o 너/npp o 점심/nct o 먹/pv+었/efp+니/ef+?/s. 
+o 저/npp+는/jx x 낫/nc o 놓/pv+고/ecq x 기역/nc o 자/xn+도/jx o 모르/pv+아요/ef+./s. 
+o 저/npp+는/jx x 아무것도/a o 가지/pv+ㄴ/exm o 것/nb+이/jc o 없/pa+습니다/ef+./s. 
+o 저/npp+는/jx x 아무것도/a o 가지/pv+ㄴ/exm o 게/jca o 없/pa+습니다/ef+./s. 
+o 저/npp+는/jx o 아침/nct+마다/jx x 우류/nc+를/jc o 하/pv+ㄴ/exm o 잔/nc+씩/xn o 마시/pv+ㅂ니다/ef+./s. 
+o 저/npp+도/jx o 내년/nct+에/jca o 대학/nc+에/jca o 가/pv+ㅂ니다/ef+./s. 
+o 저/npp+도/jx o 당신/npp+을/jc o 따르/pv+아/ecx o 가리/pv+다/ef+./s. 
+o 저/npp+도/jx o 선생님/nc+을/jc o 따르/pv+아/ecx o 가/px+아/ecx+오/px+리다/ef+./s. 
+o 저/npp+도/jx o 어차피/a x 붙잡히/pv+겠/efp+군요/ef+?/s. 
+o 저런/md o 일/nc+도/jx o 있/pa+었/efp+ㄹ까/ef+?/s. 
+o 저런/md+!/s. 
+o 저렇게/a x 부지런/nca+하/xpv+ㄴ/exm o 사람/nc+은/jx o 처음/nct o 보/pv+ㄴ다/ef+./s. 
+o 저렇게/a o 아름답/pa+ㄴ/exm o 꽃/nc+도/jx o 있/pa+나/ecs o 보/px+다/ef+./s. 
+o 저리/ad o 잘/a o 달리/pv+는/exm o 자동차/nc+는/jx o 처음/nct o 보/pv+았/efp+다/ef+./s. 
+o 저리/ad o 잘/a o 못/a o 달리/pv+는/exm o 자동차/nc+는/jx o 처음/nct o 보/pv+ㄴ다/ef+./s. 
+o 저/npp+분/xn+은/jx o 그림/nc+도/jx o 잘/a o 그리/pv+시/efp+ㅂ니다/ef+./s. 
+o 저/npp+분/xn+은/jx o 현재/nct o 국민/nc o 학교/nc o 교장/nc o 선생님/nc+이/jcp+시/efp+다/ef+./s. 
+o 저/npp+분/xn+이/jc o 제/md x 어머님이십니/nc+이/jcp+다/ef+./s. 
+o 저희/npp+들/xn+은/jx o 5/nnn+년/nbu+간/xn x 광주/nc+에서/jca o 살/pv+았/efp+습니다/ef+./s. 
+o 저희/npp o 집/nc+에서는/jca x 닭/nc+과/jj o 오/nn+리/nb+를/jc o 기르/pv+ㅂ니다/ef+./s. 
+o 저희/npp o 집/nc+에서는/jca o 오/nn+리/nb+와/jj x 닭/nc+을/jc o 기르/pv+ㅂ니다/ef+./s. 
+o 저/md o 건물/nc+을/jc o 동/nc+대문/nc+이/jcp+라/ecs o 이르/pv+ㄴ다/ef+./s. 
+o 저/md o 건물/nc+이/jc o 바로/a o 박물관/nc+이/jcp+다/ef+./s. 
+o 저/md o 그림/nc+은/jx o 아름답/pa+어/ecx o 보이/px+ㄴ다/ef+./s. 
+o 저/md x 꼿/nc+은/jx o 너/npp+의/jcm o 집/nc+에서/jca o 기르/pv+ㄴ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 저/md o 꽃/nc+은/jx o 누구/npp+가/jc o 심/pv+었/efp+ㄹ까/ef+?/s. 
+o 저/md x 낚시꾼이/nc x 얼음판을/nc x 깨느라고/nc o 고생/nc+을/jc o 하/pv+ㄴ다/ef+./s. 
+o 저/md o 노래/nc+를/jc o 들/pv+면/ecs o 언제나/a o 슬프/pa+다/ef+./s. 
+o 저/md o 두/mn o 젊/pa+ㄴ/exm o 사람/nc+은/jx o 뜻/nc+이/jc o 서로/a o 맞/pv+아/ecx x 일생을/nc o 같이/jca o 살/pv+고자/ecx o 맹세/nca+하/xpv+었/efp+다/ef+./s. 
+o 저/md o 배/nc+를/jc o 보/pv+시/efp+ㅂ시오/ef+./s. 
+o 저/md o 분/nb+이/jc o 저/npp+의/jcm o 선생님/nc+이/jcp+시/efp+ㅂ니다/ef+./s. 
+o 저/md o 사과/nc+가/jc o 맛/nc+이/jc o 있/pa+게/xa o 익/pv+었/efp+구나/ef+./s. 
+o 저/md o 사람/nc+은/jx o 너무/a o 자기/npp+만/jx o 아끼/pv+ㄹ/exm o 줄/nb o 안/pv+단/exm o 말/nc+이/jcp+야/ef+./s. 
+o 저/md o 사람/nc+은/jx x 웃옷이/nc o 소매/nc+가/jc o 짧/pa+다/ef+./s. 
+o 저/md o 산/nc+이/jc o 너/npp+에게/jca o 잘/a o 보이/pv+니/ecs+?/s. 
+o 저/md o 산/nc+이/jc o 높/pa+다/ef+./s. 
+o 저/i o 새/m o 차/nc+는/jx o 철수/nc+네/xn o 것/nb+이/jcp+다/ef+./s. 
+o 저/i o 새/m o 책/nc+은/jx o 누구/npp+의/jcm o 것/nb+이/jcp+지/ef+?/s. 
+o 저/md o 선수/nc+는/jx o 빨리/a+는/jx o 뛰/pv+ㄴ다/ef+./s. 
+o 저/md o 아이/nc+가/jc o 제/md o 형/npp+보다/jca x 낫겠/pv+다/ef+./s. 
+o 저/md o 아이/nc+는/jx o 아무리/a o 내/nc+가/jc o 업/pv+려고/ecx o 하/px+어도/ecs x 업히/pv+지/ecx o 않/px+더니/ecs+,/s, o 제/md o 누나/npp+가/jc o 업/pv+자고/ecs o 하/pv+니까/ecs x 냉큼/nc x 업히는군요/nc+!/s. 
+o 저/md o 아이/nc+는/jx x 여우/nc+이/jcp+다/ef+./s. 
+o 저/md o 아이/nc+는/jx o 키/nc+가/jc o 크/pa+다/ef+./s. 
+o 저/md o 예쁘/pa+ㄴ/exm o 꽃/nc+은/jx o 누구/npp+가/jc o 심/pv+었/efp+ㄹ까/ef+?/s. 
+o 저/md o 책/nc+을/jc o 집/pv+어/ecx o 가지/pv+고/ecx o 오/px+어라/ef+./s. 
+o 저/i+,/s, o 그렇/pad+ㄴ/exm o 사람/nc+이/jc o 있/pa+었/efp+는데/ef+./s. 
+o 저/i+,/s, x 여기엔/nc o 아무/npd+도/jx o 없/pa+는데요/ef+./s. 
+o 적/nc+군/xn+이/jc o 이리/ad o 몰리/pv+어/ecx+오/px+아요/ef+./s. 
+o 적어도/a o 그/md o 사람/nc+과는/jj o 사귀/pv+어서는/ecs o 안/a o 되/pv+ㄴ다/ef+./s. 
+x 전쟁/nc+이/jc o 터지/pv+었/efp+다/ef+./s. 
+o 전/nct x 유권/nc+자/xn+는/jx x 빠짐없/pa+이/xa x 투표/nc+에/jca x 임/nca+하/xpv+시/efp+어야/ecs o 하/pv+ㅂ니다/ef+./s. 
+o 젊/pa+었/efp+ㄹ/exm o 때/nct+,/s, o 그/npp+는/jx o 미남/nc+이/jcp+었었/efp+다/ef+./s. 
+o 젊은이/nc+들/xn+에게/jca o 아름답/pa+ㅁ/exn+을/jc o 심/pv+어/ecx o 주/px+자/ef+./s. 
+o 젊은이/nc+의/jcm o 이상/nc+은/jx x 드높기/nc+만/jx o 하/pv+다/ef+./s. 
+o 젊/pa+ㅁ/exn+을/jc o 불/nbu+태우/pv+며/ecq x 보람/nc o 있/pa+게/xa o 살/pv+리라/ef+./s. 
+o 젊/pa+ㅁ/exn+을/jc x 흙/nc+과/jj o 함께/a o 살/pv+ㄹ/exm+리/nb+가/jc+./s. 
+o 젊/pa+ㅁ/exn+이/jc x 황혼/nc+에/jca o 지/pv+다/ef+./s. 
+o 점심/nct o 빨리/a o 먹/pv+지/ecx o 않/px+니/ef+?/s. 
+o 정말로/a o 곱/pa+아라/ef+./s. 
+o 정말/nc x 경치가/nc x 절경이/nc+이/jcp+군/ef+!/s. 
+o 정말/nc o 그/npp+가/jc o 가/pv+나/ecs o 보/px+다/ef+./s. 
+o 정말/nc o 그/npp+가/jc o 가/pv+는가/ef o 보/px+다/ef+./s. 
+o 정말/nc o 그만/a o 두/pv+기/exn o 못하/px+겠/efp+니/ef+?/s. 
+o 정말/nc o 깜짝/a o 놀라/pv+았/efp+다/ef+./s. 
+o 정말/nc o 잘못하/pv+었/efp+는가/ef o 싶/px+다/ef+./s. 
+o 정말/nc+!/s. 
+o 정부/nc+는/jx o 수/nc+해/nc o 대책/nc+을/jc x 시급히/a o 세우/pv+라/ef+./s. 
+o 정원/nc+의/jcm o 잔디/nc+가/jc o 많/pa+ㄴ/exm o 사람/nc+들/xn+의/jcm o 발/nc+에/jca o 밟히/pv+어서/ecs o 못/a o 쓰/pv+게/ecx o 되/pv+었/efp+다/ef+./s. 
+o 젖/pv+ㄹ/exm x 먹/nc+이/jcp+었/efp+다/ef+./s. 
+o 저/npp+가/jc o 그렇게/a+도/jx o 아름답/pa+아요/ef+?/s. 
+o 저/npp+가/jc o 말씀드리/pv+죠/ef+./s. 
+o 저/npp+가/jc o 말/nc+이/jcp+ㅂ니다/ef+,/s, o 어제/nct o 말/nc+이/jcp+ㅂ니다/ef+,/s, o 아프/pa+아서/ecs o 말/nc+이/jcp+ㅂ니다/ef+,/s, o 병원/nc+에/jca o 가/pv+았었/efp+습니다/ef+./s. 
+o 저/npp+가/jc o 먼저/a o 가/pv+겠/efp+습니다/ef+./s. 
+o 저/npp+가/jc o 수학/nc+은/jx o 어느/md o 정도/nc o 자신/npp+이/jc o 있/pa+습니다/ef+./s. 
+o 저/npp+가/jc o 짐/nc+을/jc o 들/pv+어다/ecx o 드리/px+겠/efp+습니다/ef+./s. 
+o 저/npp+가/jc o 하/pv+려는/exm o 이/md x 이야가/nc+는/jx o 여러/mn+분/nbu+께/jca o 도움/nc+이/jc o 되/pv+ㄹ/exm o 것/nb+이/jcp+ㅂ니다/ef+./s. 
+o 제발/a o 날씨/nc+가/jc o 맑/pa+았/efp+면/ecs o 좋/pa+겠/efp+는데/ef+./s. 
+o 제발/a o 너/npp+만은/jx o 참/pv+아라/ef+./s. 
+o 제발/a o 비/nc+가/jc o 조금/a+이라도/jx o 오/pv+았/efp+면/ecs o 좋/pa+겠/efp+는데/ef+!/s. 
+o 제/md o 형/npp+보다/jca x 낫겠/pv+다/ef+./s. 
+o 조금/a+만/jx o 있/pa+면/ecs o 다/a o 끝나/pv+ㅂ니다/ef+./s. 
+o 조선/nq+의/jcm o 독립/nc+국/nbu+이/jcp+ㅁ/exn+을/jc o 선언/nc+하/xpa+노라/ef+./s. 
+o 조용히/a+,/s, o 그리고/ajs x 간절히/nc o 우리/npp+를/jc o 부르/pv+고/ecx o 있/px+다/ef+./s. 
+o 좀/a o 비키/pv+어/ecx o 주/px+시/efp+어요/ef+./s. 
+o 종이/nc o 석/nc o 장/xn+이/jc o 더/a o 필요/ncs+하/xpa+다/ef+./s. 
+o 좋/pa+다/ef+!/s. 
+o 좋/pa+아요/ef+,/s, o 저/npp+가/jc o 먼저/a o 가/pv+지요/ef+./s. 
+x 주님께서/nc o 저/npp+를/jc o 돕/pv+아/ecx o 주소/nc+서/jca+./s. 
+o 주민/nc o 대표/nc o 두/mn+분/nbu+이/jc o 찾/pv+아/ecx+오/px+았/efp+다/ef+./s. 
+o 주민/nc o 대표/nc o 두/mn o 분/nbu+이/jc o 찾/pv+아/ecx+오/px+았/efp+다/ef+./s. 
+x 주부/nc+의/jcm o 눈/nc+에/jca o 비치/pv+ㄴ/exm o 덕/nc+기/nc+는/jx x 해끄무레/nca+하/xpv+고/ecq x 예쁘/nc+장/xn+스럽/xpa+ㄴ/exm x 똑똑/ncs+하/xpa+ㄴ/exm o 청년/nc+이/jcp+었/efp+다/ef+./s. 
+o 주시/nc+경/nc o 선생님/nc+은/jx o 전/nct x 생애/nc+를/jc x 우리망/nc+의/jcm o 연구/nc+에/jca o 바치/pv+었/efp+다/ef+./s. 
+o 주시/nc+경/nc o 선생/nc+이/jc x 국어/nc o 연구/nc+의/jcm o 창/nc+시/nbu+자/xn+이/jcp+었/efp+ㅁ/exn+을/jc o 책/nc+을/jc o 읽/pv+고/ecx o 알/pv+았/efp+다/ef+./s. 
+o 주식/nc+을/jc o 몇/mn o 주/nbu o 사/nn o 두/pv+었/efp+더니/ecs o 크/pa+ㄴ/exm o 이익/nc+이/jc o 남/pa+았/efp+다/ecx+들/px+ㄴ지/ecs+,/s, o 각/nc o 은행/nc o 사무/nc+원/nc o 경/nc+기회/nc+에서/jca o 자기/npp+가/jc x 우월/nca+하/xpv+ㄴ/exm o 성적/nc+을/jc o 얻/pv+었/efp+다/ecx+들/px+ㄴ지/ecs+,/s, o 이런/md o 것/nb o 저렇/pad+ㄴ/exm o 것/nb o 한참/nc o 이야기/nca+하/xpv+다가/ecq o 돌/pv+아/ecx+가/px+았/efp+다/ef+./s. 
+o 주/nct+이/jcp+어/ef+,/s, o 때/nct+가/jc o 오/pv+았/efp+ㅂ니다/ef+./s. 
+o 죽/pv+겠/efp+다고/ecs o 발버둥치/pv+더/efp+ㄴ/exm o 때/nct+가/jc o 어제/nct o 같/pa+다/ef+./s. 
+o 죽/pv+느냐/ef o 살/pv+느냐/ef+가/jc o 문제/nc+이/jcp+다/ef+./s. 
+o 죽/pv+어/ecx o 가/px+는/exm o 환자/nc+를/jc o 살리/pv+어/ecx o 놓/px+았/efp+다/ef+./s. 
+o 죽음/nc+을/jc o 두렵/pa+어/ecx+하/px+는/exm o 자/npp+는/jx x 소인이/nc+이/jcp+다/ef+./s. 
+o 줄/nb+이/jc o 끊기/pv+었/efp+다/ef+./s. 
+o 중년/nc+의/jcm x 농부가/nc x 소/nc+한테/jca o 무겁/pa+ㄴ/exm o 짐/nc+을/jc o 끌리/pv+고/ecx o 있/px+다/ef+./s. 
+o 쥐/nc+가/jc x 뒷집/nc o 고양이/nc+에게/jca o 잘/a o 잡히/pv+ㄴ다/ef+./s. 
+o 지/pv+고/ecx o 있/px+는/exm o 꽃잎/nc+에/jca x 축억/nc+만이/jc o 묻히/pv+어/ecx+./s. 
+o 지구/nc+는/jx o 돌/pv+ㄴ다/ef+./s. 
+o 지구/nc+는/jx o 태양/nq+을/jc o 돌/pv+ㄴ다/ef+./s. 
+o 지구/nc+는/jx o 태양/nq+의/jcm x 둘레/nc+를/jc o 돌/pv+고/ecx o 있/px+다/ef+./s. 
+o 지구/nc+는/jx o 항상/a o 태양/nq+을/jc o 돌/pv+ㄴ다/ef+./s. 
+o 지구/nc+는/jx o 항상/a o 태양/nq+의/jcm o 주위/nc+를/jc o 돌/pv+ㄴ다/ef+./s. 
+o 지금/at+까지/jx o 읽/pv+ㄴ/exm o 책/nc+이/jc o 몇/mn x 권/nc+이나/jx o 되/pv+느냐/ef+?/s. 
+o 지금/at+까지/jx o 책/nc+을/jc o 읽/pv+었/efp+다/ef+./s. 
+o 지금/at+도/jx o 바람/nc+이/jc o 몹시/a o 불/pv+ㄴ다/ef+./s. 
+o 지금/at+은/jx o 과자/nc+를/jc o 먹/pv+었겠/efp+다/ef+./s. 
+o 지금/at+은/jx x 광주에/nc+도/jx o 눈/nc+이/jc o 오/pv+겠/efp+다/ef+./s. 
+o 지금/at+은/jx o 그/md o 곳/nc+도/jx o 춥/pa+겠/efp+지/ef+./s. 
+o 지금/at+은/jx o 말/nca+하/xpv+ㄹ/exm o 때/nct+가/jc o 아니/pa+다/ef+./s. 
+o 지금/at+은/jx o 토요일/nct o 오후/nct+,/s, x 동학사/nc+에/jca o 함박눈/nc+이/jc x 소록소록/a o 내리/pv+고/ecx o 있/px+다/ef+./s. 
+o 지금/at+쯤/xn o 설악/nq+산/nc+은/jx o 가을/nct x 단풍이/nc o 한없/pa+이/xa o 아름답/pa+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 지금/at o 거기/npd+서/jca o 무얼/nc o 하고/jj o 있/pa+니/ef+?/s. 
+o 지금/at o 막/nc o 들/xn+에서/jca o 돌아오/pv+ㄴ/exm o 언니/nc+의/jcm o 얼굴/nc+이/jc o 환/ncs+하/xpa+게/xa o 밝/pa+다/ef+./s. 
+o 지금/at o 비/nc+가/jc o 오/pv+아요/ef+./s. 
+o 지금/at o 원/nbu+고르/pv+ㄹ/exm o 쓰/pv+고/ecx o 있/px+다/ef+./s. 
+o 지난/nc x 장마/nc+에/jca o 논밭/nc+이/jc x 유실/nca+되/xpv+었/efp+다/ef+./s. 
+o 지난/nc x 장마/nc+에/jca o 집/nc+과/jj o 논밭/nc+이/jc o 무너지/pv+고/ecq x 유실/nca+되/xpv+었/efp+다/ef+./s. 
+o 지난/nc x 장마/nc+에/jca o 집/nc+이/jc o 무너지/pv+었/efp+다/ef+./s. 
+o 지리하/pv+ㄴ/exm x 장마/nc o 끝/nc+에/jca x 서풍/nc+에/jca o 몰리/pv+어/ecx+가/px+는/exm o 무섭/pa+ㄴ/exm o 검/pa+ㄴ/exm o 구름/nc+의/jcm o 터지/pv+ㄴ/exm o 틈/nc+으로/jca x 언뜻언뜻/nc o 보이/pv+는/exm o 푸르/pa+ㄴ/exm o 하늘/nc+은/jx o 누구/npp+의/jcm o 얼굴/nc+이/jcp+ㅂ니까/ef+?/s. 
+o 지붕/nc+에/jca x 까치/nc o 한/mn o 마리/nbu+가/jc o 앉/pv+아/ecx o 있/px+다/ef+./s. 
+x 지웅이/nc+는/jx o 아빠/nc+를/jc o 닮/pv+았/efp+다/ef+./s. 
+o 지위/nc+가/jc o 높/pa+다/ef+./s. 
+o 지체/nc o 말고/jx o 빨리/a o 가/pv+아/ecx o 보/px+게/ef+./s. 
+o 지체/nc o 말고/jx o 빨리/a o 가/pv+아/ecx o 보/px+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 지체/nc o 말고/jx o 빨리/a o 가/pv+아/ecx o 보/px+시/efp+ㅂ시오/ef+./s. 
+o 지체/nc o 말고/jx o 빨리/a o 가/pv+아/ecx o 보/px+아라/ef+./s. 
+o 지체/nc o 말고/jx o 빨리/a o 가/pv+아/ecx o 보/px+오/ef+./s. 
+o 지하/nc+철/nct o 또는/ajw o 버스/nc+를/jc o 타/pv+라/ef+./s. 
+o 지하/nc+철/nct+,/s, o 지금/at o 어디/npd+까지/jx o 오/pv+았/efp+나/ef+?/s. 
+x 진달래가/nc o 너무나/a o 화사/ncs+하/xpa+다/ef+./s. 
+x 진달래가/nc o 아름답/pa+게/xa o 피/pv+었/efp+다/ef+./s. 
+x 진달래/nc+가/jc o 피/pv+ㄴ/exm o 동/nc+산/nc+에/jca o 올라가/pv+자/ef+./s. 
+x 진정/nc x 아름답네그려/nc+!/s. 
+x 진해에/nc+는/jx o 벌써/a x 벚꽃/nc+이/jc o 피/pv+었겠/efp+다/ef+./s. 
+o 짐/nc+을/jc o 안기/pv+었/efp+다/ef+./s. 
+o 짐/nc+을/jc o 지우/pv+었/efp+다/ef+./s. 
+o 집/nc+에/jca o 가/pv+시/efp+ㅂ니까/ef+?/s. 
+o 집/nc+에/jca o 가/pv+ㄴ다/ef+./s. 
+o 집/nc+에/jca o 돌/nc+을/jc o 던지/pv+지/ecx o 말/px+아라/ef+./s. 
+o 집/nc+으로/jca o 돌/pv+아/ecx+가/px+는/exm o 길/nc+에/jca o 옛/m o 친구/nc+를/jc o 만나/pv+았/efp+다/ef+./s. 
+o 집/nc o 한/mn o 채/nb+를/jc o 짓/pv+었/efp+다/ef+./s. 
+o 쪽/nc+빛/nc+처럼/jca o 푸르/pa+구나/ef+,/s, o 하늘/nc+이/jc+./s. 
+o 쪽/nc+지/nb+를/jc x 남겨/nc+는/jx o 두/pv+었/efp+다/ef+./s. 
+o 쪽/nc+지/nb+를/jc o 남기/pv+어/ecx+두/px+었/efp+다/ef+./s. 
+o 차/nc+가/jc o 지나가/pv+ㄹ/exm o 수/nb o 있/pa+도록/ecs o 길/nc+을/jc o 넓히/pv+었/efp+다/ef+./s. 
+o 차/nc+를/jc o 새/m o 것/nb+으로/jca o 바꾸/pv+었/efp+다/ef+./s. 
+o 차/nc+를/jc o 세우/pv+어/ecx o 주/px+시/efp+어요/ef+./s. 
+o 차마/a o 그/md o 일/nc+은/jx o 밝히/pv+ㄹ/exm o 수/nb o 없/pa+었/efp+다/ef+./s. 
+o 차/nc o 시간/nct+이/jc o 얼마/nc o 안/a o 남/pa+았/efp+다/ef+./s. 
+o 찬란하/pa+ㄴ/exm x 슬픔/nc+의/jcm o 봄/nct+을/jc x 기다릴테요/nc+./s. 
+o 찬란하/pa+ㄴ/exm o 이/md o 모든/m o 빛/nc+에/jca o 눈/nc+이/jc o 부시/pa+어서/ecs x 담징은/nc o 눈/nc+을/jc o 뜨/pv+ㄹ/exm o 수/nb+가/jc o 없/pa+었/efp+다/ef+./s. 
+o 차/nc+는/jx o 없/pa+는/exm o 밥/nc+이/jcp+나마/ecs o 많이/a+들/pv+ㄹ/exm o 들/pv+시/efp+지요/ef+./s. 
+o 참/i x 아름답습니다그려/nc+!/s. 
+o 창문/nc+을/jc o 닫/pv+ㅂ시다/ef+./s. 
+o 창문/nc o 좀/a o 열/pv+어/ecx o 주/px+시겠/efp+어요/ef+?/s. 
+o 창/nc+수/nb+는/jx o 하루/nct o 저녁/nct+에/jca o 50/nnn+매/nc+의/jcm x 글/nc+을/jc o 쓰/pv+어/ecx o 내/px+었/efp+다/ef+./s. 
+o 창/nc+수/nb+만/jx o 고/nq+등/nc o 학생/nc+이/jcp+다/ef+./s. 
+o 창/nc o 밖/nc+으로/jca o 보이/pv+는/exm o 푸르/pa+ㄴ/exm o 숲/nc+이/jc o 아침/nct o 빛/nc+을/jc o 받/pv+아/ecx o 더욱/a o 빛나/pv+았/efp+다/ef+./s. 
+o 찾/pv+아/ecx+오/px+ㄴ/exm o 조카/npp+들/xn+에게/jca o 어머니/nc+가/jc o 새로/a o 밥/nc+을/jc o 짓/pv+어서/ecs x 먹/nc+이/jcp+어/ecs o 보내/pv+셨/efp+다/ef+./s. 
+o 책상/nc+은/jx o 발/nc+이/jc o 길/pa+다/ef+./s. 
+o 책상/nc o 다리/nc+가/jc o 부러지/pv+었/efp+다/ef+./s. 
+o 책상/nc o 위/nc+에/jca o 없/pa+는/exm o 책/nc+이/jc o 무엇/npd+이/jcp+냐/ef+?/s. 
+o 책상/nc o 위/nc+에/jca o 연필/nc+을/jc o 놓/pv+았/efp+다/ef+./s. 
+o 책상/nc o 위/nc+에/jca o 연필/nc+이/jc o 놓이/pv+었/efp+다/ef+./s. 
+o 책상/nc o 위/nc+에/jca o 책/nc+이/jc o 없/pa+다/ef+./s. 
+o 책/nc+을/jc o 내/pv+었/efp+다/ef+./s. 
+o 책/nc+을/jc o 들/pv+고/ecx o 가/px+ㄴ다/ef+./s. 
+o 책/nc+을/jc o 들리/pv+었/efp+다/ef+./s. 
+o 책/nc+을/jc x 서가/nc+에/jca o 꽂/pv+아/ecx o 두/px+었/efp+다/ef+./s. 
+o 책/nc+을/jc o 읽/pv+는가/ef o 보/px+다/ef+./s. 
+o 책/nc+을/jc o 읽/pv+는다/ef+./s. 
+o 책/nc+을/jc o 읽/pv+어라/ef+./s. 
+o 책/nc+을/jc o 읽/pv+어/ecx o 보/px+ㄴ다/ef+./s. 
+o 책/nc+을/jc o 읽/pv+며/ecq o 길/nc+을/jc o 걷/pv+는/exm o 것/nb+은/jx o 매우/a o 위험/ncs+하/xpa+다/ef+./s. 
+o 책/nc+을/jc o 책상/nc o 위/nc+에/jca o 얹/pv+어/ecx o 놓/px+았/efp+다/ef+./s. 
+o 책/nc+을/jc x 출판/nca+하/xpv+었/efp+다/ef+./s. 
+o 책/nc+의/jcm o 한/mn o 귀/nc+가/jc o 물/nc+에/jca o 젖/pv+었/efp+다/ef+./s. 
+o 책/nc+이/jc o 없/pa+다/ef+./s. 
+o 책/nc+이/jc o 연구/nc+실/xn+에/jca o 있/pa+다/ef+./s. 
+o 책/nc+이/jc o 있/pa+다/ef+./s. 
+o 책/nc+이/jc o 있/pa+지/ecx o 아니/a+하/pv+다/ef+./s. 
+o 책/nc o 좀/a o 집/pv+어/ecx o 주/px+ㄹ래/ef+?/s. 
+o 천둥/nc o 소리/nc+에/jca o 모두/nc+들/xn o 깜짝/a o 놀라/pv+았/efp+다/ef+./s. 
+o 천/nn+만/nn+에/jca o 하나/nn+라도/jx o 그것/npd+이/jcp+라면/ecs+./s. 
+o 천/nn+만/nn+에/jca+!/s. 
+o 천/nn+만/nn+에/jca+,/s, o 나/npp+는/jx o 거기/npd+에/jca o 가/pv+ㄹ/exm o 뜻/nc+은/jx o 전혀/a o 없/pa+네/ef+./s. 
+o 천/nn+세/nn o 만/nn+세/nbu+를/jc x 누리소/nc+서/jca+./s. 
+o 천천히/a+들/pv+ㄹ/exm o 먹/pv+어라/ef+./s. 
+o 천천히/a o 가/pv+ㄹ까요/ef+,/s, o 빨리/a o 가/pv+ㄹ까요/ef+?/s. 
+o 천천히/a o 걸/pv+어/ecx+가/px+는/exm o 것/nb+이/jc o 좋/pa+겠/efp+오/ef+./s. 
+o 천천히/a o 걸/pv+어/ecx+가/px+ㅁ/exn+이/jc o 좋/pa+겠/efp+오/ef+./s. 
+o 천천히/a+./s. 
+o 천/nn o 년/nbu x 사직이/nc x 남가일몽이/pv+었/efp+고/ecq+,/s, o 태/pv+자/ecs o 가/pv+시/efp+ㄴ지/ecs o 또/a o 다시/a o 천/nn o 년/nbu+이/jc o 지나/pv+았/efp+니/ecs+,/s, o 유/nn+구/nn+한/nn x 영겁으/nc+로/jca o 보/pv+면/ecs o 천/nn o 년/nbu+도/jx o 수/mn+유/nn+이/jcp+더/efp+ㄴ가/ef+!/s. 
+o 철렁/a+거리/pv+는/exm o 파도/nc o 소리/nc+를/jc o 들/pv+며/ecq o 해변/nc+을/jc x 거닐곤/nc o 하/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 가/pv+았/efp+다/ef+./s. 
+o 철수/nc+가/jc o 거기/npd+서/jca o 무얼/nc o 하고/jj x 있디/nc+?/s. 
+o 철수/nc+가/jc o 과자/nc+를/jc o 먹/pv+는다/ef+./s. 
+o 철수/nc+가/jc o 교통/nc o 사고/nc+를/jc o 당하/pv+었/efp+습니다/ef+./s. 
+o 철수/nc+가/jc o 구두/nc+를/jc o 신/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 그것/npd+이/jc o 무슨/md o 책/nc+이/jcp+냐고/ef o 묻/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 그렇게/a o 말/nc+다/nc+이/jcp+더/efp+냐/ef+?/s. 
+o 철수/nc+가/jc o 그리/pv+ㄴ/exm o 풍경/nc+화/nc+가/jc o 전람회/nc+에서/jca x 특선으/nc+로/jca o 뽑히/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 그/md o 책/nc+을/jc o 가지/pv+었었/efp+는데/ef+./s. 
+o 철수/nc+가/jc o 꽃/nc+이/jc o 피/pv+ㄴ다고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 철수/nc+가/jc o 말/nc+이/jcp+야/ef+,/s, o 내일/nct+말/xn+이/jcp+야/ef+,/s, x 순이/nca+하/xpv+고/ecq o 말/nc+이/jcp+야/ef+,/s, o 등/nc+산/nc+을/jc o 간/nc+대/xn+./s. 
+o 철수/nc+가/jc o 매우/a o 춥/pa+다고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 철수/nc+가/jc o 먹/pv+ㄴ/exm o 약/nc+은/jx o 감/pv+기/exn+에/jca x 효험이/nc o 크/pa+다/ef+./s. 
+o 철수/nc+가/jc o 몸/nc+이/jc o 아프/pa+아/ecx o 병원/nc+에/jca o 가/pv+았/efp+습니다/ef+./s. 
+o 철수/nc+가/jc x 바깥이/a o 춥/pa+냐고/ef o 묻/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 밥/nc+을/jc o 먹/pv+느냐/ef+?/s. 
+o 철수/nc+가/jc o 밥/nc+을/jc o 먹/pv+는구나/ef+!/s. 
+o 철수/nc+가/jc o 밥/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 철수/nc+가/jc o 부상/nc+을/jc o 당하/pv+었/efp+다는/exm o 것/nb+은/jx x 낭설/nc+이/jcp+다/ef+./s. 
+o 철수/nc+가/jc o 부르/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 비/nc+가/jc o 오/pv+느냐고/ecs o 묻/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 비/nc+가/jc o 오/pv+ㄴ다고/ecs o 말/nca+하/xpv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 새/m o 구두/nc+를/jc o 신/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 새/m o 동화책/nc+을/jc o 읽/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 서울/nq+로/jca o 가/pv+았/efp+다/ef+./s. 
+o 철수/nc+가/jc x 순이오/pv+아/ecx o 결혼/nca+하/xpv+ㄴ다/ef+./s. 
+o 철수/nc+가/jc o 시/nbu+조/nn+를/jc x 읊/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 시험/nc+에/jca o 떨/pv+어/ecx+지/px+었/efp+다/ef+,/s, o 의/nc+외/nc+로/jca+./s. 
+o 철수/nc+가/jc o 시험/nc+에/jca o 의/nc+외/nc+로/jca o 떨/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 아까/nct+부터/jx o 아주/a o 춥/pa+어/ecx+하/px+어요/ef+./s. 
+o 철수/nc+가/jc o 어서/a o 가/pv+라고/ecs o 말/nca+하/xpv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 어서/a o 가/pv+시/efp+라고/ecs o 말/nca+하/xpv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 어서/a o 가/pv+자고/ecs o 말/nca+하/xpv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 어제/nct o 떠나/pv+지/ecx o 않/px+고/ecq o 오늘/nct o 떠나/pv+았/efp+다/ef+./s. 
+o 철수/nc+가/jc o 어제/nct o 떠나/pv+지/ecx o 않/px+고/ecq o 집/nc+에/jca o 있/pa+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 어제/nct o 집/nc+에서/jca o 공부/nca+하/xpv+더/efp+라/ef+./s. 
+o 철수/nc+가/jc x 영희/nc+를/jc o 자기/npp o 집/nc+으로/jca o 보내/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc x 영희/nc+보다/jca o 키/nc+가/jc o 크/pa+ㄴ/exm o 것/nb+은/jx o 아니/pa+다/ef+./s. 
+o 철수/nc+가/jc x 영희/nc+에게/jca o 돌/nc+을/jc o 던지/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 오/pv+기/exn+를/jc o 기다리/pv+ㄴ다/ef+./s. 
+o 철수/nc+가/jc o 의/nc+외/nc+로/jca o 시험/nc+에/jca o 떨/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 이것/npd+은/jx o 책/nc+이/jcp+라고/ecs o 말/nca+하/xpv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 이야기/nc+책/nc+을/jc o 읽/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 이/md o 나무/nc+를/jc o 심/pv+었/efp+지/ecx o 않/px+니/ef+?/s. 
+o 철수/nc+가/jc o 일/nn+등/nbu+을/jc o 하/pv+었/efp+ㅁ/exn+이/jc o 밝히/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 잡/pv+ㄴ/exm o 고기/nc+가/jc x 월척이/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 짓/pv+ㄴ/exm o 시/nb+가/jc o 일/nn+등/nbu+으로/jca o 뽑히/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 짐/nc+을/jc o 지/pv+ㄴ다/ef+./s. 
+o 철수/nc+가/jc o 집/nc+에/jca o 가/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 철수/nc+가/jc o 책/nc+을/jc o 가지/pv+게/ecx o 되/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 책/nc+을/jc o 들/pv+고/ecx o 가/px+았/efp+다/ef+./s. 
+o 철수/nc+가/jc o 책/nc+을/jc o 들/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 책/nc+을/jc o 읽/pv+었/efp+다/ef+./s. 
+o 철수/nc+가/jc x 축구/nc+에/jca o 소질/nc+이/jc o 있/pa+는/exm o 것/nb+이/jc o 밝히/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 철수/nc+가/jc x 축구/nc+에/jca o 소질/nc+이/jc o 있/pa+다는/exm o 것/nb+이/jc o 밝히/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 철수/nc+가/jc x 축구/nc+에/jca o 소질/nc+이/jc o 있/pa+ㅁ/exn+이/jc o 밝히/pv+어/ecx+지/px+었/efp+다/ef+./s. 
+o 철수/nc+가/jc o 크/pa+ㄴ/exm o 키/nc+를/jc o 자랑/nca+하/xpv+ㄴ다/ef+./s. 
+o 철수/nc+가/jc o 학교/nc+에/jca o 가/pv+지/ecx o 않/px+더/efp+냐/ef+?/s. 
+o 철수/nc+가/jc o 학생/nc+이/jcp+다/ef+./s. 
+x 철수까지가/nc x 합격이라/nc+이/jcp+네/ef+./s. 
+o 철수/nc+네/xn o 집/nc+에서도/jca o 이/jcp+소/ef+를/jc o 먹이/nc+이/jcp+는가/ef+?/s. 
+o 철수/nc+는/jx o 가/pv+ㅁ/exn+을/jc o 먹/pv+면서/ecs x 떡/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 철수/nc+는/jx o 개/nc+한테/jca o 물리/pv+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 고/nq+등/nc o 학생/nc+이/jcp+다/ef+./s. 
+o 철수/nc+는/jx o 공/nc+을/jc o 집/pv+어서/ecs o 동생/npp+에게/jca o 주/pv+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 귀/nc+국/nbu+하/pv+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 그/md o 곳/nc+에는/jca o 가/pv+지/ecx o 아니/a+하/pv+ㄴ다/ef+./s. 
+o 철수/nc+는/jx o 급히/a o 달리/pv+어/ecx o 가/px+았/efp+다/ef+./s. 
+o 철수/nc+는/jx o 나무/nc o 의자/nc+에/jca o 앉/pv+았었/efp+다/ef+./s. 
+o 철수/nc+는/jx x 낮잠/nc+을/jc o 자/pv+ㄴ다/ef+./s. 
+o 철수/nc+는/jx o 눈/nc+을/jc o 감/pv+았/efp+다/ef+./s. 
+o 철수/nc+는/jx o 별/nc+관/nc+을/jc o 가로지르/pv+어/ecx o 가/px+았/efp+다/ef+./s. 
+o 철수/nc+는/jx o 서울/nq+로/jca o 가/pv+았/efp+고/ecq+,/s, x 철호/nc+는/jx o 부산/nq+으로/jca o 가/pv+았/efp+다/ef+./s. 
+o 철수/nc+는/jx o 서울/nq+에/jca o 살/pv+ㄴ다/ef+./s. 
+o 철수/nc+는/jx o 아직/a+도/jx o 그/md o 이야기/nc+를/jc o 믿/pv+고/ecx o 있/px+다/ef+./s. 
+o 철수/nc+는/jx o 어머니/nc+에게/jca o 자기/npp o 옷/nc+을/jc o 보이/pv+어/ecx o 드리/px+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 어제/nct o 떠나/pv+아/ecx o 버리/px+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 어제/nct o 집/nc+에서/jca o 공부/nca+하/xpv+더/efp+라/ef+./s. 
+o 철수/nc+는/jx o 여기/npd+에/jca o 없/pa+다/ef+./s. 
+o 철수/nc+는/jx x 여학생이/nc o 아니/pa+다/ef+./s. 
+o 철수/nc+는/jx o 영어/nc+와/jj x 독일어/nc+와/jj o 프랑스/nq x 어/nc+를/jc o 하/pv+ㄹ/exm o 줄/nb o 알/pv+ㄴ다/ef+./s. 
+o 철수/nc+는/jx o 영어/nq+,/s, x 독일어/nc+,/s, o 프랑스/nq x 어/nc+를/jc o 하/pv+ㄹ/exm o 줄/nb o 알/pv+ㄴ다/ef+./s. 
+o 철수/nc+는/jx x 영희/nc+에게/jca o 자기/npp o 책/nc+을/jc x 읽히/pv+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 자기/npp o 동생/npp+을/jc o 매우/a o 귀엽/pa+어/ecx+하/px+ㄴ다/ef+./s. 
+o 철수/nc+는/jx o 지금/at+까지/jx o 공부/nc+를/jc x 게을리/nca+하/xpv+ㄴ/exm o 것/nb+을/jc o 후회/nca+하/xpv+ㄴ다/ef+./s. 
+o 철수/nc+는/jx o 집/nc+에/jca o 가/pv+아서/ecs o 청소/nc+를/jc o 하/pv+었/efp+고/ecq+,/s, x 영희/nc+는/jx o 학교/nc+에/jca o 남/pa+아서/ecs o 청소/nc+를/jc o 하/pv+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 집/nc+에/jca o 가/pv+지/ecx o 않/px+았/efp+니/ef+?/s. 
+o 철수/nc+는/jx o 집/nc+에/jca o 가/pv+았/efp+지/ecx o 않/px+니/ef+?/s. 
+o 철수/nc+는/jx o 키/nc+가/jc o 크/pa+다/ef+./s. 
+o 철수/nc+는/jx o 학교/nc+에/jca o 가/pv+지/ecx o 못하/px+겠/efp+다/ef+./s. 
+o 철수/nc+는/jx o 학교/nc+에/jca o 가/pv+지/ecx o 못하/px+더/efp+라/ef+./s. 
+o 철수/nc+는/jx o 학교/nc+에/jca o 가/pv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 학교/nc+에/jca o 가/pv+지/ecx o 않/px+는다/ef+./s. 
+o 철수/nc+는/jx o 학교/nc+에/jca o 가/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 철수/nc+는/jx o 학교/nc+에/jca o 가/pv+았/efp+다/ef+./s. 
+o 철수/nc+는/jx o 학교/nc+에/jca o 안/a o 가/pv+ㄴ다/ef+./s. 
+o 철수/nc+는/jx o 학생/nc+이/jcp+다/ef+./s. 
+o 철수/nc+는/jx o 학생/nc+이/jc o 아니/pa+다/ef+./s. 
+o 철수/nc+는/jx o 할아버지/nc+에게/jca x 꾸중/nc+을/jc o 들/pv+었/efp+다/ef+./s. 
+o 철수/nc+는/jx o 허/a+는/jx o 옷/nc+을/jc o 버리/pv+고/ecq o 새/m o 옷/nc+으로/jca o 갈/pv+아/ecx o 입/pv+었/efp+다/ef+./s. 
+o 철수/nc+도/jx o 먼저/a o 가/pv+어라/ef+./s. 
+o 철수/nc+도/jx o 역시/a o 합격/nca+하/xpv+었/efp+다/ef+./s. 
+o 철수/nc+도/jx x 영수/nc+만큼/jca o 키/nc+가/jc o 크/pa+다/ef+./s. 
+o 철수/nc+도/jx o 자기/npp o 잘못/nc+을/jc o 알/pv+고/ecx o 있/px+다/ef+./s. 
+o 철수/nc+도/jx o 합격/nca+하/xpv+었/efp+다/ef+./s. 
+o 철수/nc+만/jx o 공부/nc+를/jc o 하/pv+었/efp+다/ef+./s. 
+o 철수/nc+만/jx o 먼저/a o 먹/pv+어라/ef+./s. 
+o 철수/nc+만/jx o 사랑/nca+하/xpv+었/efp+다/ef+./s. 
+o 철수/nc+만/jx o 상/nc+을/jc o 주/pv+셨/efp+다/ef+./s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 과자/nc+를/jc o 먹/pv+어라/ef+./s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 노래/nc+를/jc o 부르/pv+ㄹ/exm o 줄/nb o 알/pv+느냐/ef+?/s. 
+o 철수/nc+이/jcp+야/ef+,/s, x 무엇/nca+하/xpv+니/ecs+?/s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 밥/nc+을/jc o 먹/pv+어라/ef+./s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 밥/nc+을/jc o 먹/pv+자/ef+./s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 빨리/a o 자/pv+어라/ef+./s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 빨리/a o 자/i+./s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 이리/ad o 오/pv+어라/ef+./s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 지금/at o 무엇/npd+을/jc o 하/pv+느냐/ef+?/s. 
+o 철수/nc+이/jcp+야/ef+,/s, o 지금/at o 어디/npd+로/jca o 가/pv+느냐/ef+?/s. 
+o 철수/nc+에게/jca o 주/pv+어라/ef+./s. 
+o 철수/nc+와/jj x 복동이/nc+는/jx o 공놀이/nc+를/jc o 하/pv+었/efp+다/ef+./s. 
+o 철수/nc+와/jj x 순이/nc+가/jc o 결혼/nca+하/xpv+ㄴ다/ef+./s. 
+o 철수/nc+와/jj x 승호/nc+는/jx o 골목길/nc+에서/jca o 마주치/pv+었/efp+다/ef+./s. 
+o 철수/nc+와/jj x 영철이/nc+는/jx o 서로/a o 비슷/ncs+하/xpa+다/ef+./s. 
+o 철수/nc+와/jj x 영철이/nc+는/jx o 아주/a o 닮/pv+았/efp+다/ef+./s. 
+o 철수/nc+와/jj x 영호/nc+는/jx o 동창/nc+이/jcp+다/ef+./s. 
+o 철수/nc+와/jj x 영호/nc+는/jx o 복도/nc+에서/jca o 마주치/pv+었/efp+다/ef+./s. 
+o 철수/nc+와/jj x 영호/nc+는/jx o 서울/nq+과/jj o 부산/nq+에/jca o 살/pv+ㄴ다/ef+./s. 
+o 철수/nc+와/jj x 영호/nc+는/jx o 학생/nc+이/jcp+다/ef+./s. 
+o 철수/nc+와/jj x 철호/nc+는/jx x 야구/nc o 선수/nc+이/jcp+다/ef+./s. 
+o 철수/nc+의/jcm o 어리석/pa+ㅁ/exn+을/jc o 비웃/pv+다/ef+./s. 
+o 철수/nca+하/xpv+고/ecq x 영호/nc+는/jx o 동창/nc+이/jcp+다/ef+./s. 
+o 철수/nc o 주/pv+어라/ef+./s. 
+o 철수/nc+,/s, o 이리/ad o 오/pv+게/ef+./s. 
+o 철수/nc+,/s, o 이리/ad o 좀/a o 오/pv+게/ef+./s. 
+x 철호가/nc o 그림/nc+을/jc o 잘/a o 그리/pv+ㄴ다는/exm o 소문/nc+이/jc o 있/pa+다/ef+./s. 
+x 철호/nc+는/jx o 그림/nc+을/jc o 잘/a o 그리/pv+지만/ecs+,/s, o 노래/nc+는/jx o 잘/a o 부르/pv+지/ecx o 못하/px+ㄴ다/ef+./s. 
+x 철호/nc+는/jx o 부산/nq+으로/jca o 가/pv+았/efp+다/ef+./s. 
+x 철호/nc+는/jx o 운동/nc o 선수/nc+가/jc o 아니/pa+다/ef+./s. 
+x 철호에게/nc+는/jx o 좋/pa+ㄴ/exm o 그림/nc+이/jc o 있/pa+다/ef+./s. 
+x 철희/nc+는/jx o 그림/nc+을/jc o 잘/a o 그리/pv+ㄴ다/ef+./s. 
+o 첫째/nn+로/jca o 남/nq+에게/jca o 봉사/nca+하/xpv+라/ef+./s. 
+o 첫째/nn o 사람/nc+은/jx o 나/npp+의/jcm x 삼촌이/nc+이/jcp+다/ef+./s. 
+o 첫/mn x 나들이/nc+에/jca o 그/npp+를/jc o 만나/pv+았/efp+다/ef+./s. 
+o 청소/nc+는/jx o 우리/npp o 반/nc+이/jc o 가장/a o 깨끗하/pa+어요/ef+./s. 
+o 청소/nc+를/jc o 다하/pv+어/ecx o 가/px+ㄴ다/ef+./s. 
+o 청소/nc+를/jc o 시키/pv+다/ef+./s. 
+o 청소/nc+를/jc o 하/pv+게/ecx o 하/px+다/ef+./s. 
+x 청춘/nc+을/jc o 힘차게/a o 구/nn+가/nc+하/xpa+자/ef+./s. 
+x 청춘/nc+,/s, o 이것/npd+은/jx o 듣/pv+기/exn+만/jx o 하/pv+어도/ecs o 가슴/nc+이/jc o 설레/pv+는/exm o 말/nc+이/jcp+다/ef+./s. 
+x 청춘/nc+,/s, o 이/npd+는/jx o 듣/pv+기/exn+만/jx o 하/pv+어도/ecs o 가슴/nc+이/jc o 설레/pv+는/exm o 말/nc+이/jcp+다/ef+./s. 
+x 청춘/nc+,/s, o 이/npd+는/jx o 듣/pv+기/exn+만/jx o 하/pv+어도/ecs o 설레/pv+는/exm o 말/nc+이/jcp+다/ef+./s. 
+x 청춘/nc+,/s, o 이제/at o 듣/pv+기/exn+만/jx o 하/pv+어도/ecs o 가슴/nc+이/jc o 설레/pv+는/exm o 말/nc+이/jcp+다/ef+./s. 
+x 체언인/nc o 명/nbu+사/nn+는/jx o 주/pv+어/ecx+가/px+아/ecx o 되/pv+ㄹ/exm o 수/nb o 있/pa+다/ef+./s. 
+o 촛불/nc+을/jc o 밝히/pv+어/ecx o 놓/px+고/ecq o 책/nc+을/jc o 읽/pv+는다/ef+./s. 
+o 최선/nc+을/jc o 다하/pv+ㄹ/exm o 따르/pv+ㅁ/exn+이/jcp+다/ef+./s. 
+o 춥/pa+어서/ecs o 떨/pv+다/ef+./s. 
+x 충무공은/nc o 뛰어나/pv+ㄴ/exm o 전략/nc+가/nc+이/jcp+다/ef+./s. 
+x 충무공은/nc o 뛰어나/pv+ㄴ/exm o 전략/nc+가/nc+이/jcp+셨/efp+다/ef+./s. 
+x 칭찬에/nc+이/jcp+다/ef o 상/xn+도/jx o 받/pv+았/efp+다/ef+./s. 
+x 칭찬/nc+을/jc o 받/pv+다/ef+./s. 
+x 칭찬/nc+을/jc o 받/pv+ㄹ수록/ecs o 나/npp+는/jx o 열심히/a o 일/nca+하/xpv+ㄴ다/ef+./s. 
+o 코/nc+가/jc o 납작하/pa+어/ecx+지/px+다/ef+./s. 
+o 코/nc+가/jc o 땅/nc+에/jca o 닿/pv+다/ef+./s. 
+o 코/nc+끼리/xn+가/jc o 과자/nc+를/jc o 먹/pv+는다/ef+./s. 
+o 코/nc+끼리/xn+는/jx o 코/nc+가/jc o 길/pa+다/ef+./s. 
+x 코스모스/nc+는/jx o 사람/nc+이/jc o 가꾸/pv+어야/ecs o 피/pv+고/ecq+,/s, o 따라서/a o 대/nc+개/nc x 뜰/nc+이나/jx o 화/nc+다/nc+는/jx o 같/pa+ㄴ/exm o 데/nb o 피/pv+지만/ecs+,/s, x 들국화/nc+만은/jx o 누구/npp+가/jc o 가꾸/pv+지/ecx o 않/px+아도/ecs o 저절로/a o 피/pv+ㄴ다/ef+./s. 
+o 코/nc o 묻/pv+ㄴ/exm o 돈/nc 
+o 큰일/nc o 나/npp+이/jcp+게/ef+?/s. 
+o 크/pa+ㄴ/exm o 것/nb+보다/jca o 작/pa+ㄴ/exm o 것/nb+이/jc o 더/a o 아름답/pa+다/ef+./s. 
+o 크/pa+ㄴ/exm o 박물관/nc+이/jc o 있/pa+는/exm o 도시/nc+부터/jx o 구경/nca+하/xpv+고/ecx o 싶/px+다/ef+./s. 
+o 키/nc+가/jc o 작/pa+ㄴ/exm o 형/npp+의/jcm o 모습/nc+이/jc o 눈/nc+에/jca o 선/nc+하/xpa+다/ef+./s. 
+o 키/nc+가/jc o 크/pa+ㄴ/exm x 아우/nc+의/jcm o 친구/nc+를/jc o 만나/pv+았/efp+다/ef+./s. 
+o 타/pv+고/ecq o 남/pa+ㄴ/exm o 재/nc+가/jc o 기르/pv+ㅁ/exn+이/jc o 되/pv+ㅂ니다/ef+./s. 
+o 타/pv+아/ecx x 조항도/nc o 참/pv+고/ecx+하/px+어/ecs o 주시/nc+길/nc o 바라/pv+ㅂ니다/ef+./s. 
+x 태산이/nc o 높/pa+기/exn+는/jx o 하/pv+다/ef+./s. 
+x 토끼가/nc x 깡충깡충/nc o 뛰/pv+ㄴ다/ef+./s. 
+x 토끼/nc+는/jx o 앞/nc+발/nc+이/jc o 짧/pa+다/ef+./s. 
+x 토함산/nc o 중턱/nc+에/jca o 이르/pv+니/ecs o 동/nc+이/jc o 트/pv+기/exn o 시작/nca+하/xpv+어/ecx+,/s, x 산등성이까지/nc o 뻗치/pv+ㄴ/exm x 신작로/nc+의/jcm o 굴/nc+곡/nc+도/jx o 짐작/nca+하/xpv+ㄹ/exm o 수/nb o 있/pa+었/efp+다/ef+./s. 
+x 토함산/nc x 해돋/pa+이/xa+는/jx o 장관/nc+이/jcp+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+o 틀림없이/a o 조/nn o 아이/nc+의/jcm o 소행/nc+이/jcp+ㄹ/exm x 거야/nc+./s. 
+o 파도/nc o 치/pv+는/exm o 소리/nc+만/jx x 철썩철썩/a o 들리/pv+ㄹ/exm o 뿐/nb+이/jcp+다/ef+./s. 
+x 판단력/nc+을/jc o 기르/pv+라/ef+./s. 
+x 평야/nc+는/jx o 넓/pa+며/ecq+,/s, o 산/nc+은/jx o 높/pa+다/ef+./s. 
+o 표현/nc+에서는/jca+,/s, o 첫째/nn+,/s, o 내용/nc+상/xn x 오류/nc+의/jcm x 유무/nc+,/s, o 둘째/nn+,/s, o 내용/nc x 분량/nc+의/jcm o 과/nc+이/jcp+소/ef+,/s, o 셋/nn+째/nbu+,/s, o 내용/nc+의/jcm o 깊이/a+와/jj o 정확성/nc+,/s, o 넷째/nn+,/s, o 전통/nc+에/jca+의/jcm x 저촉/nc o 여부/nc o 등/nc+에/jca o 유의/ncs+하/xpa+어야/ecs o 하/pv+ㄴ다/ef+./s. 
+x 표/nc o 좀/a o 빨리/a o 팔/pv+라고/ecs o 하/pv+ㄴ다/ef+./s. 
+x 표/nc o 좀/a o 빨리/a o 팔/pv+ㅂ시다/ef+./s. 
+o 푸르/pa+ㄴ/exm o 숲/nc+이/jc o 우리/npp+에게/jca o 어서/a o 오/pv+라고/ecs o 손짓/nc+하/xpa+었/efp+다/ef+./s. 
+x 풍선/nc+을/jc o 날리/pv+었/efp+다/ef+./s. 
+o 피/pv+고/ecx o 지/px+는/exm o 꽃잎/nc+에/jca o 내/m o 마음/nc o 애/nc+달/nbu+파/pv+아/ecx+./s. 
+x 피난민/nc o 열/nn+차/nbu+를/jc o 놓치/pv+어/ecx o 버리/px+고/ecx o 걸/pv+어서/ecs x 남하/nca+하/xpv+었/efp+다/ef+./s. 
+o 피/nc+,/s, o 그렇/pad+ㄴ/exm o 말/nc+이/jc o 어디/ad o 있/pa+어/ef+./s. 
+x 필기/nc o 도구/nc+는/jx x 만년필이/nc x 글/nc+씨/xn+가/jc o 더/a o 잘/a o 쓰/pv+어/ecx+지/px+ㄴ다/ef+./s. 
+o 하나/nn+를/jc o 겨우/a o 만들/pv+었/efp+다는/exm o 걸/pv+냐/ef+?/s. 
+o 하나씩/nc o 둘/nn+씩/xn o 짝/nc+을/jc o 짓/pv+어/ecx o 가/px+어라/ef+./s. 
+o 하나/nn+에서/jca o 둘/nn+까지/jx 
+o 하나/nn+에서/jca x 열까지가/nc o 모두/a o 틀리/pv+었/efp+다/ef+./s. 
+o 하나/nn+에/jca o 하나/nn+를/jc o 더하/pv+면/ecs o 둘/nn+이/jcp+다/ef+./s. 
+o 하나/nn+와/jj o 둘/nn+,/s, o 그리고/ajs o 셋/nn+이/jcp+다/ef+./s. 
+x 하느님이시/nc+이/jcp+어/ef+,/s, o 이/md x 죄/nc+를/jc x 사하소/nc+서/jca+./s. 
+o 하늘/nc+도/jx o 맑/pa+고/ecq o 바다/nc+도/jx o 맑/pa+다/ef+./s. 
+o 하늘/nc+도/jx o 바다/nc+도/jx o 푸르/pa+다/ef+./s. 
+o 하늘/nc+만을/jc o 바라/pv+아/ecx+보/px+고/ecx o 살/pv+ㄹ/exm o 수/nb+이/jcp+야/ef o 없/pa+지/ecx o 않/px+ㄴ가/ef+?/s. 
+o 하늘/nc+보다도/jca+./s. 
+o 하늘/nc+은/jx o 높/pa+고/ecq+,/s, o 그리고/ajs o 푸르/pa+다/ef+./s. 
+o 하늘/nc+은/jx o 언제나/a o 맑/pa+고/ecq o 푸르/pa+어/ecx+지/px+려/ecx o 하/px+ㄴ다/ef+./s. 
+o 하늘/nc+은/jx o 푸르/pa+고/ecq+,/s, o 물/nc+은/jx o 맑/pa+다/ef+./s. 
+o 하늘/nc+은/jx o 푸르/pa+기/exn+도/jx o 하/pv+구나/ef+!/s. 
+o 하늘/nc+이/jc o 높/pa+다/ef+./s. 
+o 하늘/nc+이/jc o 맑/pa+게/xa o 개/pv+었/efp+다/ef+./s. 
+o 하늘/nc+이/jc o 쪽/nc+빛/nc+처럼/jca o 푸르/pa+구나/ef+./s. 
+o 하늘/nc+이/jc o 푸르/pa+다/ef+./s. 
+o 하루/nct+를/jc o 쉬/pv+었/efp+다/ef+./s. 
+o 하루/nct+에/jca o 두/mn+세/nbu x 끼/nc+씩/xn o 먹/pv+기/exn+는/jx o 하/pv+었/efp+다/ef+./s. 
+o 하루/at o 종/nbu+일/nn o 먹/pv+고/ecx o 자/pv+았/efp+다/ef+./s. 
+o 하루/at o 종/nbu+일/nn o 먹/pv+고/ecq o 정신/nc o 없/pa+이/xa o 자/pv+았/efp+다/ef+./s. 
+o 하마터면/ajs o 기차/nc+를/jc x 노칠/nc o 뻔하/pa+었/efp+다/ef+./s. 
+x 하수구가/nc o 꽉/a o 막히/pv+어/ecx o 버리/px+었/efp+다/ef+./s. 
+o 학교/nc+에/jca o 가/pv+다가/ecq o 돌아오/pv+았/efp+다/ef+./s. 
+o 학교/nc+에/jca o 가/pv+지/ecx o 않/px+았/efp+다/ef+./s. 
+o 학교/nc+에/jca o 가/pv+았/efp+다가/ecq o 돌아오/pv+았/efp+다/ef+./s. 
+o 학교/nc+에/jca o 못/a o 가/pv+았/efp+다/ef+./s. 
+o 학교/nc+에/jca o 안/a o 가/pv+았/efp+다/ef+./s. 
+o 학교/nc o 도서/nc+관/nc+은/jx o 어느/md o 쪽/nc+에/jca o 있/pa+느냐/ef+?/s. 
+x 학생답/pa+게/xa o 행동/nca+하/xpv+는/exm o 것/nb+이/jc o 중요하/pa+다/ef+./s. 
+o 학생/nc+들/xn+은/jx o 어디/npd+까지/jx o 가/pv+지/ef+?/s. 
+o 학생/nc+들/xn+이/jc o 다/a o 못/a o 오/pv+았/efp+다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 다/a o 오/pv+지/ecx o 못하/px+었/efp+다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 뒷문/nc+으로/jca o 밀리/pv+어/ecx o 오/px+았/efp+다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 앞/nc+문/nc+과/jj o 뒷문/nc+으로/jca o 밀리/pv+어/ecx o 오/px+았/efp+다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 앞/nc+문/nc+으로/jca o 밀리/pv+어/ecx o 오/px+았/efp+다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 운동/nc+장/xn+에서/jca o 조회/nc+를/jc o 하/pv+고/ecx o 있/px+다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 지금/at o 도서/nc+관/nc+에서/jca o 책/nc+을/jc o 읽/pv+고/ecx o 있/px+는/exm o 중/nb+이/jcp+다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 지금/at o 도서/nc+관/nc+에서/jca o 책/nc+을/jc o 읽/pv+고/ecx o 있/px+다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 지금/at o 도서/nc+관/nc+에서/jca o 책/nc+을/jc o 읽/pv+는다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 지금/at o 무엇/npd+을/jc o 하/pv+고/ecx o 있/px+나요/ef+?/s. 
+o 학생/nc+들/xn+이/jc o 지금/at o 운동/nc+장/xn+에서/jca x 체조/nc+를/jc o 하/pv+ㄴ다/ef+./s. 
+o 학생/nc+들/xn+이/jc o 지금/at x 체조/nc+를/jc o 하/pv+ㄴ다/ef+./s. 
+o 학생/nc+은/jx o 당연히/a x 교칙/nc+을/jc o 지키/pv+ㄹ/exm o 것/nb+이/jcp+다/ef+./s. 
+o 학생/nc+은/jx o 열심히/a o 공부/nca+하/xpv+어야/ecs x 하느니라/nc+./s. 
+o 학생/nc+이/jcp+더/efp+ㄴ/exm o 그/npp+가/jc o 학자/nc+이/jcp+라니/ef+!/s. 
+o 학생/nc+이/jc o 학교/nc+를/jc o 가/pv+ㄴ다/ef+./s. 
+o 학생/nc+이/jc o 학교/nc+에/jca o 가/pv+ㄴ다/ef+./s. 
+x 학생치고/nc x 게으른/nc o 이/jcp+자/ecs o 없/pa+다/ef+./s. 
+o 학생/nc o 두/mn+명/nbu+을/jc o 만나/pv+았/efp+다/ef+./s. 
+o 학자/nc+이/jcp+ㄴ/exm x 소크라테스/nc+는/jx o 불행/ncs+하/xpa+었/efp+다/ef+./s. 
+o 한국/nq+에/jca x 있어서/nc+의/jcm o 인/nc+구/nc o 문제/nc+는/jx o 심각/nca+하/xpv+다/ef+./s. 
+o 한국/nq o 국민/nc+이/jc o 매우/a x 부지런/nca+하/xpv+다는/exm o 것/nb+은/jx o 누구/npp+나/jx o 잘/a o 알/pv+고/ecx o 있/px+다/ef+./s. 
+x 한글/nc+날/xn+에/jca x 즈음/nca+하/xpv+어/ecx x 맞춤법/nc o 통일/nc+안/nc+을/jc o 공포/nc+하/xpa+었/efp+다/ef+./s. 
+o 한/mn x 골/nc+을/jc o 먹/pv+는다/ef+./s. 
+o 한/mn x 골/nc+을/jc o 잃/pv+는다/ef+./s. 
+o 한/mn o 나쁘/pa+ㄴ/exm o 사건/nc+으로/jca o 고생/nca+하/xpv+었/efp+다/ef+./s. 
+o 한/mn o 마디/nc+만/jx o 이야기/nca+하/xpv+고/ecx o 싶/px+어요/ef+./s. 
+o 한/mn o 시간/nbu+을/jc o 걸/pv+었/efp+다/ef+./s. 
+o 한/mn o 시간/nbu x 지나서가/nc o 문제/nc+이/jcp+ㅂ니다/ef+./s. 
+x 할머니가/nc o 손/nc+자/xn+에게/jca o 들리/pv+어/ecx o 주/px+는/exm o 이야기/nc+가/jc o 이/md o 방/nc+에서는/jca o 잘/a o 들리/pv+지/ecx o 않/px+는다/ef+./s. 
+x 할머니께서/nc o 눈/nc+이/jc o 어둡/pa+시/efp+어서/ecs x 아기/nc+에게/jca o 옷/nc+을/jc o 잘못/nc x 입히/nc+이/jcp+셨/efp+다/ef+./s. 
+x 할머니/i+,/s, o 어머니/nc+가/jc o 시장/nc+에/jca o 가/pv+았/efp+습니다/ef+./s. 
+x 할아버님께서/nc o 돌/pv+아/ecx+가/px+셨/efp+다/ef+./s. 
+o 할아버지/nc+께서는/jc o 시/nbu+조/nn+를/jc o 잘/a x 읊으시었습니/nc+이/jcp+다/ef+./s. 
+o 할아버지/nc+께서는/jc o 지나/pv+ㄴ/exm o 해/nc+에/jca o 돌/pv+아/ecx+가/px+셨/efp+습니다/ef+./s. 
+o 할아버지/nc+께서/jc o 이름/nc+을/jc o 짓/pv+어/ecx o 주/px+셨/efp+다/ef+./s. 
+x 할아버지께옵/nc+서/jca o 말씀/nca+하/xpv+셨/efp+다/ef+./s. 
+o 할아버지/nc+는/jx x 영수/nc+를/jc x 양/nc+자/xn+로/jca o 삼/pv+셨/efp+다/ef+./s. 
+o 할아버지/nc+는/jx o 조카/npp+를/jc x 양/nc+자/xn+로/jca o 삼/pv+셨/efp+다/ef+./s. 
+o 할아버지/nc+는/jx o 철수/nc+를/jc x 양/nc+자/xn+로/jca o 삼/pv+셨/efp+다/ef+./s. 
+o 할아버지/nc+,/s, o 아버지/nc+가/jc o 지금/at o 돌아오/pv+았/efp+습니다/ef+./s. 
+o 할아버지/nc+,/s, o 아버지/nc+가/jc o 지금/at o 오/pv+았/efp+습니다/ef+./s. 
+o 할아버지/nc+,/s, x 작은아버지가/nc o 아버지/nc+한테/jca x 뭔/nc+가/jc o 주/pv+었/efp+습니다/ef+./s. 
+o 합격/nca+하/xpv+ㄴ/exm o 사람/nc+은/jx o 철수/nc+뿐/nb+이/jcp+다/ef+./s. 
+o 합격/nca+하/xpv+ㄹ/exm o 때/nct+까지/jx o 열심히/a o 노력/nca+하/xpv+었/efp+다/ef+./s. 
+o 항상/a o 사람/nc+이/jc o 많/pa+ㄴ/exm o 것/nb+은/jx o 아니/pa+다/ef+./s. 
+x 항아리/nc+에/jca o 물/nc+이/jc o 가득/a o 차/pv+았/efp+다/ef+./s. 
+o 해/nc+가/jc o 뜨/pv+ㄴ다/ef+./s. 
+o 해/nc+가/jc x 비쭉/a o 솟/pv+는다/ef+./s. 
+o 해/nct+보다도/jca+./s. 
+o 해/nc+수/nc+욕/nc+장/xn+에는/jca o 수영/nc+을/jc o 하/pv+는/exm o 사람/nc+들/xn+로/jca x 붐비/pv+었/efp+다/ef+./s. 
+o 하/pv+어/ecx+오/px+아/ecx o 달/px+ㄴ/exm o 보통/nc+명/nbu+사/nn+이/jcp+다/ef+./s. 
+o 해외/nc+서/jca o 품/nc+위/nc o 지키/pv+라/ef+./s. 
+o 하/pv+어/ecx o 보/px+기/exn+는/jx o 하나/nn+,/s, o 결과/nc+는/jx o 뻔하/pa+어/ef+./s. 
+o 하/pv+어/ecx o 보/px+기/exn+는/jx o 한/mn+,/s, o 결과/nc+는/jx o 뻔하/pa+어/ef+./s. 
+x 행복/ncs+스럽/xpa+게/xa x 보인댜/nc+./s. 
+x 행복은/nc o 결코/a x 풍족/nca+하/xpv+ㅁ/exn+이/jc o 아니/pa+다/ef+./s. 
+x 행복이란/nc o 배/nbu+불/pv+ㄹ/exm+리/nb o 먹/pv+ㅁ/exn+이/jc o 아니/pa+다/ef+./s. 
+o 행복/nca+하/xpv+게/ecx o 보이/px+ㄴ다/ef+./s. 
+x 향수/nc+를/jc o 못/a o 이기/pv+어/ecx x 나그/nc+네/xn+의/jcm o 신세/nc+을/jc o 슬프/pa+어/ecx+하/px+는/exm o 것/nb+은/jx o 아니/pa+다/ef+./s. 
+x 허생은/nc x 묵적골/nc+에/jca o 살/pv+았/efp+다/ef+./s. 
+o 허수아비/nc+가/jc x 모/nc+자/xn+를/jc o 쓰/pv+고/ecx o 있/px+다/ef+./s. 
+o 허허/i+,/s, o 그것/npd o 참/i o 재미있/pa+군/ef+./s. 
+o 허/a+는/jx o 책/nc+을/jc o 팔/pv+아/ecx o 새/m o 책/nc+을/jc o 사/pv+았/efp+다/ef+./s. 
+o 허/a+는/jx o 책/nc+이/jcp+라고/ecs o 버리/px+어서/ecs o 되/pv+나/ef+?/s. 
+o 허/a+는/jx o 책/nc+이/jcp+라고/ecs x 아무데/nc+나/jx o 버리/pv+어/ecx o 두/px+는/exm o 일/nc+이/jc o 있/pa+어서는/ecs o 안/a o 되/pv+ㄴ다/ef+./s. 
+x 험/nca+하/xpv+ㄴ/exm o 세상/nc+에/jca o 다리/nc+가/jc o 되/pv+어/ecx 
+o 현대/nct+는/jx o 과학/nc+적/xn o 두뇌/nc+를/jc o 원하/pv+ㄴ다/ef+../sy 
+x 현숙이/nc+는/jx o 중학교/nc o 때/nct x 농구/nc o 선수/nc+이/jcp+었었/efp+다/ef+./s. 
+o 현실/nc+적/xn o 문제/nc+이/jcp+다/ef+./s. 
+o 형/npp+과/jj o 함께/a x 이삿짐/nc+을/jc o 열심히/a o 나르/pv+았/efp+다/ef+./s. 
+x 형님/nc+을/jc o 몰/pv+시/efp+어라/ef+./s. 
+x 형님/nc+을/jc o 몰/pv+시/efp+어/ecx o 오/px+았/efp+다/ef+./s. 
+x 형님/nc+을/jc o 몰/pv+시/efp+고/ecx o 가/px+어라/ef+./s. 
+x 형님/nc+을/jc o 몰/pv+시/efp+ㄴ다/ef+./s. 
+x 형님이/nc x 오시었다/nc+./s. 
+o 형/npp+에/jca o 비하/pv+면/ecs o 너무/a o 얌전/ncs+하/xpa+다/ef+./s. 
+o 형/npp+은/jx o 운동/nc+장/xn+에서/jca o 축/a+구르/pv+ㄹ/exm o 하/pv+고/ecq+,/s, x 아우/nc+는/jx x 철봉/nc+을/jc o 하/pv+었/efp+다/ef+./s. 
+o 형/npp+이/jc o 밥/nc o 먹/pv+었/efp+어요/ef+?/s. 
+x 호철아/i+,/s, o 선생님/nc+께서/jc x 오라신/pv+다/ef+./s. 
+o 혼자/npp+서/jx o 이/md o 일/nc+을/jc o 다/a o 하/pv+ㄹ/exm o 수/nb o 있/pa+ㄹ까/ef+?/s. 
+o 혼자/npp o 오/pv+았/efp+나/ef+?/s. 
+o 홍/nq+수/nc+로/jca o 호/nb+남/nc x 평야가/nc o 바다/nc+로/jca o 변하/pv+다/ef+./s. 
+o 화/nc+가/jc o 나/pv+ㄴ/exm o 벌/nc o 떼/nc+가/jc x 나무꾼/nc+을/jc o 쏘/pv+았/efp+다/ef+./s. 
+x 화단/nc+에/jca o 빨갛/pa+ㄴ/exm o 장미/nc+가/jc o 피/pv+었/efp+다/ef+./s. 
+o 화/nc+초/nc+에/jca o 물/nc+을/jc o 주/pv+어라/ef+./s. 
+o 확실히/a o 그것/npd+은/jx o 내/m o 잘못/nc+이/jcp+다/ef+./s. 
+o 확실히/a o 그/npp+는/jx o 머리/nc+가/jc o 좋/pa+다/ef+./s. 
+x 활기찬/nc o 생명/nc+만이/jc x 존귀/nca+하/xpv+다/ef+./s. 
+o 활짝/a o 피/pv+ㄴ/exm x 진달래가/nc o 너무나/a o 아름답/pa+다/ef+./s. 
+x 황무지/nc+에/jca o 서/pv+다/ef+./s. 
+o 회의/nc+가/jc o 아직/a+도/jx o 못/a o 끝나/pv+았/efp+구나/ef+./s. 
+o 회의/nc+가/jc o 아직/a+도/jx o 안/a o 끝나/pv+았/efp+구나/ef+./s. 
+x 후유/i+,/s, o 이제/at o 좀/a o 살/pv+겠/efp+구나/ef+./s. 
+o 훌륭하/pa+ㄴ/exm+,/s, o 우리/npp o 나라/nc+의/jcm o 지도자/nc+들/xn+을/jc x 본받아라/nc+./s. 
+o 휴지/nc+를/jc x 쓰레기통/nc+에/jca o 던지/pv+어/ecx o 버리/px+었/efp+다/ef+./s. 
+x 흙/nc+에/jca o 덮이/pv+었/efp+다/ef+./s. 
+o 흥/i+,/s, o 2/nnn+층/nbu o 대학생/nc o 녀석/nc o 때문/nb+이/jcp+지요/ef+,/s, x 뭐/nc+./s. 
+x 희곡/nc+,/s, o 수/nbu+피/pv+ㄹ/exm+,/s, x 소석은/nc x 예술문/nc+이/jcp+다/ef+./s. 
+o 희/pa+ㄴ/exm o 눈/nc+이/jc x 산봉우리/nc+를/jc o 덮/pv+었/efp+구나/ef+!/s. 
+o 희/pa+ㄴ/exm o 옷/nc o 위/nc+에/jca o 빨갛/pa+ㄴ/exm o 꽃/nc+물/nc+이/jc o 들/pv+었/efp+다/ef+./s. 
+o 힘들/pv+는/exm o 일/nc+이/jcp+ㄹ수록/ecs o 결과/nc+가/jc o 좋/pa+아야/ecx o 하/px+ㄴ다/ef+./s. 
+o 힘쓰/pv+어/ecx o 일/nca+하/xpv+ㅁ/exn+보다/jca o 더/a o 크/pa+ㄴ/exm x 행복은/nc o 없/pa+다/ef+./s. 
+o 힘쓰/pv+어/ecx o 일/nca+하/xpv+ㅁ/exn+을/jc x 보람으/nc+로/jca o 여기/npd+이/jcp+자/ef+./s. 
+o 힘/nc+이/jc o 적/pv+지/ecx o 않/px+이/xa o 들/pv+었/efp+다/ef+./s. 

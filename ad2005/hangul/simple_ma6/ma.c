@@ -1,0 +1,2214 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include "syllable_info_table.h"
+#include "josa_table.h"
+#include "eomi_table.h"
+#include "chaon_dic.h"
+#include "yongon_dic.h"
+#include "busa_dic.h"
+#include "kwanhyungsa_dic.h"
+#include "gamtansa_dic.h"
+#include "ma.h"
+#include "verb_incomp_dic.h"
+#define KSC_START 0xb0a1
+
+int table_lcon_to_fcon[] =
+{
+	0,
+	0, 2, 3, 0, 4,
+	0, 0, 5, 7, 0,
+	0, 0, 0, 0, 0,
+	0, 8, 0, 9, 0,
+	11, 12, 0, 14, 16,
+	17, 18, 19, 20
+};
+//extern unsigned char token[100][100];
+extern STR_RESULT_MA result_ma[100];
+
+extern int convert_3_to_ks(unsigned int f, unsigned int m, unsigned int l, unsigned char * des);
+extern int token_to_johabs(unsigned char *str,int len,unsigned char token_johab[20][3]);
+
+int
+check_belong_to_info_table_chaon (unsigned char *str, int len)
+{
+	unsigned int index;
+	unsigned int flag;
+	if (len == 1)
+		flag = F_CHAON1;
+	else if (len == 2)
+		flag = F_CHAON2;
+	else if (len == 3)
+		flag = F_CHAON3;
+	else if (len == 4)
+		flag = F_CHAON4;
+	else
+		flag = F_CHAON5;
+
+	index = str[0] * 256 + str[1] - KSC_START;
+	if ((table_syllable_info[index] & flag) > 0)
+		return 1;
+	else if ((table_syllable_info[index] & F_PRONOUN) > 0)
+		return 1;
+	else
+		return 0;
+}
+
+
+int
+check_belong_to_info_table_yongon (unsigned char *str, int len)
+{
+	unsigned int index;
+	unsigned int flag;
+	//printf(" len of yongon=%d \n",len);
+	if (len == 1)
+		flag = F_YONGON1;
+	else if (len == 2)
+		flag = F_YONGON2;
+	else
+		flag = F_YONGON3;
+	index = str[0] * 256 + str[1] - KSC_START;
+	if ((table_syllable_info[index] & flag) > 0)
+		return 1;
+	else
+		return 0;
+}
+
+
+int
+check_belong_to_info_table_busa (unsigned char *str, int len)
+{
+	unsigned int index;
+	unsigned int flag;
+	if (len == 1)
+		flag = F_ADV1;
+	else if (len == 2)
+		flag = F_ADV2;
+	else if (len == 3)
+		flag = F_ADV3;
+	else if (len == 4)
+		flag = F_ADV4;
+	else
+		flag = F_ADV5;
+	index = str[0] * 256 + str[1] - KSC_START;
+	if ((table_syllable_info[index] & flag) > 0)
+		return 1;
+	else
+		return 0;
+}
+
+
+int
+check_belong_to_info_table (unsigned char *str, unsigned int flag)
+{
+	unsigned int index;
+	index = str[0] * 256 + str[1] - KSC_START;
+	if ((table_syllable_info[index] & flag) > 0)
+		return 1;
+	else
+		return 0;
+}
+
+
+int
+check_connection_cj (unsigned char *chaon, int len, unsigned char *fvl,
+unsigned char *str)
+{
+	/*
+	  unsigned char tmp[9];
+	  convert_3_to_ks(fvl[0],fvl[1],fvl[2],tmp);
+	  printf(" lsat chaon=%s \n",tmp);
+	*/
+	if (len == 2 &&
+		(!strncmp ((char*)chaon, "³»", 2) || !strncmp ((char*)chaon, "³×", 2)
+		|| !strncmp ((char*)chaon, "Á¦", 2)))
+	{
+		if (!strncmp ((char*)str, "°¡", 2) || !strncmp ((char*)str, "°Ô", 2))
+			return 1;
+		else
+			return 0;
+	}
+	else if (!strcmp ((char*)(char*)chaon, "³ª") || !strncmp ((char*)chaon, "³Ê", 2)
+		|| !strcmp ((char*)chaon, "Àú"))
+	{
+		if (!strcmp ((char*)str, "°¡"))
+			return 0;
+	}
+	else if (!strncmp ((char*)str, "ÀÌ", 2) ||
+		!strncmp ((char*)str, "Àº", 2) || !strncmp ((char*)str, "À»", 2) ||
+		!strncmp ((char*)str, "°ú", 2) || !strncmp ((char*)str, "¾Æ", 2))
+	{
+		if (fvl[2] == 1)
+			return 0;		  // ¹ÞÄ§ÀÌ ¾ø´Â °æ¿ì´Â ºÒ°¡´É
+		else
+			return 1;
+	}
+	else if (!strncmp ((char*)str, "°¡", 2) || !strncmp ((char*)str, "´Â", 2) ||
+		!strncmp ((char*)str, "¸¦", 2) || !strncmp ((char*)str, "¿Í", 2) ||
+		!strncmp ((char*)str, "°í", 2) || !strncmp ((char*)str, "´Ù", 2) ||
+		!strncmp ((char*)str, "µç", 2) || !strncmp ((char*)str, "¶ó", 2) ||
+		!strncmp ((char*)str, "¶û", 2) || !strncmp ((char*)str, "¸ç", 2) ||
+		!strncmp ((char*)str, "¾ß", 2) || !strncmp ((char*)str, "¿©", 2))
+	{
+		if ((int) fvl[2] > 1)
+			return 0;
+		return 1;
+	}
+	else if (!strncmp ((char*)str, "·Î", 2))
+	{
+		if (fvl[2] == 1 || fvl[2] == 9)
+			return 1;		  // ¸ðÀ½ÀÌ³ª ¤© ·Î ³¡³ª¾ß¸¸
+		else
+			return 0;
+	}
+	return 1;
+}
+
+
+int
+check_connection_ye (unsigned char *yongon, int len,
+unsigned char *fvl, unsigned char *str)
+{
+	return 1;
+}
+
+
+int
+check_yongon_only (unsigned char *str, int len)
+{
+	// ¿ë¾ð¿¡¼­¸¸ »ç¿ëµÇ´Â À½Àý,
+	// ¸¸ÀÏ ÀÌ À½ÀýÁß ÇÏ³ª¸¦ °¡Áö°í ÀÖÀ¸¸é Ã¼¾ðÅ½»öÀ» ÇÏÁö ¾Ê¾Æµµ µÈ´Ù.
+	int i;
+	for (i = 0; i < len; i += 2)
+	{
+		if (check_belong_to_info_table (str + i, F_ETC))
+			return 1;
+	}
+	return 0;
+}
+
+
+int
+is_belong_to_josa_table (unsigned char *str)
+{
+	// ¿ø·¡´Â ÀÌÁø Å½»öÀ» ÇØ¾ßÇÏÁö¸¸ , »ý¹¦³× »çÀü¿¡ Á¶»ç³ª ¾î¹Ì·Î µî·ÏµÇÁö ¾ÊÀº
+	// ´Ü¾î°¡ ¸¹¾Æ¼­ ÇÊ¿äÇÑ °æ¿ì ¼ÕÀ¸·Î  ´Ü¾î¸¦ Ãß°¡ÇØ¾ß ÇÏ±â ¶§¹®¿¡
+	// ÀÏ´Ü ¼øÂ÷ÀûÀÎ Å½»öÀ» ¼öÇàÇÏµµ·Ï ÄÚµù
+	int i;
+	int len;
+	len = strlen ((char*)str);
+	if (len == 2)
+		if (check_belong_to_info_table (str, F_JOSA1))
+			return 1;
+	else
+		return 0;
+	for (i = 0; i < NO_JOSA; i++)
+		if (!strcmp ((char*)str, table_josa[i]))
+			return 1;
+	return 0;
+}
+
+
+int
+is_belong_to_eomi_table (unsigned char *str)
+{
+	// À§¿Í ¸¶Âù°¡Áö ÀÌÀ¯·Î ÀÏ´ÜÀº ¼øÂ÷ÀûÀÎ Å½»ö
+	// ÀÌÁø Å½»öÀ» ÇÏ·Á¸é ´Ü¾î°¡ ¼ø¼­´ë·Î ¹è¿­µÇ¾î¾ß ÇÔ
+	int i;
+	int len;
+	len = strlen ((char*)str);
+	if (len == 2)
+	{
+		if (!strncmp ((char*)str, "¤¤", 2) || !strncmp ((char*)str, "¤©", 2)
+			|| !strncmp ((char*)str, "¤±", 2) || !strncmp ((char*)str, "¤²", 2))
+			return 1;
+		else if (check_belong_to_info_table (str, F_EOMI1))
+			return 1;
+		else
+			return 0;
+	}
+	for (i = 0; i < NO_EOMI; i++)
+		if (!strcmp ((char*)str, table_eomi[i]))
+			return 1;
+	return 0;
+}
+
+
+// »çÀü¿¡¼­ ÀÌÁøÅ½»öÀ» ÇÏ±â À§ÇÑ ÇÔ¼ö
+// °°Àº Å©±âÀÇ ´Ü¾î·Î ±¸¼ºµÈ »çÀü¿¡¼­´Â offset À» ÀÎµ¦½º·Î »ç¿ëÇÏ°í
+// ½ºÆ®¸µ °ªÀ» ÀÎµ¦½º¿¡ ÀúÀåµÈ °ªÀ¸·Î »ý°¢ÇÏ¸é
+// strncmp ((char*)strcmp) ·Î ÀÌÁøÅ½»öÀ» ÇÒ ¼ö ÀÖ´Ù.
+int
+b_search (int kind, FILE * fp, long start, long end, unsigned char *str, int len)
+{
+	char str_read[20];
+	long half;
+	int val;
+	int no_of_word;
+	if (start == end - 2 * len)
+	{						  // ÇÑ±ÛÀº 2¹ÙÀÌÆ®ÀÌ¹Ç·Î
+		fseek (fp, start, SEEK_SET);
+		fread (str_read, len, 1, fp);
+		/* if(!strncmp(str,"¿À",2) ) {
+		str_read[len]=0;
+		printf(" s=%d e=%d str_read=%s \n",start,end,str_read);
+		}
+		*/
+		if (!strncmp ((char*)str, str_read, len))
+			return 1;
+		fread (str_read, len, 1, fp);
+		if (!strncmp ((char*)str, str_read, len))
+			return 1;
+		return 0;
+	}
+	else
+	{
+		half = start + (end - start) / 2;
+		if (kind == CHAON)
+			no_of_word = no_of_chaon[len / 2 - 1];
+		else if (kind == YONGON)
+		{
+			no_of_word = no_of_yongon[len / 2 - 1];
+		}
+		else if (kind == BUSA)
+		{
+			no_of_word = no_of_busa[len / 2 - 1];
+		}
+		else if (kind == KWANHYUNGSA)
+		{
+			no_of_word = no_of_kwanhyungsa[len / 2 - 1];
+		}
+		else if (kind == VERB_INCOMP)
+		{
+			no_of_word = no_of_verb_incomp[len / 2 - 1];
+		}
+		else if (kind == GAMTANSA)
+		{
+			no_of_word = no_of_gamtansa[len / 2 - 1];
+		}
+		if (half > no_of_word * len)
+		{
+			return b_search (kind, fp, start, half, str, len);
+		}
+		else
+		{
+			fseek (fp, half, SEEK_SET);
+			fread (str_read, len, 1, fp);
+			//if(!strncmp(str,"µÇ",2)) printf("str_read=%s \n",str_read);
+			val = strncmp ((char*)str, str_read, len);
+			if (val == 0)
+				return 1;
+			else if (val < 0)
+				return b_search (kind, fp, start, half, str, len);
+			else
+				return b_search (kind, fp, half, end, str, len);
+		}
+	}
+}
+
+
+int
+is_belong_to_chaon_dic (unsigned char *str)
+{
+	FILE *fp;
+	int len;
+	unsigned char *p_str;
+	char fname[20];
+	int result;
+	len = strlen ((char*)str);
+	if (len == 2)
+		if (check_belong_to_info_table (str, F_CHAON1))
+			return 1;
+	if (!check_belong_to_info_table_chaon (str + len - 2, len / 2))
+		return 0;
+	//printf("str=%s \n",str);
+	// ³¡ À½ÀýÀÌ Ã¼¾ðÀÇ ³¡À½ÀýÀÌ µÉ ¼ö ÀÖ´ÂÁö Ã¼Å©
+	// »çÀüÅ½»ö È½¼ö¸¦ ÁÙÀÌ±â À§ÇØ
+	if (len / 2 > 10)
+		return 1;			  //ÀÏ´Ü ÀÌº¸´Ù  ±ä ±ÛÀÚ´Â ¹«Á¶°Ç Ã¼¾ðÀ¸·Î
+	sprintf (fname, "chaon_%d.dic", len / 2);
+	fp = fopen (fname, "r");
+
+	result =
+		b_search (CHAON, fp, 0, initial_end_chaon[len / 2 - 1] * len, str, len);
+	if (result == 0)
+	{
+		p_str = str + len - 2;
+		if (!strncmp ((char*)p_str, "Àû", 2) || !strncmp ((char*)p_str, "µé", 2) ||
+			!strncmp ((char*)p_str, "µî", 2) || !strncmp ((char*)p_str, "µî", 2))
+		{
+			*p_str = 0;
+			result =
+				b_search (CHAON, fp, 0, initial_end_chaon[len / 2 - 1] * len, str,
+				len);
+		}
+	}
+	fclose (fp);
+	return result;
+}
+
+
+int
+is_belong_to_yongon_dic (unsigned char *str)
+{
+	FILE *fp;
+	int len;
+	char fname[20];
+	int result;
+	len = strlen ((char*)str);
+	if (!strncmp ((char*)str, "¾ø", 2))
+		printf ("str =%s \n");
+	if (len == 2)
+		if (check_belong_to_info_table (str, F_YONGON1))
+			return 1;
+	else
+		return 0;
+	if (!check_belong_to_info_table_yongon (str + len - 2, len / 2))
+		return 0;
+	// Ã¼¾ðÀÇ °æ¿ì¿Í ¸¶Âù°¡Áö. ¿ë¾ð°ú Ã¼¾ðÀ» Á¦¿ÜÇÑ ³ª¸ÓÁö´Â
+	// »È£ÃâÈ¸¼ö°¡ ÀûÀ¸¹Ç·Î ÇØ´çÇÔ¼ö¸¦ È£ÃâÇÏ±â ¹Ù·ÎÀü¿¡ Ã¼Å©ÇØµµ ¹«¹æ
+
+	if (len / 2 > 6)
+		return 0;			  // ±ä ±ÛÀÚ´Â ¿ë¾ð¿¡¼­ Á¦¿Ü
+	sprintf (fname, "yongon_%d.dic", len / 2);
+	fp = fopen (fname, "r");
+	result =
+		b_search (YONGON, fp, 0, initial_end_yongon[len / 2 - 1] * len, str, len);
+	fclose (fp);
+	return result;
+}
+
+
+int
+is_belong_to_busa_dic (unsigned char *str)
+{
+	FILE *fp;
+	int len;
+	char fname[20];
+	int result;
+	len = strlen ((char*)str);
+	if (len == 2)
+		if (check_belong_to_info_table (str, F_ADV1))
+			return 1;
+	else
+		return 0;
+	if (len / 2 > 7)
+		return 0;			  // ±ä ±ÛÀÚ´Â  Á¦¿Ü
+	sprintf (fname, "busa_%d.dic", len / 2);
+	fp = fopen (fname, "r");
+	result =
+		b_search (BUSA, fp, 0, initial_end_busa[len / 2 - 1] * len, str, len);
+	fclose (fp);
+	return result;
+}
+
+
+int
+is_belong_to_kwanhyungsa_dic (unsigned char *str)
+{
+	FILE *fp;
+	int len;
+	char fname[20];
+	int result;
+	len = strlen ((char*)str);
+	if (len / 2 > 4)
+		return 0;			  // ±ä ±ÛÀÚ´Â  Á¦¿Ü
+	sprintf (fname, "kwanhyungsa_%d.dic", len / 2);
+	fp = fopen (fname, "r");
+	result = b_search (KWANHYUNGSA, fp, 0,
+		initial_end_kwanhyungsa[len / 2 - 1] * len, str, len);
+	fclose (fp);
+	return result;
+}
+
+
+int
+is_belong_to_gamtansa_dic (unsigned char *str)
+{
+	FILE *fp;
+	int len;
+	char fname[20];
+	int result;
+	len = strlen ((char*)str);
+	if (len / 2 > 5)
+		return 0;			  // ±ä ±ÛÀÚ´Â  Á¦¿Ü
+	sprintf (fname, "gamtansa_%d.dic", len / 2);
+	fp = fopen (fname, "r");
+	result =
+		b_search (GAMTANSA, fp, 0, initial_end_gamtansa[len / 2 - 1] * len, str,
+		len);
+	fclose (fp);
+	return result;
+}
+
+
+// Ã¼¾ð+ ¼­¼ú°ÝÁ¶»çÀÇ °æ¿ì ¼­¼ú°Ý Á¶»ç°¡ ¾î¹Ìº¯È­¿Í °°Àº º¯È­¸¦ ÇÔ
+int
+is_chaon_plus_yi (unsigned char *str_org)
+{
+	int len;
+	unsigned char str[20];
+	strcpy ((char*)str, (char*) str_org);
+
+	len = strlen ((char*)str);
+	if (len <= 2)
+		return 0;
+	if (strncmp ((char*)str + len - 2, "ÀÌ", 2))
+		return 0;
+	str[len - 2] = 0;
+	return is_belong_to_chaon_dic (str);
+}
+
+
+// Ã¼¾ð+ÇÏ´Ù·Î µÈ µ¿»ç´Â »çÀü¿¡ µî·ÏµÇÁö ¾ÊÀº °æ¿ì°¡ ¸¹´Ù
+// ±×·¯³ª ÀÌ°æ¿ìµµ µ¿»çÀÌ¹Ç·Î °í·ÁÇØ¾ß ÇÑ´Ù.
+// Ã¼¾ð+½º·´´Ù µîµµ °í·ÁÇØ¾ß ÇÏÁö¸¸ ÀÏ´ÜÀº º¸·ù
+int
+is_dongsa_with_ha (unsigned char *str_org)
+{
+	// °¡²û È²´çÇÑ °á°ú¸¦ ÁØ´Ù.
+	// ¿¹¸¦ µé¸é ¿ÀÇØ¾ß ¶ó´Â ¸»À»
+	//  ¿ÀÇÏ ¾î´Ù ·Î ³ª´©¾îÁú ¼ö ÀÖ´Âµ¥,
+	// ¿ÀÇÏ´Â ´Ù½Ã ¿À+ÇÏ ·Î ³ª´©¾îÁö°í ¿À °¡ Ã¼¾ðÀÌ µÉ ¼ö ÀÖÀ¸¹Ç·Î
+	// ¸¶Ä¡ ¿ÀÇÏ´Ù ¶ó´Â µ¿»ç·Î ÇØ¼®
+	// ÀÌ·± ÀÏÀ» ¸·À¸·Á¸é ÇÏ´Ù¿Í °áÇÕÇØ¼­ µ¿»ç°¡ µÉ ¼ö ÀÖ´ÂÁö¸¦
+	// Ç¥½ÃÇØ¾ß ÇÏ´Âµ¥ ±×·¯¸é ÀÏÀÌ ³Ê¹« º¹Àâ..
+	int len;
+	unsigned char str[20];
+	strcpy ((char*)str, (char*) str_org);
+
+	len = strlen ((char*)str);
+	if (strncmp ((char*)str + len - 2, "ÇÏ", 2))
+		return 0;
+	if (len == 2)
+		return 1;			  // ÇÏ µ¿»ç
+	str[len - 2] = 0;
+							  // Ã¼¾ð+ÇÏ µ¿»ç
+	return is_belong_to_chaon_dic (str);
+}
+
+
+// Á×ÀÌ´Ù ¿Í °°ÀÌ ¾î°£ÀÌ ÀÌ ·Î ³¡³ª´Â µ¿»ç
+// ÀÌ·¯ÇÑ µ¿»ç´Â  ¼±¾î¸»¾î¹Ì °áÇÕ½Ã ÀÌ+¾ú-> ¿´ À¸·Î µÇ±â ¶§¹®¿¡
+// ÀÌ ÇÔ¼ö´Â ¼±¾î¸»¾î¹Ì Å½»ö½Ã ÇÊ¿ä
+int
+is_dongsa_with_yi (unsigned char *str_org)
+{
+	int len;
+	unsigned char str[20];
+	strcpy ((char*)str, (char*) str_org);
+
+	len = strlen ((char*)str);
+	strncpy ((char*)str + len, (char*) "ÀÌ", 2);
+	str[len + 2] = 0;
+	return is_belong_to_yongon_dic (str);
+}
+
+
+//¼±¾î¸» ¾î¹Ì ºÐ¸®
+int
+treat_pf (unsigned char *str, unsigned char *str_first,
+unsigned char *str_middle,
+unsigned char *fvl_tmp, int ipos, int len)
+{
+	unsigned char tmp[9];
+
+	if (!strncmp ((char*)str + ipos, "¾ú", 2) || !strncmp ((char*)str + ipos, "°Ú", 2))
+	{						  // ¾ú, °Ú
+
+		if (ipos > 2 && !strncmp ((char*)str + ipos - 2, "½Ã", 2))
+		{					  // ¾î°£ÀÌ µÎÀ½ÀýÀÌ»ó
+			// ¼±¾î¸» ¾î¹Ì ½Ã´Â µ¶¸³À¸·Î ³ª¿À´Â °æ¿ì¿Ü¿¡´Â ´ÙÀ½¿¡ ¾ú ÀÌ³ª °Ú ÀÌ ¿Â´Ù.
+			if (ipos > 4 && !strncmp ((char*)str + ipos - 4, "À¸", 2))
+			{				  // ½Ã ¾Õ¿¡ À¸ ´Â ¼±¾î¸»¾î¹Ì
+				strncpy ((char*)str_middle, (char*) str + ipos - 4, len - ipos + 4);
+				str_middle[len - ipos + 4] = 0;
+				strncpy ((char*)str_first, (char*) str, ipos - 4);
+				str_first[ipos - 4] = 0;
+				return ipos - 4;
+			}
+			else
+			{
+				strncpy ((char*)str_middle, (char*) str + ipos - 2, len - ipos + 2);
+				str_middle[len - ipos + 2] = 0;
+				strncpy ((char*)str_first, (char*) str, ipos - 2);
+				str_first[ipos - 2] = 0;
+				return ipos - 2;
+			}
+		}
+		else
+		{					  // '½Ã'³ª 'À¸½Ã'°¡ ¾Æ´Ñ °æ¿ì ipos ºÎÅÍ ¼±¾î¸» ¾î¹Ì
+			strncpy ((char*)str_middle, (char*) str + ipos, len - ipos);
+			str_middle[len - ipos] = 0;
+			strncpy ((char*)str_first, (char*) str, ipos);
+			str_first[ipos] = 0;
+			return ipos;
+		}
+		return ipos;
+	}
+	else if (!strncmp ((char*)str + ipos, "¾Ò", 2) || !strncmp ((char*)str + ipos, "¿´", 2))
+	{						  //'¾Ò", '¿´' ¾Õ¿¡´Â ½Ã°¡ ¿ÀÁö ¸ø ÇÔ
+		strncpy ((char*)str_middle, (char*) str + ipos, len - ipos);
+		str_middle[len - ipos] = 0;
+		strncpy ((char*)str_first, (char*) str, ipos);
+		str_first[ipos] = 0;
+		return ipos;
+	}
+	else if (!strncmp ((char*)str + ipos, "¼Ì", 2))
+	{						  // '¼Ì' ¾Õ¿¡´Â 'À¸' °¡ ¿Ã ¼ö ÀÖÀ½
+		// ÀÏ´Ü ¼±¾î¹Ð¾î¹Ì·Î °£ÁÖÇÑ ÈÄ ÈÄ¿¡ ºÎ½Ã´Ù¿Í °°Àº °æ¿ì Áï ¼±¾î¸» ¾î¹Ì°¡ ½Ã·Î
+		// ½ÃÀÛµÇ´Â °æ¿ì Àç°ËÅä
+
+		if (ipos > 2 && !strncmp ((char*)str + ipos - 2, "À¸", 2))
+		{					  //¾Õ¿¡ À¸ ´Â ¼±¾î¸»¾î¹Ì
+			strncpy ((char*)str_middle, (char*) str + ipos - 2, len - ipos + 2);
+			str_middle[len - ipos + 2] = 0;
+			strncpy ((char*)str_first, (char*) str, ipos - 2);
+			str_first[ipos - 2] = 0;
+			return ipos - 4;
+		}
+		else
+		{
+			strncpy ((char*)str_middle, (char*) "½Ã¾ú", 4);
+			strncpy ((char*)str_middle + 4, (char*) str + ipos + 2, len - ipos - 2);
+			str_middle[len - ipos + 2] = 0;
+			strncpy ((char*)str_first, (char*) str, ipos);
+			str_first[ipos] = 0;
+			return ipos;
+		}
+	}
+	else if (!strncmp ((char*)str + ipos, "Çß", 2))
+	{
+		strncpy ((char*)str_middle, (char*) "¾Ò", 2);
+		strncpy ((char*)str_middle + 2, (char*) str + ipos + 2, len - ipos - 2);
+		str_middle[len - ipos] = 0;
+		strncpy ((char*)str_first, (char*) str, ipos);
+		strncpy ((char*)str_first + ipos, (char*) "ÇÏ", 2);
+		str_first[ipos + 2] = 0;
+		return ipos + 2;
+	}
+							  // ¤¿, ¤À
+	else if (fvl_tmp[1] == 3 || fvl_tmp[1] == 4 ||
+		fvl_tmp[1] == 7 ||	  // ¤Ã,
+							  // ¤È, ¤É
+		fvl_tmp[1] == 14 || fvl_tmp[1] == 15 ||
+		fvl_tmp[1] == 11 || fvl_tmp[1] == 21)
+	{						  // ¤Å, ¤Í,
+		convert_3_to_ks (fvl_tmp[0], fvl_tmp[1], 1, tmp);
+		strncpy ((char*)str_first, (char*) str, ipos);
+		strncpy ((char*)str_first + ipos, (char*) tmp, 2);
+		str_first[ipos + 2] = 0;
+		strncpy ((char*)str_middle, (char*) "¤¶", 2);
+		strncpy ((char*)str_middle + 2, (char*) str + ipos + 2, len - ipos - 2);
+		str_middle[len - ipos] = 0;
+		return ipos;
+	}
+}
+
+
+void
+print_result_chaon (unsigned char *str_first, unsigned char *str_last)
+{
+	printf ("(%s/Ã¼¾ð)+(%s/Á¶»ç) \n", str_first, str_last);
+}
+
+
+void
+print_result_yongon (unsigned char *str_first,
+unsigned char *str_middle, unsigned char *str_last)
+{
+
+	printf ("(%s/¿ë¾ð)", str_first);
+	if (str_middle)
+		printf ("+(%s/¼±¾î¸»¾î¹Ì)", str_middle);
+	printf ("+(%s/¾î¹Ì) \n", str_last);
+}
+
+
+void
+print_result_yongon_plus_yi (unsigned char *str_first,
+unsigned char *str_middle,
+unsigned char *str_last)
+{
+	printf ("%s/(Ã¼¾ð+¼­¼ú°ÝÁ¶»ç)", str_first);
+	if (str_middle)
+		printf ("+(%s/¼±¾î¸»¾î¹Ì)", str_middle);
+	printf ("+(%s/¾î¹Ì) \n", str_last);
+}
+
+
+void
+print_result_word (int nth_word)
+{
+	int type;
+	L_RESULT_MA *l_result_ma;
+
+	l_result_ma = result_ma[nth_word].p_list_result;
+	if (l_result_ma == NULL)
+		return;
+	while (l_result_ma != NULL)
+	{
+		type = l_result_ma->type;
+
+		if (type == EOGAN_PEOMI_EOMI)
+		{
+			print_result_yongon (l_result_ma->yongon.eogan,
+				l_result_ma->yongon.peomi,
+				l_result_ma->yongon.eomi);
+		}
+		else if (type == EOGAN_EOMI)
+		{
+			print_result_yongon (l_result_ma->yongon.eogan, NULL,
+				l_result_ma->yongon.eomi);
+		}
+		else if (type == CHAON_YI_PEOMI_EOMI)
+		{
+			print_result_yongon_plus_yi (l_result_ma->yongon.eogan,
+				l_result_ma->yongon.peomi,
+				l_result_ma->yongon.eomi);
+		}
+		else if (type == CHAON_YI_EOMI)
+		{
+			print_result_yongon_plus_yi (l_result_ma->yongon.eogan,
+				NULL, l_result_ma->yongon.eomi);
+
+		}
+		else if (type == CHAON_JOSA)
+		{
+			print_result_chaon (l_result_ma->chaon.chaon,
+				l_result_ma->chaon.josa);
+		}
+		else if (type == S_BUSA)
+		{
+			printf ("(%s/ºÎ»ç) \n", l_result_ma->single);
+		}
+		else if (type == S_KWANHYUNGSA)
+		{
+			printf ("(%s/°üÇü»ç) \n", l_result_ma->single);
+		}
+		else if (type == S_CHAON)
+		{
+			printf ("(%s/Ã¼¾ð) \n", l_result_ma->single);
+		}
+		else if (type == S_GAMTANSA)
+		{
+			printf ("(%s/°¨Åº»ç) \n", l_result_ma->single);
+		}
+		l_result_ma = l_result_ma->next;
+	}
+}
+
+
+void
+print_result (int no_of_word)
+{
+	int i;
+	for (i = 0; i < no_of_word; i++)
+		print_result_word (i);
+}
+
+
+void
+free_list_result (int no_of_word)
+{
+	L_RESULT_MA *p_list_result;
+	L_RESULT_MA *p_list_tmp;
+	int i;
+	for (i = 0; i < no_of_word; i++)
+	{
+		p_list_result = result_ma[i].p_list_result;
+		while (p_list_result != NULL)
+		{
+			p_list_tmp = p_list_result;
+			p_list_result = p_list_result->next;
+			free (p_list_tmp);
+		}
+	}
+}
+
+
+void
+init_list_result (int no_of_word)
+{
+	int i;
+	for (i = 0; i < no_of_word; i++)
+	{
+		result_ma[i].no_of_result = 0;
+		result_ma[i].p_list_result = NULL;
+	}
+}
+
+
+void
+save_result_single_word (int nth_word, unsigned char *str, int type)
+{
+	L_RESULT_MA *p_list_result;
+	p_list_result = (L_RESULT_MA*)calloc (sizeof (L_RESULT_MA), 1);
+	strcpy ((char*)p_list_result->single, (char*) str);
+	p_list_result->type = type;
+	if (result_ma[nth_word].no_of_result == 0)
+	{
+		result_ma[nth_word].p_list_result = p_list_result;
+		result_ma[nth_word].p_list_result->next = NULL;
+	}
+	else
+	{
+		result_ma[nth_word].p_list_result->prev = p_list_result;
+		p_list_result->next = result_ma[nth_word].p_list_result;
+		result_ma[nth_word].p_list_result = p_list_result;
+	}
+	result_ma[nth_word].no_of_result++;
+	print_result_word (nth_word);
+}
+
+
+void
+save_result_chaon (int nth_word, unsigned char *str_first,
+unsigned char *str_last)
+{
+	L_RESULT_MA *p_list_result;
+	p_list_result = (L_RESULT_MA*)calloc (sizeof (L_RESULT_MA), 1);
+	p_list_result->type = CHAON_JOSA;
+	strcpy ((char*)p_list_result->chaon.chaon, (char*) str_first);
+	strcpy ((char*)p_list_result->chaon.josa, (char*) str_last);
+	if (result_ma[nth_word].no_of_result == 0)
+	{
+		result_ma[nth_word].p_list_result = p_list_result;
+		result_ma[nth_word].p_list_result->next = NULL;
+	}
+	else
+	{
+		result_ma[nth_word].p_list_result->prev = p_list_result;
+		p_list_result->next = result_ma[nth_word].p_list_result;
+		result_ma[nth_word].p_list_result = p_list_result;
+	}
+	result_ma[nth_word].no_of_result++;
+	//  print_result_word(nth_word);
+}
+
+
+void
+save_result_yongon (int nth_word, unsigned char *str_first,
+unsigned char *str_middle, unsigned char *str_last)
+{
+	L_RESULT_MA *p_list_result;
+	p_list_result = (L_RESULT_MA*)calloc (sizeof (L_RESULT_MA), 1);
+	strcpy ((char*)p_list_result->yongon.eogan, (char*) str_first);
+	if (str_middle)
+	{
+		strcpy ((char*)p_list_result->yongon.peomi, (char*) str_middle);
+		p_list_result->type = EOGAN_PEOMI_EOMI;
+	}
+	else
+		p_list_result->type = EOGAN_EOMI;
+	strcpy ((char*)p_list_result->yongon.eomi, (char*) str_last);
+	if (result_ma[nth_word].no_of_result == 0)
+	{
+		result_ma[nth_word].p_list_result = p_list_result;
+		result_ma[nth_word].p_list_result->next = NULL;
+	}
+	else
+	{
+		result_ma[nth_word].p_list_result->prev = p_list_result;
+		p_list_result->next = result_ma[nth_word].p_list_result;
+		result_ma[nth_word].p_list_result = p_list_result;
+	}
+	result_ma[nth_word].no_of_result++;
+	//  print_result_word(nth_word);
+}
+
+
+void
+save_result_yongon_plus_yi (int nth_word, unsigned char *str_first,
+unsigned char *str_middle,
+unsigned char *str_last)
+{
+	L_RESULT_MA *p_list_result;
+	p_list_result = (L_RESULT_MA*)calloc (sizeof (L_RESULT_MA), 1);
+	strcpy ((char*)p_list_result->yongon.eogan, (char*) str_first);
+	if (str_middle)
+	{
+		strcpy ((char*)p_list_result->yongon.peomi, (char*) str_middle);
+		p_list_result->type = CHAON_YI_PEOMI_EOMI;
+	}
+	else
+		p_list_result->type = CHAON_YI_EOMI;
+	strcpy ((char*)p_list_result->yongon.eomi, (char*) str_last);
+	if (result_ma[nth_word].no_of_result == 0)
+	{
+		result_ma[nth_word].p_list_result = p_list_result;
+		result_ma[nth_word].p_list_result->next = NULL;
+	}
+	else
+	{
+		result_ma[nth_word].p_list_result->prev = p_list_result;
+		p_list_result->next = result_ma[nth_word].p_list_result;
+		result_ma[nth_word].p_list_result = p_list_result;
+	}
+	result_ma[nth_word].no_of_result++;
+	//  print_result_word(nth_word);
+}
+
+
+int
+rule_regular (unsigned char *str_first,
+unsigned char *str_middle, unsigned char *str_last, int nth)
+{
+	int status;
+	status = 0;
+
+							  // ¸ÔÀÌ´Ù, Á×ÀÌ´Ù¿Í °°ÀÌ 2ÁßÀ¸·Î »ý°¢ÇÒ ¼ö
+	if (is_chaon_plus_yi (str_first))
+		save_result_yongon_plus_yi (nth, str_first, str_middle, str_last);
+							  // else ¸¦ »ç¿ëÇÏÁö ¾ÊÀ½
+	if (is_dongsa_with_ha (str_first) ||
+		is_belong_to_yongon_dic (str_first))
+		save_result_yongon (nth, str_first, str_middle, str_last);
+
+}
+
+
+int
+rule_irregular1 (unsigned char *str_first,
+unsigned char *str_last,
+unsigned char *fvl_prev, unsigned char *fvl, int nth)
+{
+	int len;
+	unsigned char *syllable_last;
+	unsigned char tmp[9];
+
+	len = strlen ((char*)str_first);
+	syllable_last = str_first + len - 2;
+
+	//printf(" len=%d str=%s last=%s fvl_pre[2]=%d fvl[2]=%d \n",
+	//          len,str_first,syllable_last,fvl_prev[2],fvl[0]);
+	if (fvl_prev[2] == 9 && fvl[0] == 13)
+	{						  // Á¾¼ºÀÌ ¤© , ÃÊ¼ºÀÌ ¤·
+		// ¾î°£ÀÌ º¯Çü(±×·¯³ª ¾î¹Ì´Â À¯Áö)
+		// ¤§ ºÒ±ÔÄ¢ : °É¾î= °È+¾î  Áï ¤§ -> ¤© ·Î ¹Ù²î´Â °æ¿ì p.61
+		if (check_belong_to_info_table (syllable_last, F_BUL_D))
+		{
+							  // ¹ÞÄ§À» ¤§ À¸·Î
+			convert_3_to_ks (fvl_prev[0], fvl_prev[1], 8, tmp);
+			strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+			if (is_belong_to_yongon_dic (str_first))
+			{
+				save_result_yongon (nth, str_first, NULL, str_last);
+			}
+		}
+	}
+	else if (fvl_prev[2] == 1 && fvl[0] == 13)
+	{
+		//              ( !strncmp(str+i,"¾î",2) || !strncmp(str+i,"À¸",2) ) ){
+		// ¤µ ºÒ±ÔÄ¢ : Àú¾î= Á£ + ¾î p.62
+		if (check_belong_to_info_table (syllable_last, F_BUL_S))
+		{
+							  // ¹ÞÄ§À» ¤µ À¸·Î
+			convert_3_to_ks (fvl_prev[0], fvl_prev[1], 21, tmp);
+			strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+			if (is_belong_to_yongon_dic (str_first))
+				save_result_yongon (nth, str_first, NULL, str_last);
+		}
+	}
+	else if (fvl_prev[2] == 1 &&
+		(fvl[0] == 4 || fvl[0] == 7 || fvl[0] == 8 || fvl[0] == 9))
+	{
+		// ¤¾ ºÒ±ÔÄ¢ : ÆÄ¶ó´Ï±î = ÆÄ¶þ+´Ï±î   ¤¾ ÀÌ ¤¤,¤©,¤±,¤² ¾Õ¿¡¼­ Å»¶ô?
+		if (check_belong_to_info_table (syllable_last, F_BUL_H))
+		{
+							  // ¹ÞÄ§À» ¤¾ À¸·Î
+			convert_3_to_ks (fvl_prev[0], fvl_prev[1], 29, tmp);
+			strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+			if (is_belong_to_yongon_dic (str_first))
+				save_result_yongon (nth, str_first, NULL, str_last);
+		}
+		if (fvl[0] == 4
+			&& check_belong_to_info_table (syllable_last, F_BUL_DEL_L))
+		{
+			// ¤© Å»¶ô : °¡´Ï=°¥+´Ï
+							  // ¹ÞÄ§À» ¤© À¸·Î
+			convert_3_to_ks (fvl_prev[0], fvl_prev[1], 9, tmp);
+			strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+			if (is_belong_to_yongon_dic (str_first))
+				save_result_yongon (nth, str_first, NULL, str_last);
+		}
+	}
+}
+
+
+// ¼±¾î¸» ¾î¹Ì°¡ ÀÖ´Â °æ¿ì ¾ø´Â °æ¿ì¿Í ¸î°¡Áö Â÷ÀÌ°¡ ÀÖ´Ù.
+// ¿¹¸¦ µé¾î ¼±¾î¸»¾î¹Ì°¡ ÀÖ´Â °æ¿ì ¤¾ºÒ±ÔÄ¢ÀÌ³ª ¤© Å»¶ôÀÌ ¿Ã ¼ö ¾ø´Ù.
+// ¶Ç ÇÑ °í¿Ô¾ú´Ù ¿Í °°ÀÌ ¤² ºÒ±ÔÄ¢ÀÎ °æ¿ì¶óµµ ¾î¹Ì°¡ ÀÌ¹Ì °íÁ¤µÈ ÇüÅÂÀÌ´Ù.
+// ¼±¾î¸» ¾î¹Ì°¡ ¾ø´Â °í¿Í¼­ °°Àº °æ¿ì´Â ¾î¹Ì°¡ '¾Æ¼­' ÀÌ¹Ç·Î '¿Í' ¸¦ Å½»öÇÏ´Â
+// ½ÃÁ¡¿¡¼­´Â ¾î¹Ì¸¦ °áÁ¤ÇÒ ¼ö ¾ø´Ù.
+// µû¶ó¼­ ºÒ±ÔÄ¢¿¡ ¤² ºÒ±ÔÄ¢À» Æ÷ÇÔ½ÃÄÑµµ µÈ´Ù.
+int
+rule_irregular_with_pf (unsigned char *str_first, unsigned char *str_middle,
+unsigned char *str_last,
+unsigned char *fvl_prev, unsigned char *fvl, int nth)
+{
+	int len;
+	unsigned char *syllable_last;
+	unsigned char str_tmp[20];
+	unsigned char tmp[9];
+
+	len = strlen ((char*)str_first);
+	syllable_last = str_first + len - 2;
+	//printf(" len=%d str=%s last=%s fvl_pre[2]=%d fvl[1]=%d ,fvl[2]=%d \n",
+	//          len,str_first,syllable_last,fvl_prev[2],fvl[1],fvl[2]);
+	if (!strncmp ((char*)str_middle, "¿´", 2))
+	{
+		// 'ÇÏ'+'¿´'
+		if (is_dongsa_with_ha (str_first))
+			save_result_yongon (nth, str_first, str_middle, str_last);
+		// '¿´' = 'ÀÌ'+'¾ú'
+		if (is_dongsa_with_yi (str_first))
+		{
+			strncpy ((char*)str_first + len, (char*) "ÀÌ", 2);
+			str_first[len + 2] = 0;
+			strncpy ((char*)str_middle, (char*) "¾ú", 2);
+			save_result_yongon (nth, str_first, str_middle, str_last);
+		}
+	}
+	else if (fvl_prev[2] == 9 && fvl[0] == 13)
+	{						  // Á¾¼ºÀÌ ¤© , ÃÊ¼ºÀÌ ¤·
+		// ¾î°£ÀÌ º¯Çü(±×·¯³ª ¾î¹Ì´Â À¯Áö)
+		// ¤§ ºÒ±ÔÄ¢ : °É¾î= °È+¾î  Áï ¤§ -> ¤© ·Î ¹Ù²î´Â °æ¿ì p.61
+		if (check_belong_to_info_table (syllable_last, F_BUL_D))
+		{
+							  // ¹ÞÄ§À» ¤§ À¸·Î
+			convert_3_to_ks (fvl_prev[0], fvl_prev[1], 8, tmp);
+			strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+			if (is_belong_to_yongon_dic (str_first))
+			{
+				save_result_yongon (nth, str_first, str_middle, str_last);
+			}
+		}
+	}
+	else if ((fvl_prev[2] == 1 || len <= 2) && fvl[0] == 13)
+	{
+		//              ( !strncmp(str+i,"¾î",2) || !strncmp(str+i,"À¸",2) ) ){
+		// ¤µ ºÒ±ÔÄ¢ : Àú¾î= Á£ + ¾î p.62
+		if (check_belong_to_info_table (syllable_last, F_BUL_S))
+		{
+							  // ¹ÞÄ§À» ¤µ À¸·Î
+			convert_3_to_ks (fvl_prev[0], fvl_prev[1], 21, tmp);
+			strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+			if (is_belong_to_yongon_dic (str_first))
+				save_result_yongon (nth, str_first, str_middle, str_last);
+		}
+							  // ÇöÀçÀ½ÀýÀÌ ¿Í/¿ö ÀÎ °æ¿ì
+		if ((fvl[1] == 14 || fvl[1] == 21)
+			/* &&  check_belong_to_info_table(str+i-2,F_BUL_B) */ )
+		{					  // ¤² ºÒ±ÔÄ¢
+			if (len >= 4)
+			{
+				convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+				strcpy ((char*)str_tmp, (char*) str_first);
+				strncpy ((char*)str_first + len - 4, (char*) tmp, 2);
+				str_first[len - 2] = 0;
+				//printf("¤² ºÒ±ÔÄ¢ %s \n", str_first);
+				if (is_belong_to_yongon_dic (str_first))
+					save_result_yongon (nth, str_first, str_middle, str_last);
+			}
+			// ¿À´Ù -> ¿Í Ã³·³ Ãà¾àÀÇ °æ¿ì
+			if (fvl[1] == 14)  // ¤È
+							  // ¤Ç
+				convert_3_to_ks (fvl[0], 13, 1, tmp);
+			else
+							  // ¤Ì
+				convert_3_to_ks (fvl[0], 20, 1, tmp);
+			strncpy ((char*)str_tmp + len - 2, (char*) tmp, 2);
+			str_tmp[len];
+			if (is_belong_to_yongon_dic (str_tmp))
+				save_result_yongon (nth, str_tmp, str_middle, str_last);
+
+		}
+		// ¼±¾î¸» ¾î¹Ì°¡ ÀÖ´Â °æ¿ì ¤¾ ÀÌ³ª ¤© ÀÌ Å»¶ôµÇ´Â ÀÏÀÌ ¾ø´Ù.
+		// ±×·¯³ª ÆÄ¶þ´Ù -> ÆÄ·¨¾ú´Ù. ¿Í °°ÀÌ ¾î°£,¾î¹Ì°¡ µ¿½Ã¿¡ º¯ÇÏ´Â °æ¿ì´Â ÀÖÀ½
+	}
+	else if (fvl_prev[1] == 4 && fvl_prev[2] == 22 && len >= 4)
+	{
+		// ¤À ·Î ³¡³ª¾ß ÇÏ°í ´¼±¾î¸»¾î¹Ì·Î ¤¶ ÀÌ ¿Í¾ßÇÔ
+		// ¤¾ ºÒ±ÔÄ¢ : Å
+		if (check_belong_to_info_table (syllable_last, F_BUL_H))
+		{
+			//        convert_3_to_ks(fvl_prev[0],fvl_prev[1],29,tmp); // ¹ÞÄ§À» ¤¾ À¸·Î
+			// ÀÌ°Ç ¾î°£ º¹¿øÀÌ º¹Àâ
+			// ³ë·¨´Ù µ¿±×·¨´Ù »¡°º´Ù ¹ú°º´Ù. ÀüÀ½ÀýÀ» Á¶»çÇÏ±â Àü¿¡´Â ¾î·Á¿òÀ
+			//        strncpy(str_first+len-2, (char*)tmp,2);
+			//        if( is_belong_to_yongon_dic( str_first) )
+			save_result_yongon (nth, str_first, str_middle, str_last);
+		}
+	}
+	else if (fvl[1] == 11)
+	{						  // ¤Å + ¤¶  -> ¤Ó + ¾ú
+							  // ¤Ó
+		convert_3_to_ks (fvl[0], 29, 1, tmp);
+		strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+		str_first[len] = 0;
+		strncpy ((char*)str_middle, (char*) "¾ú", 2);
+		if (is_belong_to_yongon_dic (str_first))
+			save_result_yongon (nth, str_first, str_middle, str_last);
+
+	}
+	else if (fvl[1] == 7)
+	{						  // ¤Ã ¸ðÀ½ÀÎ °æ¿ì ¤Ñ Å»¶ô °í·Á
+		if (!strncmp ((char*)syllable_last, "·¯", 2))
+		{					  // '¸£' ºÒ±ÔÄ¢°ú '·¯' ºÒ±ÔÄ¢
+			if (fvl_prev[2] == 9)
+			{
+				strcpy ((char*)str_tmp, (char*) str_first);
+				convert_3_to_ks (fvl_prev[0], fvl_prev[1], 1, tmp);
+				strncpy ((char*)str_first + len - 4, (char*) tmp, 2);
+				strncpy ((char*)str_first + len - 2, (char*) "¸£", 2);
+				if (is_belong_to_yongon_dic (str_first))
+				{
+					strncpy ((char*)str_middle, (char*) "¾ú", 2);
+					save_result_yongon (nth, str_first, str_middle, str_last);
+				}
+				strncpy ((char*)str_first, (char*) str_tmp, len);
+			}
+			else if (!strncmp ((char*)str_first + len - 4, "¸£", 2))
+			{
+				str_first[len - 2] = 0;
+				if (is_belong_to_yongon_dic (str_first))
+				{
+					strncpy ((char*)str_middle, (char*) "¾ú", 2);
+					save_result_yongon (nth, str_first, str_middle, str_last);
+				}
+			}
+		}
+		if (!strncmp ((char*)str_first, "ÆÛ", 2))
+							  // p.67
+			strncpy ((char*)str_first, (char*) "Çª", 2);
+		else
+		{
+			convert_3_to_ks (fvl[0], 27, 1, tmp);
+			strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+			strncpy ((char*)str_middle, (char*) "¾ú", 2);
+		}
+		if (is_belong_to_yongon_dic (str_first))
+			save_result_yongon (nth, str_first, str_middle, str_last);
+
+	}
+	else if (fvl[1] == 15)
+	{						  // ¤É +¤¶ = ¤Ê + ¾ú
+		if (strncmp ((char*)syllable_last, "²Ò", 2) && strncmp ((char*)syllable_last, "³ú", 2)
+			&& strncmp ((char*)syllable_last, "¿Ü", 2))
+		{					  // p.67
+			convert_3_to_ks (fvl[0], 18, 1, tmp);
+			strncpy ((char*)str_first + len - 2, (char*) tmp, 2);
+			if (is_belong_to_yongon_dic (str_first))
+				save_result_yongon (nth, str_first, str_middle, str_last);
+		}
+	}
+}
+
+
+void
+treat_eogan (unsigned char *str_first,
+unsigned char *str_last,
+unsigned char *fvl_prev, unsigned char *fvl, int nth)
+{
+	//printf(" treat_eogan: \n");
+	rule_regular (str_first, NULL, str_last, nth);
+	rule_irregular1 (str_first, str_last, fvl_prev, fvl, nth);
+}
+
+
+void
+treat_eogan_with_pf (unsigned char *str_first, unsigned char *str_middle,
+unsigned char *str_last,
+unsigned char *fvl_prev, unsigned char *fvl, int nth)
+{
+	if (strncmp ((char*)str_middle, "¿´", 2))
+		rule_regular (str_first, str_middle, str_last, nth);
+	rule_irregular_with_pf (str_first, str_middle, str_last, fvl_prev, fvl,
+		nth);
+}
+
+
+// ¿ë¾ðÀÌ ¸í»çÇüÀÌ µÇ´Â °æ¿ì
+int
+is_yongon_converted_to_noun (unsigned char *str_org,
+unsigned char *fvl_prev,
+unsigned char *fvl_pre_prev)
+{
+	int len;
+	unsigned char tmp[9];
+	unsigned char str[50];
+	unsigned char *p_str;
+
+	len = strlen ((char*)str_org);
+	strncpy ((char*)str, (char*) str_org, len);
+	str[len] = 0;
+	p_str = str;
+
+	if (!strncmp ((char*)p_str + len - 2, "±â", 2) || fvl_prev[2] != 17)
+		return 0;			  // ¤± ¹ÞÄ§
+	if (len >= 4)
+	{
+		if (!strncmp ((char*)p_str + len - 2, "±â", 2)
+			|| !strncmp ((char*)p_str + len - 2, "À½", 2))
+		{
+			p_str[len - 2] = 0;
+			if (is_belong_to_yongon_dic (p_str))
+				return 1;
+			else
+				return 0;
+		}
+		else if (!strncmp ((char*)p_str + len - 2, "¿ò", 2))
+		{					  // Ä¡¿ì´Ù-> Ä¡¿ò , ´þ´Ù -> ´õ¿ò
+			strncpy ((char*)p_str + len - 2, (char*) "¿ì", 2);
+			if (is_belong_to_yongon_dic (p_str))
+				return 1;
+			else if (fvl_pre_prev[2] == 1)
+			{
+							  // ¤² Ãß°¡
+				convert_3_to_ks (fvl_pre_prev[0], fvl_pre_prev[1], 19, tmp);
+				strncpy ((char*)p_str + len - 4, (char*) tmp, 2);
+				str[len - 2] = 0;
+				if (is_belong_to_yongon_dic (p_str))
+					return 1;
+				else
+					return 0;
+			}
+			else
+				return 0;
+		}
+		else
+		{
+			convert_3_to_ks (fvl_prev[0], fvl_prev[1], 1, tmp);
+			if (!strncmp ((char*)tmp, "ÇÏ", 2) || !strncmp ((char*)tmp, "ÀÌ", 2))
+			{
+				str[len - 2] = 0;
+				if (is_belong_to_chaon_dic (p_str))
+					return 1;
+				else
+					return 0;
+			}
+			else
+			{
+				strncpy ((char*)p_str + len - 2, (char*) tmp, 2);
+				if (is_belong_to_yongon_dic (p_str))
+					return 1;
+				else
+					return 0;
+			}
+		}
+	}
+	else
+	{
+		convert_3_to_ks (fvl_prev[0], fvl_prev[1], 1, tmp);
+		strncpy ((char*)p_str, (char*) tmp, 2);
+		if (!strncmp ((char*)tmp, "ÇÏ", 2) || !strncmp ((char*)tmp, "ÀÌ", 2))
+			return 0;
+		if (is_belong_to_yongon_dic (p_str))
+			return 1;
+		else
+			return 0;
+	}
+}
+
+
+void
+token_to_ma (unsigned char *str, int nth, int position)
+{
+	char *p_tmp;
+	int len;
+	int josa_flag;
+	int eomi_flag;
+	int i;
+	int j;
+	int ipos;
+	int pos_pf;
+	int len_word;
+	int len_total;
+	unsigned char str_first[20];
+	unsigned char str_middle[20];
+	unsigned char str_last[20];
+	unsigned char token_johab[20][3];
+	unsigned char *fvl_prev;
+	unsigned char *fvl;
+	unsigned char *fvl_tmp;
+	unsigned char tmp[9];
+	unsigned char lcon;
+	int status_del;
+	int status_yongon_only;
+
+	if (position == 2)
+	{
+		p_tmp = NULL;
+		if ((p_tmp = strchr ((char*)str, '.')) != NULL)
+		{
+		}
+		else if ((p_tmp = strchr ((char*)str, '?')) != NULL)
+		{
+		}
+		else if ((p_tmp = strchr ((char*)str, '!')) != NULL)
+		{
+		}
+		else if ((p_tmp = strchr ((char*)str, ',')) != NULL)
+		{
+		}
+
+		if (p_tmp != NULL)
+		{
+			*p_tmp = 0;
+			len = strlen ((char*)str);
+		}
+		else
+			len = strlen ((char*)str);
+
+	}
+	else
+	{
+		len = strlen ((char*)str);
+	}
+	if (len == 0)
+		return;
+	//printf(" ´ÜÀÏ¾î ºÐ¼® ÀÌÀü \n");
+	// ¸ÕÀú ´ÜÀÏ¾î Áß ºÎ»çÀÎÁö Ã¼Å©
+	if (check_belong_to_info_table_busa (str + len - 2, len / 2))
+	{
+		if (is_belong_to_busa_dic (str))
+			save_result_single_word (nth, str, S_BUSA);
+		else
+		{
+			if (!strncmp ((char*)str + len - 2, "ÀÌ", 2))
+			{
+				strncpy ((char*)str_first, (char*) str, len - 2);
+				str_first[len - 2] = 0;
+				if (is_belong_to_yongon_dic (str_first))
+					save_result_single_word (nth, str, S_BUSA);
+			}
+		}
+	}
+	if (check_belong_to_info_table (str + len - 2, F_DTXL))
+	{
+		if (is_belong_to_kwanhyungsa_dic (str))
+			save_result_single_word (nth, str, S_KWANHYUNGSA);
+		if (nth == 0 && is_belong_to_gamtansa_dic (str))
+			save_result_single_word (nth, str, S_GAMTANSA);
+	}
+	if (is_belong_to_chaon_dic (str))
+		save_result_single_word (nth, str, S_CHAON);
+
+	//printf(" ´ÜÀÏ¾îºÐ¼® ÀÌÈÄ \n");
+
+	// ¸ÕÀú À½ÀýÁß ¿ë¾ð¿¡¸¸ ¿Ã ¼ö ÀÖ´Â À½ÀýÀÌ µé¾îÀÖ´ÂÁö Ã¼Å© ÇØ¼­
+	// ¿ë¾ð¿¡¸¸ ¿Ã¼ö ÀÖÀ¸¸é Ã¼¾ð+Á¶»çÀÇ °¡´É¼ºÀº ¾øÀ½
+	status_yongon_only = check_yongon_only (str, len);
+	if (status_yongon_only)
+		josa_flag = 0;
+	else
+		josa_flag = 1;
+	eomi_flag = 1;
+
+	len_total = token_to_johabs (str, len, token_johab);
+
+	// Ã¹À½Àý¿¡ ¾î¹ÌºÎºÐÀÌ Æ÷ÇÔµÇ¾î ÀÖÀ» °¡´É¼ºÀÌ ÀÖ´Â°æ¿ì¿Í ±×·¸Áö ¾ÊÀº °æ¿ì±¸ºÐ
+	// ¿¹1) °¥ »ç¶÷ -> °¡ +¤©, °£´Ù°í -> °¡ + ¤¤´Ù°í
+	// ¤¤,¤© ÀÌ ¾î¹ÌÀÌÁö¸¸ Ã¹À½Àý ¿ë¾ðÀÇ ¹ÞÄ§ÀÌ ¾øÀ¸¹Ç·Î
+	// Ã¹À½Àý¿¡ Æ÷ÇÔ µÈ´Ù.
+	// ¿¹2) ¼­ ¹ö·È´Ù. ->¼­ + ¾î ¿ë¾ðÀ¸ ¸ðÀ½ÀÌ ¹ÞÄ§¾ø´Â ¤¿, ¤Ã, ¤À, ¤Ä ·Î ³¡³ª´Â
+	// °æ¿ì ¾î¹Ì '¾Æ' ³ª ¾î °¡ »ý·«µÇ¹Ç·Î Ã¹À½Àý¿¡ ¾î¹Ì°¡ ÀÖ´Ù°í »ý°¢ÇÒ ¼ö ÀÖ´Ù.
+	// ¿¹3) ½á = ¾² + ¾î ¤Ñ Ãà¾àÇö»ó
+	// ¿¹4) Æì = ÇÇ + ¾î, ²ã = ²Ù + ¾î , ¿Í = ¿À + ¾Æ µîµî
+	for (i = len - 2; i >= 0; i -= 2)
+	{
+		len_word = i / 2;
+		fvl = &token_johab[i / 2][0];
+		if (i >= 2)
+		{
+			fvl_prev = &token_johab[i / 2 - 1][0];
+			if (josa_flag && check_belong_to_info_table (str + i, F_JOSA1))
+			{
+				strncpy ((char*)str_first, (char*) str, i);
+				str_first[i] = 0;
+				strncpy ((char*)str_last, (char*) str + i, len - i);
+				str_last[len - i] = 0;
+				if (is_belong_to_josa_table (str_last) &&
+					check_connection_cj (str_first, i, fvl_prev, str_last))
+					if (is_belong_to_chaon_dic (str_first))
+						save_result_chaon (nth, str_first, str_last);
+				else
+				{
+					if (i == 2)
+					{
+						if (is_yongon_converted_to_noun
+							(str_first, fvl_prev, NULL))
+							save_result_chaon (nth, str_first, str_last);
+					}
+					else
+					{
+						if (is_yongon_converted_to_noun (str_first, fvl_prev,
+							token_johab[i / 2 -
+							2]))
+							save_result_chaon (nth, str_first, str_last);
+					}
+				}
+			}
+		}
+		// ¿©±â¼­ºÎÅÍ ¿ë¾ðºÐ¸®°úÁ¤
+		// ¸ÕÀú Ã¹À½Àý±îÁö Ã¼Å©ÇÒ ÇÊ¿ä°¡ ¾ø´Â °æ¿ì
+		if (i >= 2 && eomi_flag)
+		{
+			// ¸ÕÀú ¾î¹Ì°¡ º¯ÇÏÁö ¾Ê´Â °æ¿ì
+			if (check_belong_to_info_table (str + i, F_EOMI1))
+			{
+				// ÇöÀçÀ½ÀýÀÌ ¾î¹ÌÀÇ Ã¹¹øÂ° ¿Ã¼öÀÖ´ÂÁö
+				strncpy ((char*)str_last, (char*) str + i, len - i);
+				str_last[len - i] = 0;
+				//printf(" str_last=%s \n",str_last);
+				if (is_belong_to_eomi_table (str_last))
+				{
+					// ÇöÀçÀ½ÀýÀÌÈÄ ¹®ÀÚ¿­ÀÌ ¾î¹Ì»çÀü(Å×ÀÌºí)¿¡ µî·ÏµÇ¾î ÀÖ´ÂÁö
+					if (fvl_prev[2] == 22)
+					{		  //ÀüÀ½Àý¿¡  ¤¶ ¹ÞÄ§ÀÌ ÀÖ´Â °æ¿ì
+						j = 0;
+						while (i / 2 - 2 - j > 0
+							&& token_johab[i / 2 - 2 - j][2] == 22)
+						{
+							j++;
+						}
+							  // ipos ´Â ¤¶ ÀÌ µé¾î°£ À½ÀýÀÇ ½ÃÀÛÁ¡
+						ipos = i - 2 - 2 * j;
+						if (strncmp ((char*)str + ipos, "ÀÖ", 2))
+						{	  // ÀÖ Àº ¼±¾î¸» ¾î¹Ì°¡ ¾Æ´Ô
+							  // ¼±¾î¸»¾î¹Ì ºÐ¸®
+							pos_pf = treat_pf (str, str_first, str_middle, token_johab[ipos / 2], ipos, i);
+							//            fvl_tmp=token_johab[ipos/2];
+							//printf(" %s %s %s %d \n",str_first,str_middle,str_last, pos_pf);
+							treat_eogan_with_pf (str_first, str_middle,
+								str_last,
+								token_johab[pos_pf / 2 - 1],
+								token_johab[pos_pf / 2], nth);
+						}
+						else
+						{	  // 'ÀÖ' ÀÇ °æ¿ì
+							strncpy ((char*)str_first, (char*) str, ipos + 2);
+							str_first[ipos + 2] = 0;
+							if (ipos + 2 < i)
+							{
+								strncpy ((char*)str_middle, (char*) str + ipos + 2,
+									i - ipos - 2);
+								str_middle[i - ipos - 2] = 0;
+							}
+							//printf(" %s %s %s \n",str_first,str_middle,str_last);
+							if (i > ipos + 2)
+								treat_eogan_with_pf (str_first, str_middle,
+									str_last,
+									token_johab[ipos / 2],
+									token_johab[ipos / 2 + 1],
+									nth);
+							else
+								treat_eogan (str_first, str_last,
+									token_johab[ipos / 2],
+									token_johab[ipos / 2 + 1], nth);
+						}
+					}
+					else if (i >= 4 && !strncmp ((char*)str + i - 2, "½Ã", 2))
+					{		  //¤¶ ¾øÀÌ Á÷Á¢½Ã°¡ ¿À´Â°æ¿ì
+						if (i > 4 && !strncmp ((char*)str + i - 4, "À¸", 2))
+						{
+							//½Ã ¾Õ¿¡ À¸ ´Â ¼±¾î¸»¾î¹Ì
+							strncpy ((char*)str_middle, (char*) str + i - 4, len - i + 2);
+							str_middle[len - i + 2] = 0;
+							strncpy ((char*)str_first, (char*) str, i - 4);
+							str_first[i - 4] = 0;
+							if (is_belong_to_yongon_dic (str_first))
+								save_result_yongon (nth, str_first, str_middle,
+									str_last);
+						}
+						else
+						{
+							strncpy ((char*)str_first, (char*) str, i - 2);
+							str_first[i - 2] = 0;
+							//printf(" f=%s \n",str_first);
+							strncpy ((char*)str_middle, (char*) str + i - 2, len - i + 2);
+							str_middle[len - i + 2] = 0;
+							if (is_belong_to_yongon_dic (str_first))
+								save_result_yongon (nth, str_first, str_middle,
+									str_last);
+							if (is_chaon_plus_yi (str_first))
+								save_result_yongon_plus_yi (nth, str_first,
+									str_middle, str_last);
+						}
+					}
+					else
+					{		  // ¤¶ ÀÌ³ª '(À¸)½Ã' °¡ ¾ø´Â °æ¿ì, ¾î¹Ì´Â º¯ÇÏÁö ¾Ê´Â °æ¿ì
+						//printf("regular without pf   str=%s \n",str_last);
+						strncpy ((char*)str_first, (char*) str, i);
+						str_first[i] = 0;
+						treat_eogan (str_first, str_last,
+							token_johab[i / 2 - 1], token_johab[i / 2],
+							nth);
+					}
+				}
+				// ÀÌÈÄ´Â ¼±¾î¸» ¾î¹Ì°¡ ¾ø´Â °æ¿ì
+				// ¿© ºÒ±ÔÄ¢, ³Ê¶ó ºÒ±ÔÄ¢, °Å¶ó ºÒ±ÔÄ¢
+			}
+			else
+			if ((!strncmp ((char*)str + i - 2, "ÇÏ", 2)
+				&& !strncmp ((char*)str + i, "¿©", 2))
+				||
+				((!strncmp ((char*)str + i - 2, "°¡", 2)
+				|| !strncmp ((char*)str + i - 2, "¿À", 2)
+				|| !strncmp ((char*)str + i - 2, "ÀÖ", 2)
+				|| !strncmp ((char*)str + i - 2, "ÀÚ", 2))
+				&& !strncmp ((char*)str + i, "°Å¶ó", 4))
+				|| (!strncmp ((char*)str + i - 2, "¿À", 2)
+				&& !strncmp ((char*)str + i, "³Ê¶ó", 4)))
+			{
+				strncpy ((char*)str_first, (char*) str, i - 2);
+				str_first[i] = 0;
+				strncpy ((char*)str_last, (char*) str + i, len - i);
+				str_last[len - i] = 0;
+				save_result_yongon (nth, str_first, NULL, str_last);
+				// ¾î¹Ì°¡ º¯ÇÏ´Â °æ¿ì
+				// ¾î°£µµ º¯ÇÏ´Â °æ¿ì
+				// ¤² ºÒ±ÔÄ¢ÀÇ °æ¿ìµµ µÑÂ°À½Àý±îÁö¸¸ »ìÆìµµ µÈ´Ù.
+				// Ãß¿ö=Ãä+´Ù
+			}
+							  //ÀÌÀüÀ½ÀýÀÇ ¹ÞÄ§¾ø°í
+			else if (fvl_prev[2] == 1 && fvl[0] == 13 &&
+							  // ÇöÀçÀ½ÀýÀÌ ¿Í/¿ö ÀÎ °æ¿ì
+				(fvl[1] == 14 || fvl[1] == 21)
+				/* &&  check_belong_to_info_table(str+i-2,F_BUL_B) */ )
+			{				  // ¤² ºÒ±ÔÄ¢
+				convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+				// ¿©±â¼­ºÎÅÍ´Â str_last µµ ¼³Á¤ÇØÁÖ¾îÁh´Ù.
+				if (i >= 2)
+					strncpy ((char*)str_first, (char*) str, i - 2);
+				strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+				str_first[i] = 0;
+				strncpy ((char*)str_last, (char*) "¾î", 2);
+				strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+				str_last[len - i] = 0;
+				//printf("¤²ºÒ±ÔÄ¢:%s %s \n",str_first,str_last);
+				if (is_belong_to_yongon_dic (str_first))
+					save_result_yongon (nth, str_first, NULL, str_last);
+			}
+			else if (len - i == 2 && fvl_prev[2] == 1
+				&& !strncmp ((char*)str + i, "ÀÌ", 2))
+			{
+				//¤² ºÒ±ÔÄ¢ : °¡±îÀÌ, ¿Í °°ÀÌ ¤² Å»¶ôÇö»ó
+				convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+				if (i >= 2)
+					strncpy ((char*)str_first, (char*) str, i - 2);
+				strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+				str_first[i] = 0;
+				strncpy ((char*)str_last, (char*) "ÀÌ", 2);
+				str_last[2] = 0;
+				if (is_belong_to_yongon_dic (str_first))
+					save_result_yongon (nth, str_first, NULL, str_last);
+			}
+			else if (fvl_prev[2] == 1 && !strncmp ((char*)str + i, "¿ì", 2))
+			{
+				convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+				if (i >= 2)
+					strncpy ((char*)str_first, (char*) str, i - 2);
+				strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+				str_first[2] = 0;
+				strncpy ((char*)str_last, (char*) str + i + 2, len - i - 2);
+				str_last[len - i - 2] = 0;
+				if (is_belong_to_yongon_dic (str_first))
+					save_result_yongon (nth, str_first, NULL, str_last);
+			}
+
+		}					  // if(i>=2 && eomi_flag)
+		// ÀÌÈÄºÎÅÍ´Â ¾î¹Ì°¡ º¯ÇÏ´Â °æ¿ì
+		if (eomi_flag)
+		{
+			//printf("f=%d v=%d l=%d \n",fvl_prev[0],fvl_prev[1],fvl_prev[2]);
+			// Á¾¼ºÀÌ ¤¤/¤©/¤±/¤² ÀÎ °æ¿ì Á¾¼ºÀ» Á¦°ÅÇÑ ºÎºÐ+ Á¾¼º+¾î¹Ì ·Î ºÐ¸®(p.27)
+			// ¿¹¸¦ µé¾î °¡´Ù ¿¡ ¤²´Ï´Ù °¡ ÇÕÃÄµò °æ¿ì °©´Ï´Ù °¡ µÇ´Âµ¥,
+			// ÀÌ °æ¿ì ¾î¹Ì°¡ ´Ï´Ù °¡ ¾Æ´Ñ ¤²´Ï´Ù ·Î ºÐ¸®°¡ µÇ°í ¾î°£ÀÌ °¡ °¡ µÇ¾î¾ß ÇÔ
+			if (fvl[2] == 5 || fvl[2] == 9 || fvl[2] == 17 || fvl[2] == 19)
+			{
+				//printf("ma: ¤¤,¤©,¤±,¤² ÀÇ Á¾¼º \n");
+							  // ¹ÞÄ§À» Á¦°Å
+				convert_3_to_ks (fvl[0], fvl[1], 1, tmp);
+							  // ÀÌÀüÀ½ÀýÀÌ ¹ÞÄ§ÀÌ ¾ø°í, ¿ì·Î ³¡³ª´Â °æ¿ì
+				if (fvl_prev[2] == 1 &&
+					!strncmp ((char*)tmp, "¿ì", 2))
+				{			  // ¾Æ¸§´Ù¿î, ¾Æ¸§´Ù¿ï °ú °°Àº ¤² ºÒ±ÔÄ¢
+					convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+					if (i >= 2)
+						strncpy ((char*)str_first, (char*) str, i - 2);
+					strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+					str_first[i] = 0;
+					fvl[2] = table_lcon_to_fcon[fvl[2]];
+					convert_3_to_ks (fvl[2], 2, 1, tmp);
+					strncpy ((char*)str_last, (char*) tmp, 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					//printf("¤²ºÒ±ÔÄ¢:%s %s \n",str_first,str_last);
+					if (is_belong_to_eomi_table (str_last))
+					{
+						if (is_belong_to_yongon_dic (str_first))
+							save_result_yongon (nth, str_first, NULL, str_last);
+					}
+				}
+				else if (check_belong_to_info_table_yongon (tmp, len_word))
+				{
+					// ¹ÞÄ§À» Á¦°ÅÇÑ ºÎºÐÀÇ À½ÀýÀÌ ¿ë¾ðÀÇ ³¡À½Àý·Î ¿Ã ¼ö ÀÖ³ªÃ¼Å©
+					//printf(" ¿ë¾ð+ ¤¤,¤©,¤±,¤² \n");
+					if (i > 0)
+						strncpy ((char*)str_first, (char*) str, i);
+					strncpy ((char*)str_first + i, (char*) tmp, 2);
+					str_first[i + 2] = 0;
+					fvl[2] = table_lcon_to_fcon[fvl[2]];
+					convert_3_to_ks (fvl[2], 2, 1, tmp);
+					strncpy ((char*)str_last, (char*) tmp, 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					if (is_belong_to_eomi_table (str_last))
+					{
+						rule_regular (str_first, NULL, str_last, nth);
+					}
+				}
+				if (fvl[2] == 5)
+				{			  // ¤¤
+					convert_3_to_ks (fvl[0], fvl[1], 9, tmp);
+					strncpy ((char*)str_first, (char*) str, i);
+					strncpy ((char*)str_first + i, (char*) tmp, 2);
+					str_first[i + 2] = 0;
+					strncpy ((char*)str_last, (char*) "¤¤", 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					if (is_belong_to_eomi_table (str_last))
+					{
+						if (is_belong_to_yongon_dic (str_first))
+							save_result_yongon (nth, str_first, NULL, str_last);
+					}
+				}
+
+			}
+			else if (!strncmp ((char*)str + i, "ÇØ", 2))
+			{
+				strncpy ((char*)str_first, (char*) str, i);
+				strncpy ((char*)str_first + i, (char*) "ÇÏ", 2);
+				str_first[i + 2] = 0;
+				strncpy ((char*)str_last, (char*) "¾î", 2);
+				strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+				str_last[len - i] = 0;
+				//printf( "%s  %s \n",str_first,str_last);
+				if (is_belong_to_eomi_table (str_last))
+				{
+					if (is_dongsa_with_ha (str_first))
+						save_result_yongon (nth, str_first, NULL, str_last);
+				}
+			}
+			else if (fvl[2] == 1 && fvl[1] == 7)
+			{				  // 7=¤Ã
+				strncpy ((char*)str_last, (char*) "¾î", 2);
+				if (len > i - 2)
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+				str_last[len - i] = 0;
+				if (is_belong_to_eomi_table (str_last))
+				{
+					if (i > 2)
+						strncpy ((char*)str_first, (char*) str, i - 2);
+					if (!strncmp ((char*)str + i, "·¯", 2))
+					{		  // '¸£' ºÒ±ÔÄ¢°ú '·¯' ºÒ±ÔÄ¢
+						if (fvl_prev[2] == 9)
+						{
+							convert_3_to_ks (fvl_prev[0], fvl_prev[1], 1, tmp);
+							strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+							strncpy ((char*)str_first + i, (char*) "¸£", 2);
+							str_first[i + 2] = 0;
+							if (is_belong_to_yongon_dic (str_first))
+							{
+								save_result_yongon (nth, str_first, NULL,
+									str_last);
+							}
+							  // ¾Õ¿¡¼­ º¯ÇüµÈ ¾î°£À» ¿ø»óÀ¸·Î
+							strncpy ((char*)str_first, (char*) str, i);
+						}
+						else if (!strncmp ((char*)str_first + i - 2, "¸£", 2))
+						{
+							str_first[i] = 0;
+							if (is_belong_to_yongon_dic (str_first))
+							{
+								save_result_yongon (nth, str_first, NULL,
+									str_last);
+							}
+						}
+					}
+					if (!strncmp ((char*)str + i, "ÆÛ", 2))
+					{
+							  // p.67
+						strncpy ((char*)str_first + i, (char*) "Çª", 2);
+						str_first[i + 2] = 0;
+					}
+					else
+					{
+						convert_3_to_ks (fvl[0], 27, 1, tmp);
+						strncpy ((char*)str_first + i, (char*) tmp, 2);
+						str_first[i + 2] = 0;
+					}
+					if (is_belong_to_yongon_dic (str_first))
+						save_result_yongon (nth, str_first, NULL, str_last);
+				}
+			}
+			else if (fvl[2] == 1 &&
+				(fvl[1] == 3 || fvl[1] == 4 || fvl[1] == 10))
+			{
+				//       3=¤¿ ,  4=¤À , 10= ¤Ä
+				//  ¿¹) ³ª°¡ = ³ª°¡+¾Æ, Æ÷°³¼­ =Æ÷°³+¾î¼­ , ¼¼ = ¼¼¾î
+				status_del = 0;
+				if (check_belong_to_info_table (str + i, F_END_1))
+				{			  // ¤¿ ·Î ³¡³ª´Â °æ¿ì
+					strncpy ((char*)str_last, (char*) "¾Æ", 2);
+					status_del = 1;
+				}
+							  // ¤À
+				else if (check_belong_to_info_table (str + i, F_END_4) ||
+					check_belong_to_info_table (str + i, F_END_5))
+				{			  // ¤Ä
+					strncpy ((char*)str_last, (char*) "¾î", 2);
+					status_del = 1;
+				}
+				if (status_del == 1)
+				{
+					if (len >= i + 2)
+						strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					if (is_belong_to_eomi_table (str_last))
+					{
+						strncpy ((char*)str_first, (char*) str, i + 2);
+						str_first[i + 2] = 0;
+						rule_regular (str_first, NULL, str_last, nth);
+					}
+				}
+			}
+			else if (fvl[2] == 1 && fvl[1] == 11)
+			{				  // ¤Å ·Î ³¡³ª´Â °æ¿ì
+				convert_3_to_ks (fvl[0], 29, 1, tmp);
+				if (i >= 2)
+					strncpy ((char*)str_first, (char*) str, i);
+				strncpy ((char*)str_first + i, (char*) tmp, 2);
+				str_first[i + 2] = 0;
+				strncpy ((char*)str_last, (char*) "¾î", 2);
+				if (len - i - 2 >= 0)
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+				str_last[len - i] = 0;
+				if (is_belong_to_eomi_table (str_last))
+					if (is_belong_to_yongon_dic (str_first))
+						save_result_yongon (nth, str_first, NULL, str_last);
+
+			}
+			else if (fvl[2] == 1 &&
+				(fvl[1] == 14 || fvl[1] == 21 || fvl[1] == 11))
+			{
+				//                  14=¤È,  21=¤Í,  11=¤Å
+							  // 13=¤Ç
+				if (fvl[1] == 14)
+					convert_3_to_ks (fvl[0], 13, 1, tmp);
+							  // 20= ¤Ì
+				else if (fvl[1] == 21)
+					convert_3_to_ks (fvl[0], 20, 1, tmp);
+				//printf("tmp=%s \n",tmp);
+				if (check_belong_to_info_table (tmp, F_END_3))
+				{			  // ¤Ì+ ¤Ã È¤Àº ¤Ç+¤¿
+					strncpy ((char*)str_first, (char*) str, i);
+					strncpy ((char*)str_first + i, (char*) tmp, 2);
+					str_first[i + 2] = 0;
+					strncpy ((char*)str_last, (char*) "¾î", 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					//printf( "%s  %s \n",str_first,str_last);
+					if (is_belong_to_eomi_table (str_last))
+					{
+						if (is_belong_to_yongon_dic (str_first))
+							save_result_yongon (nth, str_first, NULL, str_last);
+					}
+				}
+			}
+			else if (fvl[1] == 15)
+			{
+				if (strncmp ((char*)str + i, "²Ò", 2) && strncmp ((char*)str + i, "³ú", 2) &&
+					strncmp ((char*)str + i, "¿Ü", 2))
+				{			  // p.67
+					strncpy ((char*)str_first, (char*) str, i);
+					convert_3_to_ks (fvl[0], 18, 1, tmp);
+					strncpy ((char*)str_first + i, (char*) tmp, 2);
+					str_first[i + 2] = 0;
+					strncpy ((char*)str_last, (char*) "¾î", 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					if (is_belong_to_eomi_table (str_last))
+					{
+						if (is_belong_to_yongon_dic (str_first))
+							save_result_yongon (nth, str_first, NULL, str_last);
+					}
+				}
+			}
+		}
+		if (!check_belong_to_info_table (str + i, F_JOSA2))
+			josa_flag = 0;
+		if (!check_belong_to_info_table (str + i, F_EOMI2))
+			eomi_flag = 0;
+	}
+}
+
+
+void
+guess_token_to_ma (unsigned char *str, int nth, int position)
+{
+	char *p_tmp;
+	int len;
+	int josa_flag;
+	int eomi_flag;
+	int i;
+	int j;
+	int ipos;
+	int pos_pf;
+	int len_word;
+	int len_total;
+	unsigned char str_first[20];
+	unsigned char str_middle[20];
+	unsigned char str_last[20];
+	unsigned char token_johab[20][3];
+	unsigned char *fvl_prev;
+	unsigned char *fvl;
+	unsigned char *fvl_tmp;
+	unsigned char tmp[9];
+	unsigned char lcon;
+	int status_del;
+	int status_yongon_only;
+
+	if (position == 2)
+	{
+		p_tmp = NULL;
+		if ((p_tmp = strchr ((char*)str, '.')) != NULL)
+		{
+		}
+		else if ((p_tmp = strchr ((char*)str, '?')) != NULL)
+		{
+		}
+		else if ((p_tmp = strchr ((char*)str, '!')) != NULL)
+		{
+		}
+		else if ((p_tmp = strchr ((char*)str, ',')) != NULL)
+		{
+		}
+
+		if (p_tmp != NULL)
+		{
+			*p_tmp = 0;
+			len = strlen ((char*)str);
+		}
+		else
+			len = strlen ((char*)str);
+
+	}
+	else
+	{
+		len = strlen ((char*)str);
+	}
+	if (len == 0)
+		return;
+
+	// ¸ÕÀú À½ÀýÁß ¿ë¾ð¿¡¸¸ ¿Ã ¼ö ÀÖ´Â À½ÀýÀÌ µé¾îÀÖ´ÂÁö Ã¼Å© ÇØ¼­
+	// ¿ë¾ð¿¡¸¸ ¿Ã¼ö ÀÖÀ¸¸é Ã¼¾ð+Á¶»çÀÇ °¡´É¼ºÀº ¾øÀ½
+	status_yongon_only = check_yongon_only (str, len);
+	if (status_yongon_only)
+		josa_flag = 0;
+	else
+		josa_flag = 1;
+	eomi_flag = 1;
+
+	len_total = token_to_johabs (str, len, token_johab);
+
+	// Ã¹À½Àý¿¡ ¾î¹ÌºÎºÐÀÌ Æ÷ÇÔµÇ¾î ÀÖÀ» °¡´É¼ºÀÌ ÀÖ´Â°æ¿ì¿Í ±×·¸Áö ¾ÊÀº °æ¿ì±¸ºÐ
+	// ¿¹1) °¥ »ç¶÷ -> °¡ +¤©, °£´Ù°í -> °¡ + ¤¤´Ù°í
+	// ¤¤,¤© ÀÌ ¾î¹ÌÀÌÁö¸¸ Ã¹À½Àý ¿ë¾ðÀÇ ¹ÞÄ§ÀÌ ¾øÀ¸¹Ç·Î
+	// Ã¹À½Àý¿¡ Æ÷ÇÔ µÈ´Ù.
+	// ¿¹2) ¼­ ¹ö·È´Ù. ->¼­ + ¾î ¿ë¾ðÀ¸ ¸ðÀ½ÀÌ ¹ÞÄ§¾ø´Â ¤¿, ¤Ã, ¤À, ¤Ä ·Î ³¡³ª´Â
+	// °æ¿ì ¾î¹Ì '¾Æ' ³ª ¾î °¡ »ý·«µÇ¹Ç·Î Ã¹À½Àý¿¡ ¾î¹Ì°¡ ÀÖ´Ù°í »ý°¢ÇÒ ¼ö ÀÖ´Ù.
+	// ¿¹3) ½á = ¾² + ¾î ¤Ñ Ãà¾àÇö»ó
+	// ¿¹4) Æì = ÇÇ + ¾î, ²ã = ²Ù + ¾î , ¿Í = ¿À + ¾Æ µîµî
+	for (i = len - 2; i >= 0; i -= 2)
+	{
+		len_word = i / 2;
+		fvl = &token_johab[i / 2][0];
+		if (i >= 2)
+		{
+			fvl_prev = &token_johab[i / 2 - 1][0];
+			if (josa_flag && check_belong_to_info_table (str + i, F_JOSA1))
+			{
+				strncpy ((char*)str_first, (char*) str, i);
+				str_first[i] = 0;
+				strncpy ((char*)str_last, (char*) str + i, len - i);
+				str_last[len - i] = 0;
+				if (is_belong_to_josa_table (str_last) &&
+					check_connection_cj (str_first, i, fvl_prev, str_last))
+					save_result_chaon (nth, str_first, str_last);
+			}
+		}
+		// ¿©±â¼­ºÎÅÍ ¿ë¾ðºÐ¸®°úÁ¤
+		// ¸ÕÀú Ã¹À½Àý±îÁö Ã¼Å©ÇÒ ÇÊ¿ä°¡ ¾ø´Â °æ¿ì
+		if (i >= 2 && eomi_flag)
+		{
+			// ¸ÕÀú ¾î¹Ì°¡ º¯ÇÏÁö ¾Ê´Â °æ¿ì
+			if (check_belong_to_info_table (str + i, F_EOMI1))
+			{
+				// ÇöÀçÀ½ÀýÀÌ ¾î¹ÌÀÇ Ã¹¹øÂ° ¿Ã¼öÀÖ´ÂÁö
+				strncpy ((char*)str_last, (char*) str + i, len - i);
+				str_last[len - i] = 0;
+				//printf(" str_last=%s \n",str_last);
+				if (is_belong_to_eomi_table (str_last))
+				{
+					// ÇöÀçÀ½ÀýÀÌÈÄ ¹®ÀÚ¿­ÀÌ ¾î¹Ì»çÀü(Å×ÀÌºí)¿¡ µî·ÏµÇ¾î ÀÖ´ÂÁö
+					if (fvl_prev[2] == 22)
+					{		  //ÀüÀ½Àý¿¡  ¤¶ ¹ÞÄ§ÀÌ ÀÖ´Â °æ¿ì
+						j = 0;
+						while (i / 2 - 2 - j > 0
+							&& token_johab[i / 2 - 2 - j][2] == 22)
+						{
+							j++;
+						}
+							  // ipos ´Â ¤¶ ÀÌ µé¾î°£ À½ÀýÀÇ ½ÃÀÛÁ¡
+						ipos = i - 2 - 2 * j;
+						if (strncmp ((char*)str + ipos, "ÀÖ", 2))
+						{	  // ÀÖ Àº ¼±¾î¸» ¾î¹Ì°¡ ¾Æ´Ô
+							  // ¼±¾î¸»¾î¹Ì ºÐ¸®
+							pos_pf = treat_pf (str, str_first, str_middle, token_johab[ipos / 2], ipos, i);
+							save_result_yongon (nth, str_first, str_middle,
+								str_last);
+						}
+						else
+						{	  // 'ÀÖ' ÀÇ °æ¿ì
+							strncpy ((char*)str_first, (char*) str, ipos + 2);
+							str_first[ipos + 2] = 0;
+							if (ipos + 2 < i)
+							{
+								strncpy ((char*)str_middle, (char*) str + ipos + 2,
+									i - ipos - 2);
+								str_middle[i - ipos - 2] = 0;
+							}
+							//printf(" %s %s %s \n",str_first,str_middle,str_last);
+							if (i > ipos + 2)
+								save_result_yongon (nth, str_first, str_middle,
+									str_last);
+							else
+								save_result_yongon (nth, str_first, NULL,
+									str_last);
+						}
+					}
+					else if (i >= 4 && !strncmp ((char*)str + i - 2, "½Ã", 2))
+					{		  //¤¶ ¾øÀÌ Á÷Á¢½Ã°¡ ¿À´Â°æ¿ì
+						if (i > 4 && !strncmp ((char*)str + i - 4, "À¸", 2))
+						{
+							//½Ã ¾Õ¿¡ À¸ ´Â ¼±¾î¸»¾î¹Ì
+							strncpy ((char*)str_middle, (char*) str + i - 4, len - i + 2);
+							str_middle[len - i + 2] = 0;
+							strncpy ((char*)str_first, (char*) str, i - 4);
+							str_first[i - 4] = 0;
+							save_result_yongon (nth, str_first, str_middle,
+								str_last);
+						}
+						else
+						{
+							strncpy ((char*)str_first, (char*) str, i - 2);
+							str_first[i - 2] = 0;
+							strncpy ((char*)str_middle, (char*) str + i - 2, len - i + 2);
+							str_middle[len - i + 2] = 0;
+							save_result_yongon (nth, str_first, str_middle,
+								str_last);
+							if (!strncmp ((char*)str + i - 2, "ÀÌ", 2))
+								save_result_yongon_plus_yi (nth, str_first,
+									str_middle, str_last);
+						}
+					}
+					else
+					{		  // ¤¶ ÀÌ³ª '(À¸)½Ã' °¡ ¾ø´Â °æ¿ì, ¾î¹Ì´Â º¯ÇÏÁö ¾Ê´Â °æ¿ì
+						strncpy ((char*)str_first, (char*) str, i);
+						str_first[i] = 0;
+						save_result_yongon (nth, str_first, NULL, str_last);
+						if (!strncmp ((char*)str + i - 2, "ÀÌ", 2))
+							save_result_yongon_plus_yi (nth, str_first, NULL,
+								str_last);
+					}
+				}
+				// ÀÌÈÄ´Â ¼±¾î¸» ¾î¹Ì°¡ ¾ø´Â °æ¿ì
+				// ¿© ºÒ±ÔÄ¢, ³Ê¶ó ºÒ±ÔÄ¢, °Å¶ó ºÒ±ÔÄ¢
+			}
+			else
+			if ((!strncmp ((char*)str + i - 2, "ÇÏ", 2)
+				&& !strncmp ((char*)str + i, "¿©", 2))
+				||
+				((!strncmp ((char*)str + i - 2, "°¡", 2)
+				|| !strncmp ((char*)str + i - 2, "¿À", 2)
+				|| !strncmp ((char*)str + i - 2, "ÀÖ", 2)
+				|| !strncmp ((char*)str + i - 2, "ÀÚ", 2))
+				&& !strncmp ((char*)str + i, "°Å¶ó", 4))
+				|| (!strncmp ((char*)str + i - 2, "¿À", 2)
+				&& !strncmp ((char*)str + i, "³Ê¶ó", 4)))
+			{
+				strncpy ((char*)str_first, (char*) str, i - 2);
+				str_first[i] = 0;
+				strncpy ((char*)str_last, (char*) str + i, len - i);
+				str_last[len - i] = 0;
+				save_result_yongon (nth, str_first, NULL, str_last);
+				// ¾î¹Ì°¡ º¯ÇÏ´Â °æ¿ì
+				// ¾î°£µµ º¯ÇÏ´Â °æ¿ì
+				// ¤² ºÒ±ÔÄ¢ÀÇ °æ¿ìµµ µÑÂ°À½Àý±îÁö¸¸ »ìÆìµµ µÈ´Ù.
+				// Ãß¿ö=Ãä+´Ù
+			}
+							  //ÀÌÀüÀ½ÀýÀÇ ¹ÞÄ§¾ø°í
+			else if (fvl_prev[2] == 1 && fvl[0] == 13 &&
+							  // ÇöÀçÀ½ÀýÀÌ ¿Í/¿ö ÀÎ °æ¿ì
+				(fvl[1] == 14 || fvl[1] == 21)
+				/* &&  check_belong_to_info_table(str+i-2,F_BUL_B) */ )
+			{				  // ¤² ºÒ±ÔÄ¢
+				convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+				// ¿©±â¼­ºÎÅÍ´Â str_last µµ ¼³Á¤ÇØÁÖ¾îÁh´Ù.
+				if (i >= 2)
+					strncpy ((char*)str_first, (char*) str, i - 2);
+				strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+				str_first[i] = 0;
+				strncpy ((char*)str_last, (char*) "¾î", 2);
+				strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+				str_last[len - i] = 0;
+				//printf("¤²ºÒ±ÔÄ¢:%s %s \n",str_first,str_last);
+				save_result_yongon (nth, str_first, NULL, str_last);
+			}
+			else if (len - i == 2 && fvl_prev[2] == 1
+				&& !strncmp ((char*)str + i, "ÀÌ", 2))
+			{
+				//¤² ºÒ±ÔÄ¢ : °¡±îÀÌ, ¿Í °°ÀÌ ¤² Å»¶ôÇö»ó
+				convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+				if (i >= 2)
+					strncpy ((char*)str_first, (char*) str, i - 2);
+				strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+				str_first[i] = 0;
+				strncpy ((char*)str_last, (char*) "ÀÌ", 2);
+				str_last[2] = 0;
+				save_result_yongon (nth, str_first, NULL, str_last);
+			}
+			else if (fvl_prev[2] == 1 && !strncmp ((char*)str + i, "¿ì", 2))
+			{
+				convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+				if (i >= 2)
+					strncpy ((char*)str_first, (char*) str, i - 2);
+				strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+				str_first[2] = 0;
+				strncpy ((char*)str_last, (char*) str + i + 2, len - i - 2);
+				str_last[len - i - 2] = 0;
+				save_result_yongon (nth, str_first, NULL, str_last);
+			}
+
+		}					  // if(i>=2 && eomi_flag)
+		// ÀÌÈÄºÎÅÍ´Â ¾î¹Ì°¡ º¯ÇÏ´Â °æ¿ì
+
+		if (eomi_flag)
+		{
+			//printf("f=%d v=%d l=%d \n",fvl_prev[0],fvl_prev[1],fvl_prev[2]);
+			// Á¾¼ºÀÌ ¤¤/¤©/¤±/¤² ÀÎ °æ¿ì Á¾¼ºÀ» Á¦°ÅÇÑ ºÎºÐ+ Á¾¼º+¾î¹Ì ·Î ºÐ¸®(p.27)
+			// ¿¹¸¦ µé¾î °¡´Ù ¿¡ ¤²´Ï´Ù °¡ ÇÕÃÄµò °æ¿ì °©´Ï´Ù °¡ µÇ´Âµ¥,
+			// ÀÌ °æ¿ì ¾î¹Ì°¡ ´Ï´Ù °¡ ¾Æ´Ñ ¤²´Ï´Ù ·Î ºÐ¸®°¡ µÇ°í ¾î°£ÀÌ °¡ °¡ µÇ¾î¾ß ÇÔ
+			if (fvl[2] == 5 || fvl[2] == 9 || fvl[2] == 17 || fvl[2] == 19)
+			{
+				//printf("ma: ¤¤,¤©,¤±,¤² ÀÇ Á¾¼º \n");
+							  // ¹ÞÄ§À» Á¦°Å
+				convert_3_to_ks (fvl[0], fvl[1], 1, tmp);
+							  // ÀÌÀüÀ½ÀýÀÌ ¹ÞÄ§ÀÌ ¾ø°í, ¿ì·Î ³¡³ª´Â °æ¿ì
+				if (fvl_prev[2] == 1 &&
+					!strncmp ((char*)tmp, "¿ì", 2))
+				{			  // ¾Æ¸§´Ù¿î, ¾Æ¸§´Ù¿ï °ú °°Àº ¤² ºÒ±ÔÄ¢
+					convert_3_to_ks (fvl_prev[0], fvl_prev[1], 19, tmp);
+					if (i >= 2)
+						strncpy ((char*)str_first, (char*) str, i - 2);
+					strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+					str_first[i] = 0;
+					fvl[2] = table_lcon_to_fcon[fvl[2]];
+					convert_3_to_ks (fvl[2], 2, 1, tmp);
+					strncpy ((char*)str_last, (char*) tmp, 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					//printf("¤²ºÒ±ÔÄ¢:%s %s \n",str_first,str_last);
+					if (is_belong_to_eomi_table (str_last))
+					{
+						save_result_yongon (nth, str_first, NULL, str_last);
+					}
+				}
+				else if (check_belong_to_info_table_yongon (tmp, len_word))
+				{
+					// ¹ÞÄ§À» Á¦°ÅÇÑ ºÎºÐÀÇ À½ÀýÀÌ ¿ë¾ðÀÇ ³¡À½Àý·Î ¿Ã ¼ö ÀÖ³ªÃ¼Å©
+					//printf(" ¿ë¾ð+ ¤¤,¤©,¤±,¤² \n");
+					if (i > 0)
+						strncpy ((char*)str_first, (char*) str, i);
+					strncpy ((char*)str_first + i, (char*) tmp, 2);
+					str_first[i + 2] = 0;
+					fvl[2] = table_lcon_to_fcon[fvl[2]];
+					convert_3_to_ks (fvl[2], 2, 1, tmp);
+					strncpy ((char*)str_last, (char*) tmp, 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					if (is_belong_to_eomi_table (str_last))
+					{
+						save_result_yongon (nth, str_first, NULL, str_last);
+						if (strncpy ((char*)tmp, (char*) "ÀÌ", 2))
+							save_result_yongon_plus_yi (nth, str_first, NULL,
+								str_last);
+					}
+				}
+
+			}
+			else if (!strncmp ((char*)str + i, "ÇØ", 2))
+			{
+				strncpy ((char*)str_first, (char*) str, i);
+				strncpy ((char*)str_first + i, (char*) "ÇÏ", 2);
+				str_first[i + 2] = 0;
+				strncpy ((char*)str_last, (char*) "¾î", 2);
+				strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+				str_last[len - i] = 0;
+				//printf( "%s  %s \n",str_first,str_last);
+				if (is_belong_to_eomi_table (str_last))
+				{
+					save_result_yongon (nth, str_first, NULL, str_last);
+				}
+			}
+			else if (fvl[2] == 1 && fvl[1] == 7)
+			{				  // 7=¤Ã
+				strncpy ((char*)str_last, (char*) "¾î", 2);
+				if (len > i - 2)
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+				str_last[len - i] = 0;
+				if (is_belong_to_eomi_table (str_last))
+				{
+					if (i > 2)
+						strncpy ((char*)str_first, (char*) str, i - 2);
+					if (!strncmp ((char*)str + i, "·¯", 2))
+					{		  // '¸£' ºÒ±ÔÄ¢°ú '·¯' ºÒ±ÔÄ¢
+						if (fvl_prev[2] == 9)
+						{
+							convert_3_to_ks (fvl_prev[0], fvl_prev[1], 1, tmp);
+							strncpy ((char*)str_first + i - 2, (char*) tmp, 2);
+							strncpy ((char*)str_first + i, (char*) "¸£", 2);
+							str_first[i + 2] = 0;
+							save_result_yongon (nth, str_first, NULL, str_last);
+							  // ¾Õ¿¡¼­ º¯ÇüµÈ ¾î°£À» ¿ø»óÀ¸·Î
+							strncpy ((char*)str_first, (char*) str, i);
+						}
+						else if (!strncmp ((char*)str_first + i - 2, "¸£", 2))
+						{
+							str_first[i] = 0;
+							save_result_yongon (nth, str_first, NULL, str_last);
+						}
+					}
+					if (!strncmp ((char*)str + i, "ÆÛ", 2))
+					{
+							  // p.67
+						strncpy ((char*)str_first + i, (char*) "Çª", 2);
+						str_first[i + 2] = 0;
+					}
+					else
+					{
+						convert_3_to_ks (fvl[0], 27, 1, tmp);
+						strncpy ((char*)str_first + i, (char*) tmp, 2);
+						str_first[i + 2] = 0;
+					}
+					save_result_yongon (nth, str_first, NULL, str_last);
+				}
+			}
+			else if (fvl[2] == 1 &&
+				(fvl[1] == 3 || fvl[1] == 4 || fvl[1] == 10))
+			{
+				//       3=¤¿ ,  4=¤À , 10= ¤Ä
+				//  ¿¹) ³ª°¡ = ³ª°¡+¾Æ, Æ÷°³¼­ =Æ÷°³+¾î¼­ , ¼¼ = ¼¼¾î
+				status_del = 0;
+				if (check_belong_to_info_table (str + i, F_END_1))
+				{			  // ¤¿ ·Î ³¡³ª´Â °æ¿ì
+					strncpy ((char*)str_last, (char*) "¾Æ", 2);
+					status_del = 1;
+				}
+							  // ¤À
+				else if (check_belong_to_info_table (str + i, F_END_4) ||
+					check_belong_to_info_table (str + i, F_END_5))
+				{			  // ¤Ä
+					strncpy ((char*)str_last, (char*) "¾î", 2);
+					status_del = 1;
+				}
+				if (status_del == 1)
+				{
+					if (len >= i + 2)
+						strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					if (is_belong_to_eomi_table (str_last))
+					{
+						strncpy ((char*)str_first, (char*) str, i + 2);
+						str_first[i + 2] = 0;
+						save_result_yongon (nth, str_first, NULL, str_last);
+					}
+				}
+			}
+			else if (fvl[2] == 1 && fvl[1] == 11)
+			{				  // ¤Å ·Î ³¡³ª´Â °æ¿ì
+				convert_3_to_ks (fvl[0], 29, 1, tmp);
+				if (i >= 2)
+					strncpy ((char*)str_first, (char*) str, i);
+				strncpy ((char*)str_first + i, (char*) tmp, 2);
+				str_first[i + 2] = 0;
+				strncpy ((char*)str_last, (char*) "¾î", 2);
+				if (len - i - 2 >= 0)
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+				str_last[len - i] = 0;
+				if (is_belong_to_eomi_table (str_last))
+					save_result_yongon (nth, str_first, NULL, str_last);
+
+			}
+			else if (fvl[2] == 1 &&
+				(fvl[1] == 14 || fvl[1] == 21 || fvl[1] == 11))
+			{
+				//                  14=¤È,  21=¤Í,  11=¤Å
+							  // 13=¤Ç
+				if (fvl[1] == 14)
+					convert_3_to_ks (fvl[0], 13, 1, tmp);
+							  // 20= ¤Ì
+				else if (fvl[1] == 21)
+					convert_3_to_ks (fvl[0], 20, 1, tmp);
+				if (check_belong_to_info_table (tmp, F_END_3))
+				{			  // ¤Ì+ ¤Ã È¤Àº ¤Ç+¤¿
+					strncpy ((char*)str_first, (char*) str, i);
+					strncpy ((char*)str_first + i, (char*) tmp, 2);
+					str_first[i + 2] = 0;
+					strncpy ((char*)str_last, (char*) "¾î", 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					if (is_belong_to_eomi_table (str_last))
+					{
+						save_result_yongon (nth, str_first, NULL, str_last);
+					}
+				}
+			}
+			else if (fvl[1] == 15)
+			{
+				if (strncmp ((char*)str + i, "²Ò", 2) && strncmp ((char*)str + i, "³ú", 2) &&
+					strncmp ((char*)str + i, "¿Ü", 2))
+				{			  // p.67
+					strncpy ((char*)str_first, (char*) str, i);
+					convert_3_to_ks (fvl[0], 18, 1, tmp);
+					strncpy ((char*)str_first + i, (char*) tmp, 2);
+					str_first[i + 2] = 0;
+					strncpy ((char*)str_last, (char*) "¾î", 2);
+					strncpy ((char*)str_last + 2, (char*) str + i + 2, len - i - 2);
+					str_last[len - i] = 0;
+					if (is_belong_to_eomi_table (str_last))
+					{
+						save_result_yongon (nth, str_first, NULL, str_last);
+					}
+				}
+			}
+		}
+		if (!check_belong_to_info_table (str + i, F_JOSA2))
+			josa_flag = 0;
+		if (!check_belong_to_info_table (str + i, F_EOMI2))
+			eomi_flag = 0;
+	}
+}

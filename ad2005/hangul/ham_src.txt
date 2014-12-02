@@ -1,0 +1,137 @@
+ham_hangul()
+{
+	/* Josa/Eomi isolation and stem analysis */
+	i = tail_guess(aWord, kword, mode);
+	head_confirm(kword);	/* head part is confirmed */
+
+	if (i) {	/* i = 1 or 2 : single Josa/Eomi word */
+		gen_JosaEomi_result(kword, aWord, i, mode);
+		kword->retcode = HAM_RC_OK;
+	}
+	acc_rmadic(aWord, kword);	/* access RMA dic. */
+
+	if (kword->retcode == HAM_RC_OK) return HAM_RC_OK;
+
+	/* compound noun guessing */
+	/* prefix isolation and noun confirmation */
+	/* noun+verb pattern guessing */
+	/* abbreviated word analysis */
+	i = postproc(aWord, kword);
+
+
+
+}
+
+/*
+	Candidate generation module.
+	Analysis candidates are classified into three categories.
+	First type is a noun phrase that includes Josa.
+	It excludes a noun that is not succeeded by Josa.
+	Second type is a verb phrase that includes Josa.
+	Last type is a single word without any Josa/Eomi.
+	However, it includes suffixes after a noun.
+*/
+tail_guess() {
+	/*
+	Return value is the beginning position of Josa.
+	If no Josa is found, then the no. of syllables in a word.
+	*/
+	noun_josa();
+	
+	/*
+	Binary search for 'Josa' table.
+	Input : word
+	Output: index of the table or -1(search failed)
+	*/
+	/* 1음절 조사 */ /* 2/3/4/..음절 조사 */ // 음절 특성에 기반하여
+	acc_josa_table();
+
+	/*
+	Return value is the beginning position of Eomi.
+	If no Eomi is found, then the no. of syllables in a word.
+	*/
+	verb_eomi() {
+	  eomi_isolate();
+	  pomi_isolate();
+	}
+  
+  /* single Eomi word */
+  /*
+	Binary search for 'Eomi' table.
+	Input : word
+	Output: index of the table or -1(search failed)
+  */
+  /* 어미 음절 특성 검사 */
+  acc_eomi_table();
+  
+  single_word();
+
+}
+
+head_confirm() {
+  /* 사전 검사:
+    원형을 사전에서 찾지 못하는 경우:
+      명사이면 접두사 등을 붙여 검사해본다.
+      명사 + '이' 검사
+      '이' + 어미 검사
+      
+  */
+  dic_access() {
+    /*
+    대명사 검사
+    명사이면 접두사 등을 붙여 검사해본다.
+    부사가 아니고 명사인지 검사
+    */
+    is_noun();
+    
+    /*
+	Eomi type is Wi + Eomi restriction like '-IbGl'.
+	Wi_ONLY Eomi is combined only with 'Wi' or 'WbDi'.
+    */
+    noun_plus_Wi(); /* 'Wi' + Eomi restriction */
+    
+    /*
+	Return value
+		0 : analysis failed
+		1 : analysis O.K. for 'verb + ...' pattern
+		2 : prefix 'WbD/QlU/Gli' + verb + ... pattern
+		3 : 'verb + 'Wb/Wf' + xverb + ...' pattern
+		4 : 'verb + 'Ag/Al' + xverb + ...' pattern
+		11: analysis O.K. for 'verb + ...' pattern --> moved at end
+		12: prefix 'WbD/QlU/Gli' + verb + ... pattern --> moved at end
+		-1: analysis O.K. for 'noun + v-sfx + ...' pattern
+		-2: v-sfx isolated & failed: 'noun + v-sfx + ...'
+		-3: 'AgAl' isolated & failed: 'verb + 'Ag/Al' + xverb + ...'
+  */
+    is_verb() {
+      /* 불규칙 활용 검사 ...*/
+      /* Wi-dropped candidate: 'RlAlUfGb', 'RlAlUfWiGb', 'HcQjD', ... */
+      check_Wi_dropped();
+      
+      /* 동사 접두어 , 접미어 검사 */
+      /* verbal suffix isolation: noun + Wi/hb/Gli/Uiki/GzIi/... */
+      
+      /*
+	1. Check special candidate for copula Josa + 'Wi'.
+		noun + [WgUf][Rstf] or GcIl + 'Wi' + Eomi
+		<Note> No v-sfx proc. is undertaken!
+	2. Isolate v-sfx and check if stem is a noun.
+	3. Check for adverb + 'Wi/hb/Gli' pattern.
+		It is done by 'cut_vsfx()' & 'is_noun()'.
+    */ 
+      verbal_suffix ();
+    }
+    is_single();
+  }
+}
+
+/*
+	1. Compound noun guessing
+	2. Prefix isolation
+	3. Abbreviated word analysis
+	4. noun + verb + Eomi pattern
+*/
+postproc()
+{
+
+}

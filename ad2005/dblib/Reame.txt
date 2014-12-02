@@ -1,0 +1,8 @@
+
+DbConn 클래스 -- db login 등 제공
+DbQuery 클래스 -- 실제 query 를 수행. DbConn 객체를 인수로 필요로 한다.
+dbStore.cpp -- 두 클래스를 이용하여 DB operation을 수행하는 샘플로 볼 수 있다.
+
+== MSSQL - ODBC를 이용하여 접속하는 버전임.
+MSSQL -- 관련 MS 함수의 return 값을 제대로 사용하고 있는지 검증(리뷰) 필요.
+

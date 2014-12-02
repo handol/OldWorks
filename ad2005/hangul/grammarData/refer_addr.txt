@@ -1,0 +1,176 @@
+http://nlp.kookmin.ac.kr/
+---------------------------
+
+http://nlp.kookmin.ac.kr/data/handata.html
+
+발표 자료
+한국어 정보처리의 현황 및 발전 방향 : 1999년 2월 중국 연변회의 발표자료 
+언어처리 기술의 상용화... : 1999년도 한글 및 한국어 정보처리 패널 발표자료 
+한글 관련 자료
+한국어 고빈도 어절 리스트 
+한국어 고빈도 음절 리스트 
+한국어 조사/어미 사전 및 어휘형태소 리스트 
+한글코드 변환 관련 자료: 완성 <-> 조합 
+한글 <-> 한자 코드 변환 관련 자료 
+Unicode <-> UTF-8 or UTF-8 코드 변환 관련 자료 
+한글 e-mail이 깨지는 문제 
+쓸만한, 어쩌면 쓸모없는 utility 모음 
+Command-line에서 전화번호 관리 Source Code 
+<참고> 파일을 down받는 방법 : mouse 오른쪽 버튼에서 Save Link As... 
+--------------------------------------------------------------------------------
+한국어 형태소 분석기 
+E-mail: sskang@kookmin.ac.kr 
+
+
+
+--------------
+한글 <-> 한자 코드 변환
+
+--------------------------------------------------------------------------------
+http://nlp.kookmin.ac.kr/data/hanja.html
+http://nlp.kookmin.ac.kr/down/data/hanja.zip
+http://nlp.kookmin.ac.kr/down/data/toHanja.zip
+
+개요 
+한글 <-> 한자 변환 테이블, 간단한 프로그램 source
+
+다운로드: 한자 -> 한글, 한글 -> 한자 
+
+
+File descriptions
+
+1. Hanja -> Hangul
+
+   hanja.h
+
+	Hanja to Hangul conversion table.
+
+	4,888 pairs of
+
+ 		< KSC 5601-1987 Hanja code, KSC 5601-1987 Hangul code >
+
+	are listed in the table.
+
+	You can easily convert KSC 5601-1987 Hanja character into Hangul character.
+
+   hanja.c
+
+	Hanja to Hangul conversion program.
+
+   other source codes --> automatic generation of code table
+
+2. Hangul -> Hanja
+
+   toHanja.h
+
+	Hangul to Hanja conversion table.
+
+   toHanja.c
+
+	Hangul to Hanja conversion program.
+
+   other source codes --> automatic generation of code table
+
+        2001. 1. 4.	Kang, Seung-Shik      Kookmin University
+	http://nlp.kookmin.ac.kr/	+82-2-910-4800
+
+-------------------
+
+
+http://nlp.kookmin.ac.kr/data/han-dic.html
+http://nlp.kookmin.ac.kr/down/data/KorStems.zip
+개요 
+한글 및 한국어 정보처리시에 필요한 조사, 어미, 명사, 동사 등의 리스트
+
+파일을 다운로드 받으려면 여기를 누르세요 
+
+
+===========================================================================
+   A Small Set of Korean Stems
+===========================================================================
+
+1. List of Korean stems for small-sized dictionary.
+
+   o A Small set of Korean nouns, verbs, at el.
+   o Caution: part-of-speech tag is NOT attached to stems.
+
+   WordList -- 1.txt, 2.txt, 3.txt, 4.txt, 5.txt
+   Typo-Err -- typing errors that occurred while typing the stems
+
+2. List of Korean Functional Morphemes
+
+   JosaEomi\josa.txt -- list of Korean case markers
+   JosaEomi\eomi.txt -- list of Korean verbal endings
+   JosaEomi\freq.txt -- most frequent Josa/Eomi's
+
+Because it is a small set of stems that its application
+   may not be sufficient for your need.
+
+prof. Seung-Shik Kang, Kookmin University
+
+===========================================================================
+
+Unicode <-> UTF-8 or UTF-7 코드 변환
+
+--------------------------------------------------------------------------------
+
+개요 
+Unicode <-> UTF-8 or UTF-7 변환 테이블, 간단한 프로그램 source
+
+다운로드: convert_uni_and_utf.c, convert_uni_and_utf.h 
+
+
+
+-----------------------
+몇 가지 쓸만한, 어쩌면 쓸모없는 source files
+
+--------------------------------------------------------------------------------
+
+개요 
+몇 가지 쓸만한, 어쩌면 쓸모없는 source files
+
+파일을 다운로드 받으려면 여기를 누르세요 
+
+
+한국어 정보처리를 하면서 쓸모있는 몇 가지 utility들을 올려 놓았습니다.
+각 file들이 어떨 때 유용한지는 아래와 같습니다.
+
+sortchk.c
+
+	line별로 sort되어 있는 한글 data file에서 sort 순서 및 동일한
+	data가 2번 이상 반복되는지를 검사하는 program
+
+unify.c
+
+	'sortchk.c'에 의하여 동일한 data가 중복되어 있는 경우에 하나만
+	남기고 나머지는 제거하는 program
+
+nwords.c
+
+	한 line에 한 단어씩 나열되어 있는 file을 출력하면 page 수가
+	많아져서 곤란하다. 이런 경우에 한 line에 여러 개의 data를
+	나열해 주는 program
+	즉, 한글 wordprocessor에서 다단 편집 기능과 유사하다.
+
+head.c, tail.c, split.c
+
+	unix에 있는 head, tail, split 명령을 DOS에서 쓸 수 있도록 짠 program
+
+-------------------
+한글 email decoding 소스 프로그램
+
+--------------------------------------------------------------------------------
+ E-mail decoding 프로그램(C 소스 코드)이 필요하면 han-mail/hanmail.c를 down 받으세요. 
+E-mail에서 한글 text가 깨지는 경우는 대부분 아래와 같이 3가지 유형입니다.
+이러한 경우에 메일내용을 텍스트 파일로 저장하여 위 프로그램을 실행하면
+한글 e-mail을 decoding하여 KS 완성형 한글로 볼 수 있습니다.
+
+1. E-mail 내용이 "=B0=A1"과 같이 등호 뒤에 16진수 코드로 되어 있는 경우
+
+2. E-mail의 각 line이 blank가 하나도 없이 A-Z, a-z, 0-9, +, /, = 로만 구성된 경우
+
+3. E-mail 내용이 마치 binary file처럼 보이는 경우 --- MSB가 모두 0으로 setting된 경우
+   (이 경우는 실제로 binary file일 수도 있음)
+
+
+ 기타 다른 경우에 email 한글이 깨진 경우는 email 소프트웨어의 option을 조절해 보시기 바라며, 구체적인 내용은 저도 잘 모릅니다. 

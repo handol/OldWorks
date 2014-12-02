@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: utfconv - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\dahee\LOCALS~1\Temp\RSP138.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/utfconv.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\AD2005\utfconv\utfconv.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\dahee\LOCALS~1\Temp\RSP138.tmp" 
+Creating temporary file "C:\DOCUME~1\dahee\LOCALS~1\Temp\RSP139.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/utfconv.pdb" /debug /machine:I386 /out:"Debug/utfconv.exe" /pdbtype:sept 
+.\Debug\StdAfx.obj
+.\Debug\utfconv.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\dahee\LOCALS~1\Temp\RSP139.tmp"
+<h3>Output Window</h3>
+Compiling...
+utfconv.cpp
+C:\AD2005\utfconv\utfconv.cpp(30) : error C2065: 'SysAllocStringLen' : undeclared identifier
+C:\AD2005\utfconv\utfconv.cpp(30) : error C2440: '=' : cannot convert from 'int' to 'char *'
+        Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\AD2005\utfconv\utfconv.cpp(43) : error C2664: 'MultiByteToWideChar' : cannot convert parameter 5 from 'char *' to 'unsigned short *'
+        Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\AD2005\utfconv\utfconv.cpp(58) : error C2664: 'WideCharToMultiByte' : cannot convert parameter 3 from 'char *' to 'const unsigned short *'
+        Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\AD2005\utfconv\utfconv.cpp(78) : error C2664: 'WideCharToMultiByte' : cannot convert parameter 3 from 'char *' to 'const unsigned short *'
+        Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\AD2005\utfconv\utfconv.cpp(98) : error C2065: 'USES_CONVERSION' : undeclared identifier
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+utfconv.exe - 6 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
